@@ -1,0 +1,105 @@
+search:
+  locations:
+    - "Philadelphia, PA"
+    - "Remote"
+  hours_old: 48
+  results_per_query: 35
+  sites: ["linkedin", "zip_recruiter", "indeed", "google"]
+
+categories:
+  Business Operations:
+    - "business operations manager"
+    - "operations manager"
+    - "operations coordinator"
+    - "operations specialist"
+    - "operations administrator"
+  Administrative Operations:
+    - "administrative coordinator"
+    - "administrative manager"
+    - "office operations"
+    - "program coordinator"
+    - "executive operations"
+  Customer Operations:
+    - "customer operations"
+    - "client operations"
+    - "customer experience coordinator"
+    - "client experience coordinator"
+    - "customer success coordinator"
+    - "service coordinator"
+  Scheduling and Workforce:
+    - "scheduling coordinator"
+    - "workforce coordinator"
+    - "staffing coordinator"
+    - "workforce specialist"
+    - "onboarding coordinator"
+  Project Operations:
+    - "project coordinator"
+    - "junior project manager"
+    - "project operations coordinator"
+    - "implementation coordinator"
+  Customer Support:
+    - "remote customer service"
+    - "customer support specialist"
+    - "client support specialist"
+    - "live chat support"
+    - "email support"
+  Reservations and Travel:
+    - "reservations coordinator"
+    - "booking coordinator"
+    - "travel operations"
+    - "itinerary coordinator"
+    - "guest services coordinator"
+  Ecommerce and Digital:
+    - "ecommerce coordinator"
+    - "digital operations"
+    - "website operations"
+    - "marketplace operations"
+  QA and Tech Operations:
+    - "manual QA tester"
+    - "QA coordinator"
+    - "web QA"
+    - "product operations"
+    - "technical operations"
+    - "implementation support"
+  Web3 and Crypto:
+    - "web3 operations"
+    - "crypto operations"
+    - "community operations crypto"
+    - "web3 business development"
+    - "crypto partnerships"
+    - "web3 product support"
+
+profile:
+  strong_terms:
+    operations: 9
+    scheduling: 7
+    onboarding: 7
+    hiring: 6
+    recruiting: 6
+    customer service: 6
+    client support: 6
+    documentation: 5
+    SOP: 5
+    quality control: 5
+    project coordination: 5
+    payroll: 4
+    timesheets: 4
+    inventory: 4
+    ecommerce: 4
+    QA: 4
+    web3: 4
+    crypto: 4
+    google workspace: 3
+    microsoft office: 3
+    slack: 2
+    notion: 2
+  penalties:
+    commission only: -35
+    door to door: -30
+    cold calling: -18
+    100% commission: -40
+    insurance agent: -25
+    commission-based: -25
+  preferred_min_salary: 45000
+  alert_score: 70
+  priority_score: 85
