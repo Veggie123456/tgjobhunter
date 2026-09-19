@@ -12,7 +12,7 @@ try: seen=set(json.loads(SEEN_FILE.read_text()))
 except Exception: seen=set()
 
 TOKEN=os.environ.get("TELEGRAM_BOT_TOKEN")
-CHAT=os.environ.get("TELEGRAM_CHAT_ID")
+CHAT=os.environ.get("TELEGRAM_CHAT_ID")\n\ndef resolve_chat_id():\n    """Use explicit chat id or the most recent private chat that messaged the bot."""\n    if CHAT: return CHAT\n    if not TOKEN: return None\n    try:\n        r=requests.get(f"https://api.telegram.org/bot{TOKEN}/getUpdates",timeout=20)\n        r.raise_for_status()\n        updates=r.json().get("result",[])\n        for u in reversed(updates):\n            msg=u.get("message") or u.get("edited_message") or {}\n            chat=msg.get("chat",{})\n            if chat.get("id"): return str(chat["id"])\n    except Exception as e:\n        print(f"Could not auto-detect Telegram chat: {e}")\n    return None
 DRY=os.environ.get("DRY_RUN","").lower() in {"1","true","yes"}
 
 def clean(v):
@@ -44,7 +44,7 @@ def score(row):
     if "philadelphia" in text or re.search(r"\bpa\b",text):s+=4
     return max(0,min(99,s)),hits[:6]
 
-def send(row, category, s, hits):
+def send(row, category, s, hits):\n    global CHAT\n    if not CHAT: CHAT=resolve_chat_id()
     title=html.escape(clean(row.get("title")))
     company=html.escape(clean(row.get("company")) or "Company not listed")
     loc=html.escape(clean(row.get("location")) or "Location not listed")
