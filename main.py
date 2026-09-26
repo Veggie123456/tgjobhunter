@@ -182,7 +182,7 @@ def run():
         seen.add(key); sent+=1
         if sent>=25: break
     SEEN_FILE.write_text(json.dumps(sorted(seen),indent=2))
-    JOBS_FILE.write_text(json.dumps(jobs,indent=2)[:1500000])
+    if len(jobs)>500:\n        keep=list(jobs.items())[-500:]\n        jobs.clear(); jobs.update(dict(keep))\n    JOBS_FILE.write_text(json.dumps(jobs,indent=2))
     TG_STATE.write_text(json.dumps(tg_state,indent=2))
     print(f"Unique found: {len(ranked)} | alerts: {sent} | seen total: {len(seen)}")
 
