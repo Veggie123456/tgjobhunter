@@ -2,3 +2,5 @@ python-jobspy>=1.1.80
 pandas>=2.2.0
 requests>=2.32.0
 PyYAML>=6.0.2
+openai>=2.0.0
+reportlab>=4.2.0
