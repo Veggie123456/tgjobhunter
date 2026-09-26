@@ -3,7 +3,9 @@ search:
     - "Philadelphia, PA"
     - "Remote"
   hours_old: 48
-  results_per_query: 30
+  results_per_query: 20
+  queries_per_run: 8
+  max_alerts_per_run: 10
   sites: ["linkedin", "zip_recruiter", "indeed", "google"]
 
 categories:
