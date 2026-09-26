@@ -3,39 +3,25 @@ search:
     - "Philadelphia, PA"
     - "Remote"
   hours_old: 48
-  results_per_query: 35
+  results_per_query: 30
   sites: ["linkedin", "zip_recruiter", "indeed", "google"]
 
 categories:
   Business Operations:
     - "business operations manager"
-    - "operations manager"
     - "operations coordinator"
     - "operations specialist"
     - "operations administrator"
   Administrative Operations:
     - "administrative coordinator"
     - "administrative manager"
-    - "office operations"
     - "program coordinator"
     - "executive operations"
-  Customer Operations:
-    - "customer operations"
-    - "client operations"
-    - "customer experience coordinator"
-    - "client experience coordinator"
+  Customer Success:
+    - "customer success specialist"
     - "customer success coordinator"
-    - "service coordinator"
-  Scheduling and Workforce:
-    - "scheduling coordinator"
-    - "workforce coordinator"
-    - "staffing coordinator"
-    - "workforce specialist"
-    - "onboarding coordinator"
-  Project Operations:
-    - "project coordinator"
-    - "junior project manager"
-    - "project operations coordinator"
+    - "client success coordinator"
+    - "customer experience coordinator"
     - "implementation coordinator"
   Customer Support:
     - "remote customer service"
@@ -43,28 +29,38 @@ categories:
     - "client support specialist"
     - "live chat support"
     - "email support"
+  Scheduling and Workforce:
+    - "scheduling coordinator"
+    - "workforce coordinator"
+    - "staffing coordinator"
+    - "onboarding coordinator"
+  Claims and Case Support:
+    - "claims assistant"
+    - "claims coordinator"
+    - "case coordinator"
+    - "legal calendar clerk"
+  Project Operations:
+    - "project coordinator"
+    - "junior project manager"
+    - "project operations coordinator"
   Reservations and Travel:
     - "reservations coordinator"
     - "booking coordinator"
     - "travel operations"
     - "itinerary coordinator"
-    - "guest services coordinator"
   Ecommerce and Digital:
     - "ecommerce coordinator"
     - "digital operations"
     - "website operations"
-    - "marketplace operations"
   QA and Tech Operations:
     - "manual QA tester"
     - "QA coordinator"
     - "web QA"
     - "product operations"
     - "technical operations"
-    - "implementation support"
   Web3 and Crypto:
     - "web3 operations"
     - "crypto operations"
-    - "community operations crypto"
     - "web3 business development"
     - "crypto partnerships"
     - "web3 product support"
@@ -72,27 +68,35 @@ categories:
 profile:
   strong_terms:
     operations: 9
+    customer success: 9
+    client success: 9
     scheduling: 7
     onboarding: 7
-    hiring: 6
-    recruiting: 6
-    customer service: 6
+    customer service: 7
     client support: 6
+    customer support: 6
+    claims: 5
+    calendaring: 5
     documentation: 5
-    SOP: 5
+    quality assurance: 5
     quality control: 5
     project coordination: 5
+    implementation: 5
+    retention: 4
+    relationship: 4
+    troubleshooting: 4
     payroll: 4
     timesheets: 4
-    inventory: 4
     ecommerce: 4
     QA: 4
     web3: 4
     crypto: 4
     google workspace: 3
     microsoft office: 3
+    excel: 3
     slack: 2
     notion: 2
+    remote: 2
   penalties:
     commission only: -35
     door to door: -30
