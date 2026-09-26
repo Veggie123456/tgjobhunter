@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "name": "Daniil Shurik",
+    "phone": "267-228-6827",
+    "email": "dannyshurik1@gmail.com",
+    "location": "Philadelphia, PA",
+    "education": "Pennsylvania State University — Computer Science, 2013–2017",
+    "languages": ["English — Fluent", "Russian — Fluent"]
+  },
+  "resume_rules": [
+    "Default headline: BUSINESS OPERATIONS MANAGER | [job-relevant specialization].",
+    "Use a different primary headline only when materially more appropriate; Personal Assistant only for assistant-based jobs.",
+    "Never invent employers, metrics, software proficiency, certifications, legal/insurance experience, or responsibilities.",
+    "Do not include independent crypto calls/community or Nothing Bundt Cakes unless explicitly enabled for that job.",
+    "Keep claims defensible and concrete; avoid generic AI-sounding language.",
+    "Tailor summary, skills and bullets to the job description while preserving factual history.",
+    "Use Philadelphia, PA only, not a street address.",
+    "Output should be concise and ATS-friendly, normally two pages."
+  ],
+  "experience": [
+    {
+      "company": "Sharpen Agency Cleaning Service",
+      "dates": "Feb 2026–Present",
+      "base_title": "Business Operations Administrator",
+      "facts": [
+        "Supports day-to-day operations for a growing cleaning company.",
+        "Coordinates customer bookings, schedules, availability, confirmations, service changes and follow-up.",
+        "Recruits, screens, interviews and onboards cleaners and contractors; supports background checks, W-9 collection, orientation and field training.",
+        "Maintains customer, staffing, scheduling, timesheet, invoice and operational records.",
+        "Handles customer questions, complaints, recleans and service-quality feedback and follows issues through resolution.",
+        "Creates and maintains SOPs, checklists, trackers, quality-control processes and documentation.",
+        "Supports invoicing, reports, vendor/software research, pricing, website/content QA, marketing and leadership administration."
+      ]
+    },
+    {
+      "company": "We Can, We Shall",
+      "dates": "Feb 2026–Present",
+      "base_title": "Operations & Administrative Coordinator",
+      "facts": [
+        "Supports nonprofit operations, professional email communication and follow-up with organizations, volunteers, partners and leadership.",
+        "Maintains contact records, outreach documentation, project trackers, meeting materials, templates and operational files.",
+        "Researches donor, foundation, sponsor and community prospects and prepares outreach materials and letters of intent.",
+        "Supports social content, volunteer materials, program administration, newsletters, website content, events and project deadlines."
+      ]
+    },
+    {
+      "company": "Computer Money",
+      "dates": "Jan 2021–Present",
+      "base_title": "Operations, Marketing & Development Manager",
+      "facts": [
+        "Coordinates remote client projects across development, marketing, QA, scheduling, documentation and launch support.",
+        "Manages client communication, requirements, meetings, follow-up, invoices, project records and deliverables.",
+        "Built and QA-tested websites and digital products; supported dashboards, wallets and blockchain-integrated applications.",
+        "Uses Python and automation for QA, validation, repetitive checks and workflow support.",
+        "Managed Telegram and X communities, digital content and user support; translates technical issues into actionable information.",
+        "Has 7+ years of broader crypto/Web3 familiarity, market knowledge and community experience."
+      ]
+    },
+    {
+      "company": "Sphynx Peptides",
+      "dates": "2026–Present",
+      "base_title": "Co-Creator | Website & Inventory Manager",
+      "facts": [
+        "Co-created and manages an e-commerce website and online product catalog.",
+        "Maintains product organization, pricing, inventory information, customer-facing content, promotions and site updates.",
+        "Supports order-flow troubleshooting, digital records and customer experience."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "dates": "2018–2021",
+      "base_title": "Web Developer & Digital Consultant",
+      "facts": [
+        "Built responsive websites and e-commerce stores for small businesses and crypto projects using WordPress, Shopify and WooCommerce.",
+        "Managed client requirements, revisions, timelines, QA, launch and post-launch support.",
+        "Tested links, forms, responsive behavior, content accuracy and integrations and handled client feedback."
+      ]
+    },
+    {
+      "company": "KleinLife Community Center",
+      "dates": "2012–2020",
+      "base_title": "Manager",
+      "facts": [
+        "Supported daily operations, front desk, programs, aquatics, events, staffing and facility administration.",
+        "Handled high-volume member and family questions, registrations, scheduling, payments and service concerns.",
+        "Coordinated staff schedules, coverage, attendance, timesheets, payroll information, contracts and records.",
+        "Trained staff, supported opening/closing and resolved day-to-day customer and operational issues."
+      ]
+    },
+    {
+      "company": "Orca Swim Club",
+      "dates": "2012–2021",
+      "base_title": "Swim Program Manager & Lead Instructor",
+      "facts": [
+        "Coordinated lesson schedules, instructor availability, registrations, payments, confirmations, cancellations and schedule changes.",
+        "Maintained member records and communicated with families and instructors.",
+        "Handled service concerns, customer follow-up, coverage needs and operational administration while serving as a lead instructor."
+      ]
+    }
+  ],
+  "tools": [
+    "Microsoft Office", "Excel", "Word", "Google Workspace", "Notion", "Slack", "Zoom",
+    "Google Meet", "Clockify", "SignNow", "Trello", "ClickUp", "Canva", "Git/GitHub",
+    "Python", "WordPress", "Shopify", "WooCommerce", "Telegram", "Discord", "X/Twitter"
+  ]
+}
