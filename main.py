@@ -79,7 +79,9 @@ def score(row):
     if "remote" in text:s+=5
     if "philadelphia" in text or re.search(r"\bpa\b",text):s+=4
     annual=annual_salary(row)
-    if annual and annual>=CFG["profile"].get("preferred_min_salary",45000): s+=5; hits.append("salary")
+    if annual and annual>=CFG["profile"].get("preferred_min_salary",33280): s+=8; hits.append("pay ≥ $16/hr")
+    # Penalize obviously low advertised pay; keep unknown-pay jobs eligible rather than guessing.
+    if annual and annual<CFG["profile"].get("preferred_min_salary",33280): s-=45
     return max(0,min(99,s)),hits[:7]
 
 def send_alert(row, category, s, hits):
