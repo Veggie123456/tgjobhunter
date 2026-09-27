@@ -25,9 +25,22 @@ def clean(v):
     if v is None or (isinstance(v,float) and pd.isna(v)): return ""
     return str(v).strip()
 
+def norm(v):
+    v=clean(v).lower()
+    v=re.sub(r"https?://\\S+","",v)
+    v=re.sub(r"[^a-z0-9]+"," ",v)
+    return " ".join(v.split())
+
 def jid(row):
-    raw="|".join(clean(row.get(k)) for k in ("site","company","title","job_url"))
-    return hashlib.sha256(raw.encode()).hexdigest()[:16]
+    # Cross-board identity: the same company/title/location should be one job even
+    # when LinkedIn, Indeed, ZipRecruiter or Google expose different URLs.
+    company=norm(row.get("company"))
+    title=norm(row.get("title"))
+    location=norm(row.get("location"))
+    raw="|".join((company,title,location))
+    if not company or not title:
+        raw=norm(row.get("job_url_direct")) or norm(row.get("job_url")) or raw
+    return hashlib.sha256(raw.encode()).hexdigest()[:20]
 
 def cipher():
     key=base64.urlsafe_b64encode(hashlib.sha256(("tgjobhunter:subscribers:v1:"+TOKEN).encode()).digest())
