@@ -9,6 +9,53 @@ search:
   sites: ["linkedin", "zip_recruiter", "indeed", "google"]
 
 categories:
+  Business Operations:
+    - "business operations manager"
+    - "operations manager"
+    - "operations coordinator"
+    - "operations specialist"
+    - "operations administrator"
+  Management and Supervisory:
+    - "customer service manager"
+    - "customer support manager"
+    - "operations supervisor"
+    - "office manager"
+    - "program manager"
+    - "client services manager"
+  Senior Operations:
+    - "director of operations"
+    - "operations director"
+    - "customer experience director"
+    - "customer success manager"
+  Project Operations:
+    - "project coordinator"
+    - "junior project manager"
+    - "project operations coordinator"
+    - "project manager"
+  Customer Success:
+    - "customer success specialist"
+    - "customer success coordinator"
+    - "client success coordinator"
+    - "customer experience coordinator"
+    - "implementation coordinator"
+    - "customer success manager"
+  Workforce and Recruiting:
+    - "workforce coordinator"
+    - "staffing coordinator"
+    - "recruiting coordinator"
+    - "talent operations"
+    - "onboarding coordinator"
+  Reservations and Travel:
+    - "reservations coordinator"
+    - "travel operations"
+    - "itinerary coordinator"
+    - "travel coordinator"
+  Digital and Content Operations:
+    - "digital operations"
+    - "website operations"
+    - "content operations"
+    - "marketing operations coordinator"
+    - "community manager"
   Customer Support:
     - "customer support representative"
     - "customer support specialist"
@@ -94,14 +141,6 @@ profile:
     web3: 3
     crypto: 3
   penalties:
-    senior: -25
-    sr.: -25
-    manager: -30
-    director: -40
-    lead: -18
-    supervisor: -20
-    principal: -40
-    vice president: -50
     commission only: -50
     100% commission: -50
     commission-based: -40
