@@ -140,7 +140,8 @@ profile:
     QA: 3
     web3: 3
     crypto: 3
-  penalties:    volunteer: -80
+  penalties:
+    volunteer: -80
     unpaid: -80
     internship unpaid: -80
 
