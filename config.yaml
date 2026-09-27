@@ -2,110 +2,118 @@ search:
   locations:
     - "Philadelphia, PA"
     - "Remote"
-  hours_old: 48
-  results_per_query: 20
-  queries_per_run: 8
-  max_alerts_per_run: 10
+  hours_old: 72
+  results_per_query: 25
+  queries_per_run: 12
+  max_alerts_per_run: 12
   sites: ["linkedin", "zip_recruiter", "indeed", "google"]
 
 categories:
-  Business Operations:
-    - "business operations manager"
-    - "operations coordinator"
-    - "operations specialist"
-    - "operations administrator"
-  Administrative Operations:
-    - "administrative coordinator"
-    - "administrative manager"
-    - "program coordinator"
-    - "executive operations"
-  Customer Success:
-    - "customer success specialist"
-    - "customer success coordinator"
-    - "client success coordinator"
-    - "customer experience coordinator"
-    - "implementation coordinator"
   Customer Support:
-    - "remote customer service"
+    - "customer support representative"
     - "customer support specialist"
-    - "client support specialist"
+    - "customer support associate"
+    - "client support representative"
+    - "member support representative"
+  Customer Service:
+    - "customer service representative"
+    - "remote customer service"
+    - "customer care representative"
+    - "customer experience associate"
+    - "inbound customer service"
+  Chat and Email Support:
     - "live chat support"
     - "email support"
-  Scheduling and Workforce:
+    - "chat support representative"
+    - "customer support chat email"
+  Scheduling and Appointments:
     - "scheduling coordinator"
-    - "workforce coordinator"
-    - "staffing coordinator"
-    - "onboarding coordinator"
+    - "appointment scheduler"
+    - "appointment coordinator"
+    - "reservation agent"
+    - "booking coordinator"
+  Administrative Support:
+    - "administrative assistant"
+    - "administrative coordinator"
+    - "office coordinator"
+    - "data entry specialist"
+    - "records coordinator"
+  Healthcare Support:
+    - "patient access representative"
+    - "patient service representative"
+    - "healthcare customer service"
+    - "medical scheduler"
+  Entry Level Operations:
+    - "operations assistant"
+    - "operations coordinator"
+    - "operations specialist"
+    - "service coordinator"
+    - "program coordinator"
   Claims and Case Support:
     - "claims assistant"
+    - "claims representative"
     - "claims coordinator"
     - "case coordinator"
-    - "legal calendar clerk"
-  Project Operations:
-    - "project coordinator"
-    - "junior project manager"
-    - "project operations coordinator"
-  Reservations and Travel:
-    - "reservations coordinator"
-    - "booking coordinator"
-    - "travel operations"
-    - "itinerary coordinator"
-  Ecommerce and Digital:
-    - "ecommerce coordinator"
-    - "digital operations"
-    - "website operations"
-  QA and Tech Operations:
+  Ecommerce Support:
+    - "ecommerce customer support"
+    - "order support specialist"
+    - "order processing specialist"
+  Junior QA:
     - "manual QA tester"
-    - "QA coordinator"
-    - "web QA"
-    - "product operations"
-    - "technical operations"
-  Web3 and Crypto:
-    - "web3 operations"
-    - "crypto operations"
-    - "web3 business development"
-    - "crypto partnerships"
-    - "web3 product support"
+    - "junior QA tester"
+    - "QA support"
+  Web3 Support:
+    - "web3 customer support"
+    - "crypto customer support"
+    - "web3 support specialist"
 
 profile:
   strong_terms:
-    operations: 9
-    customer success: 9
-    client success: 9
-    scheduling: 7
-    onboarding: 7
-    customer service: 7
-    client support: 6
-    customer support: 6
-    claims: 5
-    calendaring: 5
-    documentation: 5
-    quality assurance: 5
-    quality control: 5
-    project coordination: 5
-    implementation: 5
-    retention: 4
-    relationship: 4
-    troubleshooting: 4
-    payroll: 4
-    timesheets: 4
-    ecommerce: 4
-    QA: 4
-    web3: 4
-    crypto: 4
-    google workspace: 3
-    microsoft office: 3
-    excel: 3
-    slack: 2
-    notion: 2
-    remote: 2
+    customer service: 12
+    customer support: 12
+    customer care: 10
+    representative: 8
+    associate: 7
+    specialist: 6
+    inbound: 7
+    live chat: 8
+    email support: 8
+    member support: 8
+    client support: 8
+    scheduling: 8
+    appointment: 8
+    patient access: 8
+    data entry: 7
+    administrative: 6
+    coordinator: 5
+    troubleshooting: 5
+    documentation: 4
+    remote: 4
+    operations: 3
+    QA: 3
+    web3: 3
+    crypto: 3
   penalties:
-    commission only: -35
-    door to door: -30
-    cold calling: -18
-    100% commission: -40
-    insurance agent: -25
-    commission-based: -25
-  preferred_min_salary: 45000
-  alert_score: 70
-  priority_score: 85
+    senior: -25
+    sr.: -25
+    manager: -30
+    director: -40
+    lead: -18
+    supervisor: -20
+    principal: -40
+    vice president: -50
+    commission only: -50
+    100% commission: -50
+    commission-based: -40
+    door to door: -40
+    cold calling: -25
+    insurance agent: -35
+    sales executive: -30
+    account executive: -25
+    licensed: -12
+    certification required: -12
+    bachelor's required: -8
+  min_hourly_salary: 16
+  preferred_min_salary: 33280
+  alert_score: 62
+  priority_score: 78
