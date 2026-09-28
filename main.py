@@ -80,6 +80,37 @@ def annual_salary(row):
     except Exception: pass
     return None
 
+def incompatible_language_job(row):
+    """Reject jobs that explicitly require fluency/bilingual ability outside English or Russian."""
+    title=clean(row.get("title")).lower()
+    desc=clean(row.get("description")).lower()
+    text=title+"\n"+desc
+
+    # Language names commonly seen in bilingual job listings. English and Russian are allowed.
+    other_languages=[
+        "spanish","french","german","portuguese","mandarin","cantonese","chinese",
+        "japanese","korean","arabic","hindi","urdu","punjabi","bengali","vietnamese",
+        "tagalog","filipino","italian","polish","ukrainian","hebrew","yiddish",
+        "creole","haitian creole","farsi","persian","turkish","greek"
+    ]
+    requirement_markers=[
+        "bilingual","fluent","fluency","must speak","must be fluent","required language",
+        "language required","proficiency in","proficient in","speaking required",
+        "speaker required","speaking "
+    ]
+
+    # Titles such as "Bilingual Spanish Customer Service" are unambiguous requirements.
+    if ("bilingual" in title or "fluent" in title) and any(lang in title for lang in other_languages):
+        return True
+
+    # Reject only when another language appears close to explicit requirement wording.
+    for lang in other_languages:
+        for marker in requirement_markers:
+            patterns=(f"{marker} {lang}", f"{lang} {marker}", f"{lang}-speaking", f"{lang} speaking")
+            if any(p in text for p in patterns):
+                return True
+    return False
+
 def score(row):
     text=(" ".join(clean(row.get(k)) for k in ("title","description","company","location"))).lower()
     s=42; hits=[]
@@ -173,7 +204,11 @@ def run():
         time.sleep(.25)
 
     ranked={}
+    language_filtered=0
     for row in found:
+        if incompatible_language_job(row):
+            language_filtered+=1
+            continue
         key=jid(row); s,h=score(row)
         if key not in ranked or s>ranked[key][0]: ranked[key]=(s,h,row)
     sent=0
@@ -185,7 +220,7 @@ def run():
     SEEN_FILE.write_text(json.dumps(sorted(seen),indent=2))
     TG_STATE.write_text(json.dumps(tg_state,indent=2))
     save_subscribers()
-    print(f"Unique found: {len(ranked)} | alerts: {sent} | seen total: {len(seen)}")
+    print(f"Unique found: {len(ranked)} | language-filtered: {language_filtered} | alerts: {sent} | seen total: {len(seen)}")
 
 if __name__=="__main__":
     run()
