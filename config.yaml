@@ -2,6 +2,7 @@ search:
   locations:
     - "Philadelphia, PA"
     - "Remote"
+    - "Phuket, Thailand"
   hours_old: 24
   results_per_query: 25
   queries_per_run: 12
@@ -109,6 +110,12 @@ categories:
     - "manual QA tester"
     - "junior QA tester"
     - "QA support"
+  Americans in Phuket:
+    - "English speaking jobs Americans"
+    - "US citizen jobs Thailand"
+    - "American expat jobs"
+    - "English speaking operations"
+    - "English speaking customer service"
   Web3 Support:
     - "web3 customer support"
     - "crypto customer support"
