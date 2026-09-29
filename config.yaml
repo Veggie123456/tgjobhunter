@@ -7,7 +7,7 @@ search:
   results_per_query: 25
   queries_per_run: 20
   max_alerts_per_run: 18
-  sites: ["linkedin", "zip_recruiter", "indeed", "google", "glassdoor"]
+  sites: ["linkedin", "linkedin", "linkedin", "zip_recruiter", "indeed", "google", "glassdoor"]
 
 categories:
   Business Operations:
