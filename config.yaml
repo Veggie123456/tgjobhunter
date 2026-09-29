@@ -5,8 +5,8 @@ search:
     - "Phuket, Thailand"
   hours_old: 24
   results_per_query: 25
-  queries_per_run: 12
-  max_alerts_per_run: 12
+  queries_per_run: 20
+  max_alerts_per_run: 18
   sites: ["linkedin", "zip_recruiter", "indeed", "google", "glassdoor"]
 
 categories:
@@ -139,7 +139,7 @@ profile:
     patient access: 8
     data entry: 7
     administrative: 6
-    coordinator: 5
+    coordinator: 5\n    recruiter: 10\n    recruiting: 10\n    talent acquisition: 9\n    sourcer: 9\n    staffing: 7
     troubleshooting: 5
     documentation: 4
     remote: 4
