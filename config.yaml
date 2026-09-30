@@ -139,7 +139,12 @@ profile:
     patient access: 8
     data entry: 7
     administrative: 6
-    coordinator: 5\n    recruiter: 10\n    recruiting: 10\n    talent acquisition: 9\n    sourcer: 9\n    staffing: 7
+    coordinator: 5
+    recruiter: 10
+    recruiting: 10
+    talent acquisition: 9
+    sourcer: 9
+    staffing: 7
     troubleshooting: 5
     documentation: 4
     remote: 4
