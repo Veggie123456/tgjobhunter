@@ -132,7 +132,10 @@ def send_alert(row, category, s, hits):
     title=html.escape(clean(row.get("title")))
     company=html.escape(clean(row.get("company")) or "Company not listed")
     loc=html.escape(clean(row.get("location")) or "Location not listed")
-    url=clean(row.get("job_url_direct")) or clean(row.get("job_url"))
+    board_url=clean(row.get("job_url"))
+    direct_url=clean(row.get("job_url_direct"))
+    site=clean(row.get("site")).lower()
+    url=(board_url or direct_url) if "indeed" in site else (direct_url or board_url)
     badge="🟢" if s>=CFG["profile"]["priority_score"] else "🟡"
     why=", ".join(hits) if hits else "role/location fit"
     sal=salary_text(row)
@@ -141,7 +144,11 @@ def send_alert(row, category, s, hits):
          f"{sal+' | ' if sal else ''}{html.escape(category)}\n"
          f"<b>Matched terms:</b> {html.escape(why)}\n"
          "For a tailored PDF, paste this job into our ChatGPT resume thread.")
-    buttons=[{"text":"VIEW / APPLY","url":url}] if url.startswith(("https://","http://")) else []
+    buttons=[]
+    if url.startswith(("https://","http://")):
+        buttons.append({"text":"VIEW / APPLY","url":url})
+    if direct_url.startswith(("https://","http://")) and direct_url != url:
+        buttons.append({"text":"DIRECT / BACKUP","url":direct_url})
     delivered=False
     for chat in sorted(subscribers):
         try:
