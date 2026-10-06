@@ -10,6 +10,8 @@ CFG=yaml.safe_load((ROOT/"config.yaml").read_text())
 DATA=ROOT/"data"; DATA.mkdir(exist_ok=True)
 SEEN_FILE=DATA/"seen_jobs.json"
 SUBSCRIBERS_FILE=DATA/"subscribers.enc"
+APPLY_QUEUE_FILE=DATA/"apply_queue.enc"
+ALERT_JOBS_FILE=DATA/"alert_jobs.enc"
 TG_STATE=DATA/"telegram_state.json"
 
 def load_json(path, default):
@@ -54,7 +56,18 @@ def load_subscribers():
 def save_subscribers():
     if TOKEN: SUBSCRIBERS_FILE.write_bytes(cipher().encrypt(json.dumps(sorted(subscribers)).encode()))
 
+def load_encrypted_json(path, default):
+    if not TOKEN or not path.exists(): return default
+    try: return json.loads(cipher().decrypt(path.read_bytes()))
+    except Exception as exc: raise RuntimeError(f"Encrypted state cannot be decrypted: {path.name}") from exc
+
+def save_encrypted_json(path, value):
+    if TOKEN:
+        path.write_bytes(cipher().encrypt(json.dumps(value, ensure_ascii=False).encode()))
+
 subscribers=load_subscribers()
+apply_queue=load_encrypted_json(APPLY_QUEUE_FILE, {})
+alert_jobs=load_encrypted_json(ALERT_JOBS_FILE, {})
 
 def tg(method, **payload):
     if not TOKEN: return None
@@ -128,7 +141,7 @@ def score(row):
     if annual and annual<CFG["profile"].get("preferred_min_salary",33280): s-=45
     return max(0,min(99,s)),hits[:7]
 
-def send_alert(row, category, s, hits):
+def send_alert(row, category, s, hits, key):
     title=html.escape(clean(row.get("title")))
     company=html.escape(clean(row.get("company")) or "Company not listed")
     loc=html.escape(clean(row.get("location")) or "Location not listed")
@@ -144,11 +157,29 @@ def send_alert(row, category, s, hits):
          f"{sal+' | ' if sal else ''}{html.escape(category)}\n"
          f"<b>Matched terms:</b> {html.escape(why)}\n"
          "For a tailored PDF, paste this job into our ChatGPT resume thread.")
+    # Keep enough information to build a future application queue without
+    # depending on the job still appearing in a later search.
+    alert_jobs[key]={
+        "id":key,
+        "title":clean(row.get("title")),
+        "company":clean(row.get("company")),
+        "location":clean(row.get("location")),
+        "category":category,
+        "site":clean(row.get("site")),
+        "job_url":board_url,
+        "job_url_direct":direct_url,
+        "description":clean(row.get("description")),
+        "salary":salary_text(row),
+        "match_score":s,
+        "matched_terms":hits,
+        "queued_at":None,
+    }
     buttons=[]
     if url.startswith(("https://","http://")):
         buttons.append({"text":"VIEW / APPLY","url":url})
     if direct_url.startswith(("https://","http://")) and direct_url != url:
         buttons.append({"text":"DIRECT / BACKUP","url":direct_url})
+    buttons.append({"text":"📌 APPLY LATER","callback_data":f"apply_later:{key}"})
     delivered=False
     for chat in sorted(subscribers):
         try:
@@ -163,12 +194,41 @@ def process_telegram_actions():
     if not TOKEN: return
     offset=int(tg_state.get("offset",0))
     response=requests.get(f"https://api.telegram.org/bot{TOKEN}/getUpdates",
-                          params={"offset":offset,"timeout":0,"allowed_updates":json.dumps(["message"])},timeout=30)
+                          params={"offset":offset,"timeout":0,"allowed_updates":json.dumps(["message","callback_query"])},timeout=30)
     response.raise_for_status()
     payload=response.json()
     if not payload.get("ok"): raise RuntimeError("Telegram getUpdates failed")
     for update in payload.get("result",[]):
         tg_state["offset"]=update["update_id"]+1
+
+        callback=update.get("callback_query")
+        if callback:
+            data=(callback.get("data") or "").strip()
+            msg=callback.get("message") or {}
+            chat=msg.get("chat") or {}
+            chat_id=str(chat.get("id") or "")
+            if data.startswith("apply_later:") and chat_id:
+                key=data.split(":",1)[1]
+                job=alert_jobs.get(key)
+                if job:
+                    if key not in apply_queue:
+                        queued=dict(job)
+                        queued["queued_at"]=int(time.time())
+                        queued["status"]="queued"
+                        apply_queue[key]=queued
+                        answer="Saved to your application queue."
+                    else:
+                        answer="Already in your application queue."
+                    tg("answerCallbackQuery",callback_query_id=callback["id"],text=answer)
+                    tg("sendMessage",chat_id=chat_id,
+                       text=f"📌 Queued: {job.get('title','Job')} — {job.get('company','Company')}\nUse /queue to see saved applications.")
+                else:
+                    tg("answerCallbackQuery",callback_query_id=callback["id"],
+                       text="That alert is too old to queue automatically.")
+            else:
+                tg("answerCallbackQuery",callback_query_id=callback["id"])
+            continue
+
         msg=update.get("message") or {}
         chat=msg.get("chat") or {}
         if chat.get("type")!="private": continue
@@ -179,12 +239,21 @@ def process_telegram_actions():
             tg("sendMessage",chat_id=chat_id,text="Job alerts stopped. Message me again or send /start to subscribe.")
         elif body.startswith("/status"):
             tg("sendMessage",chat_id=chat_id,text="Your job alerts are "+("active." if chat_id in subscribers else "not active. Send /start to subscribe."))
+        elif body.startswith("/queue"):
+            queued=[j for j in apply_queue.values() if j.get("status")=="queued"]
+            if not queued:
+                tg("sendMessage",chat_id=chat_id,text="Your application queue is empty.")
+            else:
+                lines=[f"📌 {j.get('title','Job')} — {j.get('company','Company')}" for j in queued[-20:]]
+                tg("sendMessage",chat_id=chat_id,text=f"Application queue ({len(queued)}):\n"+"\n".join(lines))
         else:
             new=chat_id not in subscribers
             subscribers.add(chat_id)
             if new or body.startswith("/start"):
-                tg("sendMessage",chat_id=chat_id,text="Subscribed! Matching jobs will arrive after each hourly scan. Send /stop to unsubscribe.")
+                tg("sendMessage",chat_id=chat_id,text="Subscribed! Matching jobs will arrive after each hourly scan. Use APPLY LATER to save jobs for an application session. Send /queue to see saved jobs or /stop to unsubscribe.")
         save_subscribers()
+        save_encrypted_json(APPLY_QUEUE_FILE, apply_queue)
+        save_encrypted_json(ALERT_JOBS_FILE, alert_jobs)
         TG_STATE.write_text(json.dumps(tg_state,indent=2))
 
 def run():
@@ -221,13 +290,15 @@ def run():
     sent=0
     for key,(s,h,row) in sorted(ranked.items(),key=lambda x:x[1][0],reverse=True):
         if key in seen or s<CFG["profile"]["alert_score"]: continue
-        if send_alert(row,row["_category"],s,h):
+        if send_alert(row,row["_category"],s,h,key):
             seen.add(key); sent+=1
         if sent>=CFG["search"].get("max_alerts_per_run",10): break
     SEEN_FILE.write_text(json.dumps(sorted(seen),indent=2))
     TG_STATE.write_text(json.dumps(tg_state,indent=2))
     save_subscribers()
-    print(f"Unique found: {len(ranked)} | language-filtered: {language_filtered} | alerts: {sent} | seen total: {len(seen)}")
+    save_encrypted_json(APPLY_QUEUE_FILE, apply_queue)
+    save_encrypted_json(ALERT_JOBS_FILE, alert_jobs)
+    print(f"Unique found: {len(ranked)} | language-filtered: {language_filtered} | alerts: {sent} | seen total: {len(seen)} | apply queue: {len(apply_queue)}")
 
 if __name__=="__main__":
     run()
