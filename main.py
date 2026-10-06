@@ -66,8 +66,8 @@ def save_encrypted_json(path, value):
         path.write_bytes(cipher().encrypt(json.dumps(value, ensure_ascii=False).encode()))
 
 subscribers=load_subscribers()
-apply_queue=load_encrypted_json(APPLY_QUEUE_FILE, {})
-alert_jobs=load_encrypted_json(ALERT_JOBS_FILE, {})
+apply_queue=tg_state.setdefault("apply_queue", {})
+alert_jobs=tg_state.setdefault("alert_jobs", {})
 
 def tg(method, **payload):
     if not TOKEN: return None
@@ -252,8 +252,6 @@ def process_telegram_actions():
             if new or body.startswith("/start"):
                 tg("sendMessage",chat_id=chat_id,text="Subscribed! Matching jobs will arrive after each hourly scan. Use APPLY LATER to save jobs for an application session. Send /queue to see saved jobs or /stop to unsubscribe.")
         save_subscribers()
-        save_encrypted_json(APPLY_QUEUE_FILE, apply_queue)
-        save_encrypted_json(ALERT_JOBS_FILE, alert_jobs)
         TG_STATE.write_text(json.dumps(tg_state,indent=2))
 
 def run():
@@ -296,8 +294,14 @@ def run():
     SEEN_FILE.write_text(json.dumps(sorted(seen),indent=2))
     TG_STATE.write_text(json.dumps(tg_state,indent=2))
     save_subscribers()
-    save_encrypted_json(APPLY_QUEUE_FILE, apply_queue)
-    save_encrypted_json(ALERT_JOBS_FILE, alert_jobs)
+    # Keep the alert lookup bounded while preserving every job explicitly queued.
+    if len(alert_jobs) > 250:
+        keep=set(apply_queue.keys())
+        ordered=list(alert_jobs.keys())
+        for old_key in ordered[:-250]:
+            if old_key not in keep:
+                alert_jobs.pop(old_key, None)
+    TG_STATE.write_text(json.dumps(tg_state,indent=2))
     print(f"Unique found: {len(ranked)} | language-filtered: {language_filtered} | alerts: {sent} | seen total: {len(seen)} | apply queue: {len(apply_queue)}")
 
 if __name__=="__main__":
