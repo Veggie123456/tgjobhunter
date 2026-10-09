@@ -1,6 +1,6 @@
 {
   "offset": 843503515,
-  "search_cursor": 250,
+  "search_cursor": 0,
   "apply_queue": {},
   "alert_jobs": {
     "cb03a8ce4660cb8957ed": {
@@ -3664,6 +3664,346 @@
         "staffing",
         "operations",
         "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "401358066c7a83e2dca0": {
+      "id": "401358066c7a83e2dca0",
+      "title": "Customer Support Specialist, Tier 1 - Part-time",
+      "company": "Gradient",
+      "location": "New York, NY, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=9d8dc5d3ccfcc79b",
+      "job_url_direct": "https://ats.rippling.com/gradientcomfort/jobs/08896a07-6477-41f0-947c-fe3552bf23f9?jobSite=Indeed",
+      "description": "#### **About Gradient**\n\nJoin us at Gradient, where our purpose is to revolutionize home comfort while championing environmental sustainability. Our mission is to combat the escalating challenge of climate change by redefining how homes are heated and cooled. Today, the environmental impact of heating and cooling systems surpasses that of the entire transportation sector, and without intervention, this trend is set to escalate drastically.\n\nAt Gradient, we believe that ensuring comfortable living spaces shouldn\u2019t come at the cost of our planet. We envision a future where every individual can enjoy the luxury of a comfortable home without contributing to carbon emissions. Our high-efficiency, low-carbon heat pump is just the beginning of our journey toward fully decarbonizing buildings.\n\nBy joining Gradient, you\u2019ll be at the forefront of a movement to make sustainable living accessible to all, ensuring healthier communities and a brighter, greener future.\n\n##### **About the Role**\n\nAs a **Part-Time Customer Support Specialist, Tier 1**, you'll be one of the first human points of contact for Gradient customers who need help with their product or experience.\n\nYou'll work within Gradient's Customer Experience team to respond to customer questions, gather the right information, follow established support procedures, and make sure issues reach the appropriate next step. You'll also help oversee an increasingly automated support experience\u2014reviewing automated interactions, identifying when something doesn't look right, and helping us understand where our processes and tools can improve.\n\nThis is a great opportunity for someone early in their career who enjoys helping people, communicates clearly, and is comfortable learning new systems. You don't need a technical or HVAC background. We'll provide the procedures and product knowledge you need to succeed.\n\n**Compensation:** The anticipated hourly rate for this role is $25.00-$27.00 per hour. Actual compensation may vary based on experience, qualifications, and location.\n\n**Location: Remote, U.S.-based. Approximately 20 hours per week.**\n\nThe anticipated schedule is approximately **Wednesday through Sunday, with regular weekend coverage and working hours aligned primarily with Eastern Time customer needs.** Exact hours may be adjusted based on business needs and candidate availability.\n\n##### **Responsibilities**\n\n* Serve as a frontline point of contact for customers across email and, as Gradient expands its channels, phone and SMS.\n* Respond to routine customer questions using established procedures, macros, support content, and approved workflows.\n* Gather required customer and product information before escalating technical issues to Tier 2.\n* Review automated customer-support interactions for accuracy and identify situations requiring human intervention.\n* Flag incorrect, incomplete, or confusing automated responses and provide feedback to help improve Gradient's support processes.\n* Recognize issues that fall outside Tier 1 procedures and route them appropriately to Tier 2.\n* Maintain clear and accurate customer and case records in Zendesk and other support systems.\n* Communicate calmly and professionally with customers, including customers who may be frustrated or concerned.\n* Help ensure customers receive timely follow-up and understand what will happen next.\n* Learn Gradient's products and support processes as they evolve.\n* Partner closely with the Tier 2 Technical Support Specialist and Customer Experience team.\n\n##### **Desired Qualifications**\n\n* Some experience working directly with customers, whether through customer service, retail, hospitality, restaurants, call centers, administrative work, or another customer-facing environment.\n* Clear and professional written and verbal communication.\n* Comfort speaking with customers by phone.\n* Patience and empathy when working with frustrated customers.\n* Strong attention to detail and ability to follow established processes consistently.\n* Good judgment about when something doesn't look right and needs to be escalated.\n* Comfortable learning and working in multiple software systems.\n* Reliable, organized, and able to work independently in a remote environment.\n* Availability for approximately 20 hours per week, including regular weekend coverage.\n\n##### **Bonus Qualifications**\n\n* Previous customer support or contact-center experience.\n* Experience with Zendesk or another ticketing/customer support platform.\n* Experience working with automated customer-service tools, chatbots, or AI-assisted workflows.\n* Experience supporting consumer products, hardware, appliances, or technology.\n* Spanish/English bilingual proficiency.\n* Interest in growing into more technical customer support responsibilities over time.\n* Interest in climate technology or home electrification.\n\n##### **Benefits**\n\n* Equity\n* Medical/vision/dental/life/disability insurance\n* 401k\n* Paid parental leave\n* Professional Development Stipend\n* Commuter benefits\n* Flexible PTO\n\nWe are committed to building a diverse and inclusive company. We seek to create a culture where everyone can belong because we believe that people do their best work when they can show up every day as their authentic selves. We welcome people of different backgrounds, experiences, abilities, and perspectives.\n\nGradient is an equal opportunity employer. We do not make hiring or employment decisions on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, disability status, or genetic information, in compliance with applicable federal, state and local law.",
+      "salary": "\ud83d\udcb0 25.0\u201327.0 USD/hourly",
+      "match_score": 99,
+      "matched_terms": [
+        "customer service",
+        "customer support",
+        "specialist",
+        "administrative",
+        "remote",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "0fa90c57a38d2d524b3d": {
+      "id": "0fa90c57a38d2d524b3d",
+      "title": "Senior Product Manager",
+      "company": "BitPay",
+      "location": "Atlanta, GA, USA",
+      "category": "Web3 Support",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=a74af0d38587f89c",
+      "job_url_direct": "https://bitpay.na.teamtailor.com/jobs/716715-senior-product-manager",
+      "description": "BitPay is building blockchain technology that transforms how businesses and people send, receive, and store money. We are looking for a Senior Product Manager to own the shared infrastructure that powers BitPay's merchant acceptance and consumer wallet products, including the blockchain networks and tokens we support, the partners we integrate with, and the core services that move, hold, and verify money.\n\nAs a Senior Product Manager at BitPay, you will work across departments to ensure that internal stakeholders' needs are reflected in your product roadmap. You will collaborate closely with senior leadership to define and refine requirements for mission-critical platform initiatives, ensuring alignment with the company\u2019s strategic objectives. Your role will bridge gaps between teams, foster collaboration, and drive the success of our platform and the products it supports.\n\n### **Requirements:**\n\n* Own the platform roadmap and the full product lifecycle, from discovery through launch and iteration, for services used by the Acceptance and Wallet products.\n* Write clear product requirements before engineering begins: scope, system and user flows, funds and data flows, edge cases, and acceptance criteria. Set priorities for the platform engineering team and keep the work tied to agreed requirements.\n* Lead new blockchain network and token integrations end to end: asset and chain evaluation, technical scoping, risk and compliance review, launch, and post-launch monitoring.\n* Evaluate, onboard, and manage third-party partners and vendors, including liquidity, on- and off-ramp, banking connectivity, and custody providers, and own each integration from evaluation to production.\n* Define and deliver core money-movement capabilities, including real-time payouts, custody, payroll, and cross-chain transactions.\n* Partner with Compliance to design risk-based KYC, KYB, and transaction monitoring for businesses and consumers, balancing regulatory requirements with conversion.\n* Take new products and material changes through regulatory review. Prepare product documentation, funds-flow diagrams, and risk assessments, and present them to regulators and auditors as the product subject-matter expert.\n* Treat the Acceptance and Wallet product managers as your internal customers. Understand their roadmaps, surface dependencies early, and sequence platform work to unblock them.\n* Deliver launch documentation that supports Finance (reconciliation, treasury, accounting), Compliance, and Customer Support.\n* Define and report on success metrics for platform services, such as reliability, payout speed, cost per transaction, and time to integrate a new asset or partner.\n* Improve product operations and backlog management across engineering teams.\n* Perform other duties as assigned.\n\n### **Required Skills:**\n\n* 5+ years of product management experience, including at least 3 years on technical platform, infrastructure, API, blockchain or payments products.\n* Deep knowledge of blockchain fundamentals: networks, tokens and stablecoins, wallets and key management, the transaction lifecycle, and fees.\n* Hands-on experience shipping payment infrastructure, such as payouts, settlement, money movement, or ledgering.\n* A track record of leading third-party integrations with partners or vendors, from evaluation through production launch.\n* Experience building products in regulated financial services, including KYC/KYB, AML, and transaction monitoring, and working directly with compliance teams, regulators, or auditors.\n* The technical depth to write precise requirements, read API documentation, reason about system design trade-offs, and earn engineers' trust.\n* A consistent practice of defining requirements before development begins and keeping engineering work tied to them.\n* Strong written communication. You can explain complex funds flows, risks, and trade-offs to executives, engineers, and regulators.\n* A data-driven approach, with experience using SQL or analytics tools to monitor platform health and adoption.\n* The ability to work independently and own outcomes across multiple teams with competing priorities.\n* Proficiency in Atlassian (Jira, Confluence), Google Workspace, and user analytics tools.\n\n### **What We Offer:**\n\n* Collaborate with a team of intelligent, enthusiastic individuals\n* Thrive in a rapidly expanding crypto company with global reach, where your contributions make a tangible impact\n* Work remotely with a generous vacation policy, including the opportunity to take a sabbatical and select your own holidays\n* Access to continuous learning and development opportunities, supported by professional development reimbursement\n* We offer 100% employer-paid medical and dental coverage and a robust benefits package that includes telemedicine, life and disability insurance, vision coverage, 401(k), travel assistance, and more\n* Option to receive payment in cryptocurrency, along with a crypto match program\n* Stock option awards are available to all employees\n* Home office allowance, reimbursement for internet/cell expenses, and complimentary Amazon Prime and Spotify subscriptions\n* The base salary range for this role is $160,000-$200,000 per year, depending on experience, qualifications, and location. This role is also eligible for an annual bonus of up to 10% of base salary, based on company and individual performance.\n\nI**MPORTANT NOTICE:** We are committed to a safe and secure hiring process. BitPay posts open roles on our official careers page and we will never recruit or collect personal information through social media direct messages or unaffiliated websites.\n\nBitPay will never ask you to:\n\n* Install remote-access tools (TeamViewer, AnyDesk, etc.)\n* Share your SSN or banking details before a formal, written offer from BitPay People Ops\n* Interview via personal email accounts, text, or messaging apps\n* Pay fees, buy equipment, connect a crypto wallet, complete \"test transactions,\" or send money, crypto, or gift cards for any reason\n\nHow to verify legitimate BitPay recruiting:\n\n* Emails come only from addresses ending in @bitpay.com or @bitpay.na.teamtailor-mail.com\n* Interview invitations are sent from an @bitpay.com address and use Google Meet\n* All open roles are listed at www.bitpay.com/careers\n\nIf you receive a suspicious message claiming to be BitPay:\n\n* Don't click links, download files, or share information\n* Report it to the FTC at reportfraud.ftc.gov\n* Confirm the role at www.bitpay.com/careers\n\nBitPay is an equal opportunity employer. We are committed to fostering a respectful and inclusive workplace for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, and gender identity or expression), national origin, ancestry, citizenship status, age, disability, genetic information, marital status, protected veteran or military status, or any other characteristic protected by applicable federal, state, or local law.",
+      "salary": "\ud83d\udcb0 160000.0\u2013200000.0 USD/yearly",
+      "match_score": 91,
+      "matched_terms": [
+        "customer support",
+        "recruiting",
+        "documentation",
+        "remote",
+        "operations",
+        "crypto",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "2d0f75cc58cc87eae575": {
+      "id": "2d0f75cc58cc87eae575",
+      "title": "Inventory Specialist",
+      "company": "Walgreens",
+      "location": "Lansdale, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=cade83a1a783bf37",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/lansdale/inventory-specialist/1242/101701538320",
+      "description": "* Responsible for executing, monitoring, and training inventory best practices and standard operating procedures for the entire store, including both front end and pharmacy. Supports pharmacy inventory management activities, including receiving, counting, ordering, and facilitating returns. Champions On-Shelf Availability and is responsible for receiving, counting, pricing, returns, and all in-store inventory processes. Validates and ensures accuracy of planograms.\n* Responsible for reviewing and coordinating the proper use of reports and system applications, which have an impact on the accuracy of front end and pharmacy on-hand balances and pricing.\n* Responsible for executing and maintaining front end and pharmacy asset protection techniques, and filing claims for warehouse and vendor overages (merchandise received, but not billed), shortages (merchandise billed, but not received), order errors or damaged goods including prescription drugs.\n* In designated stores, as required, opens and closes the store in the absence of store management, including all required systems start-ups, required cash handling and cashier responsibilities, and ensuring the floor and stock room are ready for the business day.\n\n**Customer Experience**\n\n* Engages customers by greeting them and offering assistance with products and services. In designated stores, when serving as the leader on duty, resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Executes and coaches team members on warehouse and vendor inventory management processes including but not limited to creating, reviewing, and receiving orders.\n* Scans in all deliveries while the vendor is still in the store, including common carrier deliveries. Focuses on One Box receiving. Takes the appropriate action marking delivery as received if the product was physically delivered, contacting vendor for past undelivered scheduled receipts, and opening tickets as needed to correct inaccurate orders.\n* Under the supervision of the pharmacist-in-charge, verifies all pharmacy shipments are posted for products physically received at the store. Completes or verifies postings of all pharmacy warehouse orders, ABC prescription and OTC orders daily, secondary vendor orders, flu and dropship orders performing any necessary tote audits, and accurately reporting any shortages or damaged product.\n* Completes On-Shelf Availability (OSA) end-to-end process including warehouse and direct store delivery (DSD) for planogrammed departments, executing disposals, call-ins, and vendor returns before expiration, completes scan outs/ scan outs returns on all subscribed departments including vendor/ DSD departments and pharmacy scan outs.\n* Under the supervision of the pharmacist-in-charge,completes pharmacy inventory activities including but not limited to pharmacy recalls following Pharmacy Hazardous Waste Policy, vendor returns, non-controlled, and damaged salvage returns. Facilitates excess inventory returns or interstore pharmacy transfers where applicable for non-returnable ABC overstock. Verifies posting of all pharmacy/ prescription claims.\n* Completes execution of all pricing activities including price changes, markdowns, and markdowns deletes. Responsible for basic department pricing, including daily price changes, accurate pricing with correct signage, and reliable and timely completion of any additional regulatory pricing tasks.\n* Responsible for supporting front end and pharmacy ordering by ordering expense items. Monitors pharmacy manual orders to identify excess orders. Maintains consigned inventory and orders as required.\n* Ensures all designated pull & quarantine item on-hands are updated and placed in the designated holding area.\n* Maintains accurate inventory counts. Maintains the accuracy of on-hand quantities including but not limited to basic departments, stockroom, overstock locations.\n* Under the supervision of the pharmacist-in-charge, maintains accurate inventory counts and accuracy of on-hand quantities in pharmacy and completes pharmacy smart counts.\n* Ensures the store maintains inventory compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Assists in the maintenance of inventory records, including receiving and posting of all products (in the front-end)) received at the store in all inventory systems. Organizes files and retains all invoices/receipts/return authorizations necessary for all inventory activities.\n* Helps to prepare for physical inventory and supports the physical inventory day activities, including but not limited to preparing sales floor, stockroom, and pharmacy for inventory and auditing the third party team on the day of inventory.\n* Supports keeping all counters and shelves clean and well merchandised.\n* Knowledgeable of all store systems and equipment.\n* Assists and coaches store team on all package delivery activities, including scanning in and out of packages, completing all daily inventory functions and, package returns at Walgreens. Supports execution of Pickup Program.\n* In designated stores, when serving as the leader on duty, responsible and accountable for registering all related sales on assigned point-of-sale system (POS), including records of scanning errors, price verifications, items not on file, price modifications, and voids. Completes product returns, order voids, customer refunds, cash drops to safe, and provides change as requested for point of sale.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes any additional activities and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends company-based trainings for continuous development and completes all e-learning modules including safety training requirements.\n* Obtains and maintains a valid pharmacy license/certification as required by the state.\n\n**Communications**\n\n* Serves as a liaison between management and non-management team members by coaching and developing other capabilities with inventory systems. When serving as the leader on duty, communicates assigned tasks to team members and reports disciplinary issues and customer complaints to management.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Six months of prior work experience with Walgreens (internal candidates) or one year of prior retail work experience (external candidates).\n* Must be fluent in reading, writing, and speaking English (except in Puerto Rico).\n* Must have a willingness to work a flexible schedule, including evening and weekend hours.\n* Demonstrated attention to detail and ability to multi task and manage execution.\n* Experience in identifying operational issues and recommending and implementing strategies to resolve problems.\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer previous experience as a shift lead, pharmacy technician, designated hitter, or customer service associate.\n* Prefer to have prior work experience with Walgreens, with an evaluation on file.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \n**An Equal Opportunity Employer, including disability/veterans.**\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $17.5 - $22.5 / Hourly",
+      "salary": "\ud83d\udcb0 17.5\u201322.5 USD/hourly",
+      "match_score": 82,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "specialist",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "f5701cd14e844d6f4001": {
+      "id": "f5701cd14e844d6f4001",
+      "title": "Customer Service Associate",
+      "company": "Walgreens",
+      "location": "Bridgeton, NJ, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=a0a5770925a56592",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/bridgeton/customer-service-associate/1242/101708341376",
+      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Implements Company asset protection procedures to identify and minimize profit loss.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager or assigned by corporate.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer to be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $15.92 - $20.50 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 15.92\u201320.5 USD/hourly",
+      "match_score": 80,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "860947d00274f694dcb5": {
+      "id": "860947d00274f694dcb5",
+      "title": "High Level Bookkeepper",
+      "company": "Guardhouse Tax Services, Inc.",
+      "location": "Reading, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=c4375581e8fec4ee",
+      "job_url_direct": "",
+      "description": "**Senior Bookkeeper \u2014 Construction Accounting**\n\n**Position Summary**\n\nWe are seeking an experienced Senior Bookkeeper with strong knowledge of QuickBooks Online, cost accounting, and the construction/contracting industry. This position manages day-to-day bookkeeping, maintains accurate financial records, and provides reliable job-cost and financial reporting to support project profitability.\n\nThe ideal candidate can independently manage full-cycle bookkeeping, identify discrepancies, and work closely with owners, project managers, vendors, subcontractors, and the company\u2019s outside accountant.\n\nJob is in person with some remote work allowed. Does require a possible once a week trip to Norristown, PA.\n\nEnglish speaking but ability to speak Spanish a plus but not required.\n\n**Key Responsibilities**\n\n* Manage full-cycle bookkeeping in QuickBooks Online, including accounts payable, accounts receivable, general ledger entries, and account reconciliations.\n* Maintain accurate construction job-cost records by project, cost code, and expense category.\n* Track and allocate labor, materials, subcontractor costs, equipment expenses, and overhead.\n* Compare actual project costs with budgets, investigate variances, and report on project profitability.\n* Process vendor invoices and subcontractor payments, ensuring proper approval and project coding.\n* Prepare customer invoices, progress billings, and retainage schedules; monitor collections and outstanding balances.\n* Track change orders and ensure approved changes are reflected in billing and project budgets.\n* Reconcile bank accounts, credit cards, loans, and other balance sheet accounts.\n* Complete month-end closing and prepare financial statements, job-cost reports, and cash-flow summaries.\n* Coordinate payroll processing and accurately allocate payroll costs to jobs.\n* Maintain subcontractor documentation, including W-9 forms, insurance certificates, and lien waivers, as applicable.\n* Support work-in-progress reporting and coordinate accounting adjustments with the company\u2019s outside accountant.\n* Prepare records for year-end reporting, 1099 preparation, tax filings, and audits.\n* Improve bookkeeping procedures, internal controls, and the accuracy of financial reporting.\n\n**Required Qualifications**\n\n* Five or more years of progressively responsible bookkeeping or accounting experience, including experience in the construction industry.\n* Advanced proficiency in QuickBooks Online.\n* Strong understanding of cost accounting, construction job costing, and full-cycle bookkeeping.\n* Experience with progress billing, retainage, subcontractor accounting, and change orders.\n* Ability to independently reconcile accounts, resolve discrepancies, and complete month-end closing.\n* Strong Microsoft Excel skills, including formulas, spreadsheets, and financial analysis.\n* Excellent attention to detail, organizational skills, and ability to manage multiple deadlines.\n* Strong communication skills and sound judgment when handling confidential financial information.\n\n**Preferred Qualifications**\n\n* Preferred Associate\u2019s or bachelor\u2019s degree in accounting, finance, or a related field, or equivalent practical experience.\n* Preferred QuickBooks Online ProAdvisor certification.\n* Experience with construction management software and accounting integrations.\n* Familiarity with work-in-progress schedules, AIA billing, certified payroll, and prevailing wage projects.\n\n**Success in This Role**\n\nSuccess means accurate and timely financial records, dependable job-cost reporting, efficient billing and collections, and clear insight into project costs, cash flow, and profitability.\n\nPay: $20.00 - $30.00 per hour\n\nExpected hours: 24.0 \u2013 40.0 per week\n\nBenefits:\n\n* Retirement plan\n\nLanguage:\n\n* Spanish (Preferred)\n\nWork Location: Hybrid remote in Reading, PA 19610",
+      "salary": "\ud83d\udcb0 20.0\u201330.0 USD/hourly",
+      "match_score": 74,
+      "matched_terms": [
+        "associate",
+        "documentation",
+        "remote",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "ea17f7e9b7e0d18e3019": {
+      "id": "ea17f7e9b7e0d18e3019",
+      "title": "Senior Customer Service Associate",
+      "company": "Premier Executive Search",
+      "location": "Montgomery County, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475996528",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 73,
+      "matched_terms": [
+        "customer service",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "521531f01ae3f45f2002": {
+      "id": "521531f01ae3f45f2002",
+      "title": "Bilingual Customer Service Specialist (Russian Speaking)",
+      "company": "Sherwin-Williams",
+      "location": "Philadelphia, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4459051436",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 72,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "f53c777cc013536382e5": {
+      "id": "f53c777cc013536382e5",
+      "title": "Customer Service Specialist (Part-Time)",
+      "company": "Quip Laboratories",
+      "location": "Greater Philadelphia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475968976",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 72,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "5d8f5a5957c53a3448cf": {
+      "id": "5d8f5a5957c53a3448cf",
+      "title": "Animal Pharmacy Customer Service Call Center Agent - Remote after training~",
+      "company": "Wedgewood",
+      "location": "Swedesboro, NJ, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4474837025",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer service",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "4dcd3a0623716186b125": {
+      "id": "4dcd3a0623716186b125",
+      "title": "Remote Customer Support Rep - $60-$80k (Wealth Tech)",
+      "company": "CyberCoders",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4474848754",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer support",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "7026ca750c7e5913deae": {
+      "id": "7026ca750c7e5913deae",
+      "title": "Customer Service Representative",
+      "company": "BCforward",
+      "location": "Pennington, NJ, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477411100",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "bde07081e3084b4520c2": {
+      "id": "bde07081e3084b4520c2",
+      "title": "Customer Service Representative",
+      "company": "Eaton",
+      "location": "Changzhou-Wuxi-Suzhou Metropolitan Area",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4474825319",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "3790b9419e15dc842746": {
+      "id": "3790b9419e15dc842746",
+      "title": "Customer Service Representative (Student Enquiries)",
+      "company": "UKuni Education Services",
+      "location": "Egypt",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4474831398",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "efd725767c23aa88e753": {
+      "id": "efd725767c23aa88e753",
+      "title": "Customer Service Representative",
+      "company": "British Council",
+      "location": "Hong Kong SAR",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477143708",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "7ec8004f81a6d46512ad": {
+      "id": "7ec8004f81a6d46512ad",
+      "title": "Customer Support Representative",
+      "company": "etoro",
+      "location": "Sydney, New South Wales, Australia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4476260208",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer support",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "83774ea7f7be45f1a977": {
+      "id": "83774ea7f7be45f1a977",
+      "title": "International Voice Process \u2013 Customer Support Associate",
+      "company": "Trinity SkillWorks Private Limited",
+      "location": "Kochi, Kerala, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475978055",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer support",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "33d8d0f4a8f51f9ab8c2": {
+      "id": "33d8d0f4a8f51f9ab8c2",
+      "title": "Customer Service Specialists",
+      "company": "Agile Cold Storage",
+      "location": "Claymont, DE, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477428576",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "d15fb02e4813de1f1b90": {
+      "id": "d15fb02e4813de1f1b90",
+      "title": "Customer Service Specialist -Evening/Night Shift",
+      "company": "StockX",
+      "location": "Bengaluru, Karnataka, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4465412574",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
       ],
       "queued_at": null
     }
