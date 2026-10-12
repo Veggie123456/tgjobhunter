@@ -10,6 +10,17 @@ search:
   sites: ["linkedin", "linkedin", "linkedin", "zip_recruiter", "indeed", "google", "glassdoor"]
 
 categories:
+  Entry Level Sales (Guaranteed Base):
+    - "remote inbound sales representative base salary"
+    - "remote sales development representative base salary"
+    - "remote business development representative base salary"
+    - "remote inside sales representative hourly"
+    - "remote sales support specialist"
+    - "remote account coordinator sales"
+    - "remote customer retention specialist sales"
+    - "remote junior account manager base salary"
+    - "remote entry level SDR base pay"
+    - "remote business development associate"
   Business Operations:
     - "business operations manager"
     - "operations manager"
@@ -124,6 +135,17 @@ categories:
 profile:
   strong_terms:
     customer service: 12
+    sales development: 11
+    business development: 11
+    inbound sales: 12
+    inside sales: 9
+    account management: 8
+    account coordinator: 8
+    base salary: 7
+    guaranteed base: 12
+    work from anywhere: 12
+    worldwide remote: 12
+    digital nomad: 9
     customer support: 12
     customer care: 10
     representative: 8
@@ -169,6 +191,9 @@ profile:
     certification required: -12
     bachelor's required: -8
   min_hourly_salary: 16
+  sales_min_guaranteed_hourly: 20
+  sales_require_remote: true
+  sales_prefer_international_travel: true
   preferred_min_salary: 33280
   alert_score: 62
   priority_score: 78
