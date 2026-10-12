@@ -112,6 +112,7 @@ def verified_sales_base_hourly(row):
     ):
         amount=float(match.group(1).replace(",",""))
         if match.group(2): amount*=1000
+        if "up to" in match.group(0) or "ote" in match.group(0): continue
         candidates.append(amount/2080 if amount>=1000 else amount)
     for match in re.finditer(
         money+r"\s*(?:/|per\s*)(?:hr|hour|year|yr|annum)"
@@ -185,7 +186,7 @@ def score(row):
     if row.get("_category")=="Entry Level Sales (Guaranteed Base)":
         base=verified_sales_base_hourly(row)
         if base is not None:
-            s+=12; hits.append(f"guaranteed base >= $20/hr (${base:.2f}/hr)")
+            s+=12; hits.append(f"advertised base ${base:.2f}/hr equivalent")
         if any(p in text for p in ("work from anywhere","worldwide remote","remote worldwide","digital nomad","international travel","globally remote")):
             s+=12; hits.append("international flexibility mentioned (verify policy)")
     if "philadelphia" in text or re.search(r"\bpa\b",text):s+=4
@@ -214,7 +215,7 @@ def send_alert(row, category, s, hits, key):
          f"{company} | {loc}\n"
          f"{sal+' | ' if sal else ''}{html.escape(category)}\n"
          f"<b>Matched terms:</b> {html.escape(why)}\n"
-         + ("<i>Travel/work-from-abroad permission must be confirmed with employer.</i>\\n"
+         + ("<i>Travel/work-from-abroad permission must be confirmed with employer.</i>\n"
             if category=="Entry Level Sales (Guaranteed Base)" else "")
          + "For a tailored PDF, paste this job into our ChatGPT resume thread.")
     # Keep enough information to build a future application queue without
