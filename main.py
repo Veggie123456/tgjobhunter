@@ -138,6 +138,26 @@ def eligible_sales_lead(row):
         phrase in text for phrase in ("remote","work from anywhere","home based","work from home","distributed team")
     ):
         return False
+    if CFG["profile"].get("sales_require_inbound_or_interested_leads",True):
+        interest_signals=(
+            "inbound", "warm leads", "qualified leads", "booked appointments",
+            "scheduled appointments", "pre-set appointments", "preset appointments",
+            "pre-qualified", "prequalified", "existing customers",
+            "customer inquiries", "requested a quote", "requested information",
+            "no cold calling", "company provided leads", "company-provided leads"
+        )
+        if not any(p in text for p in interest_signals):
+            return False
+        # Company-provided leads alone can still be cold lists; reject
+        # explicit outbound duties even if the ad uses "warm leads".
+        outbound=(
+            "cold call prospects", "cold calling required", "cold outreach",
+            "cold prospecting", "door-to-door", "door knocking",
+            "self-generate leads", "self generate leads", "outbound prospecting",
+            "generate your own leads", "build your own pipeline"
+        )
+        if any(p in text for p in outbound):
+            return False
     minimum=float(CFG["profile"].get("sales_min_guaranteed_hourly",20))
     base=verified_sales_base_hourly(row)
     return base is not None and base>=minimum
@@ -179,7 +199,10 @@ def score(row):
     for term,w in CFG["profile"]["strong_terms"].items():
         if term.lower() in text: s+=w; hits.append(term)
     for term,w in CFG["profile"]["penalties"].items():
-        if term.lower() in text:s+=w
+        if term.lower() in text:
+            if term.lower()=="cold calling" and "no cold calling" in text:
+                continue
+            s+=w
     title=clean(row.get("title")).lower()
     if any(x in title for x in ["operations","coordinator","customer","support","project","qa","web3","crypto","claims","client success"]):s+=8
     if "remote" in text:s+=5
