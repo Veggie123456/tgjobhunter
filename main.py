@@ -93,6 +93,54 @@ def annual_salary(row):
     except Exception: pass
     return None
 
+def verified_sales_base_hourly(row):
+    """Extract an explicitly advertised guaranteed base; never treat OTE as base."""
+    desc=clean(row.get("description")).lower()
+    text=clean(row.get("title")).lower()+"\n"+desc
+    if any(p in text for p in (
+        "commission only", "commission-only", "100% commission",
+        "no base salary", "no base pay", "draw against commission"
+    )):
+        return None
+    candidates=[]
+    money=r"\$\s*(\d{2,3}(?:,\d{3})?(?:\.\d{1,2})?)\s*(k\b)?"
+    for match in re.finditer(
+        r"(?:guaranteed (?:base |hourly )?(?:salary|pay|rate|wage)|"
+        r"base (?:salary|pay|rate|compensation)|"
+        r"hourly (?:base )?(?:salary|pay|rate|wage))"
+        r"[^$\n]{0,65}"+money, text
+    ):
+        amount=float(match.group(1).replace(",",""))
+        if match.group(2): amount*=1000
+        candidates.append(amount/2080 if amount>=1000 else amount)
+    for match in re.finditer(
+        money+r"\s*(?:/|per\s*)(?:hr|hour|year|yr|annum)"
+        r"[^.\n]{0,35}\b(?:guaranteed|base|hourly pay|hourly rate)\b",text
+    ):
+        amount=float(match.group(1).replace(",",""))
+        if match.group(2): amount*=1000
+        unit=match.group(0).lower()
+        candidates.append(amount/2080 if re.search(r"(?:/|per\s*)(?:year|yr|annum)",unit) else amount)
+    interval=clean(row.get("interval")).lower()
+    if "hour" in interval and any(p in desc for p in (
+        "hourly wage", "hourly rate", "hourly base", "base hourly", "hourly pay"
+    )):
+        try:
+            amount=float(row.get("min_amount") or 0)
+            if amount: candidates.append(amount)
+        except (TypeError,ValueError): pass
+    return min(candidates) if candidates else None
+
+def eligible_sales_lead(row):
+    text=(" ".join(clean(row.get(k)) for k in ("title","description","location"))).lower()
+    if CFG["profile"].get("sales_require_remote",True) and not any(
+        phrase in text for phrase in ("remote","work from anywhere","home based","work from home","distributed team")
+    ):
+        return False
+    minimum=float(CFG["profile"].get("sales_min_guaranteed_hourly",20))
+    base=verified_sales_base_hourly(row)
+    return base is not None and base>=minimum
+
 def incompatible_language_job(row):
     """Reject jobs that explicitly require fluency/bilingual ability outside English or Russian."""
     title=clean(row.get("title")).lower()
@@ -134,6 +182,12 @@ def score(row):
     title=clean(row.get("title")).lower()
     if any(x in title for x in ["operations","coordinator","customer","support","project","qa","web3","crypto","claims","client success"]):s+=8
     if "remote" in text:s+=5
+    if row.get("_category")=="Entry Level Sales (Guaranteed Base)":
+        base=verified_sales_base_hourly(row)
+        if base is not None:
+            s+=12; hits.append(f"guaranteed base >= $20/hr (${base:.2f}/hr)")
+        if any(p in text for p in ("work from anywhere","worldwide remote","remote worldwide","digital nomad","international travel","globally remote")):
+            s+=12; hits.append("international flexibility mentioned (verify policy)")
     if "philadelphia" in text or re.search(r"\bpa\b",text):s+=4
     annual=annual_salary(row)
     if annual and annual>=CFG["profile"].get("preferred_min_salary",33280): s+=8; hits.append("pay ≥ $16/hr")
@@ -152,11 +206,17 @@ def send_alert(row, category, s, hits, key):
     badge="🟢" if s>=CFG["profile"]["priority_score"] else "🟡"
     why=", ".join(hits) if hits else "role/location fit"
     sal=salary_text(row)
+    if category=="Entry Level Sales (Guaranteed Base)":
+        verified=verified_sales_base_hourly(row)
+        if verified is not None:
+            sal=f"💰 Advertised base ${verified:.2f}/hr equivalent (confirm with employer)"
     msg=(f"{badge} <b>{s}% keyword match — {title}</b>\n"
          f"{company} | {loc}\n"
          f"{sal+' | ' if sal else ''}{html.escape(category)}\n"
          f"<b>Matched terms:</b> {html.escape(why)}\n"
-         "For a tailored PDF, paste this job into our ChatGPT resume thread.")
+         + ("<i>Travel/work-from-abroad permission must be confirmed with employer.</i>\\n"
+            if category=="Entry Level Sales (Guaranteed Base)" else "")
+         + "For a tailored PDF, paste this job into our ChatGPT resume thread.")
     # Keep enough information to build a future application queue without
     # depending on the job still appearing in a later search.
     alert_jobs[key]={
@@ -279,9 +339,13 @@ def run():
 
     ranked={}
     language_filtered=0
+    sales_filtered=0
     for row in found:
         if incompatible_language_job(row):
             language_filtered+=1
+            continue
+        if row.get("_category")=="Entry Level Sales (Guaranteed Base)" and not eligible_sales_lead(row):
+            sales_filtered+=1
             continue
         key=jid(row); s,h=score(row)
         if key not in ranked or s>ranked[key][0]: ranked[key]=(s,h,row)
@@ -302,7 +366,7 @@ def run():
             if old_key not in keep:
                 alert_jobs.pop(old_key, None)
     TG_STATE.write_text(json.dumps(tg_state,indent=2))
-    print(f"Unique found: {len(ranked)} | language-filtered: {language_filtered} | alerts: {sent} | seen total: {len(seen)} | apply queue: {len(apply_queue)}")
+    print(f"Unique found: {len(ranked)} | language-filtered: {language_filtered} | sales-filtered: {sales_filtered} | alerts: {sent} | seen total: {len(seen)} | apply queue: {len(apply_queue)}")
 
 if __name__=="__main__":
     run()
