@@ -12,15 +12,16 @@ search:
 categories:
   Entry Level Sales (Guaranteed Base):
     - "remote inbound sales representative base salary"
-    - "remote sales development representative base salary"
-    - "remote business development representative base salary"
-    - "remote inside sales representative hourly"
-    - "remote sales support specialist"
-    - "remote account coordinator sales"
+    - "remote inbound sales warm leads hourly base"
+    - "remote inside sales inbound leads base salary"
+    - "remote inbound insurance sales company provided leads"
+    - "remote appointment based sales closer base salary"
+    - "remote sales consultant inbound inquiries"
     - "remote customer retention specialist sales"
-    - "remote junior account manager base salary"
-    - "remote entry level SDR base pay"
-    - "remote business development associate"
+    - "remote inbound account executive demos"
+    - "remote inbound fintech sales representative"
+    - "remote inbound sales no cold calling"
+    - "remote customer upgrade specialist hourly"
   Business Operations:
     - "business operations manager"
     - "operations manager"
@@ -137,7 +138,14 @@ profile:
     customer service: 12
     sales development: 11
     business development: 11
-    inbound sales: 12
+    inbound sales: 18
+    inbound leads: 15
+    warm leads: 14
+    qualified leads: 12
+    booked appointments: 12
+    pre scheduled appointments: 10
+    no cold calling: 12
+    company provided leads: 12
     inside sales: 9
     account management: 8
     account coordinator: 8
@@ -183,7 +191,10 @@ profile:
     100% commission: -50
     commission-based: -40
     door to door: -40
-    cold calling: -25
+    cold calling: -60
+    outbound prospecting: -45
+    self generate leads: -55
+    door knocking: -65
     insurance agent: -35
     sales executive: -30
     account executive: -25
@@ -194,6 +205,7 @@ profile:
   sales_min_guaranteed_hourly: 20
   sales_require_remote: true
   sales_prefer_international_travel: true
+  sales_require_inbound_or_interested_leads: true
   preferred_min_salary: 33280
   alert_score: 62
   priority_score: 78
