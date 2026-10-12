@@ -1,367 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 280,
+  "search_cursor": 300,
   "apply_queue": {},
   "alert_jobs": {
-    "5d8f5a5957c53a3448cf": {
-      "id": "5d8f5a5957c53a3448cf",
-      "title": "Animal Pharmacy Customer Service Call Center Agent - Remote after training~",
-      "company": "Wedgewood",
-      "location": "Swedesboro, NJ, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4474837025",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer service",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "4dcd3a0623716186b125": {
-      "id": "4dcd3a0623716186b125",
-      "title": "Remote Customer Support Rep - $60-$80k (Wealth Tech)",
-      "company": "CyberCoders",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4474848754",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer support",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "7026ca750c7e5913deae": {
-      "id": "7026ca750c7e5913deae",
-      "title": "Customer Service Representative",
-      "company": "BCforward",
-      "location": "Pennington, NJ, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477411100",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "bde07081e3084b4520c2": {
-      "id": "bde07081e3084b4520c2",
-      "title": "Customer Service Representative",
-      "company": "Eaton",
-      "location": "Changzhou-Wuxi-Suzhou Metropolitan Area",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4474825319",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "3790b9419e15dc842746": {
-      "id": "3790b9419e15dc842746",
-      "title": "Customer Service Representative (Student Enquiries)",
-      "company": "UKuni Education Services",
-      "location": "Egypt",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4474831398",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "efd725767c23aa88e753": {
-      "id": "efd725767c23aa88e753",
-      "title": "Customer Service Representative",
-      "company": "British Council",
-      "location": "Hong Kong SAR",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477143708",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "7ec8004f81a6d46512ad": {
-      "id": "7ec8004f81a6d46512ad",
-      "title": "Customer Support Representative",
-      "company": "etoro",
-      "location": "Sydney, New South Wales, Australia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4476260208",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer support",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "83774ea7f7be45f1a977": {
-      "id": "83774ea7f7be45f1a977",
-      "title": "International Voice Process \u2013 Customer Support Associate",
-      "company": "Trinity SkillWorks Private Limited",
-      "location": "Kochi, Kerala, India",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4475978055",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 69,
-      "matched_terms": [
-        "customer support",
-        "associate"
-      ],
-      "queued_at": null
-    },
-    "33d8d0f4a8f51f9ab8c2": {
-      "id": "33d8d0f4a8f51f9ab8c2",
-      "title": "Customer Service Specialists",
-      "company": "Agile Cold Storage",
-      "location": "Claymont, DE, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477428576",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "d15fb02e4813de1f1b90": {
-      "id": "d15fb02e4813de1f1b90",
-      "title": "Customer Service Specialist -Evening/Night Shift",
-      "company": "StockX",
-      "location": "Bengaluru, Karnataka, India",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4465412574",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "665deaa27a541418a6a1": {
-      "id": "665deaa27a541418a6a1",
-      "title": "Operations Coordinator",
-      "company": "EVERSANA",
-      "location": "Yardley, PA, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=9dafe67c536c20ab",
-      "job_url_direct": "https://jobs.smartrecruiters.com/EVERSANA1/744000154688798-operations-coordinator",
-      "description": "**Company Description**\n\nAt EVERSANA, we are proud to be certified as a Great Place to Work across the globe. We\u2019re fueled by our vision to create a healthier world. How? Our global team of more than 7,000 employees is committed to creating and delivering next-generation commercialization services to the life sciences industry. We are grounded in our cultural beliefs and serve more than 650 clients ranging from innovative biotech start-ups to established pharmaceutical companies. Our products, services and solutions help bring innovative therapies to market and support the patients who depend on them. Our jobs, skills and talents are unique, but together we make an impact every day. Join us!\n\nAcross our growing organization, we embrace diversity in backgrounds and experiences. Improving patient lives around the world is a priority, and we need people from all backgrounds and swaths of life to help build the future of the healthcare and the life sciences industry. We believe our people make all the difference in cultivating an inclusive culture that embraces our cultural beliefs. We are deliberate and self-reflective about the kind of team and culture we are building. We look for team members that are not only strong in their own aptitudes but also who care deeply about EVERSANA, our people, clients and most importantly, the patients we serve. We are EVERSANA.\n\n **Job Description**\n\nOur employees are tasked with delivering excellent business results through the efforts of their teams. These results are achieved by:\n\n  \n\n* Provide project management support to implement project plan activities in all systems/tools.\n* Ensure activities follow health, safety, and regulatory standards or standard operating procedures (SOPs).\n* Coordinate communication with team members, vendors and external stakeholders.\n* Maintain accurate project files, tracking systems, and records with high attention to detail.\n* Oversee onboarding activities, including Roster Management and Project set up in systems (Concur/SalesForce).\n* Manage/maintain all onboarding/offboarding tracking tasks of project teams in a timely and accurate manner.\n* Support all cross-functional tasks (e.g., CRM, Incentive Compensation, Data, Reporting) to establish project needs for end-to-end project life cycle.\n* Bridge communication with internal workstreams on documented project development strategies and milestones/deliverables.\n* Attend and participate in all internal and external project calls as directed.\n* Utilize a systematic and repeatable approach to evaluate business opportunities, identifying and removing organizational barriers.\n* Collaborate with Subject Matter Experts (SMEs) to assist in operational execution.\n* Participate in status review meetings and formal project review.\n* Work directly with the Client Engagement Director to drive issues to resolution.\n* Escalate unresolved issues to management with recommended mitigation strategies.\n* Ensure administrative needs are met and manage interdependencies with other projects.\n* Demonstrate a commitment to diversity, equity, and inclusion through continuous development and modeling inclusive behaviors.\n* Proactively manage bias in team interactions and decision-making processes.\n* Perform other duties as assigned, adapting to the evolving needs of the department.\n* Strong aptitude towards usage of automated systems.\n* Strong analytical skills.\n* Proficiency in Microsoft Office applications (SharePoint, Excel, PowerPoint, Word) as well as SmartSheet.\n* Demonstrate a commitment to diversity, equity, and inclusion through continuous development, modeling inclusive behaviors, and proactively managing bias.\n* All other duties as assigned\n\n  \n**Qualifications**\n\n**EXPECTATIONS OF THE JOB:**\n\n* **Travel** (5% )\n* **Hours** (40 hours per week,Monday-Friday)\n\n*The above list reflects the general details necessary to describe the expectations of the position and shall not be construed as the only expectations that may be assigned for the position.*\n\n*An individual in this position must be able to successfully perform the expectations listed above.*\n\n**MINIMUM KNOWLEDGE, SKILLS AND ABILITIES:**\n\nThe requirements listed below are representative of the experience, education, knowledge, skill and/or abilities required.\n\n* Minimum 3+ years of experience in client services, operational management, or account manager role.\n* Leverage knowledge of Life Sciences commercial operations team.\n* Foster an inclusive work environment by adapting communication styles to accommodate diverse values and backgrounds.\n* Actively engage with team members and clients from various cultures, ensuring respectful interactions and optimizing the benefits of a diverse workforce.\n* Maintain confidentiality and ethical standards in all interactions.\n* Adjust behaviors and approaches based on situational demands and the personalities of team members.\n* Remain flexible in managing changing priorities and project requirements.\n* Anticipate potential issues and proactively address them to ensure smooth project execution.\n* Approach emotional topics with reason and clarity, facilitating constructive discussions.\n* Demonstrate a strong commitment to achieving project goals, even in challenging circumstances.\n* Exhibit a sense of urgency in completing tasks and be willing to invest extra effort when necessary.\n* Ensure accuracy in documentation and data management, following detailed procedures meticulously.\n* Monitor processes closely to maintain high standards of quality and compliance.\n* Deliver exceptional service to clients, prioritizing their needs and addressing any service challenges promptly.\n* Exhibit excellent interpersonal and communication skills, both written and verbal, adapting to various personality types.\n* Apply project management principles to ensure successful project execution and delivery.\n* Pursue continuous improvement opportunities through proactive engagement in professional development activities.\n* Demonstrate a strong work ethic and commitment to personal growth.**PREFERRED QUALIFICATIONS:**\n* Along with demonstrated initiative, uncompromised integrity and a results-oriented mindset, the ideal candidate has: BA/BS degree or 3+ years of equivalent/relevant experience.\n* Excellent oral/written presentation skills as well as interpersonal skills with the flexibility in dealing with different personality types.\n* Strong customer service and account management skills.\n* Strong organizational and multitasking skills.\n* Fundamental understanding and application of project management principles and skills.\n* Ability to translate customer needs into technical requirements.\n* The drive for self-development, the ability to collaborate, and an action-oriented work ethic.\n\n  \n**Additional Information**\n\n**OUR CULTURAL BELIEFS**\n\n**Patient Minded** I act with the patient\u2019s best interest in mind.\n\n**Client Delight** I own every client experience and its impact on results.\n\n**Take Action** I am empowered and hold myself accountable.\n\n**Embrace Diversity** I create an environment of awareness and respect.\n\n**Grow Talent** I own my development and invest in the development of others.\n\n**Win Together** I passionately connect with anyone, anywhere, anytime to achieve results.\n\n**Communication Matters** I speak up to create transparent, thoughtful, and timely dialogue.\n\n**Always Innovate** I am bold and creative in everything I do.\n\nOur team is aware of recent fraudulent job offers in the market, misrepresenting EVERSANA. Recruitment fraud is a sophisticated scam commonly perpetrated through online services using fake websites, unsolicited e-mails, or even text messages claiming to be a legitimate company. Some of these scams request personal information and even payment for training or job application fees. Please know EVERSANA would never require personal information nor payment of any kind during the employment process. We respect the personal rights of all candidates looking to explore careers at EVERSANA.\n\nEVERSANA is committed to providing competitive salaries and benefits for all employees. If this job posting includes a base salary range, it represents the low and high end of the salary range for this position and is not applicable to locations outside of the U.S. Compensation will be determined based on relevant experience, other job-related qualifications/skills, and geographic location (to account for comparative cost of living). This role is eligible for hire in select U.S. locations based on business and operational considerations. For a full list of locations, visit eversana.com/careers. More information about EVERSANA\u2019s benefits package can be found at eversana.com/careers. EVERSANA reserves the right to modify this base salary range and benefits at any time.\n\nFrom EVERSANA\u2019s inception, Diversity, Equity & Inclusion have always been key to our success. We are an Equal Opportunity Employer, and our employees are people with different strengths, experiences, and backgrounds who share a passion for improving the lives of patients and leading innovation within the healthcare industry. Diversity not only includes race and gender identity, but also age, disability status, veteran status, sexual orientation, religion, and many other parts of one\u2019s identity. All of our employees\u2019 points of view are key to our success, and inclusion is everyone's responsibility.\n\nConsistent with the Americans with Disabilities Act (ADA) and applicable state and local laws, it is the policy of EVERSANA to provide reasonable accommodation when requested by a qualified applicant or candidate with a disability, unless such accommodation would cause an undue hardship for EVERSANA. The policy regarding requests for reasonable accommodations applies to all aspects of the hiring process. If reasonable accommodation is needed to participate in the interview and hiring process, please contact us at applicantsupport@eversana.com.\n\nFollow us on LinkedIn | Twitter",
-      "salary": "\ud83d\udcb0 70000.0\u201385000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "representative",
-        "administrative",
-        "coordinator",
-        "documentation",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "f8d3e75c81ec85edf532": {
-      "id": "f8d3e75c81ec85edf532",
-      "title": "Admissions Coordinator",
-      "company": "True Behavioral Health LP",
-      "location": "Irvine, CA, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=d3db8bf91162f9c3",
-      "job_url_direct": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9fbe6a01-2ea5-45bb-9082-c387ec504caa&ccId=19000101_000001&jobId=575794&source=IN&lang=en_US",
-      "description": "First Responder Wellness is seeking an organized, compassionate, and highly responsive Admissions Coordinator to support the day-to-day operations of the Admissions Department. This position serves as an initial point of contact for prospective clients, families, first responder departments, peer-support teams, EAPs, and referral partners seeking information about treatment services.\n\nThe Admissions Coordinator manages incoming inquiries, gathers preliminary client and insurance information, coordinates admissions assessments, supports benefits verification, maintains accurate documentation, and facilitates communication throughout the admissions process.\n\nThe ideal candidate understands\u2014or is eager to learn\u2014the unique culture and needs of first responders and public safety professionals and can recognize situations requiring prompt escalation to clinical or admissions leadership.\n\n**Schedule:** Flexible schedule, overtime opportunities may be available based on business needs.\n\n**This position may be performed remotely. Candidates located in Orange County, CA will work from our Irvine office.**\n\n**Key Responsibilities**\n\n* Respond promptly and professionally to phone calls, texts, emails, website inquiries, and referrals.\n* Serve as the initial point of contact for prospective clients, families, departments, peer-support representatives, EAPs, and referral partners.\n* Gather demographic, behavioral health, substance use, treatment history, insurance, and referral information.\n* Identify potential behavioral health, medical, safety, intoxication, or withdrawal concerns and escalate appropriately.\n* Provide general information about programs, levels of care, admission requirements, expectations, and next steps within the scope of the role.\n* Schedule comprehensive admissions assessments with Admissions Counselors and Sr. Admissions Counselors.\n* Obtain insurance information and assist with verification of benefits.\n* Coordinate with Admissions, Billing, Utilization Review, Clinical/Medical, and other departments as needed.\n* Maintain accurate and timely documentation in Salesforce, the electronic health record, Call Tracking Metrics, and other systems.\n* Conduct appropriate follow-up with prospective clients, families, and referral sources.\n* Assist with admission dates, arrival information, transportation coordination, required documentation, and other logistics.\n* Maintain continuity of communication when cases are transferred between team members or shifts.\n* Provide appropriate non-clinical resources and referral information as directed.\n* Maintain knowledge of behavioral health, substance use treatment, levels of care, insurance processes, and referral resources.\n* Develop and demonstrate cultural competency related to first responders, public safety professionals, veterans, families, and peer-support teams.\n* Maintain professional boundaries and distinguish admissions support from clinical assessment or treatment recommendations.\n* Manage assigned leads, communications, tasks, and follow-up independently and effectively.\n* Participate in required meetings, training, continuing education, and organizational activities.\n* Maintain HIPAA compliance, confidentiality, professional boundaries, and ethical standards.\n* Perform other duties as assigned.\n\n**Minimum Qualifications**\n\n* High school diploma or equivalent required.\n* Experience in behavioral health, substance use treatment, healthcare admissions, intake, customer service, crisis services, or a related field preferred.\n* Experience working independently in a remote environment preferred.\n* Knowledge of behavioral health and/or substance use treatment preferred.\n* Knowledge of first responder/public safety culture preferred; willingness to complete required cultural competency training required.\n* Ability to complete required behavioral health, crisis recognition, first responder cultural competency, peer-support, and/or CISM training.\n* Strong computer skills and ability to work across multiple electronic systems.\n* Ability to maintain required organizational training and certifications.\n\n**Key Competencies**\n\n* Excellent communication, telephone presence, and rapport-building skills.\n* Strong organization, time management, and attention to detail.\n* Ability to manage multiple priorities, leads, and communications simultaneously.\n* Ability to work independently while recognizing when consultation or escalation is necessary.\n* Sound judgment and ability to follow established admissions procedures.\n* Cultural sensitivity when working with first responders, public safety professionals, veterans, families, and diverse populations.\n* Ability to recognize potential behavioral health and safety concerns while remaining within role boundaries.\n* Strong written and verbal communication skills.\n* Proficiency with Salesforce, EHR systems, Call Tracking Metrics, Microsoft Office/Outlook, and similar technology preferred.\n* Knowledge of insurance verification and behavioral health benefits preferred.\n* Dependability, professionalism, discretion, accountability, and commitment to confidentiality.\n\n**Remote Work Requirements**\n\n* Reliable high-speed internet/Wi-Fi and telephone access.\n* Private, quiet, professional workspace suitable for confidential healthcare communications.\n* Ability to maintain HIPAA-compliant privacy and information security.\n* Reliable availability and responsiveness during scheduled working hours.\n* Ability to independently manage time, workload, documentation, and follow-up.\n* Ability to promptly communicate technology, internet, telephone, or environmental issues that affect job performance.",
-      "salary": "\ud83d\udcb0 22.0\u201326.0 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "representative",
-        "coordinator",
-        "documentation",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "bf7f0067a4d83aac4c9d": {
-      "id": "bf7f0067a4d83aac4c9d",
-      "title": "Channel Sales - Sales Support Coordinator",
-      "company": "Career Certified",
-      "location": "Remote, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=f96e1b39ad222616",
-      "job_url_direct": "https://jobs.dayforcehcm.com/en-US/ccertified/CANDIDATEPORTAL/jobs/1222",
-      "description": "Job Description \u2013 Sales Support\u202fCoordinator\n  \n  \n**Division / Department:** \u202fChannel Sales\n  \n**Reports to (position):** \u202fSales Operations Manager\n  \n**Level / Grade:** \u202fIndividual Contributor\n  \n**Location:** \u202fCandidate must live in the US\n  \n**Employment Type:** \u202fFull Time, Non-Exempt\n  \n**Work Conditions:** \u202fOffice Environment/Remote\n  \n**Travel:** \u202fUp to 10%\n  \n**Telecommute:** \u202fYes\n  \n**Minimum Educational Required:** \u202fHS Diploma / GED. 2 year associate degree in a related field is preferred.\n  \n**Years of Experience:** \u202f1-3 years of experience in a similar or related position\n  \n  \n**Position Summary:**  \nThe Sales\u202fSupport\u202fCoordinator\u202fis responsible for coordinating efforts within and supporting all sales activity within the channel sales department to ensure that sales personnel have necessary data, marketing collateral and sales support for success. The Sales\u202fSupport\u202fCoordinator will follow routine processes and handle detailed information to support sales personnel and customers.\n  \n  \n**Essential Functions/ Job Responsibilities:**  \nPerform miscellaneous clerical and administrative duties (proposals, contracts, data entry, reporting, system management, providing product information and training, qualifying leads and scheduling appointments, etc.) to assist with the daily operation of the channel sales team.\n  \n  \nProvide customer service to the sales team and their customers on existing products and services.\n  \n  \nAssist with list development and lead nurturing as well as the implementation of marketing plans for partners to ensure all is in compliance with our overall strategy.\n  \n  \nSupport the logistics (booth preparation, scheduling, shipping materials and collateral, etc.) and coordination of event planning and conferences that The CE Shop participates in.\n  \n  \nAssist in the development and coordination of collateral materials, optimizing campaigns, and supporting sales procedures and sales on-boarding of new business.\n  \n  \n**Skills Required:**  \nExperience and independent judgment is required to plan, prioritize, meet deadlines and organize diversified workloads.\n  \n  \nCompose, type, and edit correspondence, reports, presentations, and other material.\n  \n  \nHandle routine and non-routine information and explain policies or processes when necessary.\n  \n  \nOrganize and prioritize data and information into creative and logical sequence.\n  \n  \nStrong interpersonal skills.\n  \n  \n**Minimum Requirements:**  \nData entry experience.\n  \n  \nExtremely detail oriented and well-organized.\n  \n  \nAbility to work independently as well as within a team setting.\n  \n  \nProject management experience.\n  \n  \nExcellent written and verbal communication skills.\n  \n  \nKnowledge and familiarity with standard concepts, practices and procedures within the sales field.\n  \n  \n**Technical Skills Required:**  \nAbove average proficiency with MS Office Suite of products (MS Word, Excel, PowerPoint) and SalesForce\n  \n  \nGoogle platform (GoogleDocs, Google Mail, Google Calendar, Google Hangout)\n  \n  \nFamiliar with Adobe solutions suites\n  \n  \nSkills necessary to operate standard office equipment\n  \n  \n**Supervisory Responsibility:**  \nThis position does not supervise the work of others.\n  \n  \n**Internal and External Interaction:**  \nThis position interacts with peers both in and out of department and their immediate manager on a regular basis.\u202fThey may interact with customers and vendors directly in escalation or support situations in a large geographical area. They may interact with Managers in other departments.\n  \n  \n**Physical Requirements:**  \nThe physical demands of this position are representative of those that must be met by an employee to successfully perform essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.",
-      "salary": "\ud83d\udcb0 19.0\u201322.0 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "representative",
-        "associate",
-        "scheduling",
-        "appointment",
-        "data entry",
-        "administrative"
-      ],
-      "queued_at": null
-    },
-    "4cebd186e6413e96bc7b": {
-      "id": "4cebd186e6413e96bc7b",
-      "title": "Customer Experience Account Manager",
-      "company": "Veolia",
-      "location": "Hatfield, PA, USA",
-      "category": "Management and Supervisory",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=1fb04c6502bf9183",
-      "job_url_direct": "https://jobs.smartrecruiters.com/EnviriCorporation/744000154674869-customer-experience-account-manager-",
-      "description": "**Company Description**\n\nVeolia has acquired Clean Earth. As Clean Earth completes its integration into Veolia, recruiting and hiring for this role is being managed in partnership with the Clean Earth talent acquisition team. Veolia in North America is the top-ranked environmental company in the United States for three consecutive years, and the country\u2019s largest private water operator and technology provider as well as hazardous waste and pollution treatment leader. It offers a full spectrum of water, waste, and energy management services, including water and wastewater treatment, commercial and hazardous waste collection and disposal, energy consulting and resource recovery. Veolia helps commercial, industrial, healthcare, higher education and municipality customers throughout North America. Headquartered in Boston, Veolia has more than 10,000 employees working at more than 350 locations across North America.\n\n **Job Description**\n\nThe Customer Experience Account Manager (CXAM) serves as a strategic commercial liaison aligned with the sales team to proactively manage customers within a designated territory. This role is pivotal in delivering Clean Earth\u2019s best-in-class service experience, fostering long-term partnerships, and driving customer growth. The CXAM is accountable for mitigating churn, expanding share of wallet, and ensuring customer satisfaction through proactive engagement and data-driven insights.\n\n**Primary Responsibilities** (Essential Functions):\n\n**Customer Relationship Management** Serve as the primary relationship owner for assigned territory accounts.\n\nEngage with customer to understand their needs/preferences and ensure we deliver accordingly as an organization.\n\nManage account performance against territory quota and roster metrics.\n\nConduct regular customer business reviews and present strategic insights cross-functionally.\n\n**Retention & Growth**\n\nProactively reduce churn and identify opportunities to expand service offerings. o Quote accounts using the existing price book and strategic account approach. o Answer customer questions and address concerns in an effective and timely manner.\n\n**Operational Excellence** Monitor account health through analytics and proactive engagement. Drive lifecycle management for profiles, contracts, AR status, and onboarding of new accounts. Collaborate with CX Specialists to ensure order completeness and fulfillment.\n\n**Cross-Functional Collaboration** Partner with regional Territory Account Managers (TAMs) to generate new profiles and communicate approval status. Escalate service issues using the customer complaint tool and ensure closed-loop resolution. Support pricing alignment, invoice accuracy, and SLA adherence.\n\n**Reporting & Insights** Generate actionable customer and performance reports to support operational and financial goals. o Track customer satisfaction and monitor account performance. \uf0b7\n\n**Leadership & Mentorship** Mentor team members as assigned by management. o Lead team huddles and meetings as requested. Perform other related tasks as assigned.\n\n **Qualifications**\n\n**Basic Required Qualifications:**\n\nBachelor\u2019s degree in business, Environmental Sciences, Marketing, or related field (or equivalent experience).\n\nMinimum 3 years in customer service or account management (5 years with high school diploma). \uf0b7\n\nStrong communication, analytical, and organizational skills.\n\nProficiency in CRM Microsoft Office Suite.\n\nWillingness to travel up to 30%. Preferred Qualifications:\n\n**Preferred Qualifications:**\n\nFamiliarity with regulatory frameworks such as RCRA, DOT, DEA, and OSHA\n\nExperience with SalesForce.com or familiarity with a related CRM system and practices\n\n **Additional Information**\n\nClean Earth offers competitive benefits including health, dental, vision, life, and disability insurance plans starting on the first day of employment; paid time off, wellness benefits, employee discount program, and tuition assistance.\n\nWe provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, veteran status, gender identity, or genetics. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\n\nIf you have a difficulty applying for any job posted on Harsco Clean Earth\u2019s website because a disability prevents you from using the online system, Clean Earth offers the following alternate application procedure: Call toll free (833) 209-2659 and leave your name, phone number, city and state of residence. Clean Earth will arrange for an alternate method of applying and will consider your application together with all other applications received for the job. *This line is dedicated to disability applications only. No other inquiries will receive a response.*",
-      "salary": "\ud83d\udcb0 55000.0\u201365000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "specialist",
-        "recruiting",
-        "talent acquisition",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "37e2a425bd89dd81cd6b": {
-      "id": "37e2a425bd89dd81cd6b",
-      "title": "Office Coordinator",
-      "company": "WES Health System",
-      "location": "Collingswood, NJ, USA",
-      "category": "Management and Supervisory",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=ffdddbbc5e41aff8",
-      "job_url_direct": "https://apply.workable.com/j/0AC7D4A9C8",
-      "description": "GENERAL OVERVIEW OF KEY ROLES & RESPONSIBILITIES:\n\nThe Office Coordinator provides administrative and front-office support to the Multi-Therapy Services (MTS), ensuring efficient daily office operations and providing administrative support to program and clinical staff. The position coordinates office communications and appointment scheduling, processes billing and encounter submissions, maintains accurate electronic records, and serves as a primary point of contact for clients, families, staff, referral sources, and external agencies. The Office Coordinator is expected to maintain a professional, organized, and customer-service-oriented office environment while ensuring administrative responsibilities are completed accurately and tin1ely.\n\nESSENTIAL & CORE FUNCTIONS:\n\n1. Provide administrative support for insurance/Medicaid billing activities.\n\n2. Monitor billing and encounter documentation for completeness and accuracy.\n\n3. Complete and submit required encounters to the New Jersey Department of Children and Families\n\n4. Maintain and organize electronic client and program records.\n\n5. Perform electronic filing and ensure documents are maintained in the approp1iate electronic record.\n\n6. Provide administrative support to behavioral health program staff.\n\n7. Assist with maintaining accurate and timely program documentation.\n\n8. Operate standard office equipment and maintain an organized front-office environment.\n\n9. Utilize Microsoft 365, Outlook, Google Docs, and Excel to complete daily administrative functions.\n\n10. Maintain confidentiality of client, employee, billing, and program information in accordance with applicable policies and regulations.\n\n11. Communicate professionally with clients, families, staff, providers, referral sources, and external agencies.\n\n12. Perform other administrative duties as assigned by MTS leadership.\n\nADDITIONAL RESPONSIBILITIES:\n\n**1.** Performs other duties and special projects as assigned.\n\nPREREQUISITES & QUALIFICATIONS FOR THE POSITION:\n\n1. High school diploma or GED required. Medical Office Administration/Medical Office training required. Associate degree in Business Administration, Healthcare Administration, Human Services, or a related field a plus.\n\n2. Valid FBI clearance, criminal history check and child abuse history clearance required.\n\nCOMPETENCIES & PERSONAL CHARACTERISTICS\n\n1. Solid oral and written communication skills include business writing, proper grammar and spelling.\n\n2. Good organization skills including the ability to prioritize work and manage conflicting deadlines.\n\n3. The ability to work well with others.\n\n4. The ability to handle conflicts with diplomacy and tact.\n\n5. The ability to listen and evaluate objectively.\n\nORGANIZATIONAL ACCOUNTABILITY & RELATIONSHIPS:\n\n**1.** The individual is to be supervised by the Director of the Program or designee.\n\nPHYSICAL DEMANDS:\n\nThe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n\nWhile performing the duties of this job, the employee is occasionally required to stand; walk; sit; use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; climb stairs; balance; stoop, kneel, crouch or crawl; talk or hear; taste or smell. The employee must occasionally lift and/or move up to 25 pounds.\n\nSpecific vision abilities required by the job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.\n\nWORK ENVIRONMENT:\n\nWork environment characteristics described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n\nWhile performing the duties of this job, the employee is exposed to weather conditions prevalent at the time. The noise level in the work environment is usually moderate.\n\nGENERAL SIGN OFF:\n\nThe employee is expected to adhere to all agency policies and to act as a role model in the adherence to agency policies.\n\nI have read and understand this explanation and job desc1iption. Print Name:\n\nSignature: Date: **\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_**\n\nHuman Resources/Management Signature:",
-      "salary": "",
-      "match_score": 99,
-      "matched_terms": [
-        "representative",
-        "associate",
-        "scheduling",
-        "appointment",
-        "administrative",
-        "coordinator",
-        "documentation"
-      ],
-      "queued_at": null
-    },
-    "b3fb50bd3352c35a322b": {
-      "id": "b3fb50bd3352c35a322b",
-      "title": "Operations Manager \u2014 Washington, DC | ALEET",
-      "company": "Aleet",
-      "location": "Washington, DC, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=43f54d27054dc68d",
-      "job_url_direct": "",
-      "description": "**Position:** Pre-Launch Operations Manager\n\n**About ALEET**\n\nALEET is a private transportation platform offering membership-based and direct-booking chauffeur services. We\u2019re establishing our initial operations in the Washington, DC metropolitan area, with plans to expand into additional cities.\n\n**Position Overview**\n\nWe\u2019re seeking an Operations Manager to join ALEET ahead of its initial rollout and take responsibility for coordinating day-to-day operations as our membership base grows.\n\nThe position is established before operational activation, allowing the selected candidate to become familiar with the company and its executive team before regular responsibilities begin.\n\n**Responsibilities**\n\n* Oversee daily transportation operations in the DMV area.\n* Coordinate chauffeur and transportation provider availability, scheduling, and service issues.\n* Manage customer support and resolve escalated concerns.\n* Monitor bookings, ride fulfillment, and service quality.\n* Work with ALEET\u2019s automated systems to manage routine operational activity.\n* Coordinate with the executive team and support operational improvements.\n* Assist with local expansion and additional operational staffing as demand increases.\n\n**Compensation & Activation**\n\nCompensation and responsibilities increase according to ALEET\u2019s active paid membership base.\n\n* **Before 15 memberships:** No regular operational duties or salary. Optional Tuesday and Friday executive meetings for familiarization.\n* **15 memberships:** Initial paid operational responsibilities begin.\n* **30 memberships:** Compensation and responsibilities increase.\n* **60 memberships:** Full Operations Manager compensation reaches $4,000 per month ($48,000 annualized).\n\nThe initial rollout is targeted within approximately three months. Actual activation depends on company membership growth rather than a guaranteed calendar date.\n\nCompensation for the intermediate stages will be established in the employment agreement before paid responsibilities begin.\n\n**Qualifications**\n\n* Experience in operations management, logistics, transportation, hospitality, or service coordination.\n* Strong organizational and problem-solving abilities.\n* Ability to manage customer concerns professionally.\n* Comfortable coordinating independent service providers and working with automated systems.\n* Strong communication skills and ability to work independently.\n* Experience with premium transportation or chauffeur services is a plus.\n\n**Growth Opportunity**\n\nThe position initially focuses on the Washington, DC metropolitan area. As ALEET expands, additional responsibilities overseeing other cities or operational teams may become available, with compensation discussed separately.\n\nWe\u2019re looking for someone interested in establishing a long-term operational role within a growing transportation company.\n\nPay: Up to $48,000.00 per year\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 \u201348000.0 USD/yearly",
-      "match_score": 97,
-      "matched_terms": [
-        "customer support",
-        "scheduling",
-        "staffing",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "3c5e1ac6ab922f4a599b": {
-      "id": "3c5e1ac6ab922f4a599b",
-      "title": "Billing Operations Team Leader (Manager)",
-      "company": "Ely Bloomenson Community Hospital",
-      "location": "Remote, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=5e050aff976b76f7",
-      "job_url_direct": "https://gethired.com/job/billing-operations-supervisor?rcid=inply",
-      "description": "***Full-Time | Monday\u2013Friday | 40 Hours/Week | $65,000\u2013$70,000 Annually | 100% Remote Within Minnesota***\n\nAre you an experienced healthcare billing professional with leadership experience ready to take on the next step in your career without giving up the flexibility of working from home? Ely-Bloomenson Community Hospital is seeking a Billing Operations Team Leader (Manager) who works fully remote and who provides operational and personnel leadership for the Business Office, ensuring efficient, compliant, and customer focused billing operations. This position oversees departmental workflows, supervises staff performance, promotes continuous process improvement, monitors key performance indicators, and collaborates with organizational leaders to support financial stewardship, regulatory compliance, and exceptional patient service. The ideals candidate is a confident healthcare billing leader who enjoys developing people, solving problems, analyzing data, improving processes, and working collaboratively across an organization. The Billing Operations Team Leader serves as a resource for staff, supports organizational initiatives, and acts on behalf of the department leadership as assigned.\n\nAt Ely-Bloomenson Community Hospital (EBCH), we believe in delivering exceptional care to every patient, every time, and that starts with supporting our team. We offer competitive pay, outstanding benefits, and a healthy work-life balance. Whether you\u2019re providing direct patient care or supporting hospital operations, you\u2019ll be part of a team that values excellence and professional growth.\n\n**Responsibilities**\n\n* Provides day-to-day leadership for the Business Office by establishing priorities, coordinating departmental operations, communicating organizational initiatives and fostering a collaborative, accountable, and positive work environment.\n* Oversees Business Office operations to ensure accurate billing, reimbursement accounts receivable management, and compliance with federal, state, and third-party payer requirements.\n* Ensures compliance with applicable regulatory requirements, through monitoring, education, auditing, and process improvement.\n* Monitors key performance indicators, and implements corrective actions as needed.\n* Collaborates with clinical, operational, and financial leaders to improve billing performance, resolve complex issues, and support organizational initiatives.\n* Serves as an escalation resource for complex patient account concerns, promoting effective communication, financial transparency, and positive customer services experiences.\n* Develops, implements, and maintains departmental policies, procedures, and standardized workflows that promote consistency, compliance, and operational effectiveness.\n* Oversees the administration, maintenance, and optimization of departmental technology systems, including Epic, Experian, Availity, payer portals, and other Business Office applications. Ensures system functionality through user access management, issue resolution, coordination with IT and vendors, and submission and follow-up of system support requests.\n* Leads departmental implementation of organizational initiatives, regulatory changes, and workflow improvements in line with industry best practices, while effectively managing changes and supporting staff through transitions.\n* Provides operational support to the Business Office team by performing essential billing cycle functions, including but not limited to prior authorization processing, payer credentialing, and other responsibilities as needed to ensure continuity of operations and exceptional customer service.\n* Serves as operational backup to the Revenue Cycle Director by providing leadership continuity, supporting departmental oversight and assuming delegated responsibilities to ensure uninterrupted department operations.\n\n**Leadership/Management Responsibilities**\n\n* Provides leadership and accountability for departmental operations in alignment with the organization's mission, values, policies, and regulatory requirements.\n* Establishes clear expectations and leads assigned staff through coaching, performance management, professional development, and corrective action as appropriate.\n* Communicates and collaborates effectively across departments, exercises sound judgment in decision-making, and contributes to organizational initiatives.\n* Demonstrates fiscal responsibility through effective resource management and adherence to approved budgets, as applicable to the role.\n* Partners with Human Resources to support recruitment, selection, and onboarding to ensure staffing needs are met with qualified talent.\n* Partners with Human Resources on employee relations matters, performance management, policy interpretation, corrective actions, leave administration, and other employment-related issues.\n\n**Wage**\n\n* $65,000 - $70,000 annually\n\n**Schedule**\n\n* Monday \u2013 Friday, 40 hours per week. Remote in Minnesota.\n\n**Full-time Benefits**\n\n* Generous paid vacation, sick and safe time, and several paid holidays!\n* Medical Insurance Plans through Blue Link with up to $4,000 annual HSA EBCH Contribution (based on plan enrollment)\n* Dental Insurance\n* Vision Insurance \u2013 Policy paid 100% by EBCH\n* 403(b) Retirement Plan with EBCH Contribution\n* Health Care and Dependent Care FSA\n* Short-term and Long-term Disability Insurance \u2013 Policies paid 100% by EBCH\n* $75,000 Life and AD&D Insurance Plan - Policies paid 100% by EBCH\n* Optional Supplemental Life Insurance for you and your family at a low rate\n* On-site Employer Daycare with Employee Discounted Rates\n* Bucketlist Rewards & Employee Recognition Program\n* Employee Assistance Program\n* *Benefits and eligibility may vary based on FTE status. Daycare enrollment based on availability*\n\n**Required Qualifications**\n\n* Minimum Associates degree in finance or a related field is required; equivalent relevant work experience may be considered in lieu of education, at the discretion of EBCH.\n* 3-5 years of experience in Critical Access Hospital billing.\n* 2-4 years of experience of leadership or supervisory experience, preferably withing a healthcare billing, business office, or related setting.\n* Extensive knowledge of Medicare, Medical Assistance, and other third-party payor rules and regulations and their billing requirements.\n* Knowledge in CPT and ICD codes, and medical terminology.\n* Knowledge of state and federal billing and collection laws.\n\n**Preferred Qualifications**\n\n* Bachelor\u2019s degree in Health Administration, Business, or related field.\n\n**About EBCH**\n\nWe\u2019re more than a healthcare provider, we\u2019re a close-knit team dedicated to caring for our neighbors and strengthening the community we call home. Guided by our mission to enhance the health and well-being of the community we serve, we take pride in delivering compassionate, high-quality care close to home.\n\nOur team embodies values of excellence, balance, compassion, and honor. We listen to our patients and each other, support personal and professional growth, and celebrate individuality. At EBCH, you\u2019ll find a workplace where you\u2019re valued, trusted, and empowered to make a difference every day \u2014 both inside and outside the hospital walls.\n\n*Job offers are contingent upon successful completion of passing a background study, fingerprinting, and reference check process. EBCH is committed to maintaining a work environment free from the influence of illegal drugs and alcohol.*",
-      "salary": "\ud83d\udcb0 65000.0\u201370000.0 USD/yearly",
-      "match_score": 96,
-      "matched_terms": [
-        "customer service",
-        "associate",
-        "staffing",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "d8d7b2ebed8541d64f4e": {
-      "id": "d8d7b2ebed8541d64f4e",
-      "title": "Financial Operations Specialist",
-      "company": "Smokey Mo's BBQ",
-      "location": "Remote, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=687624eafc424230",
-      "job_url_direct": "",
-      "description": "**Job Overview**\n\nWe are seeking a dynamic and detail-oriented Financial Operations Specialist to join our finance team. In this pivotal role, you will be responsible for managing core financial processes, ensuring accuracy in accounting records, and supporting compliance with industry standards and regulations. Your expertise will help streamline financial workflows, enhance data integrity, and contribute to the overall financial health of our organization. This position offers an exciting opportunity to apply your technical accounting skills and financial software knowledge in a fast-paced environment committed to excellence.\n\n**Responsibilities**\n\n* Manage accounts payable and receivable processes, ensuring timely and accurate transactions using financial software such as Workday, Paychex, ADP, Kronos, UltiPro, Sage, Xero, PeopleSoft, Ceridian, and QuickBooks.\n* Perform balance sheet reconciliations and general ledger accounting to maintain precise financial records aligned with GAAP (Generally Accepted Accounting Principles) and governmental accounting standards.\n* Process journal entries and conduct account analysis to support month-end close activities and financial reporting.\n* Reconcile accounts receivable and payable, ensuring proper account classification and data entry accuracy while handling confidential information securely.\n* Assist with payroll management tasks including payroll data entry, payroll system administration, and compliance with tax regulations.\n* Support internal controls related to SOX (Sarbanes-Oxley Act) compliance by documenting processes and conducting audits as needed.\n* Utilize advanced Excel data analysis skills for reporting, budgeting support, and financial data review to inform decision-making.\n* Collaborate across departments to ensure accurate bookkeeping, account reconciliation, and adherence to financial policies.\n* Handle customer service inquiries related to billing or account issues promptly and professionally.\n\n**Experience**\n\n* Proven experience in accounting or finance roles with a strong understanding of corporate accounting practices and financial concepts.\n* Familiarity with various accounting systems such as QuickBooks, Xero, Sage, PeopleSoft or similar platforms is highly desirable.\n* Experience working with payroll systems like ADP or UltiPro is preferred.\n* Knowledge of governmental accounting standards or non-profit accounting is a plus.\n* Demonstrated ability to perform detailed account reconciliation, balance sheet reconciliation, journal entries, and double-entry bookkeeping accurately.\n* Strong numeracy skills combined with proficiency in Microsoft Office applications\u2014especially Excel\u2014for data analysis and reporting purposes.\n* Prior exposure to public accounting or financial services environments will be advantageous.\n* Excellent organizational skills with the ability to handle multiple tasks efficiently while maintaining confidentiality of sensitive information.\n\nJoin us as a Financial Operations Specialist if you\u2019re passionate about precision in finance operations and eager to contribute your expertise within a vibrant team dedicated to operational excellence!\n\nPay: $49,100.00 - $59,200.00 per year\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 49100.0\u201359200.0 USD/yearly",
-      "match_score": 95,
-      "matched_terms": [
-        "customer service",
-        "specialist",
-        "data entry",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
     "1cf3911f665fd5bd67ca": {
       "id": "1cf3911f665fd5bd67ca",
       "title": "Remote Logistics Administrative Assistant",
@@ -5225,6 +4866,332 @@
       "matched_terms": [
         "customer service",
         "coordinator"
+      ],
+      "queued_at": null
+    },
+    "62bbb4beb765a9359be2": {
+      "id": "62bbb4beb765a9359be2",
+      "title": "Junior Customer Service Representative (Remote)",
+      "company": "StaffingPro Inc.",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4478501044",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 86,
+      "matched_terms": [
+        "customer service",
+        "representative",
+        "staffing",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "798440b4806bacc1d44a": {
+      "id": "798440b4806bacc1d44a",
+      "title": "Customer Support Specialist (Remote UK)",
+      "company": "CV-BRIDGE LTD",
+      "location": "UK",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477287829",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 77,
+      "matched_terms": [
+        "customer support",
+        "specialist",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "81656b9db8ec49a9e0cf": {
+      "id": "81656b9db8ec49a9e0cf",
+      "title": "Customer Support Representative",
+      "company": "CASAFARI",
+      "location": "Portugal",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475682368",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer support",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "a85978d4973a72d23348": {
+      "id": "a85978d4973a72d23348",
+      "title": "Customer Support Representative with Hungarian and English",
+      "company": "TELUS Digital",
+      "location": "Sofia, Sofia City, Bulgaria",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4423391600",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer support",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "935e7395272ac146554e": {
+      "id": "935e7395272ac146554e",
+      "title": "Customer Service Representative",
+      "company": "Mitrade",
+      "location": "Greater Melbourne Area",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477514127",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "b0e9f0ed7dc89ac1bc6a": {
+      "id": "b0e9f0ed7dc89ac1bc6a",
+      "title": "Customer Service Representative (2-4 LPA)",
+      "company": "InstaLaxmi",
+      "location": "Thane, Maharashtra, India",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475662480",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "c3a0158d1ef4f2821113": {
+      "id": "c3a0158d1ef4f2821113",
+      "title": "Customer Service Representative | Fresher | Game & Livestream Project)",
+      "company": "Concentrix",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4418072505",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "758961f42d5d6d0954e8": {
+      "id": "758961f42d5d6d0954e8",
+      "title": "Customer Support Representative",
+      "company": "Swooped",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4478379108",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer support",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "955d4d68a7d09381825b": {
+      "id": "955d4d68a7d09381825b",
+      "title": "Customer Service Specialist",
+      "company": "BIGO",
+      "location": "Poland",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477527296",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "3d51fb08656d32f62bdc": {
+      "id": "3d51fb08656d32f62bdc",
+      "title": "Customer Care Representative",
+      "company": "LG Home Comfort",
+      "location": "Mumbai, Maharashtra, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4476020045",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer care",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "ec198eddb06430d7ae4d": {
+      "id": "ec198eddb06430d7ae4d",
+      "title": "Trading Complaints Specialist (Customer Service)",
+      "company": "Hytech",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4478508066",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "53923b683dba160599c0": {
+      "id": "53923b683dba160599c0",
+      "title": "Customer Support Specialist",
+      "company": "GamblingCareers.com",
+      "location": "Waverly, MI, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4478366537",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "65b2de4dfa54719472b2": {
+      "id": "65b2de4dfa54719472b2",
+      "title": "Customer Service Officer - Crypto",
+      "company": "CFI Financial Group",
+      "location": "Amman, Jordan",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4465735524",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "customer service",
+        "crypto"
+      ],
+      "queued_at": null
+    },
+    "411258f0cc095f054b1e": {
+      "id": "411258f0cc095f054b1e",
+      "title": "B2B SaaS Customer Success Specialist-REMOTE",
+      "company": "FigPii",
+      "location": "Venezuela",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477513644",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "specialist",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "32cb8bba7cbdd5b46348": {
+      "id": "32cb8bba7cbdd5b46348",
+      "title": "REMOTE Enterprise SaaS Support Specialist - $60-$80k(WealthTech)",
+      "company": "CyberCoders",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475671536",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "specialist",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "a79f5879e4ee33381234": {
+      "id": "a79f5879e4ee33381234",
+      "title": "Senior Associate, Product Strategy and Operations",
+      "company": "Hamilton Lane",
+      "location": "Conshohocken, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4449782715",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 64,
+      "matched_terms": [
+        "associate",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "207e80eed6616b396f6c": {
+      "id": "207e80eed6616b396f6c",
+      "title": "Customer Care Operations Lead",
+      "company": "Genki",
+      "location": "Thailand",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4478350043",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 63,
+      "matched_terms": [
+        "customer care",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "ceef0d7d9c5770e575c2": {
+      "id": "ceef0d7d9c5770e575c2",
+      "title": "Customer Support Executive",
+      "company": "OYELA",
+      "location": "Gurugram, Haryana, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477517782",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
       ],
       "queued_at": null
     }
