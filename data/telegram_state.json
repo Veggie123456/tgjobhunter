@@ -1,341 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 277,
+  "search_cursor": 297,
   "apply_queue": {},
   "alert_jobs": {
-    "81656b9db8ec49a9e0cf": {
-      "id": "81656b9db8ec49a9e0cf",
-      "title": "Customer Support Representative",
-      "company": "CASAFARI",
-      "location": "Portugal",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4475682368",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer support",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "a85978d4973a72d23348": {
-      "id": "a85978d4973a72d23348",
-      "title": "Customer Support Representative with Hungarian and English",
-      "company": "TELUS Digital",
-      "location": "Sofia, Sofia City, Bulgaria",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4423391600",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer support",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "935e7395272ac146554e": {
-      "id": "935e7395272ac146554e",
-      "title": "Customer Service Representative",
-      "company": "Mitrade",
-      "location": "Greater Melbourne Area",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477514127",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "b0e9f0ed7dc89ac1bc6a": {
-      "id": "b0e9f0ed7dc89ac1bc6a",
-      "title": "Customer Service Representative (2-4 LPA)",
-      "company": "InstaLaxmi",
-      "location": "Thane, Maharashtra, India",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4475662480",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "c3a0158d1ef4f2821113": {
-      "id": "c3a0158d1ef4f2821113",
-      "title": "Customer Service Representative | Fresher | Game & Livestream Project)",
-      "company": "Concentrix",
-      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4418072505",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "758961f42d5d6d0954e8": {
-      "id": "758961f42d5d6d0954e8",
-      "title": "Customer Support Representative",
-      "company": "Swooped",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478379108",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer support",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "955d4d68a7d09381825b": {
-      "id": "955d4d68a7d09381825b",
-      "title": "Customer Service Specialist",
-      "company": "BIGO",
-      "location": "Poland",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477527296",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "3d51fb08656d32f62bdc": {
-      "id": "3d51fb08656d32f62bdc",
-      "title": "Customer Care Representative",
-      "company": "LG Home Comfort",
-      "location": "Mumbai, Maharashtra, India",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4476020045",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer care",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "ec198eddb06430d7ae4d": {
-      "id": "ec198eddb06430d7ae4d",
-      "title": "Trading Complaints Specialist (Customer Service)",
-      "company": "Hytech",
-      "location": "Bangkok, Bangkok City, Thailand",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478508066",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "53923b683dba160599c0": {
-      "id": "53923b683dba160599c0",
-      "title": "Customer Support Specialist",
-      "company": "GamblingCareers.com",
-      "location": "Waverly, MI, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478366537",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "65b2de4dfa54719472b2": {
-      "id": "65b2de4dfa54719472b2",
-      "title": "Customer Service Officer - Crypto",
-      "company": "CFI Financial Group",
-      "location": "Amman, Jordan",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4465735524",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer service",
-        "crypto"
-      ],
-      "queued_at": null
-    },
-    "411258f0cc095f054b1e": {
-      "id": "411258f0cc095f054b1e",
-      "title": "B2B SaaS Customer Success Specialist-REMOTE",
-      "company": "FigPii",
-      "location": "Venezuela",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477513644",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "specialist",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "32cb8bba7cbdd5b46348": {
-      "id": "32cb8bba7cbdd5b46348",
-      "title": "REMOTE Enterprise SaaS Support Specialist - $60-$80k(WealthTech)",
-      "company": "CyberCoders",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4475671536",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "specialist",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "a79f5879e4ee33381234": {
-      "id": "a79f5879e4ee33381234",
-      "title": "Senior Associate, Product Strategy and Operations",
-      "company": "Hamilton Lane",
-      "location": "Conshohocken, PA, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4449782715",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 64,
-      "matched_terms": [
-        "associate",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "207e80eed6616b396f6c": {
-      "id": "207e80eed6616b396f6c",
-      "title": "Customer Care Operations Lead",
-      "company": "Genki",
-      "location": "Thailand",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478350043",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 63,
-      "matched_terms": [
-        "customer care",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "ceef0d7d9c5770e575c2": {
-      "id": "ceef0d7d9c5770e575c2",
-      "title": "Customer Support Executive",
-      "company": "OYELA",
-      "location": "Gurugram, Haryana, India",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477517782",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "16a85e518cbb99ac048b": {
-      "id": "16a85e518cbb99ac048b",
-      "title": "Individual Sales & Growth Specialist",
-      "company": "TrueLearn",
-      "location": "Remote, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=80134bfcd5e617f9",
-      "job_url_direct": "",
-      "description": "**Job Title:**\n\nIndividual Sales & Growth Specialist\n\n**The Company:**\n\nMedality is a radiology education platform that helps radiologists build subspecialty expertise through on-demand learning. Medality is part of TrueLearn, an educational software company, focused on empowering healthcare institutions and individual learners to maximize performance on high-stakes licensure exams. Through its suite of learning tools, TrueLearn and its family of brands have prepared hundreds of thousands of healthcare professionals in their pursuit of board certification, working closely with medical and health science institutions and residency programs across the United States. The company is growing rapidly and continues to innovate its platform and expand its portfolio of brands.\n\n**The Role:**\n\nTrueLearn is seeking a Growth and Sales Development Specialist with 3-5 years of experience in sales, business development, or growth marketing to drive individual (B2C) revenue across our education products, with a heavy focus on the Medality brand. This role turns marketing demand into closed sales by converting new leads, renewing and growing existing customers, and winning back lapsed ones.\n\nThis role is ideal for a consultative seller who enjoys building relationships with physicians and trainees and helping them find the right learning path for their career goals. The Growth and Sales Development Specialist will manage a high-volume pipeline of inbound and outbound opportunities, partnering closely with the Marketing and Sales teams to bring campaigns from launch through conversion.\n\nThe successful candidate will be comfortable juggling many conversations and priorities at once, writing personalized and persuasive outreach, staying organized and responsive, and spotting opportunities to improve conversion and retention.\n\n**Responsibilities and Duties**\n\n* **Lead Conversion:** Convert inbound and high-intent leads into customers, responding promptly and matching each prospect to the right product for their career stage, subspecialty interests and goals.\n* **Consultative Selling:** Serve as a product expert for prospective customers, answering detailed questions about curriculum, CME, certification and access to help them make confident purchase decisions.\n* **Outbound Outreach:** Plan and execute targeted outbound campaigns to audience segments defined by business need, such as subspecialty focus areas, cohort launches and seasonal promotions.\n* **Follow-Up + Pipeline Management:** Manage a high-volume B2C pipeline with a disciplined follow-up process, accurately tracking outreach, outcomes and commissionable sales.\n* **Renewals + Retention:** Own B2C renewal outreach for expiring customers and win back lapsed customers to maximize retained revenue.\n* **Account Growth:** Identify upsell and cross-sell opportunities, and manage customer upgrades and account changes, including billing adjustments.\n* **Sales Tools + Efficiency:** Use CRM, email and AI-assisted tools to scale personalized outreach while maintaining quality and accuracy.\n* **Cross-Functional Collaboration:** Partner with Marketing on campaign timing, messaging and lead quality, and with Sales on account ownership and handoffs for group and institutional opportunities.\n* **Customer Insights:** Share recurring objections, barriers to enrollment and customer feedback with Marketing to inform promotions and lifecycle strategy.\n\n**The Skills Needed:**\n\n* 3-5 years of experience in business development, customer success or growth marketing, preferably in EdTech, SaaS or healthcare\n* Consultative selling approach, with the ability to understand a customer's goals and recommend the right solution rather than push a product\n* Strong written communication skills, with the ability to write warm, personalized and persuasive outreach at scale\n* Comfort working with physicians and other healthcare professionals; familiarity with medical education or radiology is a plus\n* Highly organized and detail-oriented, with the ability to manage a high-volume pipeline and keep every conversation moving\n* Belief that the best selling is human-led, backed by hands-on experience using AI tools like Claude or ChatGPT to streamline research, outreach and workflow\n* Experience with CRM, email and e-commerce tools, and comfort learning new systems quickly\n* Comfort with numbers, including pricing, discounts, prorated billing and tracking your own results against goals\n* Excellent collaborator and proactive communicator who works well with Marketing and Sales\n* Positive, action-oriented attitude and professional demeanor\n* Ability to adapt and thrive in a fast-paced, goal-driven environment\n\n**The Perks**\n\n* Highly competitive benefits, including medical, dental and vision\n* Additional benefits for employees to opt into\n* Retirement: 401(k) with match\n* Self-regulated PTO\n* Monthly commission on B2C sales\n* A diverse, challenging and fun work environment\n* Fully remote workforce: work from the comfort of your home!\n* The ability to influence how we work and directly impact revenue and the customer experience\n\n**Compensation:**\n\n* Base salary: $68,500\n* Commission: 1.5% of sales sourced or influenced\n* Annual bonus: eligible for up to 5% of base salary, based on company performance against goals\n* On-target earnings (OTE): approximately $100,000\n\nPay: $68,500.00 - $100,000.00 per year\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Disability insurance\n* Flexible schedule\n* Health insurance\n* Paid time off\n* Parental leave\n* Work from home\n\nEducation:\n\n* Bachelor's (Required)\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 68500.0\u2013100000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "sales development",
-        "business development",
-        "base salary",
-        "specialist",
-        "inbound",
-        "remote",
-        "advertised base $32.93/hr equivalent"
-      ],
-      "queued_at": null
-    },
-    "52e9a4c82b6ae4cef999": {
-      "id": "52e9a4c82b6ae4cef999",
-      "title": "Manager of Practice Operations, Pediatric Specialty Care",
-      "company": "St. Luke's University Health Network",
-      "location": "Center Valley, PA, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=2578044a1ec33c3a",
-      "job_url_direct": "https://sluhn.wd1.myworkdayjobs.com/en-US/SLUHN/job/Center-Valley-PA---5425-Lanark-Road/Manager-of-Practice-Operations--Pediatric-Specialty-Care_R143514-2",
-      "description": "### ***St. Luke's is proud of the skills, experience and compassion of its employees. The employees of St. Luke's are our most valuable asset! Individually and together, our employees are dedicated to satisfying the mission*** ***of our organization which is an unwavering commitment to excellence as we care for the sick and injured; educate physicians, nurses and other health care providers; and improve access to care in the communities we serve, regardless of a patient's ability to pay for health care.***\n\nThe Manager, Practice Operations leads and manages the operations of assigned practices to ensure successful practice operations, effective execution of operational workflows, a patient experience consistent with SLPG standards, and a highly engaged practice operations team.\n\n**JOB DUTIES AND RESPONSIBILITIES:**\n\n* Performs all leadership and managerial functions across the employee life cycle for direct reports including hiring, onboarding/orientation, performance management, ongoing coaching and development, recognition, etc.).\n* Ensures operational readiness for clinical and administrative operations (e.g., developing employee schedules; maintaining supply inventory, office equipment and furnishings, cleanliness; facilitating daily huddles; updating time management systems; maintaining Point of Care licensing, etc.).\n* Manages practice operations, workflow execution, employee collaboration and overall patient experience.\n* Partners with other organizational functions (e.g., Billing/Coding, Facilities/Property Management, Hospital Entity departments, Access Center, etc.) to coordinate and facilitate effective practice operations.\n* Maintains strong collaboration and connectivity with Access Center operations and centralized functions (e.g., POD, Capacity Management, etc.) to enable seamless operations and optimal patient/employee experiences (e.g., transfers, triage protocols, template changes, huddles, POD/practice connectivity, etc...).\n* Serves as point of escalation and addresses critical operational, technological, patient, and employee issues.\n* Achieves expected practice financial performance through judicious expense management, efficient resource utilization, volume growth, and execution of expected financial management best practices.\n* Utilizes organizational tools to monitor practice performance (volume, patient satisfaction, productivity, quality, etc.), identifies opportunities for improvement, and develops/implements improvement strategies via a multidisciplinary, team-based approach.\n* As applicable, effectively utilizes practice leads (e.g., Practice Operations Coordinators, Clinical Coordinators, etc.) to support oversight of practice workflows/processes, etc.\n* Ensures adherence to policies , procedures, and SLPG Access Governance Principles.\n* Other duties as assigned.\n\n**PHYSICAL AND SENSORY REQUIREMENTS:**\n\nSitting for up to three (3) hours per day; three (3) hours a t a time. Standing for up to eight (8) hours per day; eight (8) hours at a time. Walking for up to six (6) hours per day; one (1) hour at a time. Frequent fingering, handling, grasping, twisting, and turning as it relates to therapeutic procedures. Consistently lift, carry, and push objects up to 10 pounds. Occasionally lift, carry, and push objects up to 75 pounds. Rarely lifting with assistance, up to 100 pounds. Rarely pushing and pulling patients weighing up to 300 pounds in a wheel chair or stretcher. Occasionally stooping and bending. Must be able to perceive attributes of an object through touch. Seeing as it relates to normal near, far, color, and peripheral vision. Hearing as it relates to normal conversation and high and low frequencies.\n\n**EDUCATION:**\n\nBachelor\u2019s Degree in health, business, or related field preferred\n\n**TRAINING AND EXPERIENCE:**\n\n* Minimum of 2+ years of medical office or practice operations experience, including at least 1 year in a healthcare setting\n* Experience managing or supporting daily operations such as staffing coordination, scheduling, patient access, workflow management, and regulatory compliance\n* Demonstrated ability to supervise staff, support performance management, and maintain service and quality standards\n\nCompetencies required for this job:\n\n* Strong business acumen\n* Skilled in all forms of communication\n* Effectively able to develop self and others\n* Leadership presence/EQ, presents as a composed and competent leader\n* Quality focused\n* Exudes patient and customer service focus\n* Shares a compelling strategy that inspires others\n\n*Please complete your application using your full legal name and current home address. Be sure* *to include employment* *history for the past seven (7) years, including your present employer. Additionally, you are encouraged to upload a current resume, including all work history, education, and/or certifications and licenses, if applicable. It is highly recommended that you create a profile at the conclusion of submitting your first application. Thank you for your interest in St. Luke's!!*\n\n**St. Luke's University Health Network is an** **Equal Opportunity Employer.**\n------------------------------------------------------------------------------",
-      "salary": "",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "scheduling",
-        "patient access",
-        "administrative",
-        "coordinator",
-        "staffing",
-        "operations"
-      ],
-      "queued_at": null
-    },
     "71aa51aeaa1eca225dbe": {
       "id": "71aa51aeaa1eca225dbe",
       "title": "Distribution & Fulfillment Services Coordinator",
@@ -5595,6 +5262,354 @@
         "documentation",
         "remote",
         "QA"
+      ],
+      "queued_at": null
+    },
+    "f331307ed293ee6ec885": {
+      "id": "f331307ed293ee6ec885",
+      "title": "Pharmacy Operations Manager",
+      "company": "Walgreens",
+      "location": "Egg Harbor City, NJ, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=29c2315f49a4505f",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/egg-harbor-city/pharmacy-operations-manager/1242/102003556064",
+      "description": "**Job Summary**\n  \nWhere state and federal laws/regulations allow, accountable for performing day-to-day non-clinical pharmacy operations, administrative activities; Ensures efficient pharmacy workflow and a positive patient experience. Serves as a full-time certified pharmacy technician. Responsible for operating pharmacy systems to obtain patient and drug information and process prescriptions. Under the supervision of a pharmacist, supervising pharmacy technicians and pharmacy cashiers within the guidelines of authorized company policies, laws, regulations and business ethics. Responsible for the selection, scheduling, and development of pharmacy technician personnel. Leads training, coaching, and performance management of pharmacy technicians. Makes decisions regarding performance management including discipline and termination.\n  \n  \n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer complaints, helps respond to customers\u2019 requests in a timely manner and answers non-clinical questions to ensure a positive customer experience. Models and shares customer service best practices.\n* Develops strong relationships with customers by anticipating customer needs and proactively offering services to provide the best experience possible when using the pharmacy. Enhances customer experience by increasing focus on healthcare services.\n\n**Operations**\n\n* Responsible for assisting pharmacist in the delivery of patient care including patient registration, prescription data entry, preparation of medications for patients, counting, and verifying (where allowed by law). Completes patient and physician calls under the supervision of a pharmacist (where allowed by law). Under the supervision of a pharmacist assists with healthcare service offerings including administering vaccines, health screenings, and any health services allowed by law.\n* Within the guidelines of authorized company policies, state and federal laws/regulations, exercises independent judgment to delegate, direct, and assign non-clinical work in the pharmacy. Ensures tasks are completed on-time and holds others accountable for efficient workflow.\n* At the direction of the Pharmacy Manager or pharmacist, prepares, and files reports and records required by the company and various government agencies.\n* Manages core pharmacy workflow and drives excellence in pharmacy operations. Coordinates and organizes pharmacy daily schedule of activities. Recommends allocation of pharmacy hours. Assures the pharmacy is clean, neat, orderly, and stocked with adequate supplies.\n* Under the direction of the pharmacist, exercises independent judgment to ensure compliance and execution of all business administrative activities and pharmacy inventory management tasks that do not require pharmacist licensure. Manages annual inventory preparation.\n* Accountable for completion of non-clinical patient calls.\n* Drives new technology/ process roll out, champions change and engages team around action planning. Assures proper operation and maintenance of pharmacy department equipment. In collaboration with Pharmacy Manager, responsible for recordkeeping and ensuring security safeguards are in-place.\n* Under supervision of the pharmacist, strictly adheres to the Walgreen Co. policy regarding Good Faith Dispensing during all applicable prescription-dispensing activities and understands their role in ensuring that the elements of Good Faith Dispensing are met.\n* Maintains and applies knowledge of Company asset protection techniques. Supports Pharmacy Manager with diversion monitoring and reports any concerns that would compromise the security of the pharmacy to the Pharmacy Manager.\n* Communicates prescription errors to the accountable pharmacist, and adheres to Company policies and procedures in relation to pharmacy errors and the Continuous Quality Improvement Program.\n* Ensures the accurate processing of insurance claims to resolve customer issues and prevent payment rejections. Follows-up with insurance companies as well as medical providers and conducts or participates in 3rd party audit.\n* Assists and supports Store Manager and Pharmacy Manager in analyzing and seeking to improve pharmacy financials, operational quality and customer service.\n* Manages Community Outreach Portal and coordinates and, at the direction of the Pharmacy Manager, assigns pharmacists to off-site immunization clinics and community events. Builds and sustains relationships with retail partnerships.\n\n**People & Performance Management**\n\n* Leads performance management of technicians including making decisions and recommendations regarding discipline and termination. Follows constructive discipline policy to discipline, suspend, terminate or effectively recommend the same. Uses constructive discipline policy to ensure pharmacy technicians are compliant with state and federal laws. Holds technician accountable for attendance and timeliness. Maintains and improves performance of pharmacy through team member engagement and action planning.\n* Accountable for technician hiring, on-boarding, training, and scheduling. Monitors and holds pharmacy technicians accountable for timely training completion. Follows established policies and procedures set by the company for scheduling and training.\n* Accountable for identifying gaps in pharmacy operations knowledge among team members and supporting those team members in their training, either through hands-on training or assignment of learning modules.\n* Assists Pharmacy Manager in monitoring that all pharmacy and team member licensures, registrations and certifications are active and in good standing/ compliant with all regulatory and legal requirements. Leverages Walgreens resources such as Walgreens Online Verification System to assist in documenting licensure status.\n* Ensures proper procedures are followed for selection, recruitment, record retention, and training as required by Company policy and local, state and federal laws.\n\n**Training & Personal Development**\n\n* Maintains PTCB certification through the designated PTCB training program and/or state required certification/registration.\n* Maintains and enhances current knowledge and skills related to pharmacy and healthcare.\n* Obtains necessary certifications, education credits and training such as LTMP e-modules as required by the Company. Follows performance improvement plans offered by Pharmacy Manager.\n* Seeks professional development by monitoring one\u2019s own performance, solicits for constructive feedback, and leverages Healthcare Supervisor as mentor and coach.\n\n**Communication**\n\n* Communicates with pharmacy team, relaying messages from the support center or other key emails as required.\n* Participates in key store/pharmacy meetings, including 5-minute meetings and weekly check-ins with the Store Manager\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* High School Diploma, GED, or equivalent.\n* PTCB certification (except in Puerto Rico).\n* Has one year of work experience as a pharmacy technician in a retail or hospital setting.\n* Must be fluent in reading, writing, and speaking English (except in Puerto Rico).\n* Requires willingness to work flexible schedule, including evening and weekend hours.\n* Willingness to obtain active immunization certification within 90 days of hire (except in Community Specialty Pharmacy and Health System Pharmacy locations)\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Previous people management/ leadership experience.\n* Previous work experience with Walgreens with an Exceeding Expectation on last performance evaluation.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nThis information is being provided to promote pay transparency and equal employment opportunities at Walgreens. The current hourly range for this position is $22.50 per hour - $35.75 per hour. The actual hourly rate within this range that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Prescription coverage**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Employee discount**\n* ### **Work & life resources**\n* ### **Career development programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 22.5\u201335.75 USD/hourly",
+      "match_score": 94,
+      "matched_terms": [
+        "customer service",
+        "scheduling",
+        "data entry",
+        "administrative",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "8280e3ce44943a18a36c": {
+      "id": "8280e3ce44943a18a36c",
+      "title": "Pharmacy Customer Service Associate",
+      "company": "Walgreens",
+      "location": "Wilmington, DE, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=71691cd7b255afd1",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/wilmington/pharmacy-customer-service-associate/1242/101994804480",
+      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n* In accordance with state and federal regulations, assists the pharmacist, under direct supervision, in the practice of pharmacy. Responsible for using pharmacy systems to obtain patient and drug information and process prescriptions.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed. Takes customer to OTC aisle when possible to assist in locating products.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Performs duties as assigned by Pharmacy Manager, Staff Pharmacist and Store Manager including utilizing pharmacy systems to enter patient and drug information, ensuring information is entered correctly, filling prescriptions by retrieving, counting and pouring pharmaceutical drugs, verifying medicine is correct, and checking for possible interactions. Assists pharmacists in scheduling and maintaining work flow.\n* Reports, immediately, prescription errors to pharmacist on duty and adheres to Company policies and procedures in relation to pharmacy errors and the Quality Improvement Program. Reviews and complies with the Walgreen Co. Pharmacy Code of Conduct.\n* Strictly adheres to the Walgreen Co. policy regarding Good Faith Dispensing during all applicable prescription dispensing activities.\n* Handles telephone calls that do not require personal attention of the pharmacist, including those to physicians.\n* Processes (corrects and resubmits) manual claims for third party program prescription services in a timely and efficient manner, and performs other clerical duties, as assigned by the Pharmacy Manager.\n* Assists and supports Pharmacy Department on inventory management activities, such as, ordering, unpacking, checking and storing shipment of pharmaceuticals. Maintains knowledge of Company asset protection techniques, and files claims for warehouse overages (merchandise received, but not billed), shortages (merchandise billed, but not received), order errors or damaged goods involving Rx drugs.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Earns and maintains PTCB certification through the designated PTCB training program and/or state required certification/registration.\n* Attends training and completes PPLs requested by Manager or assigned by corporate and acquires continuing education credits. Maintains knowledge and skill in healthcare and pharmacy, including latest news and developments.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer good math skills so they can fill prescriptions accurately, including counting, measuring and weighing medications.\n* Prefer good computer skills.\n* Prefer the knowledge of store inventory control.\n* Prefer PTCB certification.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $16 - $20 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Prescription coverage**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Employee discount**\n* ### **Work & life resources**\n* ### **Career development programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 16.0\u201320.0 USD/hourly",
+      "match_score": 88,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "scheduling",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "d51770b2b692179f6125": {
+      "id": "d51770b2b692179f6125",
+      "title": "Customer Service Associate",
+      "company": "Walgreens",
+      "location": "Aston Mills, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=e714e7666a50df38",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/aston-mills/customer-service-associate/1242/101985887984",
+      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Implements Company asset protection procedures to identify and minimize profit loss.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager or assigned by corporate.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer to be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $15 - $19 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 15.0\u201319.0 USD/hourly",
+      "match_score": 84,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "fc832ef112925c332666": {
+      "id": "fc832ef112925c332666",
+      "title": "Inventory Specialist",
+      "company": "Walgreens",
+      "location": "Aston Mills, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=ba84a61b5d420933",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/aston-mills/inventory-specialist/1242/101994802304",
+      "description": "* Responsible for executing, monitoring, and training inventory best practices and standard operating procedures for the entire store, including both front end and pharmacy. Supports pharmacy inventory management activities, including receiving, counting, ordering, and facilitating returns. Champions On-Shelf Availability and is responsible for receiving, counting, pricing, returns, and all in-store inventory processes. Validates and ensures accuracy of planograms.\n* Responsible for reviewing and coordinating the proper use of reports and system applications, which have an impact on the accuracy of front end and pharmacy on-hand balances and pricing.\n* Responsible for executing and maintaining front end and pharmacy asset protection techniques, and filing claims for warehouse and vendor overages (merchandise received, but not billed), shortages (merchandise billed, but not received), order errors or damaged goods including prescription drugs.\n* In designated stores, as required, opens and closes the store in the absence of store management, including all required systems start-ups, required cash handling and cashier responsibilities, and ensuring the floor and stock room are ready for the business day.\n\n**Customer Experience**\n\n* Engages customers by greeting them and offering assistance with products and services. In designated stores, when serving as the leader on duty, resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Executes and coaches team members on warehouse and vendor inventory management processes including but not limited to creating, reviewing, and receiving orders.\n* Scans in all deliveries while the vendor is still in the store, including common carrier deliveries. Focuses on One Box receiving. Takes the appropriate action marking delivery as received if the product was physically delivered, contacting vendor for past undelivered scheduled receipts, and opening tickets as needed to correct inaccurate orders.\n* Under the supervision of the pharmacist-in-charge, verifies all pharmacy shipments are posted for products physically received at the store. Completes or verifies postings of all pharmacy warehouse orders, ABC prescription and OTC orders daily, secondary vendor orders, flu and dropship orders performing any necessary tote audits, and accurately reporting any shortages or damaged product.\n* Completes On-Shelf Availability (OSA) end-to-end process including warehouse and direct store delivery (DSD) for planogrammed departments, executing disposals, call-ins, and vendor returns before expiration, completes scan outs/ scan outs returns on all subscribed departments including vendor/ DSD departments and pharmacy scan outs.\n* Under the supervision of the pharmacist-in-charge,completes pharmacy inventory activities including but not limited to pharmacy recalls following Pharmacy Hazardous Waste Policy, vendor returns, non-controlled, and damaged salvage returns. Facilitates excess inventory returns or interstore pharmacy transfers where applicable for non-returnable ABC overstock. Verifies posting of all pharmacy/ prescription claims.\n* Completes execution of all pricing activities including price changes, markdowns, and markdowns deletes. Responsible for basic department pricing, including daily price changes, accurate pricing with correct signage, and reliable and timely completion of any additional regulatory pricing tasks.\n* Responsible for supporting front end and pharmacy ordering by ordering expense items. Monitors pharmacy manual orders to identify excess orders. Maintains consigned inventory and orders as required.\n* Ensures all designated pull & quarantine item on-hands are updated and placed in the designated holding area.\n* Maintains accurate inventory counts. Maintains the accuracy of on-hand quantities including but not limited to basic departments, stockroom, overstock locations.\n* Under the supervision of the pharmacist-in-charge, maintains accurate inventory counts and accuracy of on-hand quantities in pharmacy and completes pharmacy smart counts.\n* Ensures the store maintains inventory compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Assists in the maintenance of inventory records, including receiving and posting of all products (in the front-end)) received at the store in all inventory systems. Organizes files and retains all invoices/receipts/return authorizations necessary for all inventory activities.\n* Helps to prepare for physical inventory and supports the physical inventory day activities, including but not limited to preparing sales floor, stockroom, and pharmacy for inventory and auditing the third party team on the day of inventory.\n* Supports keeping all counters and shelves clean and well merchandised.\n* Knowledgeable of all store systems and equipment.\n* Assists and coaches store team on all package delivery activities, including scanning in and out of packages, completing all daily inventory functions and, package returns at Walgreens. Supports execution of Pickup Program.\n* In designated stores, when serving as the leader on duty, responsible and accountable for registering all related sales on assigned point-of-sale system (POS), including records of scanning errors, price verifications, items not on file, price modifications, and voids. Completes product returns, order voids, customer refunds, cash drops to safe, and provides change as requested for point of sale.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes any additional activities and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends company-based trainings for continuous development and completes all e-learning modules including safety training requirements.\n* Obtains and maintains a valid pharmacy license/certification as required by the state.\n\n**Communications**\n\n* Serves as a liaison between management and non-management team members by coaching and developing other capabilities with inventory systems. When serving as the leader on duty, communicates assigned tasks to team members and reports disciplinary issues and customer complaints to management.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Six months of prior work experience with Walgreens (internal candidates) or one year of prior retail work experience (external candidates).\n* Must be fluent in reading, writing, and speaking English (except in Puerto Rico).\n* Must have a willingness to work a flexible schedule, including evening and weekend hours.\n* \u201cAchieving expectations\u201d rating on last performance review and no written disciplinary actions in the previous 12 months (internal candidates only).\n* Demonstrated attention to detail and ability to multi task and manage execution.\n* Experience in identifying operational issues and recommending and implementing strategies to resolve problems.\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer previous experience as a shift lead, pharmacy technician, designated hitter, or customer service associate.\n* Prefer to have prior work experience with Walgreens, with an evaluation on file.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \n**An Equal Opportunity Employer, including disability/veterans.**\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $17.5 - $22.5 / Hourly",
+      "salary": "\ud83d\udcb0 17.5\u201322.5 USD/hourly",
+      "match_score": 82,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "specialist",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "9c86ca933740244ee3f3": {
+      "id": "9c86ca933740244ee3f3",
+      "title": "Customer Service Associate - Temporary",
+      "company": "Walgreens",
+      "location": "Wilmington, DE, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=d909817a452482c8",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/wilmington/customer-service-associate-temporary/1242/101994804672",
+      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Implements Company asset protection procedures to identify and minimize profit loss.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager or assigned by corporate.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n\nThe following information is applicable for San Francisco, CA applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits  \n  \n  \n  \n  \n**Salary Range:** $15 - $19 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 15.0\u201319.0 USD/hourly",
+      "match_score": 80,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "2a8b4522f986e1223f3f": {
+      "id": "2a8b4522f986e1223f3f",
+      "title": "Workplace Safety Technician / Responder - CENTRAL US",
+      "company": "Mobile Health Diagnostics",
+      "location": "Las Vegas, NV, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=703f59c381c0f6d8",
+      "job_url_direct": "https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ba6d15bb-2961-49b3-a73a-5bd2dec86136&ccId=926456277_2&jobId=46321&source=IN&lang=en_US",
+      "description": "**Workplace Safety Responder \u2014 Part-Time**\n\n**Part-Time** \u00b7 $25.00 / hour \u00b7 $200.00 daily minimum \u00b7 **Availability for frequent travel throughout the CONUS required**\n\nmhdhealth.com\n\n**Help American workers go home safe.**\n=======================================\n\nOSHA-required compliance testing is what the law asks for. What workers actually need is someone competent, calm, and prepared standing in front of them \u2014 running the test, explaining the result, and treating the moment with the seriousness it deserves.\n\nThat person is a Safety Responder. At MHD, it could be you.\n\nWe are looking for **part-time** Safety Responders located in the **Central US** region to join a nationally distributed field team that delivers on-site occupational health and safety services for some of the most safety-critical employers in the country. The work is precise, hands-on, and rooted in protocol. **The schedule is part-time with regular driving/ travel to support customer sites**. The standard is non-negotiable.\n\n**If you have worn a first responder or military uniform, run an Emergency response call, or led an EMS crew** \u2014 and now that you are **retired**, you miss being the person people trust when conditions get serious \u2014 **this is built for you**.\n\n**About MHD**\n-------------\n\nMHD is a nationwide on-site occupational health, safety, and industrial hygiene services company headquartered in Broomfield, Colorado. Since 2019, we have grown to 51 employees serving more than 2,000 organizations nationwide, including Northrop Grumman, Nebraska Medicine, NPR, and Owens Corning.\n\nOur mission is **Work Without Worry** \u2014 helping employers stay OSHA compliant and keep their employees safe. Our brand promise is **Safety Made Simple. Compliance Made Certain.**\n\n**We deliver four signature compliance services in the field:** **Respirator Fit Testing, Audiometric Hearing Testing, Pulmonary Function Testing, and Noise Level Surveys**. Our 10-year goal is to become the #1 private employer of veterans and retired first responders in the United States.\n\n**What you'll accomplish**\n--------------------------\n\n**In your first 90 days**, you will become certified in MHD's testing methodologies and complete supervised Work Orders alongside your Territory Manager. **By six months**, you will be the **primary MHD presence at client sites** across your region \u2014 running a full slate of OSHA-compliance testing, coaching client employees through the process, **and delivering clean documentation within 24 hours of every visit.**\n\n**By the end of year one**, the clients on your route will know your name. They will ask for you by name. They will trust you to walk onto their floor, set up your equipment, and tell them the truth about what the data shows \u2014 because the person delivering the test is the person carrying the standard.\n\n**Specifically, the work involves**:\n\n* **Conducting OSHA-required Respirator Fit Tests, Audiometric Hearing Tests, Pulmonary Function Tests, and Noise Level Surveys at client facilities.**\n* **Delivering short, clear in-person safety training to client employees.**\n* **Setting up, operating, and calibrating MHD's portable testing equipment on-site.**\n* **Submitting complete, accurate electronic reports through MHD's field service platform within 24 hours of each visit.**\n* **Representing MHD's brand at every client site \u2014 appearance, communication, and conduct that matches the trust our clients have placed in us.**\n\n**A day in the life**\n---------------------\n\n**Your day starts the night before**. You confirm tomorrow's Work Order with your Territory Manager \u2014 site address, contact name, services scheduled, equipment list, certifications required. **You load the vehicle**, check the calibration on each instrument, and review the site's prior visit notes.\n\n**You leave early**. Traffic, weather, and gate security are not the client's problems \u2014 they're yours. **You arrive on time**, walk in clean, and find your point of contact within the first five minutes.\n\n**You set up in the space the client gave you**. You greet each employee who comes through, explain what the test does and why, run the protocol exactly as it was written, and answer questions in plain English. When a result is borderline, you do not round it. You run it again.\n\n**By the end of the day**, you have tested between 20 and 60 employees, depending on the service. **You break down your equipment**, thank the site contact, and head out. **That evening, your documentation is uploaded** \u2014 clean, complete, accurate. Your Territory Manager sees it the next morning. The client sees their report within the week.\n\n**Some days you sleep in your own bed. Some days you don't. Either way, the standard is the same**.\n\n**What makes a great Safety Responder**\n---------------------------------------\n\nThe strongest people in this role share four signals, regardless of background:\n\n**They treat standards as identity, not as rules.** OSHA protocols, MHD's methodology, and the daily Clarify and Verify habit are not boxes they check. They are how the work gets done, because that is how the work should be done.\n\n**They lead with expertise, not authority.** Clients trust them because they know the equipment, the standards, and the why behind every test \u2014 not because they raised their voice. When a client pushes back on a result, they explain it. When the explanation does not move the client, they hold the line anyway.\n\n**They are comfortable working alone, inside a structure.** Most of the day is solo \u2014 you, your equipment, and a room full of employees who need the test done right. The structure comes from your Territory Manager, who handles the scheduling, equipment logistics, and client coordination so you can focus on delivery.\n\n**They never stop sharpening the craft.** Certifications renewed before they lapse. New testing methods studied before they're required. Field-observed improvements brought back through the team. The day they stop learning is the day they stop being useful.\n\n**How we operate \u2014 MHD's Core Values**\n--------------------------------------\n\nThese are the four values our entire team is hired against, reviewed against, and promoted against. They are not posters on a wall. They are the operating system.\n\n**Sweat the Small Stuff.** Details matter, and we obsess over getting them right. In every interaction with customers and colleagues, we strive for excellence. Exceptional service means paying attention to everything, big and small.\n\n**Have the Courage to Do What's Right.** Honesty and integrity are at the core of everything we do. We make the tough choices to do what's right and put the good of the organization ahead of self-interest.\n\n**Own it!** See a problem? It's yours to solve. We never assume somebody else will handle things, and we always take personal accountability to make things better.\n\n**Keep Climbing.** We are all working to make a difference for our clients, and to do this we can never rest on our laurels. Our constant focus is on improving the organization, as well as ourselves.\n\n**Practical fit \u2014 let's be honest about the work**\n--------------------------------------------------\n\nWe owe candidates a clear picture of what this role actually requires. Please read carefully before you apply.\n\n**Extensive Travel.** You will deploy to client sites across your regional territory \u2014 **typically driving within a five-hour radius**. Some visits are local. Some require overnight stays. Air travel happens occasionally for larger projects. If your life situation does not accommodate multi-day travel, several times per month, this role is not the right fit.\n\n**Schedule.** This is a **part-time** role with variable hours driven by client demand. Most weeks fall between two and four working days. We coordinate the schedule with you in advance, but the rhythm is not a fixed Monday-through-Friday calendar.\n\n**Physical demand.** You will load, unload, and carry portable testing equipment \u2014 **typically 25 to 50 pounds** \u2014 between your vehicle and the client's testing area. You will stand, sit, and reposition for several hours at a stretch. Reasonable accommodations apply where legally applicable; the core mobility demand is part of the role.\n\n**Driving.** You will operate a vehicle with testing equipment most working days. **A reliable driving record and the ability to drive significant distances safely are required.**\n\n**Certification maintenance.** CAOHC (Council for Accreditation in Occupational Hearing Conservation) and NIOSH (National Institute for Occupational Safety and Health) certifications must be earned and maintained. MHD covers the cost of training and certification after you complete field training; the time and intellectual bandwidth to keep them current must come from you.\n\n**Compensation and what's covered**\n-----------------------------------\n\n* **$25.00 per hour**, with a $200.00 daily minimum when deployed.\n* **Training and certification fully covered by MHD** after successful completion of field training (CAOHC, NIOSH, and MHD-specific methodology training).\n* **All travel expenses covered when on company business** \u2014 vehicle, lodging, meals, equipment transport.\n* **MHD equipment** provided \u2014 you do not buy your own gear.\n* **Growth path** \u2014 Safety Responders with strong tenure and demonstrated leadership are the talent pool from which we promote our Safety Responder Territory Managers and service-line specialists.\n\n**Where we need you**\n---------------------\n\nWe are hiring Safety Responders located near or in the following metropolitan areas:\n\n* **Boise, ID**\n* Chicago, IL\n* **Cleveland, OH**\n* Columbus, OH\n* **Denver, CO**\n* Detroit, MI\n* **Grand Rapids, MI**\n* Minneapolis, MI\n\n**Qualifications**\n------------------\n\n**Strongly preferred:**\n\n* Background as a retired or transitioning first responder (Fire, Law Enforcement, EMS) or Military veteran. Our field team is composed almost entirely of people from these backgrounds, and the culture is built around the discipline and presence that comes with that experience.\n* A track record of working under pressure to a clear standard.\n\n**Required:**\n\n* Clear, professional verbal communication \u2014 comfortable speaking to small groups of client employees.\n* Working proficiency with Windows and the Microsoft Office Suite (Outlook, Word, Excel, Teams).\n* Clean driving record and ability to pass a background check.\n* Willingness and physical capacity to drive and travel multiple days per week within your regional territory.\n* Comfort with occasional air travel for larger projects.\n\n**Helpful, not required:**\n\n* Prior experience with respirator fit testing, audiometric hearing testing, or other OSHA-compliance testing services.\n* Knowledge of workplace safety practices.\n* Bilingual proficiency in English and Spanish.\n\nIf you meet the strongly-preferred and required criteria and are missing some of the technical experience, apply anyway. We train for the methodology. We hire for the standard.\n\n**How to apply**\n----------------\n\nSubmit your application through this listing. Strong candidates will be contacted by an MHD recruiter for a phone screen, followed by an in-person or video conversation with the Safety Responder Territory Manager for your region.\n\nWhen you apply, tell us briefly: which metropolitan area you live in, your availability pattern (how many days per week, weekday or weekend preference), and one example of a time you held the line on a standard when it would have been easier not to.\n\n**Equal opportunity**\n---------------------\n\nMHD is an equal-opportunity employer. We evaluate candidates on the abilities and qualifications relevant to the work, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity or expression, age, marital status, veteran status, disability status, pregnancy, parental status, genetic information, political affiliation, or any other status protected by applicable law in the locations where we operate.\n\nWe celebrate the differences our people bring to the team. The work we do is too important to be done by anything less than the best version of every person we hire.\n\n*Regards,*\n\n**The MHD Hiring Team**",
+      "salary": "\ud83d\udcb0 25.0\u201325.0 USD/hourly",
+      "match_score": 78,
+      "matched_terms": [
+        "specialist",
+        "scheduling",
+        "recruiter",
+        "documentation",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "d6231e14dc01ca0779b1": {
+      "id": "d6231e14dc01ca0779b1",
+      "title": "Remote | Customer Care Coordinator | We Will Train You",
+      "company": "Professional Travel Hub",
+      "location": "Philadelphia, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4479753604",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 78,
+      "matched_terms": [
+        "customer care",
+        "coordinator",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "d6eee55afcc8c3d291fd": {
+      "id": "d6eee55afcc8c3d291fd",
+      "title": "Customer Service Representative",
+      "company": "Pond Lehocky Giordano Inc.",
+      "location": "Greater Philadelphia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480114982",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "68b0e2f5e6ce67bfa346": {
+      "id": "68b0e2f5e6ce67bfa346",
+      "title": "Pharmacy Technician / Pharm Tech Apprenticeship",
+      "company": "Walgreens",
+      "location": "Lindenwold, NJ, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=47c84aea5a760972",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/lindenwold/pharmacy-technician-pharm-tech-apprenticeship/1242/101973978160",
+      "description": "Our pharmacy technician positions have undergone an exciting transformation, moving from a transaction-based environment to a much more patient-centric one. As a Walgreens Pharmacy Technician or Pharmacy Technician Apprentice, you'll be front and center \u2013 interacting with our customers and developing strong patient relationships. Pharmacy is the core of our business, and our pharmacy technicians enjoy all the tools and support \u2013 including the latest technology \u2013 to grow their careers and reach their goals.\n  \n  \nWalgreens is proud to invest & champion an \u201cearn while you learn\u201d Pharmacy Technician Training Program recognized by ASHP & Department of Labor. This apprenticeship program gives you an entry point to a career in health care by guiding you in taking steps towards becoming a Pharmacy Technician Certification Board (PTCB) Certified Pharmacy Technician and helping you maintain the high level of skill required in the pharmacy care industry. Arming you with a nationally recognized, portable credential that will help you advance your career.\n  \n  \nWhether you are new to working in pharmacies or are an experienced Pharmacy Technician Apply Now! Walgreens will train you to use your skills and talents to serve and care for our patients and customers. The courses, learning activities, and resources provided to you in our pharmacy technician training program are designed to give you foundational and advanced knowledge, skills, and on-the-job experiences you need to prepare to become a certified pharmacy technician.\n  \n\n* In accordance with state and federal regulations, assists the pharmacist, under direct supervision, in the practice of pharmacy. Assists the pharmacist in the performance of other Pharmacy Department duties in accordance with Company policies and procedures.\n* Responsible for using pharmacy systems to obtain patient and drug information and process prescriptions. If PTCB certified, assists with and coaches pharmacy technicians in the operation of pharmacy systems and cashiers in the operation of the pharmacy cash registers.\n* Models and delivers a distinctive and delightful customer experience.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n* Develops strong relationships with most valuable customers.\n\n  \n**Operations**\n\n* Under the supervision by the pharmacist, assist in the practice of pharmacy, in accordance with state, federal, and company policy. Reviews and complies with the Walgreen Co. Pharmacy Code of Conduct.\n* Performs duties as assigned by Pharmacy Manager, Staff Pharmacist and Store Manager including utilizing pharmacy systems to enter patient and drug information, ensuring information is entered correctly, filling prescriptions by retrieving, counting and pouring pharmaceutical drugs, verifying medicine is correct, and checking for possible interactions. Assists pharmacists in scheduling and maintaining work flow.\n* Reports, immediately, prescription errors to pharmacist on duty and adheres to Company policies and procedures in relation to pharmacy errors and the Quality Improvement Program.\n* Strictly adheres to the Walgreen Co. policy regarding Good Faith Dispensing during all applicable prescription dispensing activities.\n* Responsible and accountable for registering all related sales on assigned cash register, collects and handles cash as required. Takes customer to OTC aisle when possible, to assist in locating products.\n* Handles telephone calls that do not require personal attention of the pharmacist, including those to physicians.\n* Processes (corrects and resubmits) manual claims for third party program prescription services in a timely and efficient manner, and performs other clerical duties, as assigned by the Pharmacy Manager.\n* Assists and supports Pharmacy Department on inventory management activities, such as, ordering, unpacking, checking and storing shipment of pharmaceuticals. Maintains knowledge of Company asset protection techniques, and files claims for warehouse overages (merchandise received, but not billed), shortages (merchandise billed, but not received), order errors or damaged goods involving Rx drugs.\n* May assist pharmacist in administering clinical services including the collection and proper labeling of blood/urine samples from patients and other clinical services as required; assists pharmacy staff in coordination of clinical services, Walgreens healthcare clinics and external providers.\n* Assists Pharmacy Manager and Staff Pharmacist in developing and maintaining good relationships with the local medical community, including physicians, nurses, and other health care providers, by medical provider detailing and outreach to health groups, retirement homes, nursing homes, and other forums for enhancing growth opportunities.\n* Assists with exterior and interior maintenance by ensuring the Pharmacy Department is stocked with adequate supplies, clean, neat and orderly in condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n  \n**Training & Personal Development**\n\n* Earns and maintains PTCB certification through the designated PTCB training program and/or state required certification/registration. Otherwise, earns PTCB certification as condition of promotion to senior technician.\n* Attends training requested by Manager and acquires continuing education credits. Maintains knowledge and skill in healthcare and pharmacy, including latest news and developments.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evening and weekend hours.\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer good math skills so they can fill prescriptions accurately, including counting, measuring and weighing medications.\n* Prefer good computer skills.\n* Prefer the knowledge of store inventory control.\n* Prefer PTCB certification.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits  \n  \n  \n  \n**Salary Range:** $17 - $23.25 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Prescription coverage**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Employee discount**\n* ### **Work & life resources**\n* ### **Career development programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 17.0\u201323.25 USD/hourly",
+      "match_score": 73,
+      "matched_terms": [
+        "customer service",
+        "scheduling",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "6dc5010025065269b17b": {
+      "id": "6dc5010025065269b17b",
+      "title": "Customer Support Agent Remote (Ukraine-based)",
+      "company": "Preply",
+      "location": "Kyiv, Kyiv City, Ukraine",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4325070221",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer support",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "795877799f6a1d340da8": {
+      "id": "795877799f6a1d340da8",
+      "title": "Customer Service Representative - English Speaker",
+      "company": "Arrow Electronics",
+      "location": "Casablanca, Casablanca-Settat, Morocco",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4471115397",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "cc9d7372f807f0edb952": {
+      "id": "cc9d7372f807f0edb952",
+      "title": "Customer Service Representative I, Cyber & Data Resilience",
+      "company": "Kroll",
+      "location": "Nashville, TN, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477095899",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "cbe743e9a04c87fb9115": {
+      "id": "cbe743e9a04c87fb9115",
+      "title": "Customer Service Representative",
+      "company": "Corsa",
+      "location": "Brazil",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4479132981",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "7ffeb2c113ed801f8e74": {
+      "id": "7ffeb2c113ed801f8e74",
+      "title": "Customer Service Representative",
+      "company": "WNS",
+      "location": "Pune City, Maharashtra, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477097303",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "a2a091cc3c91d557a77f": {
+      "id": "a2a091cc3c91d557a77f",
+      "title": "Customer Service Representative",
+      "company": "Berkley One (a Berkley Company)",
+      "location": "Wilmington, DE, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4479727126",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "934786a470b3b1c5019d": {
+      "id": "934786a470b3b1c5019d",
+      "title": "Shift Lead",
+      "company": "Walgreens",
+      "location": "Philadelphia, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=5ad0e8f398f147d5",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/philadelphia/shift-lead/1242/101994802528",
+      "description": "* Opens and closes the store in the absence of store management, including all required systems start-ups, required cash handling, and ensuring the floor and stock room are ready for the business day. Responsible for opening back door of store for deliveries.\n* Completes product returns, order voids, customer refunds, cash drops to the safe, and provides change as requested to cash registers.\n* Models and delivers a distinctive and delightful customer experience.\n\n  \n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Responsible for holding store keys to open and close without management as necessary.\n* Assists with and coaches other team members to work with warehouse and vendor ordering process as the orders are created, reviewed, and received, including opening the backdoor for vendor deliveries.\n* Responsible and accountable for registering all related sales on assigned cash register, including records of scanning errors, price verifications, items not on file, price modifications, and voids.\n* Assists manager or assistant store manager in reviewing order exceptions on order release day and assists in reverse logistics (e.g., 1506, returns, empty package).\n* Assists manager or assistant store manager in evaluating and developing displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions.\n* Maintains accurate inventory counts; maintains the accuracy of on-hand quantities including, but not limited to, basic departments, stockroom, and overstock locations.\n* Assist with ensuring the Outdate program is followed with team members.\n* Responsible for basic department pricing and making daily price changes; ensures proper signage is displayed at the store to support accurate pricing of products. Ensures any additional pricing tasks related to local regulations and/or regulatory compliance programs are completed accurately and within the required time frame.\n* Assist with bookkeeping activities, including cash report, cash counts, ledgers, and bill payment as necessary or as requested.\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance, including requesting store or system repairs as required in manager absence, or as requested by manager.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Assist at Pharmacy out window as requested.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Responsible for bag checks of team members before leaving the store.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager.\n\n**Communications**\n\n* Serves as a liaison between management and non-management team members by communicating assigned tasks to team members when store management is not present.\n* Reports disciplinary issues and customer complaints to management.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* One year of prior leadership, supervisory, or retail key holder work experience.\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer the knowledge of store inventory control.\n* We will consider employment of qualified applicants with arrest and conviction records.\n* Obtains and maintains valid PTCB certification or pharmacy license as required by state.\n    \n    \n  An Equal Opportunity Employer, including disability/veterans.\n    \n    \n  The actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n\n  \n**Salary Range:** $17.5 - $22.5 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 17.5\u201322.5 USD/hourly",
+      "match_score": 69,
+      "matched_terms": [
+        "customer service",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "1c4c47eb98a3483438ac": {
+      "id": "1c4c47eb98a3483438ac",
+      "title": "Specialty Representative, Dermatology - Lancaster, PA",
+      "company": "AbbVie",
+      "location": "Lancaster, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=65580ef2e6e144c6",
+      "job_url_direct": "https://jobs.smartrecruiters.com/AbbVie/3743990016163505-specialty-representative-dermatology-lancaster-pa",
+      "description": "**Company Description**\n\n**About AbbVie**\n\nAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on LinkedIn, Facebook, Instagram, X and YouTube.\n\n **Job Description**\n\nThis role is field-based, and candidates should live within a reasonable distance from the primary city- Lancaster PA. Talent will be hired at a level commensurate with experience.\n\nThis geography covers a connected area of south-central and eastern Pennsylvania anchored by Lancaster, Exton, West Lawn, Reading, Lebanon, Glen Mills, Media and Pottsville.\n\nExecute brand strategy and tactics in field, sales performance, effectively manage assigned territory and targeted accounts, build strong customer relationships and customer needs solving capability to maximize short and long term sales performance placing the patient into the center of any efforts and operating within AbbVie\u2019s business code of conduct, policies and all applicable laws and regulations.\n\n**Responsibilities:**\n\n* Deliver sales performance, brand KPIs, financial targets, marketing objectives, etc. in order to meet or exceed on those objectives.\n* Create pre-call plan using SMART objectives and execute post-call evaluation in order to continuously improve sales performance. Effectively handle objections, misunderstandings, concerns and consistently gain logical and reasonable calls to action in order to close on every sales call.\n* Proactively and continuously aspire to serve customer needs, customer expectations and challenges in order to build trusted customer relationships and to achieve win-win agreements between AbbVie and customers.\n* Develop and execute a call plan that achieves set call metrics and optimizes coverage and frequency to key customers in order to maximize access and sales opportunities.\n* Continuously build understanding on customer needs and expectations, territory market landscape, competitors, market segments/dynamics, accounts, disease, product, clinical and sales expertise and share this market intelligence information with in-field team, brand team and sales manager to achieve alignment, to anticipate environmental changes and challenges and to optimize brand strategy and its execution.\n* Differentiate AbbVie\u2019s value proposition with health providers assigned and identify, develop and maintain disease state experts and speakers/advocates in order to maximize brand performance.\n\n  \n**Qualifications**  \n\n* Bachelor\u2019s degree in health, sciences, pharmacy or business-related field preferred or relevant and equivalent industry experience required\n* Relevant and equivalent industry experience required in lieu of a bachelor\u2019s degree is at least five (5) years of experience with three (3) or more years of experience within the pharmaceutical/health/science industry preferred and a high school diploma/GED required\n* Proven track record of success in selling and solid presentation skills. Proactively identifies customer style / behavior and adapts quickly all aspects of selling approach. Offers innovative ideas and solutions to maximize business opportunities to address challenges. Provides impact with ideas for the larger organization and anticipates and responds to changes.\n* Influences others & is viewed as a credible and respected role model and resource among peers. Builds collaborative partnership with district colleagues and matrix team, etc. Leads by example; consistently displays positive behaviors and peer coaching through changing and challenging environments.\n* Documented success in leadership and support role of increased responsibility at the district, region and/or organizational levels. Understands and leverages findings to develop sales strategies.\n* Preferred: Proven track record of success in sales performance within respective therapeutic areas. Commercial pharmaceutical industry experiences such as physician/account based selling, training, managed health care or marketing preferred. English language proficiency verbally and in writing (for all non-English speaking countries).\n* An essential requirement of your position is to satisfy all applicable health care industry representative (HCIR) credentialing requirements to gain and maintain entry into facilities and organizations that are in your assigned territory. You must also be in good standing and/or eligible to obtain these credentials.\n* These HCIR credentialing requirements may include, but are not limited to, background checks, drug screens, proof of immunization/vaccination for various diseases, fingerprinting and specific licenses required by individual state or cities. Please remember that you are solely responsible for ensuring that you satisfy all HCIR credentialing requirements and for any associated liability for failing to do so. AbbVie has resources available to you to help answer questions you may have.\n* Demonstrates in-depth scientific, therapeutic, product, and competitive knowledge and is recognized as an expert resource by all relevant stakeholders. Strong business acumen and proficient use of business tools; possesses strategic and critical thinking capabilities. Operates effectively in a matrix environment.\n* Driving a personal auto or company car or truck, or a powered piece of material handling equipment\n* Valid driver\u2019s license: Ability to pass a pre-employment drug screening test and meet safe driving requirements.\n\nKey Stakeholders\n\n* External: Specialty Physicians in Therapeutic brand area, pharmacists, nurses, others depending on brand plan.\n* Internal: In-field team members, Sales Management (i.e. DSM), Marketing Management, Training, Customer Excellence, & Brand Plan stakeholders.\n\n  \n**Additional Information**\n\nApplicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law:\n\n* The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future.\n* We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.\n* This job is eligible to participate in our short-term incentive programs.\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company\u2019s sole and absolute discretion, consistent with applicable law.\n\nAbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community. Equal Opportunity Employer/Veterans/Disabled.\n\nUS & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html\n\nUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:\n\nhttps://www.abbvie.com/join-us/reasonable-accommodations.html",
+      "salary": "\ud83d\udcb0 78500.0\u2013192500.0 USD/yearly",
+      "match_score": 69,
+      "matched_terms": [
+        "representative",
+        "associate",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "ca80b752ed3037246923": {
+      "id": "ca80b752ed3037246923",
+      "title": "Facility Assistant",
+      "company": "DSV",
+      "location": "Hainesport, NJ, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=234d81b45f3f09e8",
+      "job_url_direct": "https://jobs.dsv.com/job/Hainesport-Facility-Assistant-NJ-0008036/1448141633/",
+      "description": "If you are a current DSV employee and interested in a position in another country,please contact your Human Resource representative to discuss the process and requirements of applying.\n\nJob area: Facility\n\n**DSV - Global transport and logistics**\n  \nIn 1976, ten independent hauliers joined forces and founded DSV in Denmark. Since then, DSV has evolved to become the world's 3rd largest supplier of global solutions within transport and logistics. Today, we add value to our customers' entire supply chain by transporting, storing, packaging, re-packaging, processing and clearing all types of goods. We work every day from our many offices in more than 80 countries to ensure a steady supply of goods to production lines, outlets, stores and consumers all over the world. Our reach is global yet our presence is local and close to our customers. Read more at www.dsv.com\n\nLocation: USA - Hainesport, Marne Highway\n\nDivision: Solutions\n  \nJob Posting Title: Facility Assistant\n  \nTime Type: Part Time\n\n**POSITION SUMMARY**\n\nUnder general supervision, the Facility Assistant, Janitor is responsible for maintaining a clean and orderly Building / Facility. Work is performed with some independence within established policies, procedures and techniques, and is subject to general or direct supervision as the work situation warrants.\n\n  \n\nAs part of the DSV team, Associates are expected to meet company objectives in the areas of performance, safety, and quality. Associates are expected to comply with all corporate and site-specific policies.\n\n**ESSENTIAL DUTIES AND RESPONSIBILITIES**\n\n* Maintain offices, cubical, conference rooms, restrooms, and or any other office space clean and in orderly fashion.\n* Prepare conference rooms with coffee, drinks, and or food (when required)\n* Maintain Storage areas (neat and clean)\n* Maintains cleanliness of exterior grounds (bay areas, lobby entrances, etc.,)\n* Empty trash receptacles in the warehouse daily at a minimum.\n* Maintain floors daily to ensure cleanliness, no dirt and debris, obstacles and trip/slip hazards. Post hazard information signs where needed.\n* Maintain materials in a neat, clean and orderly fashion.\n  \n\n**SKILLS & ABILITIES**\n\n**Education & Experience:**\n\n* Six months experience in a similar role\n\n* Must have a high school diploma or general education degree (GED).\nMust be able to work in unregulated temperatures within the warehouse during the warmer and colder months can range from mild to moderate  \n\n**Computer Skills**\n\nBasic computer skills\n\n**Certificates & Licenses:**\n\nSatisfactory completion of a forklift training program\n\n**Language Skills**\n\nEnglish (reading, writing, verbal)\n\n  \n\n**Mathematical Skills**\n\nBasic math\n\n  \n\n**Other Skills**\n\n* Clear speaking in order to communicate effectively with vendors/customers\n* Must be able to read and comprehend written procedures and instructions\n* Able to maintain employee confidentiality\n* Physical ability to lift (50lbs), bend and reach\n* Methods in handling materials and equipment used in performing housekeeping duties\n* Work overtime as dictated by business whether mandatory or voluntary.\n  \n\n**CORE COMPETENCIES**\n\n**Independent Contributor**\n\n  \n\n* Accountability\n\n* Communication / Building Partnership\n\n* Customer Orientation\n\n* Developing Oneself\n\n* Drive for Results\n\n* Embracing Change\n\n* Problem Solving\n\n* Professional Competencies\n\n**PHYSICAL DEMANDS**\n\nOccasionally\n\nHandling/ Sitting\n\n  \n\nFrequently\n\nBending\n\n  \n\nConstantly\n\nWalking and Standing\n\n  \n\nAbility to Lift/Carry and Push/Pull\n\n21-50 pounds\n\n* Reach above shoulder, reach outward, squat, or kneel.\n  \n\n**Other Physical Requirements:**\n\n  \n\n**WORK ENVIRONMENT**\n\nWhile performing the duties of this job, the employee rarely is exposed to fumes or airborne particles, toxic or caustic chemicals. The noise level in the work environment is usually low to moderate.\n\nFor this position, the expected base pay range is $17 \u2013 $22 hourly. Actual compensation will be determined based on job-related factors such as relevant experience, skills, education, certifications, and geographic location, in accordance with applicable laws and company policy.\n\nInformation regarding DSV\u2019s benefits offerings, including eligibility, coverage options, and plan\n  \ndetails, is available through the DSV Benefits Showcase. Benefits, programs, and eligibility may vary by location and division in accordance with applicable state and local laws.\n\nDSV is an equal employment opportunity employer. Candidates are considered for employment without regard to race, creed, color, national origin, age, sex, religion, ancestry, disability, veteran status, marital status, gender identity, sexual orientation, national origin, or any other characteristic protected by applicable federal, state or local law. If you require special assistance or accommodation while seeking employment with DSV, please contact Human Resources at hr@us.dsv.com. If you are interested in learning the status of your application, please note you will be contacted directly by the appropriate human resources contact person if you are selected for further consideration. DSV reserves the right to defer or close a vacancy at any time.\n\n**DSV \u2013 Global transport and logistics**\n\n**What moves you?**\n\nAt DSV, we move more than goods. We move careers, ambitions and opportunities.\n\nWith close to 150,000 colleagues in over 90 countries, we are the global leader in transport and logistics, and it is our people who bring our services and solutions to life every day. From frontline operations to business functions, every role contributes to keeping supply chains flowing and societies running.\n\nHere, you are trusted to take ownership, act on your ideas and make decisions that create real impact. It is a place where people, careers and ideas keep moving forward. We value transparency in how we communicate and collaborate, and we win together by supporting each other, challenging each other and delivering results as a team.\n\n**Start here. Go anywhere**\n\nThis is our promise of movement. A promise that your work matters, your contribution counts, and your career can move as far as your ambition takes it.\n\nIf you are looking to make an impact, grow your career and be part of something bigger, DSV is the place to be.\n\nVisit dsv.com\n\n#StartHereGoAnywhere #LifeAtDSV",
+      "salary": "\ud83d\udcb0 17.0\u201322.0 USD/hourly",
+      "match_score": 68,
+      "matched_terms": [
+        "representative",
+        "associate",
+        "operations",
+        "pay \u2265 $16/hr"
       ],
       "queued_at": null
     }
