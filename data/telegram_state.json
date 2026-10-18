@@ -1,261 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 294,
+  "search_cursor": 11,
   "apply_queue": {},
   "alert_jobs": {
-    "f2bbd45bce192736c8b9": {
-      "id": "f2bbd45bce192736c8b9",
-      "title": "Inside Sales Representative",
-      "company": "Registrar Corp",
-      "location": "Hampton, VA, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=1cca9e37eb312fab",
-      "job_url_direct": "https://registrarcorp.recruiterbox.com/jobs/fk0znwf?fjb_hash=ezLpq610",
-      "description": "**Inside Sales Representative**\n\n*REMOTE | Full-Time | Salary:22/hr OTE : 81k |Uncapped Sales Commission*\n\nJoin a mission-driven team that's transforming global compliance to promote consumer health and safety by providing over 30,000 food, cosmetic, medical device, and drug companies in 200 countries with compliance software and services. We are growing fast and seeking a high-performing Inside Sales Representative to join our team.\n\n**Position Summary:**\n\nThe Inside Sales Tech-Enabled Services team plays a crucial role in educating both prospective and current international and US clients on U.S. Food and Drug Administration requirements for food, beverages, medical devices, drugs, and cosmetics. As an Inside Sales Representative within our team, you will be a pivotal regulatory resource, responsible for selling Registrar Corp\u2019s solutions and services. In this role, you will manage the full sale cycle and actively engage with new businesses and clients through outbound calls while also managing inbound leads.\n\nIf you are a motivated and ambitious individual with a passion for sales, regulatory compliance, and customer success, then we want to hear from you! Join the Inside Sales Tech-enabled Services team at Registrar Corp and embark on a rewarding journey in this impactful role where you will make a real difference real difference in ensuring compliance with FDA regulations but also contribute to our clients' success and safety.\n\nAs a Inside Sales Representative, you play a crucial role in educating both prospective and current international and US clients on services Registrar Corp provides to help them comply with U.S. Food and Drug Administration requirements.\n\nIf you are a motivated and ambitious individual with a passion for sales and client success, then we want to hear from you!\n\n**Role Responsibilities:**\n\n* Develop and maintain a working knowledge of U.S. FDA requirements for food, beverages, medical devices, drugs, and cosmetics to best assist prospective and current clients.\n\n* Manage the entire sales cycle, which includes identifying key decision makers and initiating new sales opportunities, securing meetings with prospects, delivering sales presentations, communicating value propositions, and negotiating contracts.\n\n* Identifies market potential by qualifying business accounts.\n\n* Experience in prospecting and lead generation.\n\n* Expands international and US sales in existing accounts by introducing new products and services; developing new applications, finding customer solutions.\n\n* Communicate cross culturally with business executives, managers, and supervisory-level contacts.\n\n* Utilize interoffice communication software such as CRM, Microsoft Office, Vonage, etc.\n\n**Required Qualifications:**\n\n* Sales Acumen: At least 1 - 3 years of experience in inside sales selling services or software. Ability to source, identify, and develop new sales; experience in conducting outbound calls to maximize sales opportunities and manage inbound leads.\n\n* Consultative Focus: Experience nurturing opportunities from start to close; ability to diagnose prospect needs and build relationships through a consultative approach. Proven track record of making/exceeding sales quota\n\n* Excellent Communication: Demonstrated proficiency in both verbal and written communication.\n\n* Drive to Succeed: Positive attitude, high energy spirit, and the motivation to manage multiple clients simultaneously.\n\n* Technical Proficiency: Ability to utilize software such as CRM, Microsoft Office, Vonage, Hubspot, etc.\n\n* Flexibility: Ability to work 8.5-hour workdays between 7am-6pm.\n\n**Why Join Registrar Corp?**\n\n* Remote-work eligibility in some US states\n\n* Medical, Dental, Vision, 401(k) with company match\n\n* Paid time off and holiday pay\n\n* Fast-paced, collaborative work environment\n\n* Base compensation of $22/hour, OTE $81k; uncapped commission\n\n  \n\n#LI-REMOTE #LI-MO1",
-      "salary": "\ud83d\udcb0 22.0\u201322.0 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "inbound leads",
-        "inside sales",
-        "representative",
-        "inbound",
-        "remote",
-        "advertised base $22.00/hr equivalent",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "97c49be0d42255df1b8e": {
-      "id": "97c49be0d42255df1b8e",
-      "title": "ITALIAN SPEAKERS IN PORTUGAL\u2013 REMOTE OPPORTUNITIES - CUSTOMER SUPPORT SPECIALIST",
-      "company": "Cross Border Talents",
-      "location": "Portugal",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477066156",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 77,
-      "matched_terms": [
-        "customer support",
-        "specialist",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "5d20a50972c6dccb38a0": {
-      "id": "5d20a50972c6dccb38a0",
-      "title": "ITALIAN SPEAKERS \u2013 ONSITE AND REMOTE  OPPORTUNITIES ABROAD \u2013 CUSTOMER SUPPORT OR CONTEN MODERATOR",
-      "company": "Cross Border Talents",
-      "location": "European Economic Area",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477063157",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer support",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "ceda251952003f4ac28d": {
-      "id": "ceda251952003f4ac28d",
-      "title": "Customer Service Representative (Spanish/English)",
-      "company": "Binance",
-      "location": "Argentina, Cesar, Colombia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4479799757",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "471fa1bafc3d0dea1bb6": {
-      "id": "471fa1bafc3d0dea1bb6",
-      "title": "Customer Service Representative (Arabic & English)",
-      "company": "Binance",
-      "location": "Jordan",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4479802444",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "37566b3e577bf473befd": {
-      "id": "37566b3e577bf473befd",
-      "title": "Customer Support Specialist (Junior / Middle / Senior)",
-      "company": "NextChallenge",
-      "location": "Gda\u0144sk, Pomorskie, Poland",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4479856411",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "6ef78dec722302dd2968": {
-      "id": "6ef78dec722302dd2968",
-      "title": "Customer Support Specialist",
-      "company": "Aethel Defense",
-      "location": "India",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478835028",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "ea2c34da803452396f06": {
-      "id": "ea2c34da803452396f06",
-      "title": "Customer Care Specialist",
-      "company": "MADFINGER Games, a.s.",
-      "location": "Brno - m\u011bsto, South Moravia, Czech Republic",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4469534749",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 66,
-      "matched_terms": [
-        "customer care",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "cdf41b963d2082478166": {
-      "id": "cdf41b963d2082478166",
-      "title": "English-Speaking Support Associate (Full-time - Remote)",
-      "company": "Wolt",
-      "location": "Serbia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4451693855",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 66,
-      "matched_terms": [
-        "associate",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "32d78c139a5a0a2337d8": {
-      "id": "32d78c139a5a0a2337d8",
-      "title": "Customer Support Agent",
-      "company": "B2Spin Limited",
-      "location": "Poland",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4480111825",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "4fbdf6b443d148590eca": {
-      "id": "4fbdf6b443d148590eca",
-      "title": "Customer Support Agent",
-      "company": "B2Spin Limited",
-      "location": "Georgia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4480116760",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "0f2ecf0886c62cd91666": {
-      "id": "0f2ecf0886c62cd91666",
-      "title": "Customer Support Executive",
-      "company": "Artech L.L.C.",
-      "location": "Hyderabad, Telangana, India",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478848672",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "bdb21a2b23cd3546b3fe": {
-      "id": "bdb21a2b23cd3546b3fe",
-      "title": "Customer Support para Comos",
-      "company": "Comos",
-      "location": "Chile",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4477084328",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "226c74fa758dcf130762": {
-      "id": "226c74fa758dcf130762",
-      "title": "Customer Support Executive",
-      "company": "View On Click",
-      "location": "India",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4479118114",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
     "21ad8bf4b60e7e4f1790": {
       "id": "21ad8bf4b60e7e4f1790",
       "title": "Customer Support-Wealth management",
@@ -5391,6 +5138,254 @@
       "match_score": 62,
       "matched_terms": [
         "customer service"
+      ],
+      "queued_at": null
+    },
+    "292db8a729b88876fb7f": {
+      "id": "292db8a729b88876fb7f",
+      "title": "Customer Service and Content Operations Assistant (Philippines, Remote)",
+      "company": "GrowthAssistant",
+      "location": "Philippines",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480896492",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "remote",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "3253de213d062f5aac16": {
+      "id": "3253de213d062f5aac16",
+      "title": "Customer Support (m/w/d) - 100% Remote (Hamburg & Umgebung)",
+      "company": "FunnelCockpit",
+      "location": "Hamburg, Hamburg, Germany",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4477796172",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer support",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "998062d4073b9f91ea68": {
+      "id": "998062d4073b9f91ea68",
+      "title": "Customer Service Representative (Portuguese/English)",
+      "company": "Binance",
+      "location": "Argentina",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480904586",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "1eaeb0e848e07217996f": {
+      "id": "1eaeb0e848e07217996f",
+      "title": "Customer Service Representative (Portuguese/English)",
+      "company": "Binance",
+      "location": "Colombia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480908342",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "cf8d6d482f592b942796": {
+      "id": "cf8d6d482f592b942796",
+      "title": "Customer Service Representative",
+      "company": "Flexiple",
+      "location": "India",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480888436",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "41bd072f25417c1489fa": {
+      "id": "41bd072f25417c1489fa",
+      "title": "Customer Support Representative with Dutch for EV Charging Company",
+      "company": "Concentrix",
+      "location": "Sofia, Sofia City, Bulgaria",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4413350064",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer support",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "aebe534dbbcc9c5bfffd": {
+      "id": "aebe534dbbcc9c5bfffd",
+      "title": "Customer Support Associate (f/m/d)",
+      "company": "Moss",
+      "location": "Berlin, Berlin, Germany",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4427095223",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer support",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "d8980915e4c5581ffae2": {
+      "id": "d8980915e4c5581ffae2",
+      "title": "Customer Support Specialist - Banking Services (German &amp; English)",
+      "company": "Concentrix",
+      "location": "Poland",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4413373281",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "0e89151f31281ad4e456": {
+      "id": "0e89151f31281ad4e456",
+      "title": "Customer Service Specialist (US Cards)",
+      "company": "Lendable",
+      "location": "London, England, UK",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4472171240",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "99b8503bd764c2ccfd1d": {
+      "id": "99b8503bd764c2ccfd1d",
+      "title": "WeLab Bank - Senior Customer Service Officer \u9ad8\u7d1a\u5ba2\u6236\u670d\u52d9\u4e3b\u4efb (Non\u2011Sales \u2022 Fresh Graduates Welcome)",
+      "company": "WeLab Bank",
+      "location": "Hong Kong, Hong Kong SAR",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4314728461",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer service"
+      ],
+      "queued_at": null
+    },
+    "cd6755a35467c5a9be84": {
+      "id": "cd6755a35467c5a9be84",
+      "title": "Customer Support Agent",
+      "company": "Flatpay",
+      "location": "Amsterdam-Duivendrecht, North Holland, Netherlands",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4454509382",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
+      ],
+      "queued_at": null
+    },
+    "9618d45644a2b57c12e2": {
+      "id": "9618d45644a2b57c12e2",
+      "title": "Customer Service Officer",
+      "company": "Axis HR",
+      "location": "Dhaka, Bangladesh",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4478214700",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer service"
+      ],
+      "queued_at": null
+    },
+    "f6ef4624a103abdb2177": {
+      "id": "f6ef4624a103abdb2177",
+      "title": "Customer Service Officer",
+      "company": "Luminor Group",
+      "location": "Riga, Riga, Latvia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480898446",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer service"
+      ],
+      "queued_at": null
+    },
+    "cbbd2da5c278832e394b": {
+      "id": "cbbd2da5c278832e394b",
+      "title": "Customer Support Physicist- Boston",
+      "company": "Quantum Machines",
+      "location": "Boston, MA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4479941074",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
       ],
       "queued_at": null
     }
