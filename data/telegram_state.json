@@ -1,25 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 8,
+  "search_cursor": 28,
   "apply_queue": {},
   "alert_jobs": {
-    "f6ef4624a103abdb2177": {
-      "id": "f6ef4624a103abdb2177",
-      "title": "Customer Service Officer",
-      "company": "Luminor Group",
-      "location": "Riga, Riga, Latvia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4480898446",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer service"
-      ],
-      "queued_at": null
-    },
     "cbbd2da5c278832e394b": {
       "id": "cbbd2da5c278832e394b",
       "title": "Customer Support Physicist- Boston",
@@ -5411,6 +5394,29 @@
       "match_score": 62,
       "matched_terms": [
         "customer service"
+      ],
+      "queued_at": null
+    },
+    "762e45b9241f7ce5ca03": {
+      "id": "762e45b9241f7ce5ca03",
+      "title": "Sales Development Representative",
+      "company": "Turbine",
+      "location": "Boston, MA, USA",
+      "category": "Entry Level Sales (Guaranteed Base)",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=e742af5d39ecb462",
+      "job_url_direct": "https://apply.workable.com/j/DE138C496A",
+      "description": "**Join our team as a Sales Development Representative and help virtualize biological experiments to accelerate discovery**!\n\n**Location:** Remote - US East Coast\n\n**About Turbine**\n\nA lab without limits, built for biopharma.\n\nTurbine\u2019s Virtual Lab (vLab\u00ae) enables scientists to run Virtual Assays across millions of biological conditions far beyond traditional laboratory throughput. Instead of narrowing hypotheses to fit experimental constraints, scientists can explore the broader biological search space computationally before deciding what to validate in the wet lab. Turbine doesn\u2019t replace the wet lab. It makes every experiment count. Through an integrated lab-in-the-loop workflow, virtual findings become testable hypotheses, with validation results feeding back to strengthen subsequent predictions within the workflow.\n\nIn deployed programs, Turbine has reduced decision timelines from 12-18 months to approximately two months while cutting wet-lab experiments by more than 50%.\n\nWorking with scientists at leading biopharma like MSD (Merck & Co.), AstraZeneca and Bayer, Turbine\u2019s virtual assays have rationalized experiments across more than 30 discovery programs.\n\nBacked by leading tech and industry investors like Accel, MSD Global Health Innovation Fund, Interactive Venture Partners and Beiersdorf, Turbine is turning biology into an engineering discipline.\n\n**The Role**\n\nAs we scale our commercial organization, we are looking for a Sales Development Representative to help us systematically identify, engage and develop new opportunities across our target biopharma accounts.\n\nThe SDR will be responsible for building a qualified pipeline for Turbine's Business Development team.\n\nThis is not a high-volume, transactional SDR position. Turbine sells complex scientific solutions to sophisticated enterprise customers, often involving multiple scientific, technical and business stakeholders. Success therefore requires a thoughtful, account-based approach to business development.\n\nYou will work closely with Business Development and Marketing to identify priority accounts and stakeholders, develop targeted outreach, follow up on conferences and campaigns, and convert initial interest into qualified commercial conversations.\n\nYou will report into Business Development, with a dotted line to Sales Operations to ensure strong CRM discipline, pipeline tracking and reporting.\n\n**Key Responsibilities**\n\nAccount Development & Prospecting\n\n* Research and map priority pharmaceutical and biotechnology accounts.\n* Identify relevant scientific, technical and business decision-makers within target organizations.\n* Develop personalized outreach across email, LinkedIn and other appropriate channels.\n* Generate qualified meetings for Turbine's Business Development team.\n* Identify new opportunities within both new and existing accounts.\n* Re-engage dormant prospects and previously identified opportunities.\n* Work with Business Development to develop account-specific engagement strategies.\n\nConference & Marketing Follow-Up\n\n* Work closely with Business Development and Marketing before major conferences to identify target companies and attendees.\n* Support meeting generation ahead of conferences.\n* Ensure rapid and systematic follow-up of conference leads and interactions.\n* Follow up on webinars, white papers, publications and other marketing activity.\n* Help convert marketing engagement into qualified commercial conversations.\n\nQualification & Pipeline Development\n\n* Conduct initial qualification of inbound and outbound prospects.\n* Understand the customer's scientific interests, therapeutic areas, programs and potential use cases.\n* Hand qualified opportunities to the appropriate Business Development Manager with clear context and next steps.\n* Track progression from initial engagement through qualified opportunity.\n\nCRM & Sales Operations\n\n* Maintain accurate and timely records in CRM (Hubspot)\n* Ensure contacts, accounts, meetings, opportunities and follow-up activities are consistently captured.\n* Work with Sales Operations to maintain data quality and appropriate sales processes.\n* Support pipeline reporting and analysis.\n* Help identify patterns in outreach, conversion and account engagement that can improve commercial performance.\n\n  \n**Requirements**\n\n**You are a Turbiner if these personality traits apply to you**\n\n* You have self-awareness and strong intention on personal growth\n* You seek out feedback and learn from mistakes and apply what you learned\n* You take responsibility and focus on the outcomes over tasks\n* You focus on shared success and are open to challenging others respectfully to get the best possible outcome\n* You are in it for the long haul and have passion for our mission\n\n**Experience & Skills**\n\nRequired\n\n* Experience in sales development, business development or a related commercial role.\n* Experience using HubSpot, Salesforce or another modern CRM platform.\n* Strong research skills and ability to understand complex organizations and stakeholder structures.\n* Highly organized and disciplined approach to follow-up and pipeline management.\n* Strong written and verbal communication skills.\n* Comfortable engaging senior scientific and life sciences business professionals.\n* Demonstrated ability to work independently and proactively.\n* Ability to collaborate effectively across Business Development, Marketing, Product and Sales Operations.\n\nPreferred\n\n* Experience within biotechnology, pharmaceutical, life sciences, AI/drug discovery or scientific software.\n* Familiarity with pharmaceutical R&D organizations and drug discovery workflows.\n* Experience with account-based sales or marketing approaches.\n* Experience supporting enterprise sales teams with long, complex sales cycles.\n* Scientific or life-sciences education is advantageous but not essential.\n\n  \n**Benefits**\n\n**Compensation:**\n\nBase salary: $65K - $80K, OTE: $90-$115K (base + variable commission)\n\n**Benefits:**\n\n* HO allowance $410: You can spend your amount within your first 6 months. Purchase the item for your home office (desk, ergonomic chair, router, etc.).\n* 401(k) with company match\n* Comprehensive medical coverage, dental, and vision options\n* You are also eligible for 20 paid vacation days each calendar year accrued per pay period plus 8 days of paid sick leave per calendar year",
+      "salary": "\ud83d\udcb0 65000.0\u201380000.0 USD/yearly",
+      "match_score": 99,
+      "matched_terms": [
+        "sales development",
+        "business development",
+        "base salary",
+        "representative",
+        "inbound",
+        "remote",
+        "operations"
       ],
       "queued_at": null
     }
