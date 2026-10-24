@@ -1,349 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 288,
+  "search_cursor": 5,
   "apply_queue": {},
   "alert_jobs": {
-    "b208a716e3185af36fe8": {
-      "id": "b208a716e3185af36fe8",
-      "title": "Customer Service Representative",
-      "company": "Johnson Matthey",
-      "location": "West Chester, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4471226022",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "91985ee997cc8092b89c": {
-      "id": "91985ee997cc8092b89c",
-      "title": "Content Marketing Manager",
-      "company": "HackerOne",
-      "location": "Austin, TX, USA",
-      "category": "Web3 Support",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=6dbbe3876336def2",
-      "job_url_direct": "https://jobs.ashbyhq.com/hackerone/6af1868c-0cca-447e-b468-aeb37ac0437a?utm_source=jQQVL8W35E",
-      "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, Crypto.com, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner\u2019s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).\n\nHackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional \u2013 it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world\u2019s top organizations.\n\n**HackerOne Values**\n\nHackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is **Customer Obsessed** and prioritizes customer outcomes in our decisions and actions. We **Default to Disclosure** by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners **Win Together** by fostering empowerment, inclusion, respect, and accountability.\n\n**Position Summary**\n--------------------\n\nAt HackerOne, great content starts with a great story. It\u2019s how we make complex cybersecurity topics understandable, turn original research into insights people remember, and build trust with security leaders.\n\nAs our Content Marketing Manager, you\u2019ll help find and tell those stories. You\u2019ll lead key parts of our content program, including the HackerOne blog, annual research, search optimization, and editorial standards. You\u2019ll work with experts across HackerOne to uncover interesting ideas, find the story in the data, and turn technical expertise into content that is clear, useful, and worth reading.\n\nThis role is part editor, part storyteller, and part content strategist. You\u2019ll bring strong editorial judgment, curiosity, and an audience-first mindset to what we create, while using data, search insights, and AI tools to help our content reach the right people and make a measurable impact.\n\n**What You Will Do**\n--------------------\n\n* Manage the HackerOne blog, including the editorial calendar, story development, publishing, optimization, and performance tracking.\n* Lead the development of HackerOne\u2019s annual research and flagship reports, finding the strongest stories in our data and working with internal experts and partners to turn those insights into compelling narratives.\n* Find stories across HackerOne by interviewing subject matter experts, asking the right questions, and identifying perspectives that can strengthen our thought leadership.\n* Turn complex cybersecurity topics into clear, engaging content for security leaders without losing the substance or expertise behind them.\n* Help execute our answer engine optimization (AEO) and search engine optimization (SEO) strategy, using search data and audience insights to identify opportunities and improve content performance.\n* Maintain and apply HackerOne\u2019s Style Guide to ensure our content is clear, consistent, and distinctly HackerOne.\n* Manage the content intake process, helping teams sharpen ideas, prioritize requests, and move strong stories from concept to publication.\n* Multiply the impact of our best stories by adapting content for campaigns, social media, and audience engagement.\n* Measure content performance and use those insights to understand what resonates with our audience and inform what we create next.\n* Use AI tools throughout the content process to support research, idea development, drafting, editing, optimization, and repurposing while maintaining strong human editorial judgment.\n\n**Minimum Qualifications**\n--------------------------\n\n* 3+ years of experience in content marketing, editorial, journalism, or a related role.\n* A strong storyteller with demonstrated experience finding an interesting angle, building a clear narrative, and making complex subjects engaging and accessible.\n* Excellent writing, editing, and interviewing skills, with strong editorial judgment and attention to detail.\n* Experience developing research-driven content, reports, or thought leadership and turning data and expert insights into stories for a specific audience.\n* Experience managing a content program, publication, or editorial calendar.\n* Experience with SEO and/or AEO, including keyword research, content optimization, and performance measurement.\n* Experience using AI tools to support content creation, research, optimization, or other marketing workflows.\n* Strong collaboration and project management skills, with the ability to work across teams and bring ideas from concept to publication.\n\n**Preferred Qualifications**\n----------------------------\n\n* Experience creating content for B2B technology, cybersecurity, or another technical industry.\n* A background in journalism, editorial, research, or another field where interviewing and story development are core skills.\n* Familiarity with content and search performance tools such as Google Analytics, SEMrush, or similar tools.\n* Experience adapting stories and content for social media and other marketing channels.\n* Experience partnering with product marketing, demand generation, communications, or product teams.\n* Curiosity about how search, AI, and changing audience behaviors are reshaping content and storytelling.\n\n**Job Benefits:**\n-----------------\n\n* Health (medical, vision, dental), life, and disability insurance\\*\n* Equity stock options\n* Retirement plans\n* Paid public holidays and unlimited PTO\n* Paid maternity and parental leave\n* Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)\n* Employee Assistance Program\n* **Eligibility may differ by country**\n\nWe're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with Remote.com as our Employer of Record (EOR).\n\nVisa/work permit sponsorship is not available.\n\n*Employment at HackerOne is contingent on a background check.*\n\nHackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.\n\nThis policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.\n\nFor US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position.\n\nCompensation Range: $96K - $144K",
-      "salary": "\ud83d\udcb0 96000.0\u2013144000.0 USD/yearly",
-      "match_score": 72,
-      "matched_terms": [
-        "recruiting",
-        "remote",
-        "crypto",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "3294993d3c52317326b9": {
-      "id": "3294993d3c52317326b9",
-      "title": "Customer Support Representative (Dutch-speaking)",
-      "company": "BUX",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4452360388",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer support",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "2254892164105d154833": {
-      "id": "2254892164105d154833",
-      "title": "Account Management Operations Representative \u2013 Merrill Onboarding and Maintenance",
-      "company": "Bank of America",
-      "location": "Pennington, NJ, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4473550430",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 69,
-      "matched_terms": [
-        "account management",
-        "representative",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "0b12e04c3e72e4cb2ac2": {
-      "id": "0b12e04c3e72e4cb2ac2",
-      "title": "Client Operations Associate - Remote",
-      "company": "River",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4471533227",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 69,
-      "matched_terms": [
-        "associate",
-        "remote",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "43b8835f6bf950c3f5c5": {
-      "id": "43b8835f6bf950c3f5c5",
-      "title": "Customer Service Specialist",
-      "company": "NOVOMATIC Technologies Poland",
-      "location": "Zabierz\u00f3w, Ma\u0142opolskie, Poland",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482062579",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "8c121f97d015089650ee": {
-      "id": "8c121f97d015089650ee",
-      "title": "Customer Service Specialist - English Speaker (Permanent Night Shift)",
-      "company": "TDCX",
-      "location": "WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4480781392",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "c13d3209649fce363e0e": {
-      "id": "c13d3209649fce363e0e",
-      "title": "Customer Support Specialist - Risk",
-      "company": "Mercury",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4471209281",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "1a1a021f513ee8f6e52f": {
-      "id": "1a1a021f513ee8f6e52f",
-      "title": "Customer Support Specialist",
-      "company": "TradeQuo Global",
-      "location": "Manila, National Capital Region, Philippines",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482049431",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "ec213b6c3d1d346eb60a": {
-      "id": "ec213b6c3d1d346eb60a",
-      "title": "Customer Support Specialist",
-      "company": "Novisto",
-      "location": "London Area, UK",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4481779355",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "180fbecb82ff804160f5": {
-      "id": "180fbecb82ff804160f5",
-      "title": "FT Customer Service Rep",
-      "company": "National Fitness Partners",
-      "location": "Springfield, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482015951",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 66,
-      "matched_terms": [
-        "customer service"
-      ],
-      "queued_at": null
-    },
-    "4f7663dd3ef3b6e170f9": {
-      "id": "4f7663dd3ef3b6e170f9",
-      "title": "Customer Support Agent (Technical Operations)",
-      "company": "TGLAB",
-      "location": "Vilnius, Vilniaus, Lithuania",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4478990733",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer support",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "964ad4dfdf9ffb31340c": {
-      "id": "964ad4dfdf9ffb31340c",
-      "title": "Client Operations Associate II",
-      "company": "JPMorganChase",
-      "location": "Philadelphia, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482030496",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 64,
-      "matched_terms": [
-        "associate",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "84c61fec5e1932b6d07e": {
-      "id": "84c61fec5e1932b6d07e",
-      "title": "Client Support Specialist",
-      "company": "CareerHelix",
-      "location": "London, England, UK",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482048144",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 64,
-      "matched_terms": [
-        "specialist",
-        "client support"
-      ],
-      "queued_at": null
-    },
-    "4ca8a77ae6777c12d371": {
-      "id": "4ca8a77ae6777c12d371",
-      "title": "Customer Service Agent",
-      "company": "FINN",
-      "location": "Phuket, Phuket, Thailand",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482036388",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer service"
-      ],
-      "queued_at": null
-    },
-    "762e45b9241f7ce5ca03": {
-      "id": "762e45b9241f7ce5ca03",
-      "title": "Sales Development Representative",
-      "company": "Turbine",
-      "location": "Boston, MA, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=e742af5d39ecb462",
-      "job_url_direct": "https://apply.workable.com/j/DE138C496A",
-      "description": "**Join our team as a Sales Development Representative and help virtualize biological experiments to accelerate discovery**!\n\n**Location:** Remote - US East Coast\n\n**About Turbine**\n\nA lab without limits, built for biopharma.\n\nTurbine\u2019s Virtual Lab (vLab\u00ae) enables scientists to run Virtual Assays across millions of biological conditions far beyond traditional laboratory throughput. Instead of narrowing hypotheses to fit experimental constraints, scientists can explore the broader biological search space computationally before deciding what to validate in the wet lab. Turbine doesn\u2019t replace the wet lab. It makes every experiment count. Through an integrated lab-in-the-loop workflow, virtual findings become testable hypotheses, with validation results feeding back to strengthen subsequent predictions within the workflow.\n\nIn deployed programs, Turbine has reduced decision timelines from 12-18 months to approximately two months while cutting wet-lab experiments by more than 50%.\n\nWorking with scientists at leading biopharma like MSD (Merck & Co.), AstraZeneca and Bayer, Turbine\u2019s virtual assays have rationalized experiments across more than 30 discovery programs.\n\nBacked by leading tech and industry investors like Accel, MSD Global Health Innovation Fund, Interactive Venture Partners and Beiersdorf, Turbine is turning biology into an engineering discipline.\n\n**The Role**\n\nAs we scale our commercial organization, we are looking for a Sales Development Representative to help us systematically identify, engage and develop new opportunities across our target biopharma accounts.\n\nThe SDR will be responsible for building a qualified pipeline for Turbine's Business Development team.\n\nThis is not a high-volume, transactional SDR position. Turbine sells complex scientific solutions to sophisticated enterprise customers, often involving multiple scientific, technical and business stakeholders. Success therefore requires a thoughtful, account-based approach to business development.\n\nYou will work closely with Business Development and Marketing to identify priority accounts and stakeholders, develop targeted outreach, follow up on conferences and campaigns, and convert initial interest into qualified commercial conversations.\n\nYou will report into Business Development, with a dotted line to Sales Operations to ensure strong CRM discipline, pipeline tracking and reporting.\n\n**Key Responsibilities**\n\nAccount Development & Prospecting\n\n* Research and map priority pharmaceutical and biotechnology accounts.\n* Identify relevant scientific, technical and business decision-makers within target organizations.\n* Develop personalized outreach across email, LinkedIn and other appropriate channels.\n* Generate qualified meetings for Turbine's Business Development team.\n* Identify new opportunities within both new and existing accounts.\n* Re-engage dormant prospects and previously identified opportunities.\n* Work with Business Development to develop account-specific engagement strategies.\n\nConference & Marketing Follow-Up\n\n* Work closely with Business Development and Marketing before major conferences to identify target companies and attendees.\n* Support meeting generation ahead of conferences.\n* Ensure rapid and systematic follow-up of conference leads and interactions.\n* Follow up on webinars, white papers, publications and other marketing activity.\n* Help convert marketing engagement into qualified commercial conversations.\n\nQualification & Pipeline Development\n\n* Conduct initial qualification of inbound and outbound prospects.\n* Understand the customer's scientific interests, therapeutic areas, programs and potential use cases.\n* Hand qualified opportunities to the appropriate Business Development Manager with clear context and next steps.\n* Track progression from initial engagement through qualified opportunity.\n\nCRM & Sales Operations\n\n* Maintain accurate and timely records in CRM (Hubspot)\n* Ensure contacts, accounts, meetings, opportunities and follow-up activities are consistently captured.\n* Work with Sales Operations to maintain data quality and appropriate sales processes.\n* Support pipeline reporting and analysis.\n* Help identify patterns in outreach, conversion and account engagement that can improve commercial performance.\n\n  \n**Requirements**\n\n**You are a Turbiner if these personality traits apply to you**\n\n* You have self-awareness and strong intention on personal growth\n* You seek out feedback and learn from mistakes and apply what you learned\n* You take responsibility and focus on the outcomes over tasks\n* You focus on shared success and are open to challenging others respectfully to get the best possible outcome\n* You are in it for the long haul and have passion for our mission\n\n**Experience & Skills**\n\nRequired\n\n* Experience in sales development, business development or a related commercial role.\n* Experience using HubSpot, Salesforce or another modern CRM platform.\n* Strong research skills and ability to understand complex organizations and stakeholder structures.\n* Highly organized and disciplined approach to follow-up and pipeline management.\n* Strong written and verbal communication skills.\n* Comfortable engaging senior scientific and life sciences business professionals.\n* Demonstrated ability to work independently and proactively.\n* Ability to collaborate effectively across Business Development, Marketing, Product and Sales Operations.\n\nPreferred\n\n* Experience within biotechnology, pharmaceutical, life sciences, AI/drug discovery or scientific software.\n* Familiarity with pharmaceutical R&D organizations and drug discovery workflows.\n* Experience with account-based sales or marketing approaches.\n* Experience supporting enterprise sales teams with long, complex sales cycles.\n* Scientific or life-sciences education is advantageous but not essential.\n\n  \n**Benefits**\n\n**Compensation:**\n\nBase salary: $65K - $80K, OTE: $90-$115K (base + variable commission)\n\n**Benefits:**\n\n* HO allowance $410: You can spend your amount within your first 6 months. Purchase the item for your home office (desk, ergonomic chair, router, etc.).\n* 401(k) with company match\n* Comprehensive medical coverage, dental, and vision options\n* You are also eligible for 20 paid vacation days each calendar year accrued per pay period plus 8 days of paid sick leave per calendar year",
-      "salary": "\ud83d\udcb0 65000.0\u201380000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "sales development",
-        "business development",
-        "base salary",
-        "representative",
-        "inbound",
-        "remote",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "cc5c4815a3058772e02e": {
-      "id": "cc5c4815a3058772e02e",
-      "title": "Scheduling Coordinator",
-      "company": "Smile Care Family Dental",
-      "location": "Chester Springs, PA, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=8c3e8f9419a69239",
-      "job_url_direct": "",
-      "description": "**Job Overview**\n\nWe are seeking an energetic and highly organized Scheduling Coordinator to join our dynamic team. In this vital role, you will be responsible for managing the scheduling needs of our office and client appointments, ensuring seamless coordination across multiple departments. Your proactive approach and excellent communication skills will help optimize productivity, enhance client satisfaction, and support smooth daily operations. This paid position offers an exciting opportunity to develop your administrative expertise within a vibrant work environment.\n\n**Duties**\n\n* Coordinate and manage appointment schedules for staff, clients, and vendors using productivity software and calendar management tools\n* Maintain accurate records of appointments, cancellations, and rescheduling in spreadsheets and office management systems\n* Answer multi-line phone systems promptly with professional phone etiquette, directing calls efficiently and providing exceptional customer service\n* Assist with data entry tasks, including updating client information and maintaining organized filing systems using Microsoft Office applications\n* Support front desk operations by greeting visitors, managing incoming inquiries, and providing administrative support as needed\n* Utilize computer skills to prepare correspondence, proofread documents, and perform word processing tasks with precision\n* Collaborate with team members to ensure timely communication and efficient workflow across departments\n\n**Qualifications**\n\n* Proven experience in office management or administrative roles with a focus on scheduling or calendar management\n* Strong computer literacy with proficiency in Microsoft Office Suite (Word, Excel, Outlook) and familiarity with productivity software and spreadsheets\n* Excellent organizational skills with the ability to prioritize tasks effectively and manage time efficiently\n* Experience using QuickBooks or similar accounting software is a plus for handling billing or invoicing tasks\n* Bilingual abilities are highly desirable to support diverse client needs and enhance communication\n* Previous clerical experience involving data entry, proofreading, customer support, or front desk responsibilities preferred\n* Exceptional phone communication skills with a professional demeanor and strong phone etiquette\n* Technical proficiency in multi-line phone systems, office equipment, and general computer literacy required\n* Personal assistant or office experience that demonstrates strong organizational skills and attention to detail is advantageous\n\nJoin us as a Scheduling Coordinator to be at the heart of our daily operations! Your dedication will ensure our team stays organized, our clients receive top-tier service, and our office runs smoothly. If you thrive in fast-paced environments where your organizational talents can shine, we want to hear from you!\n\nPay: $25.41 - $30.60 per hour\n\nExpected hours: 20.0 \u2013 60.0 per week\n\nBenefits:\n\n* 401(k)\n* Flexible schedule\n* Relocation assistance\n* Vision insurance\n\nWork Location: In person",
-      "salary": "\ud83d\udcb0 25.41\u201330.6 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "customer support",
-        "scheduling",
-        "appointment",
-        "data entry",
-        "administrative",
-        "coordinator"
-      ],
-      "queued_at": null
-    },
-    "0031b9b50219d7bca6dd": {
-      "id": "0031b9b50219d7bca6dd",
-      "title": "Entertainment Coordinator & In House DJ",
-      "company": "Normandy Farm Hotel/Blue Bell County Club",
-      "location": "Blue Bell, PA, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=f9ce6a85a97abf76",
-      "job_url_direct": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4602881/Normandy-Farm-Hotel-Conference-Center/Entertainment-Coordinator-In-House-DJ?source=Indeed_Feed",
-      "description": "Description:\n\nWe are seeking a motivated, organized, and experienced **Entertainment Coordinator & In-House DJ** to lead the day-to-day operations and continued development of our DJ and photo booth services.\n\nThis position combines hands-on DJ performance with entertainment department leadership, team development, equipment management, event coordination, marketing, and business development. The ideal candidate is both a talented DJ and a strong operational leader who takes pride in delivering exceptional client experiences, developing talented team members, and creating systems that allow a department to operate efficiently and consistently.  \nAs the primary in-house DJ and Entertainment Coordinator, you will serve as a key resource for our DJs, photo booth technicians, sales and planning team, and studio management. You will help ensure that every event is properly staffed, every team member is prepared, and all entertainment equipment is maintained to the highest standard.\n\n**Key Responsibilities**\n\n**DJ Performance & Event Execution**\n\n* Serve as the studio's primary in-house DJ, performing a minimum of 40 studio DJ events annually, subject to bookings, scheduling, approved time off, and availability.\n* Deliver professional, engaging DJ services that reflect the studio's brand and service standards.\n* Collaborate with the Sales & Planning department on DJ consultations, music selections, custom mashups, and event formalities.\n* Assist with troubleshooting event-flow concerns, formality timing, sound requirements and restrictions, DJ setup needs, and photo booth placement.\n* Help ensure that all entertainment services are prepared, coordinated, and executed professionally.\n\n**Entertainment Department Leadership & Coordination**\n\n  \n\n* Oversee the day-to-day operational readiness and quality of the studio's DJ and photo booth departments.\n* Serve as the primary operational point of contact for DJs and photo booth technicians.\n* Communicate studio procedures, event expectations, equipment requirements, and service standards clearly to entertainment personnel.\n* Help ensure that all events are appropriately staffed and prepared.\n* Monitor service quality, review client feedback, and identify recurring issues, training needs, and opportunities for improvement.\n* Work with studio management to address performance concerns and resolve service-related issues.\n* Develop systems and procedures that allow the department to operate efficiently without relying on any single individual.\n* Create and maintain standard operating procedures (SOPs), troubleshooting guides, and other resources for DJs and photo booth technicians.\n\n**DJ Recruiting, Training & Development**  \n\n* Identify, recruit, interview, and evaluate DJs who align with the studio's brand and service expectations.\n* Train new DJs on studio procedures, equipment, client service, event preparation, and performance standards.\n* Mentor developing DJs and provide ongoing coaching to improve performance.\n* Conduct periodic training sessions and identify team members who would benefit from additional development.\n* Help cultivate DJs who become highly skilled, independently reliable, and desirable to clients.\n* Maintain a qualified roster of DJs that supports the studio's booking volume and minimizes lost business due to staffing limitations.\n\n  \n**Photo Booth Operations & Team Management**  \n\n* Recruit, train, and retain reliable photo booth technicians.\n* Maintain an adequate roster of qualified technicians to support scheduled events.\n* Confirm technician assignments and communicate event details, procedures, and expectations.\n* Ensure technicians have the appropriate equipment, supplies, and information for each event.\n* Conduct periodic photo booth training and onboarding sessions.\n* Troubleshoot operational challenges and identify recurring issues that require improved training or updated procedures.\n* Maintain consistent service standards across all photo booth events.\n\n  \n**Equipment & Inventory Management**  \n\n* Maintain an accurate inventory of all studio-owned DJ and photo booth equipment.\n* Ensure equipment is properly maintained, tested, organized, charged where applicable, and ready for upcoming events.\n* Establish and enforce procedures for equipment checkout, return, inspection, and storage.\n* Inspect returned equipment and confirm that it is accounted for and returned to its designated location.\n* Identify missing, damaged, aging, or unreliable equipment and communicate repair or replacement needs to management.\n* Maintain adequate photo booth supplies and other consumable inventory.\n* Establish accountability procedures for equipment used by subcontract DJs and photo booth technicians.\n* The goal is to maintain an event-ready inventory at all times and prevent avoidable equipment issues on event days.\n\n  \n**Standard Operating Procedures & Department Systems**  \nDevelop, document, and maintain written SOPs that support consistent service delivery, efficient training, and operational accountability.  \nSOPs will include, but are not limited to:  \n\n* Entertainment Coordinator responsibilities and procedures.\n* DJ event preparation, execution, and equipment requirements.\n* Photo booth technician procedures, setup, and breakdown.\n* Equipment checkout, return, inspection, and storage.\n* New DJ and photo booth technician onboarding and training.\n* Weekend escalation and event issue reporting procedures.\n* Troubleshooting guides and equipment accountability standards.\n* These systems should make it easier to onboard new team members, maintain consistent standards, and empower staff to resolve routine issues independently.\n\n**Weekend Coordination & Operational Support**  \n\n* Serve as the studio's primary weekend coordinator and point of contact for entertainment-related and reasonable event-related operational issues when not working an off-site event.\n* Provide reasonable assistance with time-sensitive staffing, equipment, event execution, and client concerns.\n* When DJing an event at Normandy Farm, remain available to assist with reasonable studio-related issues when circumstances allow.\n* Help resolve or escalate DJ staffing problems, photo booth technician issues, equipment failures, event-day questions, and client concerns requiring management attention.\n* Document significant incidents and communicate recurring issues to studio management.\n* Develop procedures and training that enable DJs and photo booth technicians to resolve routine matters independently.\n* The focus of weekend coordination is to provide appropriate operational support while building a team capable of handling everyday responsibilities without unnecessary escalation.\n\n  \n**Marketing, Content & Business Development**  \n\n* Create and publish entertainment-related social media content on a weekly basis, including content focused on DJs, photo booths, and video services.\n* Capture or coordinate engaging entertainment content from events when appropriate.\n* Coordinate with subcontractors to obtain event photos, videos, and other content for marketing purposes.\n* Create and maintain Spotify playlists and mixes that can be shared through the studio website, social media, and sales process.\n* Provide the sales and marketing teams with DJ profiles, music ideas, event footage, and relevant client feedback.\n* Assist with studio open houses and other promotional events as needed.\n* Identify opportunities to improve the visibility, presentation, and marketability of the studio's entertainment services.\n\n  \n**Additional Administrative & Studio Support**  \n\n* Perform equipment, training, marketing, administrative, and business-development tasks during periods with fewer scheduled events.\n* Assist with web-based administrative projects and other reasonable studio support responsibilities during slower periods.\n* Collaborate with studio management and other departments to support overall business operations and service quality.\n* Work Schedule & Availability  \n  This is a full-time position that combines weekday studio responsibilities with evening and weekend DJ events. The work schedule will vary based on the studio's event calendar, operational needs, and booking volume.\n\n**Event weeks:** Scheduled DJ events will count toward the regular work schedule and will generally replace office hours during those weeks.\n\n**Adjusted weekdays:** During weeks with multiple Friday, Saturday, and/or Sunday events, the remaining schedule will be adjusted accordingly. This may result in two weekdays off during the following week, depending on hours worked and studio needs.\n\n**Non-event weeks:** More time will be dedicated to studio operations, equipment management, training, marketing, administration, and business development.\n\n**Scheduling coordination:** Office days, event days, and days off will be coordinated with studio management. Proposed days off must be submitted to Jessica at least one week in advance.\n\nFlexibility, communication, and proactive scheduling are essential to success in this role.\n\n  \nRequirements:\n\n* Strong DJ skills and a commitment to delivering exceptional event experiences.\n* Excellent organizational, communication, and leadership abilities.\n* Experience coordinating events, managing equipment, training team members, or overseeing entertainment operations.\n* The ability to recruit, develop, and motivate a team of DJs and photo booth technicians.\n* Strong problem-solving skills and the ability to remain calm and effective under event-day pressure.\n* A proactive approach to documentation, process improvement, and operational accountability.\n* Comfort creating social media content, developing music playlists, and supporting marketing initiatives.\n* The ability to work a flexible schedule that includes evenings and weekends.\n* A collaborative mindset and the ability to work effectively with sales, planning, marketing, subcontractors, and studio management.",
-      "salary": "",
-      "match_score": 99,
-      "matched_terms": [
-        "business development",
-        "scheduling",
-        "administrative",
-        "coordinator",
-        "recruiting",
-        "staffing",
-        "troubleshooting"
-      ],
-      "queued_at": null
-    },
     "ad52bcab58fd5c216efe": {
       "id": "ad52bcab58fd5c216efe",
       "title": "Office Support Coordinator",
@@ -5599,6 +5258,341 @@
         "documentation",
         "QA",
         "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "5fafd3babf37a5398c95": {
+      "id": "5fafd3babf37a5398c95",
+      "title": "Remote Customer Service Agent",
+      "company": "Disabled Veteran Solutions",
+      "location": "Pottsville, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=684247812c12a7d2",
+      "job_url_direct": "https://disabledveteransolutions.isolvedhire.com/jobs/1890320-104886.html",
+      "description": "**Remote Customer Service Agent**\n\n**Make an Impact Through Meaningful Work (and Actually Enjoy Where You Work)**\n\nAt Disabled Veteran Solutions (DVS), we do more than answer calls and close tickets. We help people access critical government-based programs and provide vital support to our network of mission-critical partners. Every conversation matters, and the support you provide genuinely changes someone's day.\n\nWe are looking for dedicated, tech-savvy, and people-first Remote Customer Service Agents. If you have remote experience and want an entry-level gateway into a long-term career where you can learn, grow, and thrive, you belong here.\n\nThis is a fully remote role. You can do your best work from the comfort of your own space-with no commute and no office distractions.\n\n**TrainingOnboarding**: To set you up for absolute success, you will participate in a structured onboardingtraining program. **Training:** First two weeks following your start date **Schedule: 9:00 AM \u2013 4:30 PM EST**\n\n**What You Will Do**: You'll be the first point of contact for individuals who rely on essential services. Your role is to bring clarity, calm, and solutions-every single day.\n\n**Your responsibilities will include:**\n\nUpdate and Document Account Detail: Track communications, and identify areas where extra support can be offered, Accurately document all customer interactions, including inquiries, concerns, and resolutions Inbound Inquiry Handling: Answer inbound calls and emails to deliver a positive, solution-focused experience through the full customer and partner lifecycle. Technical Troubleshooting: Assist with basic technical troubleshooting, navigate web-based applications, and accurately create or escalate support tickets.\n\nAppointment Management: Schedule appointments at designated service locations\n\nConducting follow-up calls to ensure issues are resolved and customers stay informed\n\nProviding consistent, high-quality service in a structured, supportive environment\n\n**What We Are Looking For:** We want dependable, thoughtful individuals who work well independently while staying connected to a remote team. While this is an entry-level position, strong tech skills and prior remote work experience are required.\n\n**Required Qualifications:** High school diploma or GED (additional education preferred). Prior remote customer service experience, ideally in a call or ticket-based environment. Tech-savvy mindset with an in-depth understanding of web navigation, computer applications, and multitasking (e.g., Microsoft Teams, Outlook, Word). Ability to troubleshoot basic technical issues independently and follow detailed directions. Strong verbal and written communication skills with the ability to quickly build rapport. Comfort working remotely with minimal supervision in a structured environment. Ability to complete an extensive credentialing and background check process. Fluency in reading, writing, understanding, and speaking English language.\n\n**Preferred Qualifications:** Bilingual (English/Spanish) skills are a strong plus.\n\n**TechnicalWork Environment Requirements:** To set you up for success at home, you must provide: A reliable high-speed internet connection via a hardwired Ethernet cable (No Wi-Fi). A private, quiet, and distraction-free workspace. The ability to navigate multiple computer systems simultaneously.\n\n**ScheduleCompensation:** **Regular Schedule: A full-time, 8-hour shift scheduled within our operational window of 8:00 AM \u2013 9:00 PM, Monday\u2013Friday.** Consistency: Consistent attendance and reliability are essential for long-term growth. Compensation: Hourly pay $15.00 per hour, with room for advancement.\n\n**Why Join DVS?** Disabled Veteran Solutions is a nationally recognized leader in business process outsourcing and a certified Service-Disabled Veteran-Owned Small Business (SDVOSB).\n\n**Here is why people stay with us long-term:** Fully Remote: Work where you are most comfortable, focused, and productive.\n\nSupportive Team: Work in a team-driven environment where people actually help each other succeed. Room to Grow: We love to promote from within. Supportive Culture: We operate in a team-driven environment where people help each other succeed. Work with Purpose: A workplace where your work has purpose \u2013 not just tasks.\n\n**Ready to Join Us?** If you want a remote role where your work matters, your tech skills are valued, and you have a clear runway to build a long-term career, we would love to hear from you.\n\nApply today and build a career with purpose at DVS.",
+      "salary": "\ud83d\udcb0 15.0 USD/hourly",
+      "match_score": 95,
+      "matched_terms": [
+        "customer service",
+        "inbound",
+        "appointment",
+        "troubleshooting",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "a92c813444685609d05c": {
+      "id": "a92c813444685609d05c",
+      "title": "Fully Remote Customer Service Agent",
+      "company": "Disabled Veteran Solutions",
+      "location": "Ridgeland, MS, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=d946bbd9b1c805dc",
+      "job_url_direct": "https://disabledveteransolutions.isolvedhire.com/jobs/1890318-104886.html",
+      "description": "**Remote Customer Service Agent**\n\n**Make an Impact Through Meaningful Work (and Actually Enjoy Where You Work)**\n\nAt Disabled Veteran Solutions (DVS), we do more than answer calls and close tickets. We help people access critical government-based programs and provide vital support to our network of mission-critical partners. Every conversation matters, and the support you provide genuinely changes someone's day.\n\nWe are looking for dedicated, tech-savvy, and people-first Remote Customer Service Agents. If you have remote experience and want an entry-level gateway into a long-term career where you can learn, grow, and thrive, you belong here.\n\nThis is a fully remote role. You can do your best work from the comfort of your own space-with no commute and no office distractions.\n\n**TrainingOnboarding**: To set you up for absolute success, you will participate in a structured onboardingtraining program. **Training:** First two weeks following your start date **Schedule: 9:00 AM \u2013 4:30 PM EST**\n\n**What You Will Do**: You'll be the first point of contact for individuals who rely on essential services. Your role is to bring clarity, calm, and solutions-every single day.\n\n**Your responsibilities will include:**\n\nUpdate and Document Account Detail: Track communications, and identify areas where extra support can be offered, Accurately document all customer interactions, including inquiries, concerns, and resolutions Inbound Inquiry Handling: Answer inbound calls and emails to deliver a positive, solution-focused experience through the full customer and partner lifecycle. Technical Troubleshooting: Assist with basic technical troubleshooting, navigate web-based applications, and accurately create or escalate support tickets.\n\nAppointment Management: Schedule appointments at designated service locations\n\nConducting follow-up calls to ensure issues are resolved and customers stay informed\n\nProviding consistent, high-quality service in a structured, supportive environment\n\n**What We Are Looking For:** We want dependable, thoughtful individuals who work well independently while staying connected to a remote team. While this is an entry-level position, strong tech skills and prior remote work experience are required.\n\n**Required Qualifications:** High school diploma or GED (additional education preferred). Prior remote customer service experience, ideally in a call or ticket-based environment. Tech-savvy mindset with an in-depth understanding of web navigation, computer applications, and multitasking (e.g., Microsoft Teams, Outlook, Word). Ability to troubleshoot basic technical issues independently and follow detailed directions. Strong verbal and written communication skills with the ability to quickly build rapport. Comfort working remotely with minimal supervision in a structured environment. Ability to complete an extensive credentialing and background check process. Fluency in reading, writing, understanding, and speaking English language.\n\n**Preferred Qualifications:** Bilingual (English/Spanish) skills are a strong plus.\n\n**TechnicalWork Environment Requirements:** To set you up for success at home, you must provide: A reliable high-speed internet connection via a hardwired Ethernet cable (No Wi-Fi). A private, quiet, and distraction-free workspace. The ability to navigate multiple computer systems simultaneously.\n\n**ScheduleCompensation:** **Regular Schedule: A full-time, 8-hour shift scheduled within our operational window of 8:00 AM \u2013 9:00 PM, Monday\u2013Friday.** Consistency: Consistent attendance and reliability are essential for long-term growth. Compensation: Hourly pay $15.00 per hour, with room for advancement.\n\n**Why Join DVS?** Disabled Veteran Solutions is a nationally recognized leader in business process outsourcing and a certified Service-Disabled Veteran-Owned Small Business (SDVOSB).\n\n**Here is why people stay with us long-term:** Fully Remote: Work where you are most comfortable, focused, and productive.\n\nSupportive Team: Work in a team-driven environment where people actually help each other succeed. Room to Grow: We love to promote from within. Supportive Culture: We operate in a team-driven environment where people help each other succeed. Work with Purpose: A workplace where your work has purpose \u2013 not just tasks.\n\n**Ready to Join Us?** If you want a remote role where your work matters, your tech skills are valued, and you have a clear runway to build a long-term career, we would love to hear from you.\n\nApply today and build a career with purpose at DVS.",
+      "salary": "\ud83d\udcb0 15.0 USD/hourly",
+      "match_score": 91,
+      "matched_terms": [
+        "customer service",
+        "inbound",
+        "appointment",
+        "troubleshooting",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "19edb2ff24b4a0ef86f2": {
+      "id": "19edb2ff24b4a0ef86f2",
+      "title": "Strategic Enterprise Customer Success Manager",
+      "company": "HackerOne",
+      "location": "Boston, MA, USA",
+      "category": "Web3 Support",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=efef0f6ad53572d8",
+      "job_url_direct": "https://jobs.ashbyhq.com/hackerone/4057d0a2-5574-4ba4-b955-9b2c215b67aa?utm_source=jQQVL8W35E",
+      "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, Crypto.com, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner\u2019s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).\n\nHackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional \u2013 it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world\u2019s top organizations.\n\n**HackerOne Values**\n\nHackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is **Customer Obsessed** and prioritizes customer outcomes in our decisions and actions. We **Default to Disclosure** by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners **Win Together** by fostering empowerment, inclusion, respect, and accountability.\n\nRemote Location: Austin, TX; Boston, MA or Washington, DC\n\n**Position Summary**\n--------------------\n\nAt HackerOne, we are building a safer internet by connecting our customers with the expertise of the global security research community. As a Strategic Enterprise Customer Success Manager, you will serve as a trusted strategic advisor to some of our most complex enterprise customers, helping them maximize the value of HackerOne's platform, advance their security programs, and achieve meaningful business outcomes.\n\nIn this role, you will own strategic customer relationships, navigate complex business and technical challenges, and influence customer success strategies that drive retention, growth, and long-term advocacy. Beyond your individual portfolio, you will help elevate the effectiveness of our Customer Success organization by sharing expertise, strengthening best practices, and partnering across teams to deliver scalable improvements to the customer experience.\n\nAt HackerOne, we embrace a Flexible Work approach that gives us the freedom to do our best work while also fostering the connections and community that make us stronger. Reflecting this philosophy, this is a remote role targeted for candidates within ~50 miles of Austin, TX; Boston, MA or Washington, DC. We believe this balance of proximity and flexibility gives Hackeronies the chance to occasionally come together \u2013 fostering collaboration, connection, and in-person moments that enrich our culture \u2013 while still preserving the benefits of remote work.\n\n**Primary Responsibilities**\n----------------------------\n\n* Own the strategic direction and post-onboarding success of a portfolio of complex, high-value enterprise customers. Build trusted relationships with senior customer stakeholders, align HackerOne's capabilities to evolving business and security objectives, and proactively drive measurable customer value, retention, and opportunities for growth.\n* Apply **Data-Driven Decision Making** to evaluate customer program performance, identify trends and risks, and develop strategic recommendations that improve security outcomes and program maturity. Translate benchmarking, adoption insights, and customer data into compelling business narratives that influence customer priorities and internal decisions.\n* Leverage **First Principles Problem Solving** to lead the resolution of complex customer challenges and escalations. Diagnose underlying business and technical issues, align cross-functional stakeholders, and develop durable solutions that address immediate customer needs while identifying opportunities for broader process and service improvements.\n* Demonstrate **Change Agility** by guiding strategic customers through evolving security priorities, organizational changes, and new product capabilities. Anticipate challenges, adapt engagement strategies, and help customers navigate ambiguity while maintaining confidence, momentum, and measurable program outcomes.\n* Champion an **AI First** approach by thoughtfully applying AI-powered tools to improve customer insights, identify emerging risks and opportunities, streamline repeatable workflows, and scale effective Customer Success practices. Share learnings and practical applications that help improve efficiency and effectiveness across the team.\n* Serve as a recognized subject matter expert in HackerOne's platform, vulnerability disclosure, and bug bounty program management. Advise customers on advanced program strategies, product capabilities, integrations, researcher engagement, and program optimization. Share expertise and mentor fellow Customer Success Managers to strengthen team capabilities and customer outcomes.\n* Partner strategically with Sales, Product, Technical Services, and other cross-functional stakeholders to identify and advance expansion opportunities, influence product improvements, and coordinate complex customer initiatives. Lead customer advocacy efforts, including strategic program enhancements, public launches, and initiatives that strengthen long-term customer partnerships.\n* Extend your impact beyond your assigned portfolio by identifying recurring customer challenges, contributing to scalable Customer Success methodologies, and helping establish best practices adopted across the team. Translate customer feedback and emerging needs into actionable recommendations that improve the customer experience, strengthen operational consistency, and support broader business objectives.\n\n**Minimum Qualifications**\n--------------------------\n\n* 6+ years of experience in Customer Success supporting high-touch enterprise and/or government customers in a B2B environment, with demonstrated experience managing customer relationships and delivering successful outcomes.\n* Experience managing complex customer programs or projects, including coordinating cross-functional stakeholders, documenting requirements, resolving issues, and delivering consistent, repeatable results.\n* Working technical knowledge of SaaS applications, cloud technologies, and IT operations, including the ability to discuss application capacity, utilization, and performance and communicate technical concepts effectively to diverse audiences.\n* Experience using customer data, program insights, and structured problem-solving approaches to inform recommendations, improve customer outcomes, and adapt to evolving customer needs.\n\n**Preferred Qualifications**\n----------------------------\n\n* Experience working in cybersecurity, particularly with vulnerability disclosure programs, bug bounty programs, or related security practices.\n* Experience working in a scale-up environment.\n\n**Compensation Bands**\n----------------------\n\nTier B: $141,000-$173,000 Base\n\n#LI-Remote\n\n#LI-KM1\n\n**Job Benefits:**\n-----------------\n\n* Health (medical, vision, dental), life, and disability insurance\\*\n* Equity stock options\n* Retirement plans\n* Paid public holidays and unlimited PTO\n* Paid maternity and parental leave\n* Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)\n* Employee Assistance Program\n* **Eligibility may differ by country**\n\nWe're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with Remote.com as our Employer of Record (EOR).\n\nVisa/work permit sponsorship is not available.\n\n*Employment at HackerOne is contingent on a background check.*\n\nHackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.\n\nThis policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.\n\nFor US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position.\n\nCompensation Range: $141K - $173K",
+      "salary": "\ud83d\udcb0 141000.0\u2013173000.0 USD/yearly",
+      "match_score": 83,
+      "matched_terms": [
+        "recruiting",
+        "remote",
+        "operations",
+        "crypto",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "6798ed084eae3a97b3c0": {
+      "id": "6798ed084eae3a97b3c0",
+      "title": "Mandarin Live Chat Customer Support Specialist",
+      "company": "Emapta Global",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483125664",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 76,
+      "matched_terms": [
+        "customer support",
+        "specialist",
+        "live chat"
+      ],
+      "queued_at": null
+    },
+    "afd9cb9d8941d40c87d8": {
+      "id": "afd9cb9d8941d40c87d8",
+      "title": "Customer Service Representative",
+      "company": "Cubic Corporation",
+      "location": "Fort Washington, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483311502",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "8adb5cf636980b43ed8d": {
+      "id": "8adb5cf636980b43ed8d",
+      "title": "Customer Service Representative",
+      "company": "Ninja Transfers",
+      "location": "Philadelphia, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483103901",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "c24aa06ad18921e0c511": {
+      "id": "c24aa06ad18921e0c511",
+      "title": "Customer Service Representative",
+      "company": "Robert Half",
+      "location": "New Holland, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4482879395",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "ce9666a3eefbfd6eac00": {
+      "id": "ce9666a3eefbfd6eac00",
+      "title": "Customer Service Specialist",
+      "company": "LHH",
+      "location": "Conshohocken, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4422043489",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 72,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "bdcfa488bf27a254a894": {
+      "id": "bdcfa488bf27a254a894",
+      "title": "Jr. Customer Service Officer (Remote)",
+      "company": "BTSE",
+      "location": "Bhutan",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4474733750",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer service",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "bf0f036f77f0d117ca7b": {
+      "id": "bf0f036f77f0d117ca7b",
+      "title": "Client Support Specialist - Accounts Payable Operations",
+      "company": "Corpay",
+      "location": "Bala-Cynwyd, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483156006",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "specialist",
+        "client support",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "9149cbf0d067c963ebae": {
+      "id": "9149cbf0d067c963ebae",
+      "title": "REMOTE | Customer Support with Spanish + Basque",
+      "company": "REAL Rec Solutions",
+      "location": "Portugal",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4469138643",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer support",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "5a05e57185ff9dadd858": {
+      "id": "5a05e57185ff9dadd858",
+      "title": "Customer Service Representative - CCLI (Eastbourne)",
+      "company": "CCLI",
+      "location": "Eastbourne, England, UK",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4473358463",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "dd150c14fa06c26cc344": {
+      "id": "dd150c14fa06c26cc344",
+      "title": "Representative - Customer Service",
+      "company": "Wesco",
+      "location": "Dayton, NJ, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483165625",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "1f1890e0ce9b80650cf3": {
+      "id": "1f1890e0ce9b80650cf3",
+      "title": "Customer Service Associate with English (F/M/D)",
+      "company": "TE Connectivity",
+      "location": "Cracow, Ma\u0142opolskie, Poland",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483113732",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer service",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "bab5343422db2e23ff90": {
+      "id": "bab5343422db2e23ff90",
+      "title": "Associate Customer Service Manager",
+      "company": "Cactus Communications",
+      "location": "Mumbai, Maharashtra, India",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4481681941",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer service",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "343f5dbb83bb41ee209c": {
+      "id": "343f5dbb83bb41ee209c",
+      "title": "Customer Support Associate / Executive",
+      "company": "Binary Geckos",
+      "location": "India",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480686447",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer support",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "c582d98847bd617feda5": {
+      "id": "c582d98847bd617feda5",
+      "title": "Customer Service Specialist",
+      "company": "American Eagle Outfitters Inc.",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4481034263",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "b8867fea848fb33eac4c": {
+      "id": "b8867fea848fb33eac4c",
+      "title": "Customer Care Representative - Level 2",
+      "company": "DiliTrust",
+      "location": "Wilmington, DE, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483166258",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer care",
+        "representative"
       ],
       "queued_at": null
     }
