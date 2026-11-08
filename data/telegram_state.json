@@ -1,361 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 276,
+  "search_cursor": 296,
   "apply_queue": {},
   "alert_jobs": {
-    "54a42290f1c4f85a69a8": {
-      "id": "54a42290f1c4f85a69a8",
-      "title": "Customer Support Consultant (Italian Speaker) - Remote from Lisbon",
-      "company": "Sendcloud",
-      "location": "Lisboa, Lisbon, Portugal",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486098483",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer support",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "9b6f0290d5b7676db6e6": {
-      "id": "9b6f0290d5b7676db6e6",
-      "title": "Substation Technician I-III",
-      "company": "RMS Energy",
-      "location": "Remote, USA",
-      "category": "Americans in Phuket",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=0e64871d8a603a6f",
-      "job_url_direct": "https://rmsenergy.com/join-our-team/?gnk=job&gni=8a7885a8a184742e01a1a349b7db1b9a&gns=Indeed+Free",
-      "description": "We\u2019re looking for **Substation Technicians** who are ready to build their careers supporting complex power systems across the U.S. This hands-on field role involves working on substation projects and related high-voltage infrastructure in power plants, industrial facilities, and renewable energy sites. You\u2019ll perform critical installations, inspections, and troubleshooting alongside experienced professionals who value safety, quality, and performance.\n\n**What You\u2019ll Do:**\n\n* Complete tasks with attention to detail, consistently delivering high-quality work that meets or exceeds industry standards\n* Use basic tools such as hypresses and hydraulic pipe benders under supervision\n* Assist with fabrication by learning to operate magnetic drills and hydraulic bus punches\n* Adhere to all safety procedures and promptly report any unsafe conditions or hazards\n* Support daily operations through general labor duties and other responsibilities assigned by supervisors\n* Engage in hands-on training and development through classes, homework, and mentorship opportunities\n* Contribute to team problem-solving, decision-making, and goal achievement\n* Collaborate with team members to drive results and maintain a positive, productive work environment\n* Follow PPE protocols and safety procedures while working around high-voltage equipment, at heights, or in confined spaces\n\n**The Experience We\u2019re Looking For:**\n\n* Prior experience working within substation and power plant/manufacturing environments\n* Prior experience with construction\n* Working knowledge of electrical systems, circuitry, and safety protocols, ensuring adherence to industry standards.\n* Ability to read and interpret electrical schematics and blueprints\n* Proficient in the use of hand and power tools, lifting equipment, and safety gear\n\n**Additional Requirements:**\n\n* High school diploma or GED\n* Valid driver\u2019s license with a safe driving history\n* Willingness to travel up to 90% based on project needs\n* Must pass a background check and drug/alcohol screening\n* Physically capable of lifting 50+ lbs. and performing physically demanding work for extended periods\n* Able to work outdoors in varying conditions and environments\n* Proficiency in English (speaking, reading, writing) for safety and documentation\n\n**Bonus Points for:**\n\n* An associate\u2019s degree in electrical engineering technology, Power Systems, or Mechanical Engineering\n* Previous experience with utility companies or substation contractors\n* Familiarity with isolated phase bus systems, grounding systems, and relay protection schemes\n* Completion of trade school, technical college, or skilled trade certifications\n\n**Why Join RMS Energy:**\n\nWe\u2019re not just another power services company. We\u2019re a tight-knit, mission-driven team that values safety, teamwork, innovation, and continuous growth.\n\n* **Competitive Compensation** \u2013 Overtime potential and merit-based raises\n* **Full Benefits** \u2013 Medical, dental, and vision coverage fully paid for employees, starting the month after hire\n* **Steady Employment & Career Growth** \u2013 Be part of a fast-growing company with promotion potential\n* **401(k) with Company Match** \u2013 Traditional & Roth options + free investment guidance\n* **Top-Tier Equipment** \u2013 Provided to support you in the field\n* **Compensated Travel Time plus Per Diem** \u2013 Earn while seeing new places\n* **Education Support** \u2013 Paid training, certifications, and industry memberships\n* **Generous PTO** \u2013 Paid vacation, holidays, and sick leave\n* **Employee Assistance Program** \u2013 Legal, financial, and mental wellness support\n\n**Want to be part of something meaningful?**\n\n**Apply today** and join a team where **People, Purpose, and Power** come together \u2013 **your future starts here.**\n\nRMS Energy is an Equal Opportunity Employer. We believe diverse teams drive better outcomes, and we\u2019re committed to creating an inclusive environment where all employees feel valued and empowered. For more information about RMS Energy, please visit www.rmsenergy.com.",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "associate",
-        "troubleshooting",
-        "documentation",
-        "remote",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "eb7c521755aa713b8288": {
-      "id": "eb7c521755aa713b8288",
-      "title": "Customer Service Representative (English + European Languages) \u2013 Barcelona",
-      "company": "Nuit\u00e9e",
-      "location": "Barcelona, Catalonia, Spain",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486892893",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "aaa9b69ae2c7e6aa22bf": {
-      "id": "aaa9b69ae2c7e6aa22bf",
-      "title": "Customer Service Representative ved Sports Connection | SKECHERS",
-      "company": "Skechers",
-      "location": "Esbjerg, Region of Southern Denmark, Denmark",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487008216",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "1ed1177ee2f73943d635": {
-      "id": "1ed1177ee2f73943d635",
-      "title": "Sales Development Manager (Appointment Setting)",
-      "company": "Therapacific LLC",
-      "location": "Miami, FL, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=1eed80031d051eea",
-      "job_url_direct": "",
-      "description": "**Sales Development Manager (Appointment Setting)**  \nJoymind \u00b7 Remote (US) \u00b7 Full-time \u00b7 W-2 employee \u00b7 Reports to: Sales Director\n\n**APPLY ONLY THROUGH THIS LINK \u2014 this is the only place applications are reviewed:** https://app.hireflix.com/public-application/6aea18dc1852fc7907cf2c5f\n\n**About Joymind**  \nJoymind is the largest 1:1 virtual certified hypnotherapy platform in the US, with 45+ certified hypnotherapists working live with clients on stress, sleep, habits, confidence and more. We're a personal growth startup on a mission to unleash the joy and potential within every person.\n\n**The role**  \nHow it works: we sell through 1:1 consultations with our Program Experts (our closers). Appointment setting is a sales role, just not a closing one. Setters connect with a high volume of inbound leads, open warmly, grab attention and book qualified consultations with a Program Expert.\n\nYou\u2019ll lead the appointment setting team: hire them, coach them and own their numbers. We\u2019re scaling fast and plan to grow this team to 20+ setters within the next 3-6 months.\n\nThis is a hands-on role. You\u2019ll also take calls and follow up with leads yourself every week.\n\n**What you\u2019ll do**\n\n* - Hire, onboard and train appointment setters, growing the team from 10 today to 20+ within 3\u20136 months\n* Set and track KPIs: speed to lead, contact rate, booking rate, show rate\n* Run 1:1s, role plays and call reviews\n* Improve scripts, follow-up templates and objection handling\n* Take your own calls and follow up with leads, especially when the team is stretched\n* Keep the CRM clean and work with marketing and Program Experts on lead flow and handoffs\n\n**What we\u2019re looking for**\n\n* 5+ years in sales\n* 3+ years hiring and managing sales or appointment setting teams, ideally teams of 20+\n* Proven results in high-volume appointment setting or inside sales, with numbers to show\n* Hands-on: you lead by doing\n* Comfortable in a fast-moving startup\n* Warm and direct on the phone, never pushy\n* Bonus: coaching, wellness or high-ticket consultative sales experience\n* Must live in the US and be authorized to work in the US\n\n**What we offer**\n\n* $50,000 base salary + uncapped commission. Expected total earnings of $75,000\u2013$125,000 as you grow the team to 20+\n* Health insurance with a company contribution\n* Paid time off and paid holidays\n* Complimentary hypnotherapy sessions\n* Fully remote\n* Ownership of a team that drives company growth\n\n**HOW TO APPLY \u2014 THROUGH THIS LINK ONLY**\n\n**https://app.hireflix.com/public-application/6aea18dc1852fc7907cf2c5f**\n\nThe application is a short one-way video interview you record on your own time, from your phone or laptop. Applications sent any other way (email, messages) won\u2019t be reviewed. Applications are accepted on an ongoing basis until the role is filled.\n\nJoymind is an equal opportunity employer. We make hiring decisions based on experience and results, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status or any other characteristic protected by law. If you need an accommodation to complete the video application, email [email] and we\u2019ll arrange another way to apply.\n\nPay: $75,000.00 - $120,000.00 per year\n\nBenefits:\n\n* Employee discount\n* Health insurance\n* Paid time off\n* Work from home\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 75000.0\u2013120000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "sales development",
-        "inbound leads",
-        "inside sales",
-        "base salary",
-        "inbound",
-        "appointment",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "f999d58db65800c72b2c": {
-      "id": "f999d58db65800c72b2c",
-      "title": "Associate, Customer Support - Live chat",
-      "company": "Bitpanda",
-      "location": "Vienna, Vienna, Austria",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482846754",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 77,
-      "matched_terms": [
-        "customer support",
-        "associate",
-        "live chat"
-      ],
-      "queued_at": null
-    },
-    "59c17fb537d78c15f578": {
-      "id": "59c17fb537d78c15f578",
-      "title": "Customer Support Associate",
-      "company": "Artech",
-      "location": "Greater Hyderabad Area",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486352609",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 69,
-      "matched_terms": [
-        "customer support",
-        "associate"
-      ],
-      "queued_at": null
-    },
-    "436ebe3f6b77bd3e9907": {
-      "id": "436ebe3f6b77bd3e9907",
-      "title": "Customer Support Specialist",
-      "company": "Artech",
-      "location": "Hyderabad, Telangana, India",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486362053",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "d648edd2d143cceb07cc": {
-      "id": "d648edd2d143cceb07cc",
-      "title": "Customer Support & Onboarding Specialist - Accounting",
-      "company": "Cloudbeds",
-      "location": "Krabi, Krabi, Thailand",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487270142",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "3c5b3b9572fa524eef7a": {
-      "id": "3c5b3b9572fa524eef7a",
-      "title": "Customer Support & Onboarding Specialist - Accounting",
-      "company": "Cloudbeds",
-      "location": "Phuket, Phuket, Thailand",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487258515",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "a079cc473ddd39a44eb2": {
-      "id": "a079cc473ddd39a44eb2",
-      "title": "Customer Support Agent (Crypto)",
-      "company": "Confidential Hires",
-      "location": "Sliema, Malta",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487520058",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer support",
-        "crypto"
-      ],
-      "queued_at": null
-    },
-    "720b3da45af0d2df998c": {
-      "id": "720b3da45af0d2df998c",
-      "title": "Client Support Associate",
-      "company": "ICE",
-      "location": "Provo, UT, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487517827",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "associate",
-        "client support"
-      ],
-      "queued_at": null
-    },
-    "2ce7abf86622b75e3e28": {
-      "id": "2ce7abf86622b75e3e28",
-      "title": "Customer Support Agent (Crypto)",
-      "company": "Confidential Hires",
-      "location": "Bulgaria",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487514338",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer support",
-        "crypto"
-      ],
-      "queued_at": null
-    },
-    "49fa597d349da8762c4f": {
-      "id": "49fa597d349da8762c4f",
-      "title": "Client Support Specialist",
-      "company": "Live Nation Entertainment",
-      "location": "Barcelona, Catalonia, Spain",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4470487806",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 64,
-      "matched_terms": [
-        "specialist",
-        "client support"
-      ],
-      "queued_at": null
-    },
-    "04a0df3270bbfa677300": {
-      "id": "04a0df3270bbfa677300",
-      "title": "Sr. Product Manager",
-      "company": "MixMode",
-      "location": "Santa Barbara, CA, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=896acc8df53ca976",
-      "job_url_direct": "https://grnh.se/d9rld55t7us",
-      "description": "MixMode is a leading provider of AI-powered cybersecurity solutions at scale, pioneering a patented third-wave, context-aware AI approach that automatically learns and adapts to dynamic environments. The MixMode platform delivers self-supervised, real-time threat detection for known and unknown threats across cloud, hybrid, and on-premises environments. Large organizations with big data workloads \u2013 including those in the US Department of War, US Intelligence Community, Utilities, State/Local and Enterprise \u2013 trust MixMode to defend their most important assets. Backed by PSG and Entrada Ventures, MixMode is headquartered in Santa Barbara, California. Learn more at www.mixmode.ai.\n\n**Job Summary:**\n\nMixMode is looking for a Senior Product Manager to join our team, remotely or in our Santa Barbara office. This person will own the integration ecosystem for the MixMode platform: the connectors, outbound integrations and data formats that deliver MixMode's AI-driven detections into customers' existing SOC workflows (SIEM, SOAR, ticketing and data lake tools) for investigation and response. They will set direction for this area, partner closely with Engineering, Data Science, Sales, Marketing and Customer Success, and have direct visibility with company leadership.\n\nThe ideal candidate is an experienced enterprise product manager with a track record of shipping complex technical products: someone who has owned a product area from problem definition through launch, made and defended hard prioritization calls, and delivered on a cadence. They are comfortable in deep technical conversations with engineers and in front of customers and executives, thrive in a fast-moving startup, turn ambiguity into clear priorities, and write well, because written narratives are how we make decisions.\n\nSecurity experience is a strong plus, not a requirement.\n\n**What you'll be doing (responsibilities):**\n\n* Drive execution: Own delivery end to end for your product area. Write clear requirements, user stories and acceptance criteria; work day to day with Engineering and Data Science through design, build and release; manage dependencies, clear blockers and ship what was committed, adjusting as priorities shift.\n* Own the roadmap: Define and prioritize the roadmap for the integration ecosystem based on customer needs, market and competitive insight, and business goals; communicate trade-offs and timelines clearly to stakeholders.\n* Build the integration ecosystem: Own both directions of the ecosystem.\n* + Inbound: the connectors that bring customer telemetry into MixMode (network sensors, cloud audit and flow logs, EDR/XDR, identity, and other security data sources).\n  + Outbound: the integrations that deliver MixMode detections into customers' existing workflows (SIEM, SOAR, ticketing and data lake platforms) in the formats customers and partners need.\n* Know the customer: Run ongoing discovery with customers, prospects, partners and SOC practitioners; synthesize input from Sales, Customer Success, industry analysts and security research into clear problem statements.\n* Measure what matters: Define success metrics for your features (adoption, time to value, integration reliability, retention) and use data to guide iteration.\n* Enable go-to-market: Partner with Marketing on positioning, messaging, launches, demos and collateral; train Sales, Sales Engineering and partners; join key customer and prospect conversations.\n* Contribute to detection work: Partner with the product and data science teams on how detections are consumed downstream, so what we detect is actionable where customers work.\n* Become the expert: Build deep knowledge of the MixMode platform, network and cloud telemetry, and how SOC teams operate, and represent the product with customers, partners, and analysts.\n\n**What you'll need to bring (qualifications):**\n\n* 6+ years of product management experience with enterprise B2B software or SaaS products, with a track record of owning a product area from problem definition through launch and iteration\n* Evidence of product judgment: you have made and defended hard prioritization calls, cut scope to ship, and delivered on a cadence, and you can walk us through those decisions in detail\n* Excellent written and verbal communication; comfortable in a writing-first organization where one-pagers, PRDs and PRFAQs drive decisions, and able to explain product vision, strategy and value to technical and executive audiences\n* 3+ years owning integration, API, connector or data pipeline products (data ingestion, partner or third-party integrations, marketplace apps, etc.), with hands-on experience in how data moves between systems (ingestion, normalization, schemas, reliability at scale, etc.)\n* Experience working day to day with Engineering and Data Science on model-driven or data-driven features\n* Strong grounding in the software development lifecycle and Agile methods\n* Strong analytical and problem-solving skills; able to turn complex technical ideas into clear, actionable plans\n* Comfortable with ambiguity and able to work independently in a fast-moving startup environment while collaborating across teams\n* Bachelor's degree in Computer Science, Engineering or a related technical field, or equivalent practical experience\n* Strongly preferred: Experience in cybersecurity, security infrastructure or data platforms, ideally with products that integrate into SIEM, SOC or security analytics workflows\n\n**Other things we'd love to see (nice to have):**\n\n* Working knowledge of at least one SIEM or security data lake platform (e.g., Splunk, Microsoft Sentinel, Google SecOps, Elastic, Snowflake)\n* Familiarity with cloud environments (AWS, Azure, GCP) and network or cloud security telemetry (e.g., Zeek, flow logs, CloudTrail)\n* Hands-on experience as a software engineer, security analyst or SOC practitioner\n* Experience working with federal or public sector customers\n\nWe are open to hiring great talent who may have qualifications above or below those specifically listed in this job description. Pursuant to California law, we must display the pay range for this job. Since we are willing to hire within a broad spectrum of qualifications, we also reflect a broad pay range. The base salary range that we are targeting for this position is **$150,000 \u2013 $195,000 per year** though we can adjust based on individual qualifications. Individual salary is determined by qualifications, role, level, and location.\n\n**Compensation and benefits** are competitive based on industry standards. Benefits for full-time team members include:\n\n* Remote-First Work Culture\n* Healthcare (Medical, Dental, Vision, Accident)\n* Basic & Voluntary Life and AD&D\n* Flexible Spending Account (FSA)\n* 401(k) with Employer Match\n* Paid Holidays & Flexible Paid Time Off (PTO)\n\nMixMode provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.  \nDisability and Reasonable Accommodations | E-Verify | Right to Work\n\nPlease note: MixMode does not accept unsolicited resumes from recruiters or employment agencies. In the event of a recruiter or agency submitting a resume or candidate without a signed agreement being in place, we explicitly reserve the right to pursue and hire such candidates without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted directly to hiring managers, are deemed to be the property of MixMode.",
-      "salary": "\ud83d\udcb0 150000.0\u2013195000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "base salary",
-        "inbound",
-        "recruiter",
-        "recruiting",
-        "remote",
-        "advertised base $72.12/hr equivalent",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "4fd8819467c31be31c7b": {
-      "id": "4fd8819467c31be31c7b",
-      "title": "Group Mgr Fraud Operations (US)",
-      "company": "TD",
-      "location": "Mount Laurel, NJ, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=9bec92663c3d1fc0",
-      "job_url_direct": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Group-Mgr-Fraud-Operations--US-_R_1520553",
-      "description": "**Work Location:**\n\nMount Laurel, New Jersey, United States of America\n\n**Hours:**\n\n0\n\n**Pay Details:**\n\n$91,000.00 - $136,240.00 USD\n\nTD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.\n\nAs a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.\n\n**Line of Business:**\n\nFinancial Crimes & Fraud Mgmt\n\n**Job Description:**\n\nThe Issue Development Coordinator Group Manager, Fraud Operations supports the end-to-end development of issues within Financial Crimes Prevention & Operations (FCPO), from initial referral and discovery through issue determination, formal issue development, remediation planning, governance review and approval, and transition to remediation execution. The role serves as a central point of coordination across business, risk, control, Compliance, second line of defense and other stakeholders to confirm issues are clearly defined, appropriately assessed, supported by evidence, and positioned for effective and sustainable remediation.\n\n  \n\nThe Coordinator facilitates issue discovery and challenge, supports development of clear issue statements, risk assessments and root cause analyses, and partners with stakeholders to develop actionable remediation plans with defined ownership, milestones, timelines and evidence requirements. The role requires disciplined execution, strong risk judgment, attention to detail and the ability to translate complex risk and control matters into clear, defensible documentation for governance and senior-leadership review.\n\n  \n\n**Department Overview:**\n\n  \n\nThe FCPO Issue Management team supports disciplined management of issues across Financial Crimes Prevention & Operations by providing a consistent framework for issue identification, development, remediation planning, implementation oversight, sustainability and closure readiness.\n\n  \n\nWithin the broader Issue Management operating model, the Issue Development function focuses on the front end of the lifecycle, helping transform potential concerns and identified deficiencies into well-defined, evidence-based issues with clear root causes, risk assessments and sustainable remediation strategies. Once a remediation plan is approved and the issue moves into implementation, primary coordination transitions from the Issue Development Coordinator to the Issue Remediation Coordinator.\n\n  \n\nThe team partners across business, risk, control and oversight functions to promote clear accountability, timely decision-making, effective challenge and consistent application of Issue Management requirements. The SharePoint operating model supports this lifecycle through the Potential Issue Pipeline, Issue Inventory and implementation-plan tracking structure.\n\n**Key Responsibilities:**\n\n  \n\n* Coordinate assigned issues through discovery, issue determination, development, remediation planning, governance approval, and transition to implementation.\n* Facilitate discussions with business, Risk, Compliance, 2LOD, and other stakeholders to understand concerns, assess risks and control gaps, and drive timely issue decisions.\n* Develop clear, evidence-based issue documentation, risk assessments, root cause analyses, and remediation plans aligned with Issue Management requirements.\n* Partner with stakeholders to establish actionable remediation activities, ownership, milestones, timelines, and supporting evidence requirements.\n* Coordinate stakeholder review, challenge, and governance approvals, helping resolve gaps and prepare issues and plans for senior leadership decision-making.\n* Maintain accurate and timely issue information in ServiceNow, SharePoint, and applicable Issue Management documentation, while monitoring SLAs, dependencies, and emerging roadblocks.\n* Proactively identify and escalate risks or barriers that could impact timely issue development, planning, or approval.\nSupport continuous improvement of Issue Management practices by identifying opportunities to strengthen quality, consistency, and efficiency and reduce rework.  \n\n  \n\n**Depth & Scope:**\n\n* Provides people management leadership by hiring the best talent, setting goals, developing staff, managing employee performance and compensation decisions, promoting teamwork and handling any/all disciplinary actions, as required\n* Oversees a large team with functional diversity and complexity where activities involve multiple step transactions, multiple systems and jurisdictions, higher volumes and/or medium to high complexity\n* Work focus time horizon is generally medium to long term with moderate to high focus on strategic planning\n* Requires expert process management knowledge and the risk profile for team processes supported\n* Leads teams with multiple points of internal and external contact (may include direct contact with Customers)\n* May manage over a diverse geographic jurisdiction\n* Oversees management of team requiring workforce to decision on acceptable level of risk- Moderate to High risk potential (loss/reputational) for functional area\n* Acts as highest point of team escalation for resolution and provides direction to resolve issues or escalate\nInvolves regular contact with cross-functional teams across TD or external contacts and/or customers  \n\n  \n\n**Preferred Qualifications:**\n\n  \n\n* Demonstrated experience managing issues through the full Issue Management Lifecycle, including identification, assessment, remediation, validation, and closure.\n* Strong understanding of Risk and Control Frameworks, including control design, effectiveness assessment, governance, and oversight practices.\n* Proven ability to conduct and lead Root Cause Analyses that identify underlying drivers and support sustainable corrective actions.\n* Excellent cross-functional collaboration skills with the ability to influence stakeholders across business, compliance, risk, operations, audit, legal, and technology teams.\n* Strong analytical and critical thinking capabilities, with the ability to evaluate complex information, identify trends, assess impacts, and develop practical solutions.\n* Experience leading and coordinating projects and strategic initiatives, including planning, execution, stakeholder management, and delivery against timelines.\n* Working knowledge of regulatory expectations, audit processes, and risk management practices within a financial services environment.\n* Ability to translate complex business, operational, or regulatory issues into clear, concise, and executive-ready documentation.\n* Strong data interpretation, reporting, and presentation skills, including the ability to synthesize large data sets into meaningful insights and actionable recommendations.\n* Exceptional written and verbal communication skills, with the ability to tailor messaging for audiences ranging from frontline teams to executive leadership.\n* Demonstrated executive presence, including the ability to confidently facilitate discussions, challenge assumptions constructively, influence outcomes, and present to senior leadership.\n* Strong organizational management skills, including prioritization, workload management, resource coordination, and the ability to manage multiple competing priorities in a fast-paced environment.\n* Proven ability to build relationships, foster collaboration, and drive accountability across diverse stakeholder groups.\nSelf-motivated professional with strong attention to detail, sound judgment, and the ability to operate independently with limited supervision.  \n\n**Education & Experience:**\n\n* Undergraduate degree required\n* 7+ years relevant experience\n* Advanced knowledge of the business goals/objectives being supported and the full suite of policies, programs, processes and systems\n* Knowledge of current and emerging competitor and market trends\n* Ability to contribute to strategic direction of the function and provide advice to senior leadership\n* Skilled in preparing and managing budgets and resource allocation\n* Advanced ability to lead, plan, implement and evaluate program/project activities to ensure completion of initiatives\n* Ability to make an impact, influence and achieve results with effective negotiation, problem-solving and communication skills\n* Knowledge of risk management environment, standards and regulations\n* Skilled in mentoring, coaching and performance management\n* Ability to exercise sound judgement in making decisions\n* Ability to communicate effectively in both oral and written form\n* Ability to work collaboratively and build relationships across teams and functions\n* Skilled in using software tools, methods and techniques\n* Skilled in using computer applications including MS Office\n* Ability to analyze, organize and prioritize work while meeting multiple deadlines\n* Ability to work successfully as a member of a team and independently\nAbility to handle confidential information with discretion  \n\n  \n\n**Customer Accountabilities:**\n\n* Manages a group of Fraud professionals providing operational support to partners\n* Manages team during operational special initiatives like onboarding, QA etc.\n* Acts as key liaison with partners and external groups and provides subject matter expertise at the department level\n* Key escalation point for significant risk/exceptions\n* Monitors service and control standards against, overall business/department objectives\n* Develops and maintains effective working relationships with internal and external partners for the purposes of delivering optimal customer service\nCoaches to ensure operational problems are handled appropriately, and participates in the negotiation and resolution of complex and/or escalated issues where necessary  \n\n  \n\n**Shareholder Accountabilities:**\n\n* Contributes to the development of the business plan and operationalizes the plan and delivers on assigned service or functionality\n* Works closely with key business leaders to develop business plan, ensuring the optimal use of resources and leverages TD\u2019s operating model to maximize efficiency, effectiveness and scale\n* Monitors and communicates to Senior Management the effectiveness of strategies, programs, and practices related to own area of expertise\n* Sets the standards for operations and manageability across the business/function ensuring services are built from the ground up\n* Proactively identifies key business opportunities, researches and recommends enhancements/modifications, develops strategies to achieve recommendations\n* Ensures department operates in compliance with applicable internal and external requirements\n* Manages overall budget, revenue and expenditures, meets business objectives while increasing efficiency and effectiveness\n* Ensures appropriate reporting and escalation of issues based on risk profile\n* Ensures employees are knowledgeable of and comply with Bank and industry codes of conduct\n* Leads relationships with business lines/corporate and/or control functions to ensure alignment with enterprise and/or regulatory requirements\n* Leads or contributes to cross-functional/enterprise initiatives as an organizational or subject matter expert helping to identify risk/provide guidance for complex situations\n* Keeps abreast of emerging issues, trends, and evolving regulatory requirements and assesses potential impacts\nMaintains knowledge of end-to-end processes and internal/external partners and regulatory requirements  \n\n  \n\n**Employee/Team Accountabilities:**\n\n* Responsible for management of the overall team providing both leadership and guidance\n* Sets targets and objectives for the team, and delivers results\n* Grows team expertise to align with business/enterprise demand and direction; assesses team skills and capabilities and continually looks for ways to provide and enhance the value delivered\n* Leads a high performing team; provides on-going feedback and performance reviews, coaches and develops employees and ensures performance management activities are undertaken and completed for all employees\n* Leads the process of setting performance objectives for the team; tracks, monitors and effectively addresses and/or rewards performance in a timely manner\n* Manages employees in compliance with all human resources policies, procedures and guidelines of conduct\n* Shares knowledge, information, skills, and subject matter expertise among the team and ensures the timely communication of issues and encourages good working relationships with other functions and teams\n* Supports an environment where team freely escalates business challenges; facilitates change through positive reinforcement of milestones and successes\n* Recruits for all hires to ensure a highly diverse, qualified workforce to achieve business objectives\n* Establishes and fosters a cohesive team; promotes a fair and equitable environment that supports a diverse workforce and encourages the team to achieve common goals and objectives\nActs as a brand ambassador for your business area/function and the bank, both internally and/or externally  \n\n  \n\n**Physical Requirements:**\n\nNever: 0%; Occasional: 1-33%; Frequent: 34-66%; Continuous: 67-100%\n\n* Domestic Travel \u2013 Occasional\n* International Travel \u2013 Never\n* Performing sedentary work \u2013 Continuous\n* Performing multiple tasks \u2013 Continuous\n* Operating standard office equipment - Continuous\n* Responding quickly to sounds \u2013 Occasional\n* Sitting \u2013 Continuous\n* Standing \u2013 Occasional\n* Walking \u2013 Occasional\n* Moving safely in confined spaces \u2013 Occasional\n* Lifting/Carrying (under 25 lbs.) \u2013 Occasional\n* Lifting/Carrying (over 25 lbs.) \u2013 Never\n* Squatting \u2013 Occasional\n* Bending \u2013 Occasional\n* Kneeling \u2013 Never\n* Crawling \u2013 Never\n* Climbing \u2013 Never\n* Reaching overhead \u2013 Never\n* Reaching forward \u2013 Occasional\n* Pushing \u2013 Never\n* Pulling \u2013 Never\n* Twisting \u2013 Never\n* Concentrating for long periods of time \u2013 Continuous\n* Applying common sense to deal with problems involving standardized situations \u2013 Continuous\n* Reading, writing and comprehending instructions \u2013 Continuous\nAdding, subtracting, multiplying and dividing \u2013 Continuous  \n\n  \n\nThe above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, duties and skills required. The listed or specified responsibilities & duties are considered essential functions for ADA purposes.\n\n**Who We Are:**\n\nTD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we strive to make every interaction, product, and experience remarkably human and refreshingly simple for over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to foster deeper relationships, ensure disciplined execution, and build a simpler, faster banking experience. TD is deeply committed to being a leader in client experience, that is why we believe that all colleagues, no matter where they work, are client facing. Together, we are reimagining what banking can be for our clients, colleagues and communities.\n\n**Our Total Rewards Package**\n\nOur Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical and mental well-being goals. Total Rewards at TD includes base salary and variable compensation/incentive awards (e.g., eligibility for cash and/or equity incentive awards, generally through participation in an incentive plan) and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off (including Vacation PTO, Flex PTO, and Holiday PTO), banking benefits and discounts, career development, and reward and recognition. Learn more\n\n**Additional Information:**  \nWe\u2019re delighted that you\u2019re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we\u2019re committed to providing the support our colleagues need to thrive both at work and at home.\n  \n  \n**Colleague Development**\n\nIf you\u2019re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You\u2019ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.\n\nIf you\u2019re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.\n\nWe're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.\n\n**Training & Onboarding**  \nWe will provide training and onboarding sessions to ensure that you\u2019ve got everything you need to succeed in your new role.\n  \n  \n**Interview Process**  \nWe\u2019ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.\n\n**Accommodation**\n\nTD Bank is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, status as a protected veteran or any other characteristic protected under applicable federal, state, or local law.\n\nIf you are an applicant with a disability and need accommodations to complete the application process, please email TD Bank US Workplace Accommodations Program at USWAPTDO@td.com . Include your full name, best way to reach you and the accommodation needed to assist you with the applicant process.",
-      "salary": "\ud83d\udcb0 91000.0\u2013136240.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "base salary",
-        "coordinator",
-        "recruiter",
-        "documentation",
-        "operations",
-        "QA"
-      ],
-      "queued_at": null
-    },
-    "506b31d3664fde2194c2": {
-      "id": "506b31d3664fde2194c2",
-      "title": "Logistics Coordinator - Pennsauken, NJ",
-      "company": "Holman",
-      "location": "Pennsauken, NJ, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=6d7dbb001174c05f",
-      "job_url_direct": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Pennsauken-NJ-US/Logistics-Coordinator---Pennsauken--NJ_R0057397",
-      "description": "**Holman is a family-owned, global automotive services organization anchored by our deeply rooted core values and principles that have enabled us to continue Driving What\u2019s Right throughout the last century. Our teams deliver the Holman Experience by treating our customers and each other as we would like to be treated, and creating positive, rewarding relationships all around.**\n\n**The automotive markets Holman serves include fleet management and leasing; vehicle fabrication and upfitting; component manufacturing and productivity solutions; powertrain distribution and logistics services; commercial and personal insurance and risk management; and retail automotive sales as one of the largest privately owned dealership groups in the United States.**\n\nHolman Powertrain has a great opportunity for a ***Logistics Coordinator*** to join our team in ***Pennsauken, NJ!***\n\nThe Logistics Coordinator role exists to support an efficient, dependable flow of goods and services. The role contributes across supplier and inventory management, planning, service coordination, cost awareness, and process improvement, using sound judgment to address varied needs and maintain consistent, high-quality outcomes. It collaborates with relevant partners, communicates clearly, and identifies practical opportunities to improve service, processes, and the overall experience. Through reliable execution and a focus on continuous improvement, the role supports availability, operational continuity, customer commitments, and responsible resource management.\n\n* **Starting Pay: $26.00 per hour**\n* **Shift: 830am-4:30pm**\n* **Benefits include health, dental, vision, tuition reimbursement, paid time off and more!**\n* **Eligible for benefits within 30 days of employment**\n\nWhat will you do?\n\n  \n\n* Coordinates shipments for locations with regards to new product, core (inclusive of NPN), and warranty returns\n* Uses the freight management system to schedule, track, and coordinate shipments\n* Creates and forwards all drop ship and special-order purchase orders to vendors\n* Coordinates the receiving process associated with drop ship orders from Ford and Holman vendors.\n* Creates invoices on sales orders for Holman remote warehouses (Ceva, etc.) and schedules the shipment of product from these locations\n* Coordinates the loss and damage claims process through completion (Ford PCS, Carrier, etc.).\n* Communicates all delays of orders that will affect the successful delivery based on normal order to delivery timelines to internal stakeholders (Customer Support, Outside Sales, and Management Teams)\n* Manages listings of currently delayed/lost/damaged shipments via freight management system reporting and communicates their status to internal customers (Customer Support) on a weekly basis\n* Proactively identifies potential delays in shipping by analyzing data found in the freight system Communicates these delays to internal and external customers, and also works with the applicable carrier or location to alleviate the delays\n* Upload data and maintain validity in the freight system by adding relevant, clear, and concise notes and data such as tracking information\n* Perform all other duties and special projects as assigned.\n* Coordination of freight for the reverse-logistics of core product.\n* The coordination of the freight damages and loss/shortage process through completion.\n* Proactive tracking and tracing of inbound and outbound product.\n* Communicate delays and trends found with carriers to management.\n* Coordination of freight from our remote warehouses.\n\nWhat are we looking for?\n\n  \n\n* Experience in logistics, supply chain, freight and/or warehouse operations\n* Computer-based software systems\n* Microsoft Office (Word, Outlook, PowerPoint, and Excel)\n* Logistics/product tracking software\n* High school diploma or equivalent\n* Must have strong computer skills - including a thorough understanding of excel.\n* Must have a thorough understanding and functional expertise in our WMS (thus the ability to learn and retain information quickly and accurately)\n* Must have a college Degree\n* Process/detail oriented\n* Ability to plan and monitor freight deliveries and identify problems that can impact the timely unloading, receiving and put away.\n* 90% of the job is in the office while 10% is on the warehouse floor\n* Must be able to pass a background/Physical and Drug test\n\n#LI-AA1\n\n#INDPT\n\n**At Holman, we exist to provide rewarding careers and better lives for employees and their families. We hire, train, empower, and reward exceptional people. Our journey is guided by our desire to get it right every time and the acknowledgement that we have an opportunity to be better. To be better, we have to do better, and to do better we must know better. That\u2019s why we are listening, open to learning new things \u2013 about ourselves and each other. We will never stop striving for improved diversity, equity, and inclusion because we are successful together when we feel trusted and supported. It\u2019s The Holman Way.**\n\n**At Holman, your total compensation goes beyond your paycheck. To position you for success and provide a rewarding career and better life for you and your family, Holman is proud to offer you the benefits you deserve; including protection against illness, disability, loss of work, or preparation for retirement. Below is a brief overview of the programs available to full-time employees (programs may vary by country or worker type):**\n\n* Health Insurance\n* Vision Insurance\n* Dental Insurance\n* Life and Disability Insurance\n* Flexible Spending and Health Savings Accounts\n* Employee Assistance Program\n* 401(k) plan with Company Match\n* Paid Time Off (PTO)\n* Paid Holidays, Bereavement, and Jury Duty\n* Paid Pregnancy/Parental leave\n* Paid Military Leave\n* Tuition Reimbursement\n\n**Benefits:**\n\n*Regular Full-Time*\n\nWe offer excellent benefits including health, vision, dental, life and disability insurance, and 401(k) with company match. Our time off benefits include Paid Time Off (PTO), paid holidays, bereavement, and jury duty. In addition, we offer paid pregnancy and parental leave, and supplemental paid military leave to eligible employees.\n\n*Temporary or Part-Time*\n\nIn geographic areas with statutory paid sick leave, part-time and temporary employees will receive a paid sick leave benefit that meets the mandated requirements.\n\n**Pay:**\n\nWe offer competitive wages that are commensurate with job-related skills, experience, relevant education or training, and geographic location, starting in the range of $25.42 - $36.23 USD per hour.\n\n**Artificial Intelligence Statement**\n\nWe recognize that applicants for positions at any organization may view AI tools for tasks such as drafting a resume or cover letter, provided the information is accurate and truthful. However, applicants should not use AI tools to:\n\n* Answer interview questions on their behalf, or use AI tools in any way during the interview or other qualification process(es).\n* Misrepresent or embellish qualifications, skills, or experience\n* Create false or misleading representations of identity (e.g., deepfakes or altered images/videos)\n\nYour application, whether an AI tool is used or not, should reflect your authentic abilities and experiences. Any use of AI that compromises honesty or integrity may result in disqualification from the process.\n\n**Equal Opportunity Employment and Accommodations:**\n\n*Holman provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.*\n\n*If you are a person with a disability needing assistance with the application process, please contact* *HR@Holman.com*\n\n*This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.*",
-      "salary": "\ud83d\udcb0 25.42\u201336.23 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer support",
-        "associate",
-        "inbound",
-        "coordinator",
-        "recruiting",
-        "remote",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "cfc4eedbcc36983d318b": {
-      "id": "cfc4eedbcc36983d318b",
-      "title": "Coordinator",
-      "company": "Rapid Security Inc.",
-      "location": "Mount Laurel, NJ, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=79e4e7177e9cb27c",
-      "job_url_direct": "",
-      "description": "**Job Overview**\n\nRapid Security Inc. is looking for an organized, dependable Coordinator to join our team. This position helps keep our daily service operations running smoothly by coordinating technician schedules, communicating with customers, and making sure service requests are followed through to completion. The Coordinator also supports our project team with scheduling and parts coordination to help keep installations and other projects on track.\n\nWe\u2019re looking for someone who takes initiative, communicates clearly, and can manage changing priorities in a busy office. **Immediate opening available.**\n\n**Responsibilities**\n\n* Receive incoming service calls and emails, gather relevant information, and create accurate service tickets.\n* Schedule and dispatch field technicians based on urgency, location, and availability.\n* Monitor the daily schedule and adjust as emergency calls, delays, and customer needs arise.\n* Keep customers informed about appointments, scheduling changes, and service status.\n* Follow up with technicians to obtain job updates, service notes, and outstanding information.\n* Coordinate return visits and track open service requests to help prevent delays.\n* Support the project team by coordinating installation schedules, technician availability, and customer access.\n* Work with project managers and purchasing to track parts, confirm delivery dates, and ensure materials are available for scheduled work.\n* Review completed service tickets for accurate documentation and readiness for invoicing.\n* Maintain customer records, site information, and service documentation.\n* Assist with other administrative tasks as needed.\n\n**Qualifications**\n\n* Previous experience in service coordination, dispatching, scheduling, or a similar administrative role.\n* Strong organizational skills and attention to detail.\n* Professional phone manner and clear written communication.\n* Ability to prioritize multiple requests and stay composed when schedules change.\n* Comfortable working with computers, Gmail, and Microsoft Excel, and learning new software.\n* Reliable attendance, follow-through, and a proactive approach to solving problems.\n* Ability to work independently while communicating effectively with a team.\n* Experience in the security, fire alarm, construction, HVAC, or another field service industry is a plus.\n* Experience with Service Fusion or similar service management software is preferred.\n\nPay: $25.00 - $27.00 per hour\n\nExpected hours: 40.0 per week\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Paid time off\n* Vision insurance\n\nAbility to Commute:\n\n* Mount Laurel, NJ 08054 (Required)\n\nWork Location: In person",
-      "salary": "\ud83d\udcb0 25.0\u201327.0 USD/hourly",
-      "match_score": 92,
-      "matched_terms": [
-        "scheduling",
-        "appointment",
-        "administrative",
-        "coordinator",
-        "documentation",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
     "7958d267e008b8521246": {
       "id": "7958d267e008b8521246",
       "title": "Move-In Coordinator & Design Specialist",
@@ -5579,6 +5226,340 @@
         "remote",
         "operations",
         "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "bb0014816169f650d763": {
+      "id": "bb0014816169f650d763",
+      "title": "Sales Representative - Cold Caller",
+      "company": "FM Media",
+      "location": "Remote, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=f13f9144d8f88c0b",
+      "job_url_direct": "",
+      "description": "**U.S.-Based Cold Caller & Website Sales Closer Recurring Commission**\n\nWe\u2019re building a fun, ambitious U.S.-based sales team to sell affordable website subscriptions to local businesses.\n\nThis is a commission-driven opportunity with serious long-term upside: you earn recurring commission on every customer you personally close for as long as that customer remains active and paying.\n\nYou don\u2019t lose your commission after three, six or twelve months. Build a strong book of customers and create monthly recurring income that continues growing with every new sale.\n\nWhat You\u2019ll Be Selling\n\nWe provide professionally designed, fully managed websites to local businesses through an affordable monthly subscription.\n\nOur team handles:\n\n* Website design and development\n* Hosting\n* Updates and ongoing support\n* Customer onboarding\n* Fulfillment and technical work\n\nYour job is to speak with business owners, explain the offer, handle objections and close new customers.\n\nCompensation\n\n* recurring commission on every monthly payment\n* Keep earning for the lifetime of every customer you personally close\n* No cap on commissions\n* Additional bonuses for hitting weekly and monthly sales targets\n* Performance bonuses for top representatives\n* Opportunities to become a team leader and earn overrides as we grow\n* Commissions paid on successfully collected customer payments\n\nThis is a performance-based sales opportunity, not a traditional salaried position although base hourly pay is also provided.\n\nWhat We Provide\n\n* Large lead lists of qualified local businesses\n* Sales script and objection-handling material\n* CRM and organized sales pipeline\n* Portfolio and website examples\n* Product training\n* Fulfillment and customer support\n* Flexible working hours\n* Supportive, energetic and genuinely cool team\n* Regular coaching and sales feedback\n* Bonuses, competitions and advancement opportunities\n\nYou will not need to find or purchase your own leads.\n\nResponsibilities\n\n* Call U.S. local business owners from the leads we provide\n* Identify businesses that need a new or improved website\n* Explain our affordable monthly website service\n* Deliver demos and presentations when appropriate\n* Follow up with interested prospects\n* Handle common objections confidently\n* Close customers and complete accurate sales notes\n* Track calls, follow-ups and outcomes in our CRM\n* Represent the company professionally\n\nWho We Want\n\nYou may be a great fit if you:\n\n* Are physically based in the United States\n* Speak clear, fluent English\n* Are confident speaking with business owners\n* Have cold-calling, appointment-setting or closing experience\n* Can work independently without needing constant supervision\n* Are comfortable with performance-based compensation\n* Want to build recurring income instead of starting from zero each month\n* Are competitive, coachable, reliable and good with people\n\nExperience selling any of the following is especially valuable:\n\n* Websites or web-design services\n* SEO or digital marketing\n* SaaS subscriptions\n* Merchant-processing services\n* Advertising\n* Home services\n* Insurance\n* Telecommunications\n* Other services sold to local businesses\n\nSchedule\n\nHours are flexible. You may create your own schedule, provided you call during appropriate U.S. business hours and consistently follow up with your prospects.\n\nThis can begin as a part-time opportunity and grow into a substantial full-time income stream for successful representatives.\n\nLong-Term Opportunity\n\nWe are looking for people who want to grow with us not someone making calls for only a few days.\n\nStrong performers can receive:\n\n* Larger and higher-quality lead allocations\n* Increased performance bonuses\n* Exclusive industries or territories\n* Team-leader opportunities\n* Management overrides\n* Input into scripts, offers and sales strategy\n\nHow to Apply\n\nPlease answer the following questions in your proposal:\n\n* Where in the United States are you located?\n* What have you previously sold over the phone?\n* How many outbound calls can you realistically make each week?\n* Are you comfortable with lifetime recurring commission as the primary compensation?\n* Why do you believe you would be good at selling websites to local business owners?\n* Please provide a short voice introduction or relevant cold-call sample through Upwork if available.\n\nStart your proposal with the words \u201cLIFETIME COMMISSION\u201d so we know you read the complete posting.\n\nWe\u2019re moving quickly and plan to onboard several U.S.-based representatives. If you\u2019re confident on the phone and excited about building genuine recurring income, we\u2019d like to hear from you.\n\nPay: $15.00 - $18.00 per hour\n\nBenefits:\n\n* Paid training\n\nWork Location: Remote",
+      "salary": "\ud83d\udcb0 15.0\u201318.0 USD/hourly",
+      "match_score": 87,
+      "matched_terms": [
+        "customer support",
+        "representative",
+        "appointment",
+        "remote",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "c3119a2c53e20c5e3ee4": {
+      "id": "c3119a2c53e20c5e3ee4",
+      "title": "Customer Service Associate",
+      "company": "Walgreens",
+      "location": "Bensalem, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=1ba201606e30bdfe",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/bensalem/customer-service-associate/1242/102986216064",
+      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Implements Company asset protection procedures to identify and minimize profit loss.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager or assigned by corporate.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer to be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $15 - $19 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 15.0\u201319.0 USD/hourly",
+      "match_score": 84,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "c2f4644acd508ab872bd": {
+      "id": "c2f4644acd508ab872bd",
+      "title": "Customer Service Associate",
+      "company": "Walgreens",
+      "location": "Elkins Park, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=5306adb3153bf5b0",
+      "job_url_direct": "https://jobs.walgreens.com/en/job/elkins-park/customer-service-associate/1242/102995970192",
+      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Implements Company asset protection procedures to identify and minimize profit loss.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager or assigned by corporate.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer to be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $15 - $19 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
+      "salary": "\ud83d\udcb0 15.0\u201319.0 USD/hourly",
+      "match_score": 84,
+      "matched_terms": [
+        "customer service",
+        "associate",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "134c429845e3b4d8014e": {
+      "id": "134c429845e3b4d8014e",
+      "title": "Customer Care Representative-Associate",
+      "company": "FedEx",
+      "location": "Gurugram, Haryana, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480353910",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 75,
+      "matched_terms": [
+        "customer care",
+        "representative",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "53de3cf1ace8985b4698": {
+      "id": "53de3cf1ace8985b4698",
+      "title": "German & English Customer Service Agent | Remote from Portugal -",
+      "company": "Lingo-nova",
+      "location": "Porto, Portugal",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4487624641",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer service",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "f7712cb8e7d17d682fbc": {
+      "id": "f7712cb8e7d17d682fbc",
+      "title": "German & English Customer Support Agent | Fully Remote -",
+      "company": "Lingo-nova",
+      "location": "Braga, Braga, Portugal",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4487623710",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer support",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "6fb59e019e1d3ad8dfc3": {
+      "id": "6fb59e019e1d3ad8dfc3",
+      "title": "Customer Service Representative",
+      "company": "Carrier",
+      "location": "East Syracuse, NY, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4486509475",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "5f8827badb059e360605": {
+      "id": "5f8827badb059e360605",
+      "title": "Customer Service Representative",
+      "company": "ABS INTERNATIONAL",
+      "location": "Karachi Division, Sindh, Pakistan",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4486646774",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "38e9276778a8ed9f2040": {
+      "id": "38e9276778a8ed9f2040",
+      "title": "Advanced Associate, Customer Service",
+      "company": "Pearson",
+      "location": "Noida, Uttar Pradesh, India",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4479633213",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer service",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "b4af05cdbe71484acee6": {
+      "id": "b4af05cdbe71484acee6",
+      "title": "Advanced Associate, Customer Service (Implementation & Onboarding)",
+      "company": "Pearson",
+      "location": "Mexico City Metropolitan Area",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4470033293",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 69,
+      "matched_terms": [
+        "customer service",
+        "associate"
+      ],
+      "queued_at": null
+    },
+    "26289d6a4058ce4d86ce": {
+      "id": "26289d6a4058ce4d86ce",
+      "title": "Remote Inpatient Coder & Qa Specialist",
+      "company": "Shearwater CPO\u00ae - Home of Clinicians",
+      "location": "Cebu, Central Visayas, Philippines",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4486677760",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "QA"
+      ],
+      "queued_at": null
+    },
+    "2c9e99b8ea5d6a110fe0": {
+      "id": "2c9e99b8ea5d6a110fe0",
+      "title": "Order Operations Specialist (Remote Elegible - Costa Rica)",
+      "company": "Smartsheet",
+      "location": "San Jos\u00e9, San Jose, Costa Rica",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4470010357",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "c54ba5d45e8ee193c877": {
+      "id": "c54ba5d45e8ee193c877",
+      "title": "Customer Service Specialist - AlephPay",
+      "company": "Aleph",
+      "location": "Madrid, Community of Madrid, Spain",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4470326047",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "acbe2c572842e36af4d7": {
+      "id": "acbe2c572842e36af4d7",
+      "title": "FT Customer Service Rep",
+      "company": "National Fitness Partners",
+      "location": "Philadelphia, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4488718771",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 66,
+      "matched_terms": [
+        "customer service"
+      ],
+      "queued_at": null
+    },
+    "6e4c0dbe931e1939aa9b": {
+      "id": "6e4c0dbe931e1939aa9b",
+      "title": "Operations Quality Associate / Specialist / Snr. Specialist",
+      "company": "FedEx Europe",
+      "location": "Marcon, Veneto, Italy",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4471464275",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 66,
+      "matched_terms": [
+        "associate",
+        "specialist",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "d82fc52aa0ad7980c73f": {
+      "id": "d82fc52aa0ad7980c73f",
+      "title": "English and Romanian Speaking Support Associate - Remote work",
+      "company": "Wolt",
+      "location": "Timisoara Metropolitan Area",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4475981047",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 66,
+      "matched_terms": [
+        "associate",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "9008b02fd8234a95d5ba": {
+      "id": "9008b02fd8234a95d5ba",
+      "title": "Operations & Customer Service Manager",
+      "company": "Spin Tennis App",
+      "location": "Kenya",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4486643730",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "customer service",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "c73eadb85d6d6df60fac": {
+      "id": "c73eadb85d6d6df60fac",
+      "title": "Customer Care Coordinator - Key Accounts - Import",
+      "company": "Ocean Network Express",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4470004309",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "customer care",
+        "coordinator"
       ],
       "queued_at": null
     }
