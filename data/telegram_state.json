@@ -1,341 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 293,
+  "search_cursor": 10,
   "apply_queue": {},
   "alert_jobs": {
-    "6e4c0dbe931e1939aa9b": {
-      "id": "6e4c0dbe931e1939aa9b",
-      "title": "Operations Quality Associate / Specialist / Snr. Specialist",
-      "company": "FedEx Europe",
-      "location": "Marcon, Veneto, Italy",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4471464275",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 66,
-      "matched_terms": [
-        "associate",
-        "specialist",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "d82fc52aa0ad7980c73f": {
-      "id": "d82fc52aa0ad7980c73f",
-      "title": "English and Romanian Speaking Support Associate - Remote work",
-      "company": "Wolt",
-      "location": "Timisoara Metropolitan Area",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4475981047",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 66,
-      "matched_terms": [
-        "associate",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "9008b02fd8234a95d5ba": {
-      "id": "9008b02fd8234a95d5ba",
-      "title": "Operations & Customer Service Manager",
-      "company": "Spin Tennis App",
-      "location": "Kenya",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486643730",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer service",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "c73eadb85d6d6df60fac": {
-      "id": "c73eadb85d6d6df60fac",
-      "title": "Customer Care Coordinator - Key Accounts - Import",
-      "company": "Ocean Network Express",
-      "location": "Rotterdam, South Holland, Netherlands",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4470004309",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer care",
-        "coordinator"
-      ],
-      "queued_at": null
-    },
-    "fb9df2f708484e2bdfcb": {
-      "id": "fb9df2f708484e2bdfcb",
-      "title": "Customer Service Representatives- Remote",
-      "company": "TalentHop",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486670186",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 79,
-      "matched_terms": [
-        "customer service",
-        "representative",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "71c622145c4095013497": {
-      "id": "71c622145c4095013497",
-      "title": "Customer Support Agent | German & English | Fully Remote -",
-      "company": "Lingo-nova",
-      "location": "Braga, Braga, Portugal",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487641550",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer support",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "1215e6a41170cff2c2d6": {
-      "id": "1215e6a41170cff2c2d6",
-      "title": "German customer support.-remote",
-      "company": "Francisco CI",
-      "location": "Lisbon, Lisbon, Portugal",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487646735",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer support",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "eed632cd1e40656523c4": {
-      "id": "eed632cd1e40656523c4",
-      "title": "Remote - Danish & English Customer Service Agent | Portugal",
-      "company": "Lingo-nova",
-      "location": "Braga, Braga, Portugal",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487637658",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer service",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "bfa30099f0b7ddc0f6f6": {
-      "id": "bfa30099f0b7ddc0f6f6",
-      "title": "Dutch Speaking Customer Support Specialist",
-      "company": "PLAY NORTH",
-      "location": "Sliema, Sliema, Malta",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486660485",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "894e66cc3884f67d76d9": {
-      "id": "894e66cc3884f67d76d9",
-      "title": "Customer Support Specialist",
-      "company": "Evlo AI",
-      "location": "Minneapolis, MN, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487616683",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "c2bbf5e3d029a249267c": {
-      "id": "c2bbf5e3d029a249267c",
-      "title": "Customer Service Specialist (US)",
-      "company": "Lendable",
-      "location": "London, England, UK",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4472171240",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "909013abf16f8adcd532": {
-      "id": "909013abf16f8adcd532",
-      "title": "Customer Support Specialist",
-      "company": "TalentHop",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4486667360",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "f470ebd4fb6ac432d8d1": {
-      "id": "f470ebd4fb6ac432d8d1",
-      "title": "Crypto Customer Service",
-      "company": "TELUS Digital",
-      "location": "Santa Tecla, La Libertad, El Salvador",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4416281768",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 65,
-      "matched_terms": [
-        "customer service",
-        "crypto"
-      ],
-      "queued_at": null
-    },
-    "1e06defd45422db75118": {
-      "id": "1e06defd45422db75118",
-      "title": "Customer Service - Night Shift - Good English",
-      "company": "Concentrix",
-      "location": "Ho Chi Minh City, Vietnam",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4449661467",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer service"
-      ],
-      "queued_at": null
-    },
-    "bd2d025e861d133a0b78": {
-      "id": "bd2d025e861d133a0b78",
-      "title": "Customer Service Technical Support",
-      "company": "Salesblox",
-      "location": "India",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4488736446",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer service"
-      ],
-      "queued_at": null
-    },
-    "d06171ca1924bfa280ae": {
-      "id": "d06171ca1924bfa280ae",
-      "title": "Customer Support Physicist- Chicago",
-      "company": "Quantum Machines",
-      "location": "Los Angeles, CA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4487635864",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "13e51424ee0539f44165": {
-      "id": "13e51424ee0539f44165",
-      "title": "Remote Patient Care Coordinator & Administrative Assistant",
-      "company": "In Motion Physical Therapy",
-      "location": "Chicago, IL, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=a19bab343705e43f",
-      "job_url_direct": "",
-      "description": "**About the Position**\n\nIn Motion Physical Therapy is seeking an organized, personable, and proactive Patient Care Coordinator & Administrative Assistant to support the daily operations and continued growth of our practice.\n\nIn this role, you will work closely with the clinic owner to manage administrative responsibilities, coordinate patient care, and create a welcoming and professional experience for both new and existing patients.\n\nAn important part of this position involves supporting the growth of the clinic by connecting with prospective patients, following up with referrals, and re-engaging former patients. The ideal candidate is an excellent communicator who can quickly build rapport, confidently explain the value of our services, address questions or concerns, and help prospective patients make informed decisions about their care.\n\nWe are looking for someone who is detail-oriented, highly organized, self-motivated, comfortable communicating with patients, and excited to contribute to the success of a growing physical therapy practice.\n\n**Key Responsibilities**\n\n**Patient Communication & Scheduling**\n\n* Respond promptly and professionally to incoming phone calls, emails, and new patient inquiries, with a goal of responding within five business hours.\n* Schedule and coordinate patient appointments while supporting continuity of care and adherence to prescribed treatment plans.\n* Follow up with prospective patients, physician referrals, and existing patients to encourage appointment scheduling.\n* Re-engage former patients and assist with patient retention and referral initiatives.\n* Build strong relationships with prospective patients by explaining the benefits of physical therapy, answering questions, and addressing concerns related to treatment, insurance, and cost.\n* Maintain a positive, welcoming, and professional patient experience.\n\n**Administrative & Practice Management**\n\n* Manage and maintain patient information within the clinic's Electronic Medical Record (EMR) system.\n* Create and update patient records, including new patient registrations, discharge information, and WebPT documentation.\n* Upload and organize patient documents, including signed progress notes, physician faxes, and other relevant medical records.\n* Maintain accurate patient information within the clinic's website backend and email marketing platform.\n* Coordinate with the clinic's third-party billing and insurance verification team to obtain insurance benefit summaries and communicate coverage details to patients before their appointments.\n* Assist the clinic owner with general administrative tasks and organizational needs.\n\n**Practice Growth & Marketing**\n\n* Support patient acquisition efforts through timely follow-up with new inquiries, referrals, and former patients.\n* Assist with developing and maintaining the clinic's social media presence.\n* Support patient outreach, referral initiatives, and other marketing efforts to increase awareness of the practice.\n* Track and compile monthly and annual reports related to new patient acquisition, scheduling, and key business performance metrics.\n* Identify opportunities to improve administrative workflows, patient communication, and overall clinic efficiency.\n\n**Team Communication**\n\n* Participate in regular phone or Zoom meetings with the clinic owner, approximately every one to two weeks, to discuss progress, priorities, and ongoing projects.\n* Provide updates on patient inquiries, scheduling, administrative tasks, and practice growth initiatives.\n* Communicate proactively about challenges, opportunities, and areas for improvement.\n\n**Qualifications & Skills**\n\n* Strong organizational skills and exceptional attention to detail.\n* Excellent verbal and written communication skills.\n* Friendly, professional, and confident phone presence.\n* Ability to build rapport with patients and communicate information clearly and compassionately.\n* Strong time-management skills and ability to prioritize multiple responsibilities.\n* Comfortable working independently and taking initiative.\n* Proficiency with computers, scheduling platforms, and digital communication tools. (Experience with Google Suite is a plus)\n* Ability to maintain patient confidentiality and handle sensitive information in accordance with HIPAA requirements.\n* Experience with electronic medical records (EMR), particularly WebPT, is a plus.\n* Previous experience in healthcare administration, patient coordination, customer service, or a similar role is preferred.\n* Interest in social media, marketing, or small business growth is a plus.\n\n**Role Details**\n\n**Pay/Hours:** Hourly position requiring a minimum of 10 hours per week, averaging approximately 40\u201345 hours per month. While this role offers a flexible schedule, the ideal candidate must be responsive and available to address all new inquiries and requests within 5 hours of receipt.\n\n**Compensation**: This is a W2 part-time hourly\n\n**Location**: 95% Remote with some training and meetings required in clinic\n\n**Start Date:** 1/4/27\n\nRemote training is expected to begin in December 2026 to help ensure a smooth transition into the role. ***There is also flexibility for an earlier start date for the right candidate.***\n\nWe are seeking someone who can commit to the position for a minimum of one year, with the hope of building a long-term working relationship. As In Motion Physical Therapy continues to grow, we would love to find someone who is excited to grow alongside the practice.\n\n**Apply**: Email your resume and cover letter to\n\nPay: $18.00 - $21.00 per hour\n\nExpected hours: 8.0 \u2013 12.0 per week\n\nBenefits:\n\n* Flexible schedule\n* Paid training\n* Work from home\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 18.0\u201321.0 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "scheduling",
-        "appointment",
-        "administrative",
-        "coordinator",
-        "documentation",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "50a1250065f6a528bca2": {
-      "id": "50a1250065f6a528bca2",
-      "title": "TAX PROFESSIONAL \u2013 OFFICE MANAGER",
-      "company": "Dominique Taylor",
-      "location": "Remote, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=8ae1197263d655ed",
-      "job_url_direct": "",
-      "description": "TAX PROFESSIONAL \u2013 MANAGER\n\n**Dominique Taylor Tax Services, LLC**  \nWebsite: www.dtaylortax.org\n\n**Position:** Tax Professional \u2013 Manager  \n**Employment Type:** Full-Time / Part-Time / Seasonal  \n**Location:** Remote  \n**Compensation:** Competitive, based on experience and qualifications\n\nPosition Overview\n\nDominique Taylor Tax Services, LLC is seeking an experienced, motivated, and client-focused **Tax Professional \u2013 Manager** to oversee tax preparation operations, lead tax preparation personnel, and ensure the delivery of accurate, efficient, and high-quality tax services.\n\nThe ideal candidate will possess extensive knowledge of federal and state income tax preparation, strong leadership and organizational skills, and the ability to manage multiple priorities in a fast-paced, deadline-driven environment.\n\nThis position requires a hands-on manager who can prepare and review individual and business tax returns while providing guidance, training, and operational oversight to the tax preparation team. The Tax Professional \u2013 Manager will play an important role in maintaining the company's professional standards, strengthening client relationships, and supporting continued business growth.\n\nEssential Duties and Responsibilities\n\n**Tax Preparation & Quality Control**\n\n* Prepare and review individual federal and state income tax returns.\n* Prepare and review business tax returns, including applicable small business filings.\n* Ensure tax returns are accurate, complete, and compliant with current IRS and state tax regulations.\n* Identify applicable deductions, credits, and tax-saving opportunities for clients.\n* Review complex tax returns and assist with resolving preparation issues.\n* Maintain current knowledge of federal and state tax laws, regulations, and filing requirements.\n\n**Team Leadership & Management**\n\n* Supervise, coordinate, and support tax preparers and administrative personnel.\n* Assign client accounts and manage workflow to ensure timely completion of returns.\n* Monitor employee productivity, accuracy, and performance.\n* Provide training, guidance, and technical assistance to tax preparation staff.\n* Establish and maintain quality-control procedures.\n* Address operational challenges and escalate complex tax matters when necessary.\n\n**Client Relations & Business Operations**\n\n* Maintain professional relationships with new and existing clients.\n* Assist clients with tax-related questions and document requests.\n* Handle escalated client concerns and resolve service issues professionally.\n* Oversee client intake, document collection, return processing, and filing procedures.\n* Monitor filing deadlines and ensure timely submission of completed returns.\n* Support client retention, referrals, and business development initiatives.\n* Assist with implementing procedures that improve office efficiency and customer experience.\n\n**Compliance & Confidentiality**\n\n* Maintain strict confidentiality of taxpayer information and financial records.\n* Ensure compliance with IRS regulations, applicable state requirements, and company policies.\n* Maintain appropriate documentation and secure handling of client records.\n* Follow applicable taxpayer data security and information protection requirements.\n\nQualifications & Experience\n\n* Minimum of 3\u20135 years of professional tax preparation experience.\n* Demonstrated experience preparing individual federal and state income tax returns.\n* Experience with small business tax returns preferred.\n* Prior supervisory, team leadership, or management experience strongly preferred.\n* Active IRS Preparer Tax Identification Number (PTIN).\n* Strong working knowledge of federal and state tax laws and regulations.\n* Proficiency with professional tax preparation software.\n* Excellent analytical, organizational, and problem-solving skills.\n* Strong written and verbal communication skills.\n* Ability to work independently and manage competing deadlines.\n* Demonstrated commitment to accuracy, professionalism, and client service.\n\nPreferred Qualifications\n\n* Experience managing a tax preparation office or team.\n* Experience with tax return review and quality assurance.\n* Enrolled Agent (EA), CPA, or other relevant tax credentials are a plus, but not required.\n* Experience with tax resolution, amended returns, and prior-year tax filings.\n* Experience implementing office procedures and improving operational performance.\n\nKey Performance Expectations\n\nThe successful candidate will be expected to:\n\n* Maintain high standards of tax preparation accuracy.\n* Ensure efficient workflow and timely filing of tax returns.\n* Provide effective leadership and support to the tax preparation team.\n* Deliver an exceptional client experience.\n* Maintain compliance with applicable tax laws and company procedures.\n* Contribute to the company's continued growth and operational success.\n\nIdeal Candidate\n\nWe are looking for a dependable, knowledgeable, and results-driven tax professional who takes pride in their work and understands that successful tax preparation requires more than completing returns. The ideal candidate is a natural leader who can balance technical tax expertise with team management, operational accountability, and exceptional customer service.\n\n**Join Dominique Taylor Tax Services, LLC and become part of a team committed to professionalism, accuracy, and delivering quality tax services to the clients and communities we serve.**\n\nEqual Employment Opportunity\n\nDominique Taylor Tax Services, LLC is an equal opportunity employer. Employment decisions are made without regard to protected characteristics under applicable federal, state, or local law.\n\nPay: $30,000.00 - $90,000.00 per year\n\nBenefits:\n\n* Flexible schedule\n* Work from home\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 30000.0\u201390000.0 USD/yearly",
-      "match_score": 95,
-      "matched_terms": [
-        "customer service",
-        "business development",
-        "administrative",
-        "documentation",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
     "5ef58ca280186c7b28f4": {
       "id": "5ef58ca280186c7b28f4",
       "title": "Plumbing Procurement Operations Specialist",
@@ -5518,6 +5185,333 @@
         "scheduling",
         "operations",
         "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "cf6b177f640ee9880e2b": {
+      "id": "cf6b177f640ee9880e2b",
+      "title": "Customer Support Representative",
+      "company": "Remote Leverage",
+      "location": "Nicaragua",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489157640",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 79,
+      "matched_terms": [
+        "customer support",
+        "representative",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "d50ed436be06c1569f86": {
+      "id": "d50ed436be06c1569f86",
+      "title": "Customer Support Representative",
+      "company": "Remote Leverage",
+      "location": "Colombia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489144927",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 79,
+      "matched_terms": [
+        "customer support",
+        "representative",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "4aec4252f7c0ea2030cd": {
+      "id": "4aec4252f7c0ea2030cd",
+      "title": "Cloud Security Engineer",
+      "company": "WorkWave\u2122",
+      "location": "Remote, USA",
+      "category": "Web3 Support",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=d8f7681b8d7fdc60",
+      "job_url_direct": "https://jobs.lever.co/workwave/f67b1d54-83a6-4783-a280-be63c09a995b?lever-source=Indeed",
+      "description": "We are seeking a proactive, hands-on **Cloud Security Engineer** to serve as the primary security partner for our Engineering and DevOps teams. In this role, you will be the \"North Star\" for secure cloud configuration, moving beyond simple alert triaging to building sustainable security foundations. You will bridge the gap between high-level security architecture and daily engineering execution, ensuring our AWS and Azure environments are resilient, compliant, and automated.\n\n### **WHAT YOU'LL DO:**\n\n* **Cloud Governance & Guardrails:** Lead the deployment and optimization of AWS Control Tower, Security Hub, and AWS WAF to establish a secure multi-account strategy.\n* **Cloud Security Platform Ownership:** Own cloud security outcomes across AWS (primary), Azure (secondary), and limited GCP, including secure landing zone standards, guardrails-as-code, detection coverage, and remediation automation.\n* **Secure-by-Default Engineering:** Design and implement reusable, secure-by-default cloud patterns that allow engineering teams to deploy safely without constant security intervention. Establish hardened Terraform modules, reference architectures, and baseline configurations so the secure path becomes the easiest path for teams building in AWS.\n* **Container Security:** Collaborate with the AppSec Architect to secure EKS and ECS environments, focusing on runtime protection, image scanning, and least-privilege orchestration.\n* **Security Assessment & Roadmap:** Perform a comprehensive baseline assessment of the current cloud environment to identify gaps and provide actionable, prioritized recommendations.\n* **Identity & Access Management:** Lead design and enforcement of least-privilege IAM architecture across AWS accounts and workloads.\n* **Operational Excellence:** Develop and maintain secure configuration standards, documentation, and operational procedures that enable engineering teams to consistently deploy and operate cloud services securely.\n* **Detection & Telemetry Ownership:** Partner with security operations to ensure security telemetry from AWS environments is complete, centralized, and actionable (CloudTrail, GuardDuty, VPC Flow logs, etc.)\n* **Cloud Security & Compliance Alignment:** Ensure cloud configurations and controls align with internal security standards and external compliance requirements (ISO 27001, SOC 2, etc.). Partner with Security and GRC teams to implement audit-ready controls, automate evidence collection where possible, and maintain clear documentation of cloud security control coverage.\n* **Third-Party Integration:** Manage secure access and configuration for security vendor tools (vulnerability scanners, assessment platforms, etc.) within the cloud environment.\n* **Incident Response:** Participate in an on-call rotation for one week at a time and serve as primary SME for cloud security incidents (IAM compromise, exposed keys, misconfigurations, etc.).\n* **Vulnerability & Exposure Management:** Build and run the cloud vulnerability management program for AWS and Azure workloads, container images, and base AMIs. Define severity-based SLAs, implement scalable scanning and patch workflows (e.g., AWS Inspector, ECR scanning, hardened base images), and partner with Engineering to reduce exploitable exposure.\n* **Cloud Security Tooling Ownership**: Own onboarding, coverage validation, and tuning of CSPM and MDR integrations across AWS, Azure and GCP. Drive measurable improvement in signal quality, alert fidelity, and remediation workflows through automation and engineering partnerships.\n* **Secrets, Keys, and Credential Hygiene:** Design and enforce secure secrets management patterns (AWS Secrets Manager/Parameter Store/Vault), automated rotation, and least-privilege secret access. Own KMS key strategy and governance (key policies, grants, rotation, separation of duties) and ensure no long-lived credentials in CI/CD.\n* **CI/CD and Supply Chain Security:** Secure the software delivery pipeline end-to-end, including identity federation for CI/CD, policy-as-code enforcement for Terraform and Kubernetes, artifact integrity controls (signing/provenance), and secure dependency/source controls. Ensure security guardrails are automated and developer-friendly.\n* **Cloud Incident Readiness & Exercises:** Build cloud-native incident playbooks (IAM compromise, crypto-mining, data exposure, suspicious network activity) and run periodic tabletop exercises. Ensure forensics readiness through log retention standards, immutable/auditable logging where appropriate, snapshot/containment procedures, and break-glass access controls.\n* **Multi-Cloud & Hybrid Baselines:** Establish minimum viable security baselines for Azure and GCP (identity, logging, storage, network, key management) and ensure telemetry parity into centralized detection. Partner with operation teams to secure hybrid connectivity with data center environments (segmentation, identity boundaries, secure administrative access).\n* **Security Metrics & Continuous Improvement:** Define and report on key cloud security metrics (coverage, misconfiguration trends, MTTR, control adoption, vulnerability SLAs). Use metrics to prioritize work, demonstrate risk reduction, and drive engineering alignment.\n* **Leadership and Execution:** Mentor other engineers and raise baseline security literacy in platform/DevOps teams through patterns, reviews, and internal enablement.\n\n### **WHAT YOU'LL BRING:**\n\n* 5\u20138+ years of experience in Information Security, with at least 3+ years focused specifically on AWS Cloud Security.\n* **AWS Deep Dive:** Deep hands-on experience designing and securing AWS environments, core services (IAM, VPC, S3, KMS) and security-specific services (GuardDuty, Inspector, Config).\n* **IaC Proficiency:** Strong hands-on experience with Terraform for managing cloud infrastructure.\n* **Containerization:** Proven experience securing containerized workloads in EKS or ECS.\n* **Azure Knowledge:** Willingness to provide basic security support/maintenance for an existing Azure environment (Deep expertise not required; AWS is the priority).\n* **Consultative Mindset:** Ability to assess a complex environment and provide a \"roadmap to green\" rather than just identifying problems.\n* **Collaborative Partnership:** Ability to work side-by-side with engineers, speaking their language and helping them solve problems rather than just \"blocking\" tickets.\n* **Strategic Documentation:** Capability to translate technical configurations into clear, repeatable processes and procedures.\n* **Automation First:** A drive to automate manual security tasks to increase efficiency and reduce human error.\n* **Education/Certifications:** Bachelor\u2019s degree in Computer Science, Information Security, or a related field or equivalent work experience.\n* Industry certifications such as Azure security certification, AWS Certified Security \u2013 Specialty or related are highly desirable.\n\nIn our dedication to salary transparency, we provide a compensation range for each role and the final offer will be dependent on various factors, including the candidate's qualifications, relevant experience, and the organization's budget. Our hiring team will provide more information about the compensation package for this position during the interview process.\n\n***Please note that salary estimates provided by websites (LinkedIn, Glassdoor, etc.) and not by WorkWave may not accurately reflect the actual salary range for the position.***\n\n**WHAT YOU SHOULD KNOW ABOUT US:**\n\n* We are laid back but buttoned up. We offer a casual work environment and remote work flexibility and have a passion for developing creative, innovative best in class solutions that directly contribute to the success of our customers\n\n* We care deeply and deliver service and solutions that make a real difference in the lives of our clients and their businesses\n\n* We openly accept others as they are and build strong partnerships based on trust\n\n* Teamwork and collaboration is key to help our colleagues and customers solve their challenges\n\n* Our team is energetic, fun, naturally inquisitive and eager to make an impact, we invite you to join us!\n\n**LOVE WHAT YOU DO, NO MATTER WHERE YOU DO IT:**\n\n* Join our Remote-First Global Work Community: WorkWave provides an innovative and dynamic remote-first Global Work Community that encourages growth, creativity, and collaboration. No matter what stage of your career or where you live, WorkWave is your place to be part of a global company with a startup feel, where your ideas matter and your growth is a priority.\n\n**A GLOBAL COMPANY WITH A LOCAL PRESENCE:**\n\n* We know that there are benefits of being in the office and working from home. WorkWave promotes a healthy work/life balance and provides employees with the flexibility of collaborating in the office or the option to work virtually if desired. Our teams are well versed at working collaboratively in a fully virtual environment.\n\n* Our HQ is based at our state of the art home office in the historic Bell Works complex located in Holmdel Township, New Jersey. We keep our offices available to all to use when working remotely isn\u2019t feasible, or to help with cross training, team building and/or brainstorming.\n\n* We have employees in over 30 states, 7 countries and many regional offices - each with their own set of perks and opportunities to give back to the local community.\n\n* Whether you work remotely or take advantage of one of our offices, you\u2019ll find a community of WorkWavers that value diversity, and care deeply about our products, clients, our communities and each other.\n\n**RELAX, WE'VE GOT YOU COVERED:**\n\n* Employees can expect a robust benefits package, including health and dental and 401k with company match\n\n**AND BEYOND...**\n\n* Find your perfect work/life balance with our Flexible Time Off policy or generous PTO plan (role dependent) and paid holidays\n\n* Up to 4 weeks paid bonding leave\n\n* Tuition reimbursement\n\n* Robust Employee Assistance Program through TotalCare offering free counseling 24/7/365, plus financial counseling, legal guidance, adoption assistance services and much more!\n\n* 24/7 access to virtual medical care with Teladoc\n\n* Quarterly awards based on peer nominations\n\n* Regional discounts and perks\n\n* Opportunities to participate in charitable events and give back to the community\n\n**GROW WITH US:**\n\n* We understand the impact of attracting and keeping top talent and reward intellectual curiosity and a thirst for personal and professional growth\n\n* Encouraging our employees that already have an intimate knowledge of and passion for our products to apply for other roles within our walls just makes sense!\n\n* Our employees have access to extensive video libraries for soft skill and role specific training available 24/7 and live trainings are provided throughout the year\n\n**JOIN OUR WINNING TEAM!**\n\n* 10 Time winner of Best Place to Work in New Jersey by NJBiz!\n\n* WorkWave has been recognized with multiple awards for its outstanding products, growth and culture, including the Inc. 5000, SaaS Award, IT World Awards, Globe Awards, Silver Stevie Award for Employer of the Year, and Best Place to Work Inc. Magazine\n\n* Named one of The Software Report's 3rd annual list of the Top 100 Software Companies of 2022 (worldwide!)\n\n***We\u2019re an equal opportunity employer. All applicants will be considered for employment without attention to race, color, age, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status:*** *Don't meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At WorkWave, we are dedicated to building a diverse, inclusive and authentic workplace, so if you feel like you could make a great impact in this role but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may just be the right candidate for this or other roles!*\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+      "salary": "\ud83d\udcb0 120000.0\u2013145000.0 USD/yearly",
+      "match_score": 75,
+      "matched_terms": [
+        "administrative",
+        "documentation",
+        "remote",
+        "operations",
+        "crypto",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "99e5f398d53d9e7c1f3b": {
+      "id": "99e5f398d53d9e7c1f3b",
+      "title": "Customer Service Representative- Quakertown",
+      "company": "Penn Community Bank",
+      "location": "Quakertown, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4484595007",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "06492964dee920159ff2": {
+      "id": "06492964dee920159ff2",
+      "title": "Customer Care Representative",
+      "company": "Casella Waste Systems, Inc.",
+      "location": "Quakertown, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489287391",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 72,
+      "matched_terms": [
+        "customer care",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "44906bb029613996ed3d": {
+      "id": "44906bb029613996ed3d",
+      "title": "Remote Customer Support Rep - $85k-$95k (Wealth Tech)",
+      "company": "CyberCoders",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4488587168",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 71,
+      "matched_terms": [
+        "customer support",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "e8342f387c2964956758": {
+      "id": "e8342f387c2964956758",
+      "title": "Customer Support Representative (Night Shift)",
+      "company": "Nextiva",
+      "location": "Kharkiv, Kharkiv, Ukraine",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4488569609",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer support",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "f9dc3d03d67bf4581e5b": {
+      "id": "f9dc3d03d67bf4581e5b",
+      "title": "Customer Service Representative",
+      "company": "Ant Group",
+      "location": "Sunnyvale, CA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489298166",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "19124c13d0a84fb1812e": {
+      "id": "19124c13d0a84fb1812e",
+      "title": "Customer Support Specialist",
+      "company": "CUBE",
+      "location": "Manila, National Capital Region, Philippines",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4481182702",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "c3f44520ede0a90efd94": {
+      "id": "c3f44520ede0a90efd94",
+      "title": "Junior Customer Support Specialist with Italian and English",
+      "company": "XTB online investing",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489215051",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "fc2617dedcdf4bc98e38": {
+      "id": "fc2617dedcdf4bc98e38",
+      "title": "Customer Support Specialist",
+      "company": "Mercury",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4488564730",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "d5b772a3597ad4b40d03": {
+      "id": "d5b772a3597ad4b40d03",
+      "title": "Customer Support Specialist",
+      "company": "Universal Music Group",
+      "location": "New York, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4482433777",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "9369bfd5e2d0e2a12ae8": {
+      "id": "9369bfd5e2d0e2a12ae8",
+      "title": "Customer Support Specialist",
+      "company": "Mercury",
+      "location": "Portland, OR, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4488570683",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "0ca076682df0a2a2518e": {
+      "id": "0ca076682df0a2a2518e",
+      "title": "Customer Support Specialist",
+      "company": "TransferGo",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490376067",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "3f5ed371d0f19330212b": {
+      "id": "3f5ed371d0f19330212b",
+      "title": "FT Customer Service Rep",
+      "company": "National Fitness Partners",
+      "location": "Royersford, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490546958",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 66,
+      "matched_terms": [
+        "customer service"
+      ],
+      "queued_at": null
+    },
+    "6324b12c9ad635a26b5a": {
+      "id": "6324b12c9ad635a26b5a",
+      "title": "Product Support Specialist",
+      "company": "RemoteHunter",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489276283",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "specialist",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "094b8ab02182ceb548e1": {
+      "id": "094b8ab02182ceb548e1",
+      "title": "Sportsbook and Online Casino Customer Support Agent - Swing Shift",
+      "company": "GamblingCareers.com",
+      "location": "New Jersey, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490538915",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
+      ],
+      "queued_at": null
+    },
+    "10596356260511da4089": {
+      "id": "10596356260511da4089",
+      "title": "Sportsbook and Online Casino Customer Support Agent - Swing Shift",
+      "company": "Rush Street Interactive",
+      "location": "New Jersey, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490391782",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
       ],
       "queued_at": null
     }
