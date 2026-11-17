@@ -1,349 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 290,
+  "search_cursor": 7,
   "apply_queue": {},
   "alert_jobs": {
-    "c22a2fb3dca7bf086c19": {
-      "id": "c22a2fb3dca7bf086c19",
-      "title": "EverPro - Customer Support Representative (Remote, CAN)",
-      "company": "EverCommerce",
-      "location": "Toronto, Ontario, Canada",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490500528",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 79,
-      "matched_terms": [
-        "customer support",
-        "representative",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "1167ea3223c0cc00ab5a": {
-      "id": "1167ea3223c0cc00ab5a",
-      "title": "Associate Customer Service Representative (Bilingual), B2B",
-      "company": "Kohler Co.",
-      "location": "Kohler, WI, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4482123870",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 77,
-      "matched_terms": [
-        "customer service",
-        "representative",
-        "associate"
-      ],
-      "queued_at": null
-    },
-    "d1d2dbbdeedff93e013f": {
-      "id": "d1d2dbbdeedff93e013f",
-      "title": "Customer Service Representative",
-      "company": "U-Haul",
-      "location": "Havertown, PA, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490044085",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "808f6d4cd4c844937b09": {
-      "id": "808f6d4cd4c844937b09",
-      "title": "Calypso QA",
-      "company": "Purple Austyn Technologies",
-      "location": "Remote, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=d4721880b1bb62e8",
-      "job_url_direct": "",
-      "description": "Job Description \u2013 Calypso QA\n\n**Location:** USA  \n**Employment Type:** Full-Time  \n**Experience:** 7+ Years  \n**Required Calypso Versions:** V17 and V18\n\nRole Overview\n\nWe are looking for an experienced Calypso QA professional with strong knowledge of capital markets and hands-on experience in testing Calypso applications. The candidate should have experience working with Calypso versions 17 and 18, covering multiple asset classes and financial operations.\n\nKey Responsibilities\n\n* Perform functional, regression, and integration testing of Calypso applications.\n* Prepare test plans, test scenarios, and test cases.\n* Execute test cases and manage defect reporting, tracking, and triaging.\n* Support UAT and BUAT activities.\n* Work closely with business and technical teams to ensure quality delivery.\n* Participate in Agile (SAFe) ceremonies and testing activities.\n\nMandatory Skills & Experience\n\n* 7+ years of experience in Calypso QA.\n* Hands-on experience with both Calypso V17 and V18.\n* Strong knowledge of the following asset classes:\n* Agency Debt\n* Foreign Sovereign Bonds\n* Foreign Exchange (FX)\n* Short-term Money Market Securities\n* Experience testing the following financial operations:\n* Repo and Reverse Repo\n* Security vs. Security Lending\n* Outright Purchases and Sales\n* FX Swaps\n* Experience using Calypso Data Uploader and Data Exporter for testing.\n* Strong experience in test planning, execution, and defect triaging.\n* Experience working in Agile methodology, preferably SAFe.\n* UAT and BUAT support experience.\n* Good communication and stakeholder coordination skills.\n\nPreferred Candidate Profile\n\n* Strong capital markets and financial products domain knowledge.\n* Ability to independently manage QA activities across Calypso modules and asset classes.\n* Experience working with business users and technical teams in a full-time project environment.\n\nPay: $60.00 - $80.00 per hour\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 60.0\u201380.0 USD/hourly",
-      "match_score": 73,
-      "matched_terms": [
-        "remote",
-        "operations",
-        "QA",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "5346557bef07f203e22c": {
-      "id": "5346557bef07f203e22c",
-      "title": "Lead, Supplier Development Engineer 1",
-      "company": "L3Harris",
-      "location": "Huntsville, AL, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=775976a1760e14bf",
-      "job_url_direct": "https://careers.harris.com/job/-/-/4832/103163571216",
-      "description": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers\u2019 mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.\n\nL3Harris is the Trusted Disruptor in defense tech. With customers\u2019 mission-critical needs always in mind, our employees deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security.\n\n***Job Title: Lead, Supplier Engineer / Supplier Development Engineer \u2013 Integrated Supplier Team (IST)***  \n***Job Code: 47724***  \n***Location: Field / Remote - HSV, AL Base (Ideally local to assigned supplier to minimize travel - Lincoln, Nebraska, Tucson, Arizona, or Hunting Beach, California)***  \n***Schedule: 9/80: Employees work 9 out of every 14 days \u2013 totaling 80 hours worked \u2013 and have every other Friday off***\n\n**Job Description:**\n\nL3Harris is seeking an experienced Supplier Development Engineer to support the Integrated Supplier Team (IST). This role acts as a primary technical liaison between internal engineering teams and critical suppliers to ensure quality, schedule, and technical execution across high\u2011priority defense programs. The Lead Supplier Engineer evaluates supplier capabilities, drives process improvements, resolves complex technical issues, and supports new product and process development. This position leads high\u2011impact initiatives with minimal oversight and contributes directly to supplier performance, product integrity, and mission success.\n\n**Essential Functions:**\n\n* Communicate, interpret, and translate complex Technical Data Packages (TDPs) and drawing requirements for suppliers.\n* Lead supplier engagements to assess manufacturing capability, capacity, and technical risks.\n* Oversee and resolve nonconforming product issues, including leading Material Review Board (MRB) activities.\n* Implement root\u2011cause analysis, corrective actions, and preventive measures to improve supplier processes and reduce defects.\n* Manage supplier product and process changes, including those supporting production ramp\u2011up.\n* Perform technical evaluations of supplier proposals to support cost and price analysis.\n* Partner with internal Design, Project, and Manufacturing Engineering; Supplier Quality; and Subcontracts teams to resolve technical challenges impacting yield, quality, and schedule.\n* Report supplier technical health, risks, and performance metrics to internal stakeholders.\n* Field-based role with travel requirements ranging from 25%\u201375%, depending on supplier location.\n\n**Minimum Qualifications:**\n\n* Bachelor\u2019s Degree with 9 years of related engineering or supplier development experience; OR Graduate Degree with 7 years of related experience; OR In lieu of a degree, 13 years of supplier development, manufacturing engineering, or technical experience.\n* Ability to obtain and maintain a security clearance.\n\n**Preferred Skills:**\n\n* Experience with DMAIC, 8D, Ishikawa, 5 Whys, and Root Cause & Corrective Action (RCCA).\n* Proficiency with engineering software and Microsoft Office 365.\n* Knowledge of advanced aerospace materials including composites, refractory/high\u2011temperature materials, elastomers, and Thermal Protection Systems (TPS).\n* Strong GD&T knowledge for design evaluation and drawing interpretation.\n* Lean Green Belt or Six Sigma Black Belt certification.\n* Ability to use data analytics and emerging digital tools, including AI\u2011enabled solutions, for enhanced problem solving.\n* Ability to mentor suppliers and cross-functional teams.\n* Experience with Solid Rocket Motors (SRM), Divert and Attitude Control Systems (DACS), or missile defense systems.\n* Strong communication skills, including preparation of supplier health reports and technical presentations.\n* Ability to lead supplier technical discussions, working sessions, and continuous improvement initiatives.\n\nIn compliance with pay transparency requirements, the salary range for this role in California, Connecticut, Massachusetts, New Jersey, Washington, the Greater D.C. area, Denver, or NYC is $127,500 \u2013 $236,500. The salary range for this role in Colorado, Hawaii, Illinois, Maine, Maryland, Minnesota, New York State, Cleveland (Ohio), Vermont, and Virginia is $110,500 \u2013 $205,500. This is not a guarantee of compensation or salary, as final offer amounts may vary based on factors including but not limited to experience and geographic location. L3Harris also offers a variety of benefits, including health and disability insurance, 401(k) match, flexible spending accounts, EAP, education assistance, parental leave, paid time off, and company\u2011paid holidays. Benefits may vary based on hire date, schedule type, and collective bargaining agreements.\n\n#LI-SP1\n\nL3Harris Technologies is proud to be an Equal Opportunity Employer. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state or local laws. L3Harris maintains a drug-free workplace and performs pre-employment substance abuse testing and background checks, where permitted by law.\n\nPlease be aware many of our positions require the ability to obtain a security clearance. Security clearances may only be granted to U.S. citizens. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information.\n\nBy submitting your resume for this position, you understand and agree that L3Harris Technologies may share your resume, as well as any other related personal information or documentation you provide, with its subsidiaries and affiliated companies for the purpose of considering you for other available positions.\n\nL3Harris Technologies is an E-Verify Employer. Please click here for the E-Verify Poster in English or Spanish. For information regarding your Right To Work, please click here for English or Spanish.",
-      "salary": "\ud83d\udcb0 110500.0\u2013236500.0 USD/yearly",
-      "match_score": 73,
-      "matched_terms": [
-        "recruiting",
-        "documentation",
-        "remote",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "9ee1fffdb7b346e116e4": {
-      "id": "9ee1fffdb7b346e116e4",
-      "title": "Manager, Quality Assurance",
-      "company": "Hilton",
-      "location": "McLean, VA, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=89f327f8b67e4d6c",
-      "job_url_direct": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/228969",
-      "description": "### **Exceptional Hospitality Starts with You**\n\n*The location for this position is virtual/remote*\n\nThis is your chance to be part of an in-house Brands team of industry experts in the domains of hospitality, brand management, innovation, food and beverage, wellness, owner relations, and more, for all of Hilton's unique brands! Are you passionate about partnering with hotel leaders to uphold Brand Standards and elevate the guest experience? As a Manager, Quality Assurance (QA) Auditor, you'll help strengthen and grow Hilton's portfolio. Reporting to the Area Manager, Quality Assurance, you will oversee a territory of 100+ hotels, conducting comprehensive audits to ensure cleanliness, safety, and adherence to brand standards. You'll travel to perform on-site evaluations, review findings with property leadership, and provide actionable insights. You'll also prepare detailed reports with supporting images for internal analysis, helping protect the integrity of our Brands and maintain exceptional guest satisfaction.\n\n**What you'll do during a typical day:**\n\n* Perform routine Quality Assurance evaluations.\n* Apply your knowledge of product replacement cycles, renovations, and physical upgrades to maintain Brand Standards.\n* Navigate complex situations with a solutions-oriented mindset, maintaining Brand integrity while balancing owner and partner expectations.\n* Address inquiries and communications made internally, both verbally and in written communications.\n* Participate in Consistency exercises.\n* Monitor expenses incurred from travel completed/scheduled, both based on monthly and yearly goals.\n* Participate in activities outside of QA to gain a better knowledge of other departments.\n\n**How you'll collaborate with others:**\n\n* Work with senior leaders and property teams to foster positive, productive relationships.\n* Communicate with Quality Auditors, Area Managers in QA, Directors, Senior Directors, Vice Presidents, Brand Teams, Design and Construction, and Human Resources, Owners, and Management Company Reps to answer inquiries about Brand Standard compliance, QA, Brand protocol, procedures, and Improvement Plans.\n* Effectively communicate and coordinate independently, while contributing to shared success.\n\n**Projects you'll take ownership of:**\n\n* Territory Management, Expense Management, Audits completed and annual goals.\n* Coordinate upcoming activities such as travel plans and hotel scheduling, ensuring downtime work is completed and submitted by established deadlines.\n\n### **What It Takes to Make the Stay**\n\n**You have these minimum qualifications:**\n\n* Five (5) years of management experience in Hotel Operations\n* Three (3) years of experience as a General Manager, Executive Committee Member, or Director\n* Valid Driver's license\n* Travel 90% of the time\n\n**It would be useful if you have:**\n\n* BA/BS Bachelor's Degree\n* Local to the state of Florida\n* Fluency in a foreign language\n* Food Safety certification\n* Proficient in Microsoft Office products\n* Working knowledge of product replacement cycles, renovations and physical upgrades\nProblem resolution and consulting skills to mitigate potential conflicts/issues  \n\n### **How We'll Help You Thrive**\n\nAt Hilton, the hospitality we're known for doesn't end with our guests. We proudly invest in our Team Members' wellbeing, supporting you through all of life's moments. When you join Hilton, our exceptional care extends to you with unmatched perks and benefits, including\\*:\n\n* **Incredible travel perks** \u2013 Enjoy 110 nights of deeply discounted travel, with room rates as low as $40/night at our world-class hotels through our Go Hilton travel program\n* **Own a piece of Hilton** \u2013 Through our employee stock purchase program (ESPP), you can invest in Hilton shares at a 15% discount to help build your financial future\n* **Paid parental leave** \u2013 Because family matters. We offer paid leave for eligible Team Members, including partners and adoptive parents\n* **Personalized caregiving support** \u2013 Access dedicated caregiving concierge services to help navigate caregiving for yourself and your loved ones\n* **Crisis concierge** \u2013 In times of loss, our Crisis Concierge offers a single, compassionate point of contact for both practical support and emotional care\n* **Mental health resources** \u2013 Your wellbeing comes first. Eligible Team Members can access free counseling and support through our best-in-class Employee Assistance Program (EAP)\n* **Generous paid time off (PTO)** \u2013 Recharge, relax, and take time for what matters most\n* **Health & welfare benefits** \u2013 From checkups to dental cleanings to new glasses, we offer a variety of health plans that keep you and your family covered\n* **Financial security for your future** \u2013 Our retirement plans make it easier to save for what's next\n\n*\\*Benefits availability may vary depending on Team Member's location as well as terms and conditions of employment and are subject to the terms and conditions of each specific program/plan.*\n\nHilton offers its eligible team members a comprehensive benefits package to support their mental and physical well-being, so they can Thrive personally and professionally. The pay range for this role is $77,500 \u2013 $100,000 and is determined based on applicable and specialized experience and location. Subject to plan terms and conditions, you will be eligible to participate in the Hilton Annual Incentive (Bonus) Plan, consistent with other team members at the same level and/or position within the Company. #LI-REMOTE\n\n  \n\n**Join an Award-Winning Workplace Culture**\n\nAt Hilton, we don\u2019t just deliver exceptional experiences for our guests\u2014we build an exceptional workplace for the Team Members who make it all possible. As a global leader in hospitality, we\u2019ve welcomed more than 3 billion guests worldwide, all while staying true to our founding vision: to fill the earth with the light and warmth of hospitality.\n\nOur award-winning culture has earned us repeated recognition on the World\u2019s Best Workplaces list by Great Place to Work and Fortune. With our suite of world-class brands , and a company-wide commitment to providing the best stay for every guest, we\u2019re setting new standards for the future of travel.\n\nWhether you\u2019re starting your career or exploring something new, Hilton supports your journey every step of the way. Come for the job, stay for the career\u2014and help us make every stay a little more magical.\n\nCurious about life at Hilton? Explore our Careers Blog to see why we\u2019re more than a great place to stay\u2014we\u2019re a great place to work.",
-      "salary": "\ud83d\udcb0 77500.0\u2013100000.0 USD/yearly",
-      "match_score": 73,
-      "matched_terms": [
-        "scheduling",
-        "remote",
-        "operations",
-        "QA",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "a58e68849d76de95ca4e": {
-      "id": "a58e68849d76de95ca4e",
-      "title": "Pharmacy Technician / Pharm Tech Apprenticeship",
-      "company": "Walgreens",
-      "location": "Willingboro, NJ, USA",
-      "category": "Americans in Phuket",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=7f140c766c676961",
-      "job_url_direct": "https://jobs.walgreens.com/en/job/willingboro/pharmacy-technician-pharm-tech-apprenticeship/1242/103202113568",
-      "description": "Our pharmacy technician positions have undergone an exciting transformation, moving from a transaction-based environment to a much more patient-centric one. As a Walgreens Pharmacy Technician or Pharmacy Technician Apprentice, you'll be front and center \u2013 interacting with our customers and developing strong patient relationships. Pharmacy is the core of our business, and our pharmacy technicians enjoy all the tools and support \u2013 including the latest technology \u2013 to grow their careers and reach their goals.\n  \n  \nWalgreens is proud to invest & champion an \u201cearn while you learn\u201d Pharmacy Technician Training Program recognized by ASHP & Department of Labor. This apprenticeship program gives you an entry point to a career in health care by guiding you in taking steps towards becoming a Pharmacy Technician Certification Board (PTCB) Certified Pharmacy Technician and helping you maintain the high level of skill required in the pharmacy care industry. Arming you with a nationally recognized, portable credential that will help you advance your career.\n  \n  \nWhether you are new to working in pharmacies or are an experienced Pharmacy Technician Apply Now! Walgreens will train you to use your skills and talents to serve and care for our patients and customers. The courses, learning activities, and resources provided to you in our pharmacy technician training program are designed to give you foundational and advanced knowledge, skills, and on-the-job experiences you need to prepare to become a certified pharmacy technician.\n  \n\n* In accordance with state and federal regulations, assists the pharmacist, under direct supervision, in the practice of pharmacy. Assists the pharmacist in the performance of other Pharmacy Department duties in accordance with Company policies and procedures.\n* Responsible for using pharmacy systems to obtain patient and drug information and process prescriptions. If PTCB certified, assists with and coaches pharmacy technicians in the operation of pharmacy systems and cashiers in the operation of the pharmacy cash registers.\n* Models and delivers a distinctive and delightful customer experience.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n* Develops strong relationships with most valuable customers.\n\n  \n**Operations**\n\n* Under the supervision by the pharmacist, assist in the practice of pharmacy, in accordance with state, federal, and company policy. Reviews and complies with the Walgreen Co. Pharmacy Code of Conduct.\n* Performs duties as assigned by Pharmacy Manager, Staff Pharmacist and Store Manager including utilizing pharmacy systems to enter patient and drug information, ensuring information is entered correctly, filling prescriptions by retrieving, counting and pouring pharmaceutical drugs, verifying medicine is correct, and checking for possible interactions. Assists pharmacists in scheduling and maintaining work flow.\n* Reports, immediately, prescription errors to pharmacist on duty and adheres to Company policies and procedures in relation to pharmacy errors and the Quality Improvement Program.\n* Strictly adheres to the Walgreen Co. policy regarding Good Faith Dispensing during all applicable prescription dispensing activities.\n* Responsible and accountable for registering all related sales on assigned cash register, collects and handles cash as required. Takes customer to OTC aisle when possible, to assist in locating products.\n* Handles telephone calls that do not require personal attention of the pharmacist, including those to physicians.\n* Processes (corrects and resubmits) manual claims for third party program prescription services in a timely and efficient manner, and performs other clerical duties, as assigned by the Pharmacy Manager.\n* Assists and supports Pharmacy Department on inventory management activities, such as, ordering, unpacking, checking and storing shipment of pharmaceuticals. Maintains knowledge of Company asset protection techniques, and files claims for warehouse overages (merchandise received, but not billed), shortages (merchandise billed, but not received), order errors or damaged goods involving Rx drugs.\n* May assist pharmacist in administering clinical services including the collection and proper labeling of blood/urine samples from patients and other clinical services as required; assists pharmacy staff in coordination of clinical services, Walgreens healthcare clinics and external providers.\n* Assists Pharmacy Manager and Staff Pharmacist in developing and maintaining good relationships with the local medical community, including physicians, nurses, and other health care providers, by medical provider detailing and outreach to health groups, retirement homes, nursing homes, and other forums for enhancing growth opportunities.\n* Assists with exterior and interior maintenance by ensuring the Pharmacy Department is stocked with adequate supplies, clean, neat and orderly in condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n  \n**Training & Personal Development**\n\n* Earns and maintains PTCB certification through the designated PTCB training program and/or state required certification/registration. Otherwise, earns PTCB certification as condition of promotion to senior technician.\n* Attends training requested by Manager and acquires continuing education credits. Maintains knowledge and skill in healthcare and pharmacy, including latest news and developments.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evening and weekend hours.\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer good math skills so they can fill prescriptions accurately, including counting, measuring and weighing medications.\n* Prefer good computer skills.\n* Prefer the knowledge of store inventory control.\n* Prefer PTCB certification.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits  \n  \n  \n  \n**Salary Range:** $17 - $23.25 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Prescription coverage**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Employee discount**\n* ### **Work & life resources**\n* ### **Career development programs**\n\n* with a 30-hour work week",
-      "salary": "\ud83d\udcb0 17.0\u201323.25 USD/hourly",
-      "match_score": 73,
-      "matched_terms": [
-        "customer service",
-        "scheduling",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "cf6b177f640ee9880e2b": {
-      "id": "cf6b177f640ee9880e2b",
-      "title": "Customer Support Representative",
-      "company": "Remote Leverage",
-      "location": "Nicaragua",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489157640",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 79,
-      "matched_terms": [
-        "customer support",
-        "representative",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "d50ed436be06c1569f86": {
-      "id": "d50ed436be06c1569f86",
-      "title": "Customer Support Representative",
-      "company": "Remote Leverage",
-      "location": "Colombia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489144927",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 79,
-      "matched_terms": [
-        "customer support",
-        "representative",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "4aec4252f7c0ea2030cd": {
-      "id": "4aec4252f7c0ea2030cd",
-      "title": "Cloud Security Engineer",
-      "company": "WorkWave\u2122",
-      "location": "Remote, USA",
-      "category": "Web3 Support",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=d8f7681b8d7fdc60",
-      "job_url_direct": "https://jobs.lever.co/workwave/f67b1d54-83a6-4783-a280-be63c09a995b?lever-source=Indeed",
-      "description": "We are seeking a proactive, hands-on **Cloud Security Engineer** to serve as the primary security partner for our Engineering and DevOps teams. In this role, you will be the \"North Star\" for secure cloud configuration, moving beyond simple alert triaging to building sustainable security foundations. You will bridge the gap between high-level security architecture and daily engineering execution, ensuring our AWS and Azure environments are resilient, compliant, and automated.\n\n### **WHAT YOU'LL DO:**\n\n* **Cloud Governance & Guardrails:** Lead the deployment and optimization of AWS Control Tower, Security Hub, and AWS WAF to establish a secure multi-account strategy.\n* **Cloud Security Platform Ownership:** Own cloud security outcomes across AWS (primary), Azure (secondary), and limited GCP, including secure landing zone standards, guardrails-as-code, detection coverage, and remediation automation.\n* **Secure-by-Default Engineering:** Design and implement reusable, secure-by-default cloud patterns that allow engineering teams to deploy safely without constant security intervention. Establish hardened Terraform modules, reference architectures, and baseline configurations so the secure path becomes the easiest path for teams building in AWS.\n* **Container Security:** Collaborate with the AppSec Architect to secure EKS and ECS environments, focusing on runtime protection, image scanning, and least-privilege orchestration.\n* **Security Assessment & Roadmap:** Perform a comprehensive baseline assessment of the current cloud environment to identify gaps and provide actionable, prioritized recommendations.\n* **Identity & Access Management:** Lead design and enforcement of least-privilege IAM architecture across AWS accounts and workloads.\n* **Operational Excellence:** Develop and maintain secure configuration standards, documentation, and operational procedures that enable engineering teams to consistently deploy and operate cloud services securely.\n* **Detection & Telemetry Ownership:** Partner with security operations to ensure security telemetry from AWS environments is complete, centralized, and actionable (CloudTrail, GuardDuty, VPC Flow logs, etc.)\n* **Cloud Security & Compliance Alignment:** Ensure cloud configurations and controls align with internal security standards and external compliance requirements (ISO 27001, SOC 2, etc.). Partner with Security and GRC teams to implement audit-ready controls, automate evidence collection where possible, and maintain clear documentation of cloud security control coverage.\n* **Third-Party Integration:** Manage secure access and configuration for security vendor tools (vulnerability scanners, assessment platforms, etc.) within the cloud environment.\n* **Incident Response:** Participate in an on-call rotation for one week at a time and serve as primary SME for cloud security incidents (IAM compromise, exposed keys, misconfigurations, etc.).\n* **Vulnerability & Exposure Management:** Build and run the cloud vulnerability management program for AWS and Azure workloads, container images, and base AMIs. Define severity-based SLAs, implement scalable scanning and patch workflows (e.g., AWS Inspector, ECR scanning, hardened base images), and partner with Engineering to reduce exploitable exposure.\n* **Cloud Security Tooling Ownership**: Own onboarding, coverage validation, and tuning of CSPM and MDR integrations across AWS, Azure and GCP. Drive measurable improvement in signal quality, alert fidelity, and remediation workflows through automation and engineering partnerships.\n* **Secrets, Keys, and Credential Hygiene:** Design and enforce secure secrets management patterns (AWS Secrets Manager/Parameter Store/Vault), automated rotation, and least-privilege secret access. Own KMS key strategy and governance (key policies, grants, rotation, separation of duties) and ensure no long-lived credentials in CI/CD.\n* **CI/CD and Supply Chain Security:** Secure the software delivery pipeline end-to-end, including identity federation for CI/CD, policy-as-code enforcement for Terraform and Kubernetes, artifact integrity controls (signing/provenance), and secure dependency/source controls. Ensure security guardrails are automated and developer-friendly.\n* **Cloud Incident Readiness & Exercises:** Build cloud-native incident playbooks (IAM compromise, crypto-mining, data exposure, suspicious network activity) and run periodic tabletop exercises. Ensure forensics readiness through log retention standards, immutable/auditable logging where appropriate, snapshot/containment procedures, and break-glass access controls.\n* **Multi-Cloud & Hybrid Baselines:** Establish minimum viable security baselines for Azure and GCP (identity, logging, storage, network, key management) and ensure telemetry parity into centralized detection. Partner with operation teams to secure hybrid connectivity with data center environments (segmentation, identity boundaries, secure administrative access).\n* **Security Metrics & Continuous Improvement:** Define and report on key cloud security metrics (coverage, misconfiguration trends, MTTR, control adoption, vulnerability SLAs). Use metrics to prioritize work, demonstrate risk reduction, and drive engineering alignment.\n* **Leadership and Execution:** Mentor other engineers and raise baseline security literacy in platform/DevOps teams through patterns, reviews, and internal enablement.\n\n### **WHAT YOU'LL BRING:**\n\n* 5\u20138+ years of experience in Information Security, with at least 3+ years focused specifically on AWS Cloud Security.\n* **AWS Deep Dive:** Deep hands-on experience designing and securing AWS environments, core services (IAM, VPC, S3, KMS) and security-specific services (GuardDuty, Inspector, Config).\n* **IaC Proficiency:** Strong hands-on experience with Terraform for managing cloud infrastructure.\n* **Containerization:** Proven experience securing containerized workloads in EKS or ECS.\n* **Azure Knowledge:** Willingness to provide basic security support/maintenance for an existing Azure environment (Deep expertise not required; AWS is the priority).\n* **Consultative Mindset:** Ability to assess a complex environment and provide a \"roadmap to green\" rather than just identifying problems.\n* **Collaborative Partnership:** Ability to work side-by-side with engineers, speaking their language and helping them solve problems rather than just \"blocking\" tickets.\n* **Strategic Documentation:** Capability to translate technical configurations into clear, repeatable processes and procedures.\n* **Automation First:** A drive to automate manual security tasks to increase efficiency and reduce human error.\n* **Education/Certifications:** Bachelor\u2019s degree in Computer Science, Information Security, or a related field or equivalent work experience.\n* Industry certifications such as Azure security certification, AWS Certified Security \u2013 Specialty or related are highly desirable.\n\nIn our dedication to salary transparency, we provide a compensation range for each role and the final offer will be dependent on various factors, including the candidate's qualifications, relevant experience, and the organization's budget. Our hiring team will provide more information about the compensation package for this position during the interview process.\n\n***Please note that salary estimates provided by websites (LinkedIn, Glassdoor, etc.) and not by WorkWave may not accurately reflect the actual salary range for the position.***\n\n**WHAT YOU SHOULD KNOW ABOUT US:**\n\n* We are laid back but buttoned up. We offer a casual work environment and remote work flexibility and have a passion for developing creative, innovative best in class solutions that directly contribute to the success of our customers\n\n* We care deeply and deliver service and solutions that make a real difference in the lives of our clients and their businesses\n\n* We openly accept others as they are and build strong partnerships based on trust\n\n* Teamwork and collaboration is key to help our colleagues and customers solve their challenges\n\n* Our team is energetic, fun, naturally inquisitive and eager to make an impact, we invite you to join us!\n\n**LOVE WHAT YOU DO, NO MATTER WHERE YOU DO IT:**\n\n* Join our Remote-First Global Work Community: WorkWave provides an innovative and dynamic remote-first Global Work Community that encourages growth, creativity, and collaboration. No matter what stage of your career or where you live, WorkWave is your place to be part of a global company with a startup feel, where your ideas matter and your growth is a priority.\n\n**A GLOBAL COMPANY WITH A LOCAL PRESENCE:**\n\n* We know that there are benefits of being in the office and working from home. WorkWave promotes a healthy work/life balance and provides employees with the flexibility of collaborating in the office or the option to work virtually if desired. Our teams are well versed at working collaboratively in a fully virtual environment.\n\n* Our HQ is based at our state of the art home office in the historic Bell Works complex located in Holmdel Township, New Jersey. We keep our offices available to all to use when working remotely isn\u2019t feasible, or to help with cross training, team building and/or brainstorming.\n\n* We have employees in over 30 states, 7 countries and many regional offices - each with their own set of perks and opportunities to give back to the local community.\n\n* Whether you work remotely or take advantage of one of our offices, you\u2019ll find a community of WorkWavers that value diversity, and care deeply about our products, clients, our communities and each other.\n\n**RELAX, WE'VE GOT YOU COVERED:**\n\n* Employees can expect a robust benefits package, including health and dental and 401k with company match\n\n**AND BEYOND...**\n\n* Find your perfect work/life balance with our Flexible Time Off policy or generous PTO plan (role dependent) and paid holidays\n\n* Up to 4 weeks paid bonding leave\n\n* Tuition reimbursement\n\n* Robust Employee Assistance Program through TotalCare offering free counseling 24/7/365, plus financial counseling, legal guidance, adoption assistance services and much more!\n\n* 24/7 access to virtual medical care with Teladoc\n\n* Quarterly awards based on peer nominations\n\n* Regional discounts and perks\n\n* Opportunities to participate in charitable events and give back to the community\n\n**GROW WITH US:**\n\n* We understand the impact of attracting and keeping top talent and reward intellectual curiosity and a thirst for personal and professional growth\n\n* Encouraging our employees that already have an intimate knowledge of and passion for our products to apply for other roles within our walls just makes sense!\n\n* Our employees have access to extensive video libraries for soft skill and role specific training available 24/7 and live trainings are provided throughout the year\n\n**JOIN OUR WINNING TEAM!**\n\n* 10 Time winner of Best Place to Work in New Jersey by NJBiz!\n\n* WorkWave has been recognized with multiple awards for its outstanding products, growth and culture, including the Inc. 5000, SaaS Award, IT World Awards, Globe Awards, Silver Stevie Award for Employer of the Year, and Best Place to Work Inc. Magazine\n\n* Named one of The Software Report's 3rd annual list of the Top 100 Software Companies of 2022 (worldwide!)\n\n***We\u2019re an equal opportunity employer. All applicants will be considered for employment without attention to race, color, age, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status:*** *Don't meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At WorkWave, we are dedicated to building a diverse, inclusive and authentic workplace, so if you feel like you could make a great impact in this role but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may just be the right candidate for this or other roles!*\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
-      "salary": "\ud83d\udcb0 120000.0\u2013145000.0 USD/yearly",
-      "match_score": 75,
-      "matched_terms": [
-        "administrative",
-        "documentation",
-        "remote",
-        "operations",
-        "crypto",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "99e5f398d53d9e7c1f3b": {
-      "id": "99e5f398d53d9e7c1f3b",
-      "title": "Customer Service Representative- Quakertown",
-      "company": "Penn Community Bank",
-      "location": "Quakertown, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4484595007",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "06492964dee920159ff2": {
-      "id": "06492964dee920159ff2",
-      "title": "Customer Care Representative",
-      "company": "Casella Waste Systems, Inc.",
-      "location": "Quakertown, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489287391",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 72,
-      "matched_terms": [
-        "customer care",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "44906bb029613996ed3d": {
-      "id": "44906bb029613996ed3d",
-      "title": "Remote Customer Support Rep - $85k-$95k (Wealth Tech)",
-      "company": "CyberCoders",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4488587168",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 71,
-      "matched_terms": [
-        "customer support",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "e8342f387c2964956758": {
-      "id": "e8342f387c2964956758",
-      "title": "Customer Support Representative (Night Shift)",
-      "company": "Nextiva",
-      "location": "Kharkiv, Kharkiv, Ukraine",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4488569609",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer support",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "f9dc3d03d67bf4581e5b": {
-      "id": "f9dc3d03d67bf4581e5b",
-      "title": "Customer Service Representative",
-      "company": "Ant Group",
-      "location": "Sunnyvale, CA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489298166",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "19124c13d0a84fb1812e": {
-      "id": "19124c13d0a84fb1812e",
-      "title": "Customer Support Specialist",
-      "company": "CUBE",
-      "location": "Manila, National Capital Region, Philippines",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4481182702",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "c3f44520ede0a90efd94": {
-      "id": "c3f44520ede0a90efd94",
-      "title": "Junior Customer Support Specialist with Italian and English",
-      "company": "XTB online investing",
-      "location": "Warsaw, Mazowieckie, Poland",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489215051",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "fc2617dedcdf4bc98e38": {
-      "id": "fc2617dedcdf4bc98e38",
-      "title": "Customer Support Specialist",
-      "company": "Mercury",
-      "location": "USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4488564730",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
     "d5b772a3597ad4b40d03": {
       "id": "d5b772a3597ad4b40d03",
       "title": "Customer Support Specialist",
@@ -5267,6 +4926,329 @@
       "matched_terms": [
         "customer service",
         "representative"
+      ],
+      "queued_at": null
+    },
+    "902e92b2b4c15ee988ee": {
+      "id": "902e92b2b4c15ee988ee",
+      "title": "Customer Support Specialist *remote* (m/f/d)",
+      "company": "Pliant",
+      "location": "Berlin, Berlin, Germany",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4491510122",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 77,
+      "matched_terms": [
+        "customer support",
+        "specialist",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "418cb74c289d94ca7886": {
+      "id": "418cb74c289d94ca7886",
+      "title": "Customer Care Associate - AMER",
+      "company": "Remote",
+      "location": "Argentina",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490119658",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 76,
+      "matched_terms": [
+        "customer care",
+        "associate",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "9541265e4201eee1af7a": {
+      "id": "9541265e4201eee1af7a",
+      "title": "Customer Service Representative",
+      "company": "Southco, Inc.",
+      "location": "Glen Mills, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490656748",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 74,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "39996a0ba66fc068e042": {
+      "id": "39996a0ba66fc068e042",
+      "title": "Customer Service Representative ( Turkish / English)",
+      "company": "Binance",
+      "location": "Ankara, Ankara, T\u00fcrkiye",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489726808",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "749b0de32ad38e1d3756": {
+      "id": "749b0de32ad38e1d3756",
+      "title": "Customer Service Representative ( Turkish / English)",
+      "company": "Binance",
+      "location": "Istanbul, T\u00fcrkiye",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489744214",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "d80c57cff0f5a549d2b6": {
+      "id": "d80c57cff0f5a549d2b6",
+      "title": "Customer Service Representative",
+      "company": "Abroad Experience International Recruitment",
+      "location": "Amsterdam Area",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489712978",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "3015c48ebaf9c320d900": {
+      "id": "3015c48ebaf9c320d900",
+      "title": "Customer Service Representative",
+      "company": "Lotus People",
+      "location": "Sydney, New South Wales, Australia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490982184",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "ed30d14e995591f10385": {
+      "id": "ed30d14e995591f10385",
+      "title": "VIP Customer Service Specialist",
+      "company": "MEXC",
+      "location": "Malaysia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4491299263",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "c23afa0f0b8ac1a045f0": {
+      "id": "c23afa0f0b8ac1a045f0",
+      "title": "Customer Support Specialist - Croatian",
+      "company": "bragg",
+      "location": "Ljubljana, Slovenia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490292026",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "467aeb00248cfc3c5e51": {
+      "id": "467aeb00248cfc3c5e51",
+      "title": "Customer Support Specialist",
+      "company": "Digmarit Ltd",
+      "location": "Laos",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489780002",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "384d9031a980c3da6436": {
+      "id": "384d9031a980c3da6436",
+      "title": "Client Support Specialist - Nuvei",
+      "company": "Nuvei",
+      "location": "Bogota, D.C., Capital District, Colombia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4429624541",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 64,
+      "matched_terms": [
+        "specialist",
+        "client support"
+      ],
+      "queued_at": null
+    },
+    "989cf76b0cdeee2a7c0c": {
+      "id": "989cf76b0cdeee2a7c0c",
+      "title": "Client support Specialist",
+      "company": "Blossom",
+      "location": "Colombia",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4491500880",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 64,
+      "matched_terms": [
+        "specialist",
+        "client support"
+      ],
+      "queued_at": null
+    },
+    "8430a5674a50dd003e59": {
+      "id": "8430a5674a50dd003e59",
+      "title": "Infrastructure Specialist-Cloud Application Operations",
+      "company": "IBM",
+      "location": "Brookhaven, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490108108",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 63,
+      "matched_terms": [
+        "specialist",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "620c8c1095a9f1afac65": {
+      "id": "620c8c1095a9f1afac65",
+      "title": "Information Technology Operations Specialist",
+      "company": "Soni",
+      "location": "King of Prussia, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490940332",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 63,
+      "matched_terms": [
+        "specialist",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "3d8957bfb2791e12450b": {
+      "id": "3d8957bfb2791e12450b",
+      "title": "US - Customer Service Agent",
+      "company": "THG Ingenuity",
+      "location": "New Jersey, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4480686394",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer service"
+      ],
+      "queued_at": null
+    },
+    "6f67afd09aa71293e0c3": {
+      "id": "6f67afd09aa71293e0c3",
+      "title": "Technical Operations Coordinator",
+      "company": "Montgomery County, PA",
+      "location": "Norristown, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4481155697",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "coordinator",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "56a39476e4a6564ac4bd": {
+      "id": "56a39476e4a6564ac4bd",
+      "title": "CUSTOMER SUPPORT (Hybrid)",
+      "company": "AI AVATAR VIETNAM CO., LTD",
+      "location": "Hanoi Capital Region",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490262973",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
+      ],
+      "queued_at": null
+    },
+    "ae518303ac299c04324f": {
+      "id": "ae518303ac299c04324f",
+      "title": "Customer Support Talent Pool - Dutch, Danish or Swedish Speaking",
+      "company": "ComeOn Group",
+      "location": "Sliema, Malta",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4489790431",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer support"
       ],
       "queued_at": null
     }
