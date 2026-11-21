@@ -1,351 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 267,
+  "search_cursor": 287,
   "apply_queue": {},
   "alert_jobs": {
-    "8ebd011d93ae0a189d8a": {
-      "id": "8ebd011d93ae0a189d8a",
-      "title": "Sr. QA Analyst",
-      "company": "TIMMONS GROUP",
-      "location": "Richmond, VA, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=5d521dd260977109",
-      "job_url_direct": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000161918709-sr-qa-analyst",
-      "description": "**Job Description**\n\n**Timmons Group** is currently hiring a **Senior Quality Assurance Analyst** to join our Geospatial Solutions Development team, working remotely. This position will be supporting west coast clients and will be expected to work PST work hours. This position owns the testing process for a multi-year state government modernization program, delivered in sprints and releases under formal contract governance, independent verification and validation (IV&V), and change control. The position may also lead and support quality efforts for our other state, local, federal, and non-government clients.\n\nThis position is accountable to prove that what we deliver works, traces to approved requirements, and is ready for client testers to run on their own. The role sets the test strategy, leads QA, holds the quality gates for each story and release, and covers both functional and non-functional testing. It calls for close attention to detail and the judgment to tell a defect from a change in scope. We welcome candidates from consulting firms and from state or local government who have led testing on governed technology programs.\n\n**Essential Duties and Responsibilities include but are not limited to:**\n\n* Own the end-to-end testing process, from test strategy and planning through release acceptance\n* Maintain the test plan as a living document, including test levels and types, environments, entry and exit criteria, roles, and reporting\n* Lead and review the work of QA analysts, assigning testing by story, capacity, and skill\n* Ensure every acceptance criterion has a clear test case that any tester can run without help\n* Direct functional, integration, database validation, smoke, regression, end-to-end, and UAT support testing\n* Plan and coordinate non-functional testing, including performance, load, security, recovery, and accessibility (WCAG 2.1 AA)\n* Maintain requirements traceability from requirement to story, test case, result, and defect\n* Own the defect lifecycle and lead triage with client stakeholders, applying severity, priority, and release gates consistently\n* Identify findings that are scope changes rather than defects and route them through change control with an impact analysis\n* Produce test evidence and reports that support contract deliverables, IV&V reviews, and release acceptance\n* Prepare client testers for each testing window and support their move from paired to independent testing\n* Work with developers to expand automated testing in the CI pipeline and keep clear what is automated and what is manual\n* Review AI-drafted test cases for coverage and intent before they are used\n* Report test progress, defect trends, and release readiness to the project team and client\n\n**Skills/Requirements of a successful candidate include but are not limited to:**\n\n* Bachelor's degree in information technology, computer science or related field, or an equivalent combination of education and experience\n* 7+ years in software quality assurance, including 3+ years leading testing and owning the test process from plan through release is required\n* Experience testing under formal governance, including written test plans, requirements traceability, contract deliverables, and change control; state government or IV&V experience is a plus\n* Hands-on functional testing experience across integration, regression, end-to-end, database validation, and UAT\n* Experience planning and interpreting non-functional testing, including performance, security scanning, and accessibility\n* Strong defect management and triage skills, including working directly with client testers and stakeholders\n* Exceptional attention to detail, with test cases and evidence that hold up to client and auditor review\n* Experience with test automation (for example Playwright or Selenium) in a CI pipeline; experience testing geospatial applications and/or experience using ArcGIS Pro is a plus\n* Clear written and verbal communication with technical and non-technical audiences; ISTQB or similar certifications are desirable\n* Ability to work Pacific Time business hours for client testing windows and triage; comfort using AI tools in day-to-day work\n* Familiarity with Azure DevOps Test Plans, Microsoft 365, and Smartsheet, or comparable tools\n\n**Compensation:** Our best estimate of the salary range for this position is $80,000-$120,000. There may be flexibility on salary for experienced candidates. Offers are based on a range of job-related factors such as internal equity, experience, skills, education, credentials, role complexity, and location. Information on our comprehensive benefits package can be found here\n\n **Additional Information**\n\nThe requirements listed above are representative of the knowledge, skills and/or abilities required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n\nWe are looking for high energy, creative, flexible, patient, self-starters who are willing to work at a dynamic pace. Candidates must share a commitment to our company\u2019s Vision, Mission and Shared Values.\n\n**Timmons Group is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability, or protected Veteran status.**\n\n**Timmons Group** is a multi-disciplined firm recognized nationally as a \u201cBest Firm to Work For\u201d. We help government and private clients alike to scale and grow through GIS services. With over 30 years providing expert GIS services, our award-winning team is ready to provide the flexible services to meet the needs of any organization. Our service expertise ranges from traditional GIS architecture and system configuration to custom application development to Enterprise Asset Management. We pride ourselves in being technology professionals that differentiate our services with unrivaled customer service. We are dedicated to solving challenges and helping our clients achieve their vision. For more information, visit www.timmonsgis.com.\n\n#LI-DL1",
-      "salary": "\ud83d\udcb0 80000.0\u2013120000.0 USD/yearly",
-      "match_score": 90,
-      "matched_terms": [
-        "customer service",
-        "representative",
-        "remote",
-        "QA",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "61fa400711a846714e22": {
-      "id": "61fa400711a846714e22",
-      "title": "QA Coordinator",
-      "company": "AUNT KITTYS FOODS INC",
-      "location": "Vineland, NJ, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=b2542c14fbbd3a22",
-      "job_url_direct": "https://www.paycomonline.net/v4/ats/web.php/portal/ED86ECF879BD4C2C7DD3AACF05344551/jobs/85075?source=Indeed",
-      "description": "The Quality Assurance (QA) Coordinator serves as both a shift supervisor and quality inspector, ensuring that production lines operate efficiently, sanitation standards are upheld, and all products meet established quality and safety requirements. This role plays a key part in verifying thermal process parameters, supporting regulatory compliance, and maintaining the integrity of all quality assurance programs.\n\n* Oversees and coordinates daily departmental quality assurance activities.\n* Reviews and evaluates the quality of all products produced during the shift.\n* Ensures any questionable product is placed on QA hold, properly red\u2011tagged, segregated, and accurately documented for management review.\n* Verifies all process parameters on the production floor and at all cooker systems.\n* Conducts verification of thermal processes during deviations, determines alternate processes when necessary, and ensures proper segregation and documentation to maintain product safety and regulatory compliance.\n* Monitors line operations, documents all non\u2011conformances, and ensures production is halted when required until issues are fully resolved.\n* Trains new employees on QA procedures, standards, and expectations.\n* Evaluates incoming fresh\u2011pack product and recommends appropriate disposition prior to processing.\n* Reviews production and quality records as applicable.\n* Performs special projects, trials, and experiments assigned.\n* Observes and reports the effectiveness of sanitation and cleanup in processing and warehouse areas, promptly escalating any serious deficiencies.\n* Maintains cleanliness, organization, and proper functioning of all QA lab facilities, equipment, and incubators.\n* Routinely reviews finished product analysis results to assess quality and material usage efficiency (yields).\n* Understands where quality standards and product specifications are located and applies them appropriately; recommends revisions when needed.\n* Continuously monitors for quality issues related to product or packaging, documenting and reporting concerns to Production and QA management.\n* Ensures required samples are collected for Cutting Bees, customer programs, and co\u2011pack requirements.\n* Develops familiarity with customer and USDA grading standards.\n* Maintains working knowledge of all QA department roles.\n* Identifies quality issues and takes or recommends effective corrective actions.\n* Supports the Quality Assurance Supervisor and Manager as required.\n* Executes all food safety, legality, and quality policies and procedures within the scope of the role, including but not limited to GMPs, HACCP, food safety, product quality, and food security.\n* Performs additional related duties as assigned by QA leadership.\n* Backs-up Quality Assurance Manager with assisting with Regulatory and BRCGS audits.\n\n* High school diploma required. Associate\u2019s degree in Food Science or a related field, or equivalent experience, preferred.\n* Minimum 2 years of experience as a QA Inspector A.\n* Successful completion of Better Process Control School.\n* Strong math skills.\n* Proficient computer skills \u2013 preferably in Microsoft Office programs.\n* Demonstrated sound decision\u2011making skills and the ability to resolve problems quickly and effectively.\n* Strong verbal and written communication skills.\n* HACCP and PCQI certificates preferred.",
-      "salary": "\ud83d\udcb0 28.0\u201332.0 USD/hourly",
-      "match_score": 80,
-      "matched_terms": [
-        "associate",
-        "coordinator",
-        "documentation",
-        "operations",
-        "QA",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "aefad1adf45c15704500": {
-      "id": "aefad1adf45c15704500",
-      "title": "Customer Service Associate",
-      "company": "Walgreens",
-      "location": "Sicklerville, NJ, USA",
-      "category": "Americans in Phuket",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=8c16dbec66124ac5",
-      "job_url_direct": "https://jobs.walgreens.com/en/job/sicklerville/customer-service-associate/1242/103384110608",
-      "description": "* Models and delivers a distinctive and delightful customer experience.\n* Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.\n\n**Customer Experience**\n\n* Engages customers and patients by greeting them and offering assistance with products and services. Resolves customer issues and answers questions to ensure a positive customer experience.\n* Models and shares customer service best practices with all team members to deliver a distinctive and delightful customer experience, including interpersonal habits (e.g., greeting, eye contact, courtesy, etc.) and Walgreens service traits (e.g., offering help proactively, identifying needs, servicing until satisfied, etc.).\n\n**Operations**\n\n* Provides customers with courteous, friendly, fast, and efficient service.\n* Recommends items for sale to customer and recommends trade-up and/or companion items.\n* Registers customer purchases on assigned cash register, collects cash and distributes change as requested; processes voids, returns, rain checks, refunds, and exchanges as needed.\n* Keeps counters and shelves clean and well merchandised, takes inventory, and maintains records. Checks in and prices merchandise as required or as directed by store manager or communicated by the shift leader.\n* Implements Company asset protection procedures to identify and minimize profit loss.\n* Ensures compliance with state and local laws regarding regulated products (e.g., alcoholic beverages and tobacco products).\n* Constructs and maintains displays, including promotional, seasonal, super structures, and sale merchandise. Completes resets and revisions as directed.\n* Assists with separation of food items (e.g., raw foods from pre-cooked) and product placement as specified by policies/procedures (e.g., raw and frozen meats on bottom shelves). For consumable items, assists in stock rotation, using the first in, first out method and restock outs.\n* Has working knowledge of store systems and store equipment.\n* Provides customer service in the photo area, including digital passport photo service, poster print and creative machine, suggestive sell of promotional photo products.\n* Assumes web pick-up responsibilities (monitors orders in Picture Care Plus, fills orders (pick items), delivers orders to customers as they arrive at store).\n* Assists with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance.\n* Complies with all company policies and procedures; maintains respectful relationships with coworkers.\n* Completes special assignments and other tasks as assigned.\n\n**Training & Personal Development**\n\n* Attends training and completes PPLs requested by Manager or assigned by corporate.\n  \n\n  \n  \n**Basic Qualifications**\n  \n\n* Must be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours\n  \n\n  \n  \n**Preferred Qualifications**\n  \n\n* Prefer six months of experience in a retail environment.\n* Prefer to have prior work experience with Walgreens.\n* Prefer to be fluent in reading, writing, and speaking English. (Except in Puerto Rico)\n* Requires willingness to work flexible schedule, including evenings and weekend hours.\n\nWe will consider employment of qualified applicants with arrest and conviction records.\n  \n  \nAn Equal Opportunity Employer, including disability/veterans.\n  \n  \nThe actual compensation that you will be offered will depend on a variety of factors including geography, skills and abilities, education, experience and other relevant factors. This role will remain open until filled. To review benefits, please click here jobs.walgreens.com/benefits. If you are applying on a job board or unable to click on the link, please copy and paste this URL into your browser jobs.walgreens.com/benefits\n  \n**Salary Range:** $15.92 - $20.5 / Hourly\n\n  \n\n**Benefits**\n------------\n\n* ### **Health, dental and vision\\***\n* ### **Paid time off benefits**\n* ### **Employee discount**\n* ### **Retirement Savings Plan (401(k))**\n* ### **Flexible hours**\n* ### **Training programs**\n\n* with a 30-hour work week",
-      "salary": "\ud83d\udcb0 15.92\u201320.5 USD/hourly",
-      "match_score": 80,
-      "matched_terms": [
-        "customer service",
-        "associate",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "4db32127f68a9ee5168d": {
-      "id": "4db32127f68a9ee5168d",
-      "title": "Testing Engineer (Facets, Claims and membership, QEA, SQL)",
-      "company": "COMPEST SOLUTIONS INDIA PRIVATE LIMITED",
-      "location": "Remote, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=7f18f1a5b161d133",
-      "job_url_direct": "",
-      "description": "**Testing Engineer**  \n**Location: Remote**\n\n**Only on W2**\n\n**Any Visa will work**\n\nJD:\n\nTop Skills:  \n1. Claims and membership experience  \n2.QEA  \n3. SQL Queries/ Devops\n\nSummary: Write test cases and upload them, execute them and document; work offshore on deliverables (testing life cycle)\n\n\\* 6\u20138 years of overall testing experience, with 2\u20134+ years of hands-on Facets testing and healthcare domain experience.  \n\\* Analyze business requirements, configuration documents, and design specifications to create Facets-specific test scenarios and detailed test cases.  \n\\* Execute functional testing across Membership, Claims, Billing, Provider, and Product configuration modules.  \n\\* Validate end-to-end claims processing, including pricing, edits, accumulators, adjudication rules, and benefit logic.  \n\\* Perform integration testing across Facets, downstream systems, and data warehouse platforms.  \n\\* Execute and validate EDI transactions, including 834 (Enrollment), 837 (Claims), and 835 (Payments).  \n\\* Support data migration and reconciliation testing for membership, provider, and claims data to ensure accuracy and completeness.  \n\\* Log, track, and manage defects using ALM / Jira, ensuring proper traceability, prioritization, retesting, and closure.  \n\\* Participate in User Acceptance Testing (UAT) cycles, supporting business users with testing execution and issue resolution.  \n\\* Validate data integrity across inbound and outbound interfaces and batch processing jobs.  \nCollaborate with QA leads, developers, business analysts, and integration teams to resolve defects and clarify requirements.  \n\\* Ensure testing aligns with healthcare business rules, payer policies, and regulatory requirements.  \n\\* Demonstrate strong analytical skills, attention to detail, and clear communication within cross-functional teams.\n\nAdditional Information:  \nTest plan, Test cases, Test Execution, Hands on Facets resource and writing SQL queries.  \nGood to have: Run batch jobs from Tidal and validating the parameters.\n\nPay: $45.00 - $50.00 per hour\n\nExpected hours: 40.0 per week\n\nBenefits:\n\n* 401(k)\n\nExperience:\n\n* Test plan, Test cases, Test Execution,: 10 years (Preferred)\n* Facets resource and writing SQL queries: 10 years (Preferred)\n* Facets, downstream systems, and data warehouse platforms: 10 years (Preferred)\n* Membership, Claims, Billing: 10 years (Preferred)\n* QEA: 10 years (Preferred)\n* Facets testing and healthcare domain : 10 years (Preferred)\n* validate EDI transactions, including 834: 10 years (Preferred)\n* (Enrollment), 837 (Claims), and 835 (Payments): 10 years (Preferred)\n\nWork Location: Remote",
-      "salary": "\ud83d\udcb0 45.0\u201350.0 USD/hourly",
-      "match_score": 77,
-      "matched_terms": [
-        "inbound",
-        "remote",
-        "QA",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "8c31d80314438e9463ae": {
-      "id": "8c31d80314438e9463ae",
-      "title": "Customer Support Specialist \u2014 100% Remote",
-      "company": "Toreagle",
-      "location": "Geneva, Switzerland",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490926846",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 77,
-      "matched_terms": [
-        "customer support",
-        "specialist",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "add4a216fa7b3ff3ae83": {
-      "id": "add4a216fa7b3ff3ae83",
-      "title": "Founder Brand & Thought Leadership Lead (US)",
-      "company": "Sereact",
-      "location": "San Francisco, CA, USA",
-      "category": "Americans in Phuket",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=dcbacbcb788ac549",
-      "job_url_direct": "https://jobs.ashbyhq.com/sereact/c39798b1-2da5-441d-9b12-c2743b473341?utm_source=edWxARGOAX",
-      "description": "**Founder Brand & Thought Leadership Lead (US)**\n\n**Location:** Remote, US-based (San Francisco, CA preferred)\n\n**Type:** Full-time or long-term contractor\n\n**Reports to:** Marc Tuscher, Co-Founder & CTO\n\n**About us and the role**\n-------------------------\n\nSereact builds AI software that lets robots see, understand and handle objects in real-world warehouses. We are growing fast in the US, and we want our co-founder Marc Tuscher to become one of the most recognized voices in physical AI and warehouse automation there.\n\nYou will own that mission end to end. You will run his presence on LinkedIn and X, get him into the right podcasts, publications and stages, and turn every appearance into content. Think of yourself as his chief of staff for public voice, not a social media scheduler. This is not a classic marketing role: you won't run ads, campaigns or lead generation. Your job is to build trust and authority around one person, mostly through earned media that can't be bought.\n\n**What you'll do**\n------------------\n\n* **Build the narrative.** Define 2\u20133 core themes and a clear point of view for Marc, together with him and our leadership team.\n* **Run LinkedIn and X.** Draft, edit and publish posts in his voice, several times a week. Engage with comments, build relationships with relevant voices and grow a following among US operations, supply chain and robotics leaders.\n* **Tell Sereact's stories every day.** Collect daily wins, milestones and behind-the-scenes stories from all Sereact locations and customer sites (new deployments, robots going live, customer results, the people behind them) and tell them through Marc's eyes: what he learned, what surprised him, why it matters for the industry. Work with our teams and customers on approvals, photos and video, within customer confidentiality.\n* **Book podcasts.** Identify the right shows in AI, robotics, logistics, manufacturing and startups, pitch hosts and prepare him for each recording.\n* **Land bylines and press.** Find target publications (trade and business media), pitch op-eds and interviews, and work with journalists and, if needed, a PR agency.\n* **Secure stages.** Get him speaking slots at US conferences, trade shows and industry dinners, and submit award and list nominations.\n* **Repurpose everything.** Turn each podcast, talk or article into clips, posts and newsletter content.\n* **Measure what matters.** Track reach within our target audience, inbound leads, media mentions and booked appearances, and report monthly.\n\n**How you work with our marketing team**\n----------------------------------------\n\nOur marketing team owns the Sereact brand, website, campaigns, trade show booths and lead generation. You own Marc's personal voice and his earned media: his LinkedIn and X accounts, podcasts, bylines, interviews and talks.\n\nStories, approvals and big moments are planned together in the middle; each side then tells them in its own voice and is measured on its own results.\n\n* You share customer stories and milestones with marketing, so one story can live on Marc's account and on Sereact's channels without duplicate work.\n* You align with marketing on key moments such as product launches, funding news and major trade shows, and plan his appearances around them.\n* Customer approvals run through one shared process, so customers are asked once, not twice.\n* Your success is measured differently: not by leads or ad performance, but by appearances, media mentions, reach among US decision-makers and the inbound conversations he gets as a result.\n\n**What you bring**\n------------------\n\n* 5+ years in executive communications, founder branding, PR or journalism, ideally in tech or deep tech. A background mainly in performance or campaign marketing is not what we're looking for.\n* A track record of building a founder's or executive's presence on LinkedIn and/or X, with examples and numbers you can show us.\n* An existing network of podcast hosts, journalists, editors or event organizers in the US.\n* Excellent writing in American English: you can capture someone else's voice and make technical topics sharp and human.\n* Strong judgment on what to say and what not to say publicly.\n* Self-starter mindset: you work independently across time zones with a team based in Germany.\n\n**Nice to have**\n----------------\n\n* Experience in robotics, AI, logistics, supply chain or manufacturing.\n* Short-form video skills (editing clips for LinkedIn, X and YouTube).\n* Experience with newsletters (Substack, beehiiv) or running a podcast.\n* Knowledge of US industry events such as ProMat, MODEX, Automate or CES.\n\n**What we offer**\n-----------------\n\n* Direct, daily work with a founder at a fast-growing AI and robotics company.\n* Real ownership: you shape the strategy, not just execute it.\n* Budget for tools, travel to US events and occasional trips to our team in Germany.\n* Flexible, remote-first setup.\n* Competitive salary and benefits\n\n**How to apply**\n----------------\n\nSend us your CV or LinkedIn profile and 2\u20133 examples of executives or founders whose presence you built, with the results. Tell us in a few sentences how you would position Marc in his first 90 days.",
-      "salary": "",
-      "match_score": 76,
-      "matched_terms": [
-        "inbound leads",
-        "inbound",
-        "remote",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "6b29ec64d6f495e0b0c9": {
-      "id": "6b29ec64d6f495e0b0c9",
-      "title": "Sr Salesforce QA Engineer",
-      "company": "Global Alliant Inc",
-      "location": "Rockville, MD, USA",
-      "category": "Junior QA",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=acf667dbd2311923",
-      "job_url_direct": "https://globalalliant.bamboohr.com/careers/729?source=indeed&src=indeed&postedDate=2026-11-16",
-      "description": "Candidates should possess US Citizenship, reside in US and be willing to go through the federal background check due to the nature of the client.\n\n**Job Title: Senior Salesforce QA Engineer**\n\n**Location: Remote USA**\n\n**Salary :$115K Fulltime**\n\n**Job Description:**\n\nwe are seeking an experienced Senior Salesforce QA Engineer The candidate will be responsible for testing Salesforce applications, configurations, integrations, enhancements, and releases to ensure quality, security, accessibility, and compliance.\n\n**Mandatory Skills & Requirements:**\n\n* **10+ years of experience in Software QA, Software Testing, or Quality Engineering.**\n* **5+ years of hands-on Salesforce application testing experience.**\n* Salesforce Lightning Experience.\n* Lightning Web Components (LWC).\n* Salesforce Flow.\n* Apex-based functionality testing.\n* Salesforce Reports and Dashboards.\n* Salesforce Security and Sharing Configurations.\n* REST API Testing and Salesforce Integrations.\n* Functional, Integration, System, Regression, and End-to-End Testing.\n* Experience creating and executing Test Plans, Test Cases, Test Scripts, and Test Scenarios.\n* Defect Tracking and Test Management Tools.\n* Requirements Review, Test Planning, and Release Validation.\n* Post-Deployment Verification Testing.\n* Agile Software Development experience.\n* Strong analytical, troubleshooting, and problem-solving skills.\n* Excellent verbal and written communication skills.\n* Bachelor's degree in Computer Science, Information Systems, Engineering, or related field, or equivalent work experience.\n\n**Federal Requirements:**\n\n* **Must be eligible to obtain and maintain a Public Trust clearance.**\n* Must reside in the United States and be authorized to work in the United States.\n* Must have lived in the United States for at least 3 full years out of the last 5 years.\n* All work must be performed within the United States.  \n    \n  Global Alliant, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. We especially invite women, minorities, veterans, and individuals with disabilities to apply.",
-      "salary": "\ud83d\udcb0 115000.0\u2013115000.0 USD/yearly",
-      "match_score": 75,
-      "matched_terms": [
-        "troubleshooting",
-        "remote",
-        "QA",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "fb645d0ce71507515f95": {
-      "id": "fb645d0ce71507515f95",
-      "title": "Customer Service Associate Specialist",
-      "company": "Arcese",
-      "location": "Rovereto, Trentino-Alto Adige, Italy",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489746066",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 75,
-      "matched_terms": [
-        "customer service",
-        "associate",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "cf36677bc402640e5dfb": {
-      "id": "cf36677bc402640e5dfb",
-      "title": "K9 Resorts Full-Time Customer Service Representative",
-      "company": "Luxury Pet Hotel Investments, LLC",
-      "location": "Malvern, PA, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490124733",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "43ba255a5626f9f19681": {
-      "id": "43ba255a5626f9f19681",
-      "title": "Bi Lingual Customer Service Representative",
-      "company": "American Food Service",
-      "location": "Philadelphia, PA, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489754534",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "abf9787dc806044f0156": {
-      "id": "abf9787dc806044f0156",
-      "title": "FT Customer Service Representative",
-      "company": "National Fitness Partners",
-      "location": "Exton, PA, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489771307",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "22a8de679f4885c81bf7": {
-      "id": "22a8de679f4885c81bf7",
-      "title": "Bilingual Retail Customer Service Representative",
-      "company": "Bennetts Company",
-      "location": "Lower Providence, PA, USA",
-      "category": "Americans in Phuket",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490680344",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "902e92b2b4c15ee988ee": {
-      "id": "902e92b2b4c15ee988ee",
-      "title": "Customer Support Specialist *remote* (m/f/d)",
-      "company": "Pliant",
-      "location": "Berlin, Berlin, Germany",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4491510122",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 77,
-      "matched_terms": [
-        "customer support",
-        "specialist",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "418cb74c289d94ca7886": {
-      "id": "418cb74c289d94ca7886",
-      "title": "Customer Care Associate - AMER",
-      "company": "Remote",
-      "location": "Argentina",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490119658",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 76,
-      "matched_terms": [
-        "customer care",
-        "associate",
-        "remote"
-      ],
-      "queued_at": null
-    },
-    "9541265e4201eee1af7a": {
-      "id": "9541265e4201eee1af7a",
-      "title": "Customer Service Representative",
-      "company": "Southco, Inc.",
-      "location": "Glen Mills, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490656748",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 74,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "39996a0ba66fc068e042": {
-      "id": "39996a0ba66fc068e042",
-      "title": "Customer Service Representative ( Turkish / English)",
-      "company": "Binance",
-      "location": "Ankara, Ankara, T\u00fcrkiye",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489726808",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "749b0de32ad38e1d3756": {
-      "id": "749b0de32ad38e1d3756",
-      "title": "Customer Service Representative ( Turkish / English)",
-      "company": "Binance",
-      "location": "Istanbul, T\u00fcrkiye",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489744214",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "d80c57cff0f5a549d2b6": {
-      "id": "d80c57cff0f5a549d2b6",
-      "title": "Customer Service Representative",
-      "company": "Abroad Experience International Recruitment",
-      "location": "Amsterdam Area",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489712978",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
     "3015c48ebaf9c320d900": {
       "id": "3015c48ebaf9c320d900",
       "title": "Customer Service Representative",
@@ -5578,6 +5235,381 @@
         "recruiter",
         "remote",
         "operations"
+      ],
+      "queued_at": null
+    },
+    "9691b0bb3b127b5acdfc": {
+      "id": "9691b0bb3b127b5acdfc",
+      "title": "Lead Senior QA Coder",
+      "company": "Epathusa",
+      "location": "Clive, IA, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=70d3c20ac6ad3ec0",
+      "job_url_direct": "https://www.paycomonline.net/v4/ats/web.php/portal/0482EE9C288EBDB37A6D2F4CE63A2266/jobs/181378?source=Indeed",
+      "description": "* Lead execution of the Quality Assurance Surveillance Plan (QASP) across intake, abstraction, and appeals support functions, ensuring the program sustains CMS's mandated 95% accuracy rate and inter-rater reliability (IRR) standard.\n* Design, implement, and continuously refine the quality control sampling methodology used to audit Mid-Level and Senior Coder determinations.\n* Conduct or oversee secondary review and audit of coding determinations to identify nonconformance, discrepancy patterns, or systemic coding inconsistency.\n* Apply deep, independent coding expertise to evaluate the accuracy and consistency of coding determinations across the full coding team, exercising final internal quality judgment on contested or borderline cases.\n* Analyze error trends across intake, abstraction, and appeals to identify root causes and recommend corrective and continuous improvement actions.\n* Compile and deliver the QA summary and supporting metrics included in the Monthly Status and Cost Report, along with coder productivity data, for submission to CMS by the 20th of each month.\n* Coordinate with CMS and the RADV Independent Coding Consultant (ICC) on training needs, scheduling, and content based on observed quality trends.\n* Escalate significant coding disagreements, quality risks, or compliance concerns to the Program Director and, where necessary, directly to CMS when internal resolution pathways are insufficient.\n* Contribute QA-driven findings and recommendations to CDAT-M workflow and reporting improvement efforts.\n* Ensure quality control documentation, sampling records, and audit trails are maintained and audit-ready at all times in accordance with CMS data governance and confidentiality requirements.\n* Support the Program Director in developing and maintaining the QASP required within 10 business days of contract award.\n\n* **Must complete assessment:** Medical Coding Assessment\n* Active, valid coding certification from AHIMA or AAPC, one of the following: Certified Professional Coder (CPC), Certified Outpatient Coder (COC), Certified Inpatient Coder (CIC), Certified Risk Adjustment Coder (CRC), Certified Coding Associate (CCA), or Certified Coding Specialist (CCS).\n* Extensive professional coding experience (typically 7 or more years), including demonstrated experience in a formal quality assurance, coding audit, or coding oversight capacity.\n* Demonstrated expertise in ICD-9-CM and ICD-10-CM coding guidelines and CMS-HCC risk adjustment methodology.\n* Proven track record designing or administering quality control programs, inter-rater reliability processes, or coding audit methodologies, ideally within a federal or large-scale healthcare payer environment.\n* Strong analytical skills, with demonstrated ability to identify error trends and translate findings into actionable process or training improvements.\n* Strong written and verbal communication skills, with experience producing quality reporting for government or executive stakeholders.\n* Ability to pass a federal background investigation and obtain the position-appropriate personnel security clearance/credential required for CMS system access (PIV or equivalent).\n* Comfortable working in a fully remote, virtual-meeting environment using standard CMS-approved collaboration and secure data-exchange tools.\n* Must be a U.S. citizen or otherwise authorized to work in the U.S. without sponsorship, and reside within the United States (work outside the U.S. and its territories is prohibited under this contract absent prior written government approval).\n\n**Preferred Qualifications**\n\n* Prior experience with CMS Risk Adjustment programs, RADV, HCC coding, or Medicare Advantage payment methodology, ideally in a quality assurance or compliance-facing role.\n* Experience with CDAT-M or similar federal medical record review platforms.\n* Experience supporting or leading a QASP under a federal services contract.\n* Familiarity with CPARS reporting standards and CMS Center for Program Integrity expectations.",
+      "salary": "\ud83d\udcb0 58240.0\u201364480.0 USD/yearly",
+      "match_score": 95,
+      "matched_terms": [
+        "associate",
+        "specialist",
+        "scheduling",
+        "documentation",
+        "remote",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "4afc6c9dba31326a8b1a": {
+      "id": "4afc6c9dba31326a8b1a",
+      "title": "Quality Analyst, Retail Operations",
+      "company": "Talcott Financial Group",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=eb90d4b0bf2f5141",
+      "job_url_direct": "https://jobs.dayforcehcm.com/en-US/talcott/TalcottCareers/jobs/2281",
+      "description": "Talcott Financial Group\\* is an international life insurance company committed to providing comprehensive risk solutions to its customers. Whether it\u2019s providing peace of mind for policyholders approaching retirement, or helping insurers solve complex risk and capital challenges, Talcott delivers practical solutions that support long-term stability for policyholders and clients.\n  \n  \nTalcott offers the strength of an established organization with the mindset and approach of a modern platform. The enterprise is supported by a proven track record of well-executed transactions, investment-grade financial strength ratings, and strong financial position, with over $136 billion in assets under management. Talcott also benefits from a strategic partnership with Sixth Street, a leading global investment firm managing over $135 billion in assets.\n  \n  \nTalcott\u2019s approach to business is disciplined, transparent, and multi-channel, spanning retail annuities, block and flow reinsurance, and legal entity acquisitions. We have offices in Bermuda, the Cayman Islands, Connecticut, New York, and North Carolina.\n  \n  \n**Overview:**  \nThis position will be a key member of the Operations team responsible for supporting Talcott\u2019s retail infrastructure. Our Quality Analyst role will support our thriving retail annuity business model where we have established a strong technical infrastructure, distribution relationships, and a dynamic work environment where you make a difference every day supporting our customers!\n  \nThe selected Quality Analyst will play a key role in monitoring and evaluating the accuracy of Talcott\u2019s customer service interactions. Additional quality reviews may include oversight of financial processing transactions to align with internal control standards. This pivotal position will ensure that we deliver superior customer service to our valued customers, contract owners and financial advisors. Additionally, the Quality Analyst will provide suggestions for process improvement elements related to performance, procedures, training and/or compliance standards. The ideal candidate will work in a hybrid arrangement in our Hartford, Connecticut office. Remote work will also be considered.\n  \n  \n**Responsibilities:**  \n\n* Administer quality programs and processes in collaboration with business partners and leaders to support superb customer service interactions\n* Monitor and measure the quality, accuracy, timeliness, and procedural compliance of customer service calls\n* Use AI to create training efficiencies for operational support teams\n* Collaborate with multiple business segments including pre-sales, IT and retail ops leadership\n* Evaluate financial transaction processing and internal controls using scorecards, sampling methods using established review standards\n* Perform quality reviews and peer-to-peer reviews validating transaction documentation, system entries, approvals, calculations, correspondence, and adherence to procedures\n* Track, analyze, and communicate quality results to leadership\n* Address error trends, recurring process gaps, root-cause themes, risk exposure, and progress against established quality goals with leadership\n* Maintain quality tools, scorecards, trackers and support documentation, ensuring they remain accurate, current, consistently applied, and aligned with performance goals\n* Document all audit and compliance findings including exceptions and corrective actions\n* Present identified audit concerns/gaps to business partners and/or leadership as appropriate\n* Recommend and implement process improvement suggestions to enhance performance workflows (i.e. procedures, controls, job aids, and training materials operational feedback and identified root causes)\n* Collaborate with internal business partners, vendors, and service partners on quality processes and procedures, providing guidance, clarifying requirements, and supporting consistent execution across teams\n* Prepare recurring and ad hoc reports addressing trends and control results\n* Present concise, actionable information that helps managers and leaders prioritize remediation, coaching, training, and process improvements.\n* Support projects, system changes, new processes, and operational initiatives by assessing control impacts thru testing and risk identification efforts\n* Provide timely, constructive feedback and coaching to employees based on quality results, clearly explaining findings, required corrections, applicable procedures, and opportunities to strengthen accuracy\n\n**Qualifications:**  \n\n* Minimum of 3 years of customer service experience in the financial services industry\n* Working knowledge of annuities or life insurance products is strongly preferred\n* Bachelor\u2019s degree or equivalent relevant work experience\n* Demonstrated experience navigating multiple applications and dual monitors\n* Excellent communication skills, both verbal and written\n* Demonstrated capacity to develop positive and productive customer relationships\n* Experience supporting quality assurance, auditing, compliance, financial transaction processing, customer service operations, or related work\n* Strong analytical skills with the ability to assess, identify trends, and translate findings into practical recommendations\n* Demonstrated ability to collaborate effectively across teams and present findings to managers and/or other business partners\n* Ability to work independently while managing competing priorities\n* Sound judgment, attention to detail, and a commitment to accuracy in support of operational controls\n* Advanced proficiency with Microsoft Office and SharePoint\n* Experience with Verint, FAST, PEGA, Surance Bay and Portals\n* Working knowledge of Microsoft Access\n\n**Compensation:**  \nThis range represents the minimum and maximum annual base salary we reasonably expect to pay for this role at the time of posting. The actual base pay could vary and may be above or below the listed range. The base pay is based on factors including but not limited to experience, competence, and demonstration of proficiencies essential for the role. The base pay is just one component of Talcott\u2019s total annual compensation for employees. Other compensation may include annual bonuses, long-term incentives and recognition.\n  \n  \n\n* This role is not eligible for visa sponsorship. Applicants must be authorized to work in the United States on a full-time basis without current or future visa sponsorship.\n\n\\*\\*Talcott Financial Group is an equal employment employer. All qualified applicants will receive consideration without regard to race, color, sex, religion, age, national origin, disability, veteran status, sexual orientation, gender identity or expression, marital status, ancestry or citizenship status, genetic information, pregnancy status or any other characteristic protected by law. Talcott Resolution maintains a drug-free workplace. For more information regarding our Privacy Policy, please go to https://talcott.com/onlineprivacypolicy/onlineprivacypolicy.html",
+      "salary": "\ud83d\udcb0 52000.0\u201372000.0 USD/yearly",
+      "match_score": 93,
+      "matched_terms": [
+        "customer service",
+        "base salary",
+        "documentation",
+        "remote",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "bf43914fdb5b6b3c0cb1": {
+      "id": "bf43914fdb5b6b3c0cb1",
+      "title": "Inside Sales Representative",
+      "company": "Midwest Veterinary Supply",
+      "location": "Norristown, PA, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=89d826191a20e9b7",
+      "job_url_direct": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=293ebbc2-72a4-4413-bd7b-e06ac6d58a7e&ccId=19000101_000001&jobId=599622&source=IN&lang=en_US",
+      "description": "**Job Summary**:\n\nProvide the best customer service possible in a positive and professional manner, by providing clinics with information on promotions, pricing, product updates, answers to questions and speedy resolution of their concerns and problems. Provide the same quality of service to internal customers by supporting their efforts which will ultimately enhance the quality of service and relationship Midwest Veterinary has with its clients.\n\n**Essential Job Functions**:\n\n* Take orders for products over the phone from our Veterinary customers, field sales representatives and manufacturer representatives and enter them into the system, cross-selling and upselling utilizing the Business Builder format provided. Review all internet orders for product and promotions and upsell opportunities.\n* Make outbound calls to clinics in an effort to solicit orders and provide information related to new products and promotions utilizing the Business Builder categories format to cross-sell and upsell. Prospect new clients and reactivating accounts from lists provided and update all necessary paperwork.\n* Resolve unique demands to include: problem solving, completion of paperwork for credits, call tags for returns, price quotes, special orders, address change requests and sales blitz tallies, DEA certificates and state licenses.\n* Read, understand and organize mail, fax and emails and listen to voice mail correspondence received from internal and external customers as they relate to products, promotions and procedures.\n* Complete research as a result of clinic inquiries and fax or mail product information as requested. Attend requested meetings, webinars conference calls for training purposes.\nCompletes other duties, assignments and special projects as requested.  \n\n  \n\n**Job Requirements & Qualifications**:\n\n* Must be able to perform each essential function satisfactorily\n* High School Diploma or equivalency required\n* Minimum of one year experience in veterinary industry-related position or customer service position required\n* Ability to read, write and speak English\n* Ability to read and interpret documents such as safety rules, employment policies, operating instructions, and procedural manuals.\n* Strong listening and verbal communication skills including the ability to demonstrate diplomacy and professionalism\n* Strong organizational skills\n* Ability to work accurately with highly detailed information\n* Ability to learn a vast array of product lines\n* Basic computer skills to include data entry\n\n**Mental & Physical Demands**:\n\n* Attention to detail to assure accuracy of orders\n* A fast pace of work to meet frequent deadlines, time management skills\n* Continuous contact with customers\n* Regular contact with co-workers\n* Potential for stress related to a typical customer service problem resolution process\n* Continuous and sometimes rapid use of hands for writing and computer keyboard\n* Continuous use of a computer monitor requiring close vision\n* Continuous use of a telephone \u2013 listening and speaking skills\n* Ability to work at a desk throughout the day\n* Ability to attend off-site meetings which may require air travel\n\n**Job duties and requirements may be subject to modification to reasonably accommodate individuals with disabilities. Requirements are representative of the minimum levels of education, experience and skills required to perform the essential functions of this job. The job description does not constitute a written or implied contract of employment. Midwest Veterinary Supply reserves the right to revise or change job duties and responsibilities as the need arises.**\n\n**Equipment Used**:\n\nRegularly uses typical office equipment including computer keyboard and terminal, telephone, fax and copier.\n\n**Work Environment**:\n\nWork is typically performed in an office environment Monday through Friday. Working more than 40 hours per workweek may be required. Weekend availability required rarely. Occasional local and/or overnight travel may be required rarely.\n\n**Salary/Benefits**:\n\nWe offer competitive pay and a comprehensive benefits package including Medical, Dental and Vision insurance, Life and Accidental Death & Dismemberment (AD&D) insurance, Short- and Long-Term Disability insurance, a 401k plan, paid holidays, and Paid Time Off (PTO). Our work environment is business casual and we like to have fun with weekly relaxed dress days and regular events like holiday contests, cookouts, and employee appreciation celebrations.\n\n**About Us**:\n\nMidwest Veterinary Supply, Inc. (MVS) has provided quality service and merchandise to the veterinary profession since 1961. Our products are distributed from eight branches located in key geographic locations within our trade area. We take great pride in getting our orders out the same day as called in and having the product in the customer's hand the next day. MVS carries products and equipment from most major manufacturers. As we continue to grow, our goal will be, as it has always been, to provide the veterinary profession the very best in service along with quality merchandise at fair and competitive prices.\n\nMidwest Veterinary Supply believes in providing equal employment opportunities for all employees and will not violate any law prohibiting discrimination for or against any employee or applicant for employment on the basis of any characteristic protected under local, state, or federal statute, ordinance, or regulation. To view applicable employment notices, please click here to visit our Careers page. California residents, click here to view the California Consumer Privacy Act Disclosure.",
+      "salary": "\ud83d\udcb0 45000.0\u201355000.0 USD/yearly",
+      "match_score": 90,
+      "matched_terms": [
+        "customer service",
+        "inside sales",
+        "representative",
+        "data entry",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "af5f0ad193c0e618fec3": {
+      "id": "af5f0ad193c0e618fec3",
+      "title": "Billing Compliance and Quality Control Analyst - UW Medicine, Clinical Trials Office",
+      "company": "University Of Washington",
+      "location": "Seattle, WA, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=c837c1e3a4b80a8b",
+      "job_url_direct": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/uwhires/job/Seattle-WA/Billing-Compliance-and-Quality-Control-Analyst---UW-Medicine--Clinical-Trials-Office_REQ-0000139240",
+      "description": "**Job Description**\n\n**The Clinical Trials Office has an outstanding opportunity for a Billing Compliance and Quality Control Analyst to join their team.**\n\n  \n\n**About this Opportunity**\n\n  \n\nReporting to the Billing Compliance Operations and Quality Control Manager, the Billing Compliance and Quality Control Analyst serves as a subject matter expert in the comprehensive and independent final compliance review (Summary Review) of all documents related to research study funding, including the research study budget, protocol, contractual terms, informed consent, and other supporting documentation. Additionally, this position functions as a subject matter expert with Clinical Trials Office (CTO) production workflows and systems processes, and will offer suggestions for optimization strategies.\n\n  \n\nThis is a 100% remote, telework position.\n\n  \n\n**Key Responsibilities**\n\n**Workflow and Billing Compliance (40%)**\n\n* Perform comprehensive and independent analysis of systems processes pertaining to CTO review workflows.\n* Regularly update and work with the Clinical Trial Management System (OnCore), Zendesk (ZD) Customer Service Management tool, the CTO Database (CTODB), and other comprehensive electronic study documentation for each clinical research study, in compliance with UW policies, procedures and standards.\n* Analyze, interpret and apply internal and external research billing policies, assisting faculty, study staff, and clinical managers in determining applicable review requirements and facilitating timely budget approval.\nUnderstand and exercise independent judgment and discretion in the interpretation and application of the Medicare Clinical Trial Policy, and all relevant UW Medicine clinical research budgeting and billing policies and procedures.  \n\n  \n\n**Quality Assurance (QA)/Quality Check (QC) (60%)**\n\n* Perform QA, identifying root cause issues and addressing queries from clients, and escalate as appropriate to the Manager and Sr. Workflow Lead.\n* Perform QC of workflow pathways for proper routing of studies through the start-up process.\n* Perform QC of final compliance review (Summary Review) for team members training in the workflow.\n* Perform QC of the Coverage Analysis work performed by a third party or internal CTO staff. Ensure Coverage Analysts have designated study items and services as non-covered research-only or covered routine, in compliance with Medicare coverage rules.\n* Perform final QC of clinical trial budgets that have been internally developed and negotiated with pharmaceutical and biotechnology corporate sponsors, contract research organizations and other sponsor institutions.\nPerform data QC to ensure accuracy and alignment across multiple systems (OnCore, Epic, Zendesk, CTO Database, etc.).  \n\n  \n\n**Required Qualifications**\n\nTo be considered for this opportunity your application must demonstrate you meet both the minimum qualifications and additional qualifications listed below. Equivalent education and/or experience may substitute for minimum qualifications except when there are legal requirements, such as a license, certification, and/or registration.\n\n  \n\n**Minimum Qualifications**\n\nA Bachelor\u2019s degree in science, business, healthcare administration or related field and at least three years\u2019 related experience or equivalent combination of experience and education.  \n\n  \n\n**Applicants who do not meet these qualifications will not be forwarded to the hiring manager.**\n\n  \n\n**Additional Qualifications**\n\n* Working knowledge of the Medicare Clinical Trials Policy and other Federal, State and institutional clinical research regulations.\n\n* Exceptional customer service skills with the ability to communicate effectively with all levels of staff, faculty, management and collaborators.\n* Strong written and oral presentation skills, with demonstrated skill in using Microsoft Word, Excel, and Access.\nIndependently prioritize and organize work in a fast-paced, high-volume setting, in addition to ability to work effectively and efficiently in a group environment.  \n\n**Preferred Qualifications**\n\n* Master\u2019s Degree in business or healthcare administration or related field.\n* Experience working in OnCore or other CTMS system. Experience working with an Customer Service Management (CSM) ticketing system tool, such as Zendesk.\n* Familiarity with electronic medical records and healthcare business systems.\n* Experience working with web-based solutions\nExperience in academic health system operations or medical setting.  \n\n**About the Team**\n\nThe Clinical Trials Office supports the clinical research mission of UW Medicine by providing multi-service operational support to research teams and helping bring important new therapies to patients in compliance with evolving regulatory requirements. As part of the School of Medicine's Office of Research and Graduate Education, the CTO partners across a broad portfolio of clinical trials to strengthen compliance, support investigators, and advance high-quality research operations.\n\n  \n\nIf you are energized by mission-driven work, cross-functional collaboration, and the opportunity to make a measurable impact on clinical research operations, this role offers a meaningful way to contribute to patient access, sponsor confidence, and institutional excellence.\n\n**Compensation, Benefits and Position Details**\n\n**Pay Range Minimum:**\n\n$84,000.00 annual\n\n**Pay Range Maximum:**\n\n$96,000.00 annual\n\n**Other Compensation:**\n\n\n\n**Benefits:**\n\nFor information about benefits for this position, visit https://www.washington.edu/jobs/benefits-for-uw-staff/\n\n**Shift:**\n\nFirst Shift (United States of America)\n\n**Temporary or Regular?**\n\nThis is a regular position\n\n**FTE (Full-Time Equivalent):**\n\n100.00%\n\n**Union/Bargaining Unit:**\n\nNot Applicable\n\n**About the UW**\n\nWorking at the University of Washington provides a unique opportunity to change lives \u2013 on our campuses, in our state and around the world.\n\nUW employees bring their boundless energy, creative problem-solving skills and dedication to building stronger minds and a healthier world. In return, they enjoy outstanding benefits, opportunities for professional growth and the chance to work in an environment known for its diversity, intellectual excitement, artistic pursuits and natural beauty.\n\n**Our Commitment**\n\nThe University of Washington is committed to fostering an inclusive, respectful and welcoming community for all. As an equal opportunity employer, the University considers applicants for employment without regard to race, color, creed, religion, national origin, citizenship, sex, pregnancy, age, marital status, sexual orientation, gender identity or expression, genetic information, disability, or veteran status consistent with UW Executive Order No. 81 .\n\nTo request disability accommodation in the application process, contact the Disability Services Office at 206-543-6450 or dso@uw.edu .\n\nApplicants considered for this position will be required to disclose if they are the subject of any substantiated findings or current investigations related to sexual misconduct at their current employment and past employment. Disclosure is required under Washington state law .",
+      "salary": "\ud83d\udcb0 84000.0\u201396000.0 USD/yearly",
+      "match_score": 89,
+      "matched_terms": [
+        "customer service",
+        "patient access",
+        "documentation",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "b95e293ae5de990445fd": {
+      "id": "b95e293ae5de990445fd",
+      "title": "Associate Director, GCP/GCLP Quality Auditor",
+      "company": "cabaletta bio",
+      "location": "Philadelphia, PA, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=db16b4c3efe144e1",
+      "job_url_direct": "https://www.cabalettabio.com/join-our-crew/job/8461/associate-director-gcpgclp-quality-auditor",
+      "description": "**About the Position**\n----------------------\n\nReporting to the Sr. Director of Inspection Readiness and Risk Management, the Associate Director, GCP/GCLP Auditor is an integral member of the Quality and Compliance team. The GCP/GCLP Auditor is responsible for planning, scheduling and conducting GCP and GCLP quality audits on behalf of Cabaletta. This individual will also act as a Subject Matter Expert (SME) for GCP/GCLP auditing, quality projects and will be responsible for supporting implementation and management of the Quality Management Auditing system. The individual is responsible for independently managing internal GCP/GCLP auditing deliverables scheduled across Cabaletta.\n\n**Responsibilities Include**\n----------------------------\n\n* **Plan and execute audits:** Develop comprehensive audit plans for GCP and GCLP activities, covering clinical sites, laboratories, CROs, and vendors supporting our cell therapy programs.\n* **Conduct thorough evaluations:** Assess adherence to protocols, SOPs, and regulatory requirements, ensuring that all processes align with ICH guidelines and applicable FDA/EMA, PhRMA standards.\n* **Inspection readiness:** Perform internal audits and support mock inspections and targeted readiness activities to prepare the organization for regulatory agency visits, including FDA, EMA, MHRA, and other authorities.\n* **Collaborate cross-functionally:** Partner with Clinical Operations, Quality Assurance, Regulatory Affairs, and Laboratory teams to address compliance gaps and implement corrective and preventive actions (CAPAs).\n* **Documentation review:** Support data integrity and verification of clinical trial master files, laboratory records, and data management systems for completeness, accuracy, and compliance.\n* **Administrative & Operational Tasks:** Maintain, update, and archive QMS documentation, including audit reports, inspection responses, SOPs, and compliance records; ensure accuracy, completeness, and timely availability of records.\n* **Partnership:** Partner with Clinical QA team to provide compliance training to internal teams and external partners, fostering a culture of quality, accountability, and continuous improvement.\n* **Metrics and reporting:** Maintain audit schedules, reports, and performance metrics to ensure transparency and track progress toward quality goals.\n* **Continuous improvement:** Identify systemic issues and recommend process enhancements that strengthen our QMS and support successful regulatory submissions.\n* **Travel:** Willingness to travel domestically and internationally for audits (up to 40%).\n\n**Required Qualifications**\n---------------------------\n\n* Bachelor\u2019s degree in Life Sciences, Pharmacy, or related field; advanced degree preferred.\n* 7+ years in GCP/GCLP auditing or compliance in biotech/pharma.\n* Proven experience conducting GCP and/or GCLP audits in a biotech, pharmaceutical, or CRO environment, ideally within late-stage clinical programs.\n* Strong knowledge of ICH guidelines, FDA/EMA regulations, and late-stage clinical trial requirements.\n* Familiarity with cell therapy, advanced biologics, or other cutting-edge therapeutic modalities is highly desirable.\n* Exceptional attention to detail and analytical skills, with the ability to translate findings into actionable improvements.\n* Strong interpersonal skills \u2013 able to build trust and influence across diverse teams, geographies, and cultures.\n* Experience preparing organizations for regulatory inspections and supporting global submissions.\n* Auditor certification preferred.\n* Must be detail-oriented, precise, and organized in handling documents. Solid organizational skills required; must be able to prioritize multiple tasks.\n\n### **How to Apply**\n\nPlease click the link at the bottom of the posting to submit an application.\n\n### **Benefits**\n\nOur most important asset is our people and we offer competitive benefits including health and retirement, PTO, and stock option plans.\n\n### **Equal Opportunity Employer**\n\nCabaletta Bio is an equal opportunity employer. We do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability, protected veteran status or any other basis protected by applicable law.",
+      "salary": "",
+      "match_score": 77,
+      "matched_terms": [
+        "associate",
+        "scheduling",
+        "administrative",
+        "documentation",
+        "operations",
+        "QA"
+      ],
+      "queued_at": null
+    },
+    "8bb0d8474772c5ea2a13": {
+      "id": "8bb0d8474772c5ea2a13",
+      "title": "Quality Program Manager, Globalization",
+      "company": "Block",
+      "location": "San Francisco Bay Area, CA, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=f834c26428953e18",
+      "job_url_direct": "https://block.xyz/careers/jobs/5489969008",
+      "description": "Block is one company built from many blocks, all united by the same purpose of economic empowerment. The blocks that form our foundational teams \u2014 People, Finance, Counsel, Hardware, Information Security, Platform Infrastructure Engineering, and more \u2014 provide support and guidance at the corporate level. They work across business groups and around the globe, spanning time zones and disciplines to develop inclusive People policies, forecast finances, give legal counsel, safeguard systems, nurture new initiatives, and more. Every challenge creates possibilities, and we need different perspectives to see them all. Bring yours to Block.\n\n#### **The Role**\n\nThe Globalization team is dedicated to expanding Block\u2019s multiple brands worldwide. Our mission is to build on Block\u2019s success and continue to deliver innovative, seamless, and fully localized experiences for multilingual Sellers and Customers domestically and abroad.\n\nWe are seeking a Quality Program Manager, Globalization to oversee and enhance our quality management at scale. This role involves managing key programs across quality planning, assurance, and control processes. It requires strong collaboration with both cross-functional partners and our suppliers to ensure the highest standards of quality. The ultimate goal is to measure, optimize, and sustain quality throughout the localization process in order to protect customer trust, support conversion in global markets, and reduce regulatory risk.\n\n#### **You Will**\n\n* Own and evolve the overall quality program and its strategy for the Globalization team, aligning with broader business goals and KPIs.\n* Build robust quality processes that meet the company\u2019s evolving needs, including creating and maintaining clear documentation, providing training, and offering 1:1 support. Serve as the quality expert in the development of linguistic resources and team processes.\n* Collect quality data to guide decisions on strategy, budget, initiatives, and vendor resources. Regularly report quality findings in a variety of forums and own data pipelines and dashboards.\n* Collaborate with localization vendors and internal teams to analyze quality data, identify opportunities for improvement, manage escalations, develop and refine processes, and maintain accountability for quality metrics.\n* Partner with legal, risk, compliance, and product teams to ensure Block\u2019s localization quality program meets regulatory requirements across markets.\n* Assess existing tools and collaborate cross-functionally to optimize them through automation as a way to enhance scalability, productivity and efficiency.\n* Use AI tools, such as LLM-based translation quality checks, to scale quality evaluation.\n\n#### **You Have**\n\n* 5+ years of experience in the localization industry, with a focus on program management, vendor management, localization quality assurance, and delivering multi-layered projects involving cross-functional collaboration.\n* Skilled at defining and delivering results end-to-end against ambiguous problems.\n* Comfortable with data analytics - including demonstrated facility with data management tools and advanced analytical platforms, such as Snowflake, Datadog, or similar.\n* Hands-on experience with Artificial Intelligence, such as MT/AI quality evaluation and process automation.\n* Experience running QA programs, including Terminology Management and Style Guide creation, and familiarity with quality measurement frameworks/models (e.g. MQM/DQF).\n* A clear perspective on when and where AI tools and agents help or hurt translation quality and its oversight.\n* Experience working with multiple TMS, CMS, and other translation and content management tools.\n* Ability to describe linguistic challenges, cultural questions and concepts to stakeholders.\n* Strong communication skills paired with excellent presentation skills, especially of complex data for a variety of audiences.\n* Strong relationship management skills, with the ability to influence others and build trust.\n* Ability to excel in a fast-paced, multicultural team.\n\n#### **Technologies We Use and Teach**\n\n* Contentful, Github, Airtable, Jira, Phrase, Internal tools\n\nWe\u2019re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and \u201cfair chance\u201d ordinances.\n  \n  \nWe believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.\n\nWhile there is no specific deadline to apply for this role, U.S. roles are typically open for an average of 55 days before being filled by a successful candidate. Please refer to the date listed at the top of this job page for when this role was first posted.\n\n  \n\nBlock takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate\u2019s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.\n\nZone A:\n\n$122,900\u2014$184,300 USD\n\nZone B:\n\n$114,200\u2014$171,400 USD\n\nZone C:\n\n$108,200\u2014$162,200 USD\n\nZone D:\n\n$98,300\u2014$147,500 USD\n\n**Application Guidelines**\n\nCandidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed.\n\n**Use of AI in Our Hiring Process**\n\nWe may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.\n\nContact us here with hiring practice or data usage questions.\n\n*Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.*\n\n*Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people.* ***Square*** *makes commerce and financial services accessible to sellers.* ***Cash App*** *is the easy way to spend, send, and store money.* ***Afterpay*** *is transforming the way customers manage their spending over time.* ***TIDAL*** *is a music platform that empowers artists to thrive as entrepreneurs.* ***Bitkey*** *is a simple self-custody wallet built for bitcoin.* ***Proto*** *is a suite of bitcoin mining products and services. Together, we\u2019re helping build a financial system that is open to everyone.*",
+      "salary": "\ud83d\udcb0 98300.0\u2013184300.0 USD/yearly",
+      "match_score": 76,
+      "matched_terms": [
+        "recruiter",
+        "documentation",
+        "remote",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "c7fd2bc2fe951b83dd33": {
+      "id": "c7fd2bc2fe951b83dd33",
+      "title": "Salesforce QA Automation Lead",
+      "company": "Robotics Technologies",
+      "location": "San Jose, CA, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=7a7f5f62e6b538a5",
+      "job_url_direct": "https://roboticstechno.com/view_job?mode=apply&id=39637&hr_id=3897",
+      "description": "* Job ID:\n\n  J56037\n* Job Title:\n\n  Salesforce QA Automation Lead\n* Location:\n\n  San Jose, CA\n* Duration:\n\n  24 Months + Extension\n* Domain Exposure:\n\n  Oil & Gas\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, C2C\n* Work Authorization:\n\n  US Citizen, Green Card, H-1B, OPT-EAD, CPT, Other\n\n  \n\n**Job Title: Salesforce QA Automation Lead**  \n**Location: San Jose, CA(Remote)**  \n**Duration: 24 Months + Extension**\n  \n**Bill Rate: $76/hour (C2C)**\n  \n**Job Type: W-2, 1099, C2C**\n  \n**Client: To Be Discussed Later**\n  \n**Work Authorization: US Citizen, Green Card, OPT-EAD, CPT, H-1B, H4-EAD, Other**\n\n**Job Description:**\n\nWe are looking for an experienced Salesforce QA Automation Lead with 10+ years of experience in software quality assurance, including strong hands-on expertise in Salesforce testing and QA automation. The candidate must have hands-on experience with UiPath or other RPA automation tools and should be capable of leading QA activities across onsite and offshore teams.\n  \nThe ideal candidate will have strong knowledge of Salesforce applications, automation frameworks, QA methodologies, defect management, SQL/SOQL, Agile processes, and team leadership.\n\n**Key Responsibilities:**\n\nLead end-to-end QA and automation testing activities for Salesforce applications and related integrations.\n  \nDefine QA strategy, test approach, test plans, test cases, and automation coverage.\n  \nPerform and lead functional, integration, system, regression, end-to-end, and UAT testing.\n  \nDesign, develop, execute, and maintain automated test cases for Salesforce applications.\n  \nUtilize UiPath/RPA automation for test automation and business process validation.\n  \nWork with test automation tools/frameworks such as Selenium, Provar, UiPath, or other Salesforce/RPA automation solutions.\n  \nPerform Salesforce testing across standard and custom objects, workflows, validation rules, integrations, and business processes.\n  \nWrite and execute basic SQL and SOQL queries for backend/data validation.\n  \nIdentify, log, troubleshoot, and track defects through closure using Jira.\n  \nCoordinate testing activities with development, business analyst, product, onsite, and offshore teams.\n  \nReview test results, identify automation gaps, and continuously improve regression coverage.\n  \nEstablish QA metrics, reporting mechanisms, and quality standards.\n  \nLead and mentor QA engineers, assign tasks, track progress, and provide technical guidance.\n  \nParticipate in Agile ceremonies including sprint planning, daily stand-ups, reviews, and retrospectives.\n  \nCommunicate QA status, risks, defects, dependencies, and quality concerns to project stakeholders.\n  \nSupport UAT activities and ensure successful delivery of high-quality Salesforce releases.\n\n**Mandatory Skills:**\n\n10+ years of experience in Software Quality Assurance / Testing.\n  \nStrong hands-on experience in Salesforce QA and Salesforce application testing.\n  \nStrong experience in QA Automation.\n  \nMandatory hands-on experience with UiPath or another RPA automation tool.\n  \nGood understanding of Salesforce configuration, customization, integrations, and development lifecycle.\n  \nExperience writing SQL and SOQL queries for data validation.\n  \nStrong understanding of QA methodologies, tools, processes, and best practices.\n  \nHands-on experience with Jira-based defect management and tracking.\n  \nStrong knowledge of Agile/Scrum methodologies.\n  \nExperience working with and coordinating onsite and offshore teams.\n  \nProven experience in leading and mentoring a QA team.\n  \nStrong troubleshooting, analytical, and problem-solving skills.\n  \nExcellent verbal and written communication skills.\n\n  \n\n**Equal Opportunity Employer**  \n  \n\nWe are an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, national origin, citizenship/ immigration status, veteran status, or any other status protected under federal, state, or local law.",
+      "salary": "\ud83d\udcb0 76.0\u201376.0 USD/hourly",
+      "match_score": 75,
+      "matched_terms": [
+        "troubleshooting",
+        "remote",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "42ff4083f20fce350e54": {
+      "id": "42ff4083f20fce350e54",
+      "title": "Senior Engineer- Quality Assurance",
+      "company": "ReSource Pro",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=7db8367599999c8d",
+      "job_url_direct": "https://resourcepro.applytojob.com/apply/z1ZGGXnBb2/Senior-Engineer-Quality-Assurance?source=INDE&~",
+      "description": "*Do you thrive on building automation frameworks that hold up across multiple client deployments? Does mentoring testers into automation engineers while delivering reliable quality outcomes for insurance carriers sound like your kind of work?*\n\n**Come Join ReSource Pro!**\n\n  \n**Your Role...**  \n**ReSource Pro** is seeking a **Senior Engineer, Quality Assurance** to lead quality assurance work on enterprise insurance platforms for carrier clients within Carrier Technology Services / Propellint. You will lead test strategy, planning, and execution on client engagements, build and maintain the automation frameworks our teams rely on, and serve as technical reviewer and mentor for our offshore quality engineering pod. Reporting to the Senior Manager, Quality Assurance, US, you will give clients reliable, repeatable quality outcomes on their insurance technology programs. Work completed directly impacts trust and partnership with the client.  \n  \nWe hire the best because our service is only as good as the people delivering it. We\u2019re committed to hiring individuals who engage in our amazing culture and embrace our Core Values: Commitment to Community, Teamwork, Passion for Excellence, Service-Centric, and Best Self.\n\n**All remote positions are based in the United States, and candidates must reside within the U.S. to be eligible for consideration.**\n\n  \n**In this role, you will...**\n\n* Lead billable client delivery, including test strategy, test plans, and functional, regression, integration, and conversion testing on enterprise insurance platforms\n* Set up each engagement, including the test management platform, issue tracker integration, environments, test data, and access controls\n* Decide when a build is ready for testing, triage defects with clients, and draft cycle reports and release recommendations\n* Design, build, and maintain configuration-driven automation frameworks with CI/CD integration that serve multiple client deployments\n* Administer the test management platform and review AI-assisted and low-code testing output\n* Mentor QA engineers into automation contributors and serve as technical reviewer and anchor for our offshore quality engineering pod\n\n  \n**What You Need to be Successful...**\n\n* Bachelor\u2019s degree in Computer Science, Information Technology, Information Systems, or a related field preferred; equivalent experience considered\n* 5+ years of experience in Quality Assurance, including 4+ years of hands-on test automation development and ownership of at least one automation framework from design through production\n* Experience designing automation for reuse across multiple deployments or tenants, with client variance held in configuration\n* Proficiency in at least one modern browser automation framework, with working knowledge of a second\n* Experience with test data provisioning, CI/CD integration, and administering a test management platform\n* Experience reviewing automation code, enforcing coding standards across a distributed team, and developing manual testers into automation contributors\n* Sustained client-facing billable delivery experience; this is a billable consulting role, not an internal engineering role\n* Strong written and verbal communication skills, including across time zones with an offshore team\n* Preferred: insurance platform experience (policy or claims administration), API-level test automation, data conversion validation, low-code or AI-assisted testing tools, and ISTQB certifications\n* Ability to travel up to 20% domestic\n* Technological proficiency \u2013 able to learn, utilize, and navigate a variety of external and internal systems\n\n  \n**Your Compensation\u2026**  \nOur salary ranges are based on paying competitively for our size and industry, and are one part of the total compensation package that also includes annual bonus eligibility, benefits, and other opportunities at ReSource Pro. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, geography, and balancing internal equity relative to other ReSource Pro employees. This is a remote position, and the salary range for most locations for this role is $67,193-$113,712 per year. The salary range may vary based on experience and on the specific geographic location in which the candidate resides.  \n  \n**Your Benefits & Perks\u2026**\n\n* *100% paid employee health insurance available on Day 1*\n* *Eligible for all medical, dental, and vision benefits on Day 1*\n* *Remote positions are Internet stipend-eligible*\n* *401k with employer match, vested on Day 1*\n* *HSA/FSA available*\n* *Long Term and short-term disability employer-provided*\n* *Generous PTO plan with paid holidays + floating holidays*\n* *Development and growth opportunities*\n* *Comprehensive wellness program and prioritization of employee health*\n\n  \n**Your Interview Process\u2026**  \nTo be considered for this position, please submit your application. If you meet the qualifications for the role, a member of our Talent Acquisition team will be in touch to schedule an interview via zoom.  \nThe standard interview process includes:\n\n* Behavioral interview with Talent Acquisition\n* Online talent assessment\n* Hiring Manager interview\n* Additional interview steps may be added depending on the position or if further evaluation is needed.\n\n  \nDisclosure: Candidates are evaluated at each step of the process. As a result, not every candidate will complete all steps in the process.\n\n**About ReSource Pro:**\n\nFocused exclusively on the insurance industry, ReSource Pro is the trusted partner insurance organizations rely on to optimize performance, streamline operations and process engineering, and drive growth. Serving 2,000+ carriers, brokers, wholesalers, and MGAs, ReSource Pro is a recognized market leader in insurance workflow optimization, data and technology services, and strategic operating model transformation. Maintaining a 96%+ client retention rate for over a decade, ReSource Pro is the only firm serving the insurance industry to have earned a spot on the Inc. 5000 list 16 times\u2014placing it among the top 0.02% of repeat honorees across all sectors in the Inc. list\u2019s 40+ year history.\n\n**Equal Employment Opportunity Policy**\n\nReSource Pro provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nz1ZGGXnBb2",
+      "salary": "\ud83d\udcb0 67193.0\u2013113712.0 USD/yearly",
+      "match_score": 74,
+      "matched_terms": [
+        "talent acquisition",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "f9af3d3d568b01dd16ba": {
+      "id": "f9af3d3d568b01dd16ba",
+      "title": "Claims QA Analyst",
+      "company": "Epiq",
+      "location": "Beaverton, OR, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=b046cf6ec0d1894f",
+      "job_url_direct": "https://epiqsystems.wd503.myworkdayjobs.com/en-US/Epiq_Careers/job/USA-Beaverton-OR-10300-SW-Allen/Claims-QA-Analyst_R0035430-1",
+      "description": "At **Epiq** , your work contributes to complex, global legal outcomes. You\u2019ll join a values\u2011driven community where integrity guides decisions, **relentless service** sets the bar, and we **thrive on big challenges** together. We invest in your growth with enterprise\u2011wide learning and mobility. We celebrate who you are, and we respect life beyond work with flexibility that\u2019s recognized externally. Enabled by modern platforms and AI, **you\u2019ll do the most meaningful work of your career** and see your impact at scale.\n\n**Job Description:**\n\n**Job Summary**\n===============\n\n  \n\nThe Claims QA Analyst is responsible for analyzing and managing claims, ensuring high accuracy and compliance with policies and procedures. This role requires strong analytical thinking, communication, and critical thinking skills.\n\n  \n  \n\n**Essential Job Responsibilities**\n\n* Analyze and manage claims.\n* Ensure high accuracy and compliance with policies and procedures.\n* Conduct quality control and regulatory compliance management.\n* Communicate effectively with clients and team members.\n* Maintain professional etiquette and organizational abilities.\n  \n\n  \n\n**Qualifications & Requirements**\n\n  \n\n**Education:**\n\n* Bachelor's degree in business, Law, or a related field.\n  \n\n  \n\n**Experience:**\n\n* 2-4 years of experience in claims analysis or a related role.\n  \n\n  \n\n**Skills:**\n\n* Analytical Thinking\n* Claims Analysis\n* Claims Management\n* Collaborative Problem Solving (CPS)\n* Communication\n* Critical Thinking\n* Data Entry\n* Data Verification\n* Decision Making\n* Detail-Oriented\n* High Accuracy\n* Legal Support Services\n* Policies & Procedures\n* Prioritization\n* Procedure Writing\n* Professional Development Trainings\n  \n\n  \n\n**Certifications** :\n\n* Required: None\n* Preferred: Certified Claims Professional (CCP), Quality Assurance (QA) Certification, Regulatory Compliance Certification\n  \n\n  \n\n**Physical Requirements:**\n\n* Ability to work in an office environment and perform tasks that may require sitting, standing, and using office equipment.\n  \n\n  \n\n#1300 Epiq Class Action & Claims Solutions, Inc.\n\nYour specific salary will be determined based on several factors:\n\n* **Location-based market rate** for the role\n* **Your abilities** in relation to the job specification\n* **Performance** during screening and interview\n* **Pay parity** with the wider team in the considered location\n\nFurther details about the package will be provided during the initial screening call with the Talent Acquisition Team.\n\n  \n\n**Epiq Leadership Compass**\n\n**Fosters Relationships & Collaboration**\n\nBuilds trust and alignment through open communication, shared goals, and strong partnerships to drive collective success.\n\n* Build trust-based partnerships\n* Nurture long-term relationships\n* Remove collaboration barriers\n* Celebrate cross-team success\n\n**Engages & Influences**\n\nInspires action and alignment through clear communication, purposeful influence, and a compelling vision.\n\n* Use storytelling to build buy-in\n* Align communication with organizational goals\n* Guild alignment through strong engagement\n\n**Maximizes Performance**\n\nSets and reinforces performance standards that drive results, ensure accountability, and align with Epiq\u2019s goals.\n\n* Use data to identify improvement opportunities\n* Make informed decisions\n* Align team goals with boarder strategy\n* Empower teams to manage their own goals\n* Translate vision into clear priorities\n* Prepare for disruptions with strong change management\n\n**Achieves Operational Success**\n\nDrives continuous improvement and operational excellence through smart processes, data insights, and quality execution.\n\n* Improve workflows for team efficiency\n* Use clear documentation and expectations\n* Resolve issues quickly using data and feedback\n\n**It is Epiq\u2019s policy to comply with all applicable equal employment opportunity laws by making all employment decisions without unlawful regard or consideration of any individual\u2019s race, religion, ethnicity, color, sex, sexual orientation, gender identity or expressions, transgender status, sexual and other reproductive health decisions, marital status, age, national origin, genetic information, ancestry, citizenship, physical or mental disability, veteran or family status or any other basis protected by applicable national, federal, state, provincial or local law. Epiq\u2019s policy prohibits unlawful discrimination based on any of these impermissible bases, as well as any bases or grounds protected by applicable law in each jurisdiction. In addition Epiq will take affirmative action for minorities, women, covered veterans and individuals with disabilities. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. Epiq is pleased to provide such assistance and no applicant will be penalized as a result of such a request. Pursuant to relevant law, where applicable, Epiq will consider for employment qualified applicants with arrest and conviction records.**",
+      "salary": "",
+      "match_score": 73,
+      "matched_terms": [
+        "data entry",
+        "talent acquisition",
+        "documentation",
+        "QA"
+      ],
+      "queued_at": null
+    },
+    "9c3249c9a650ac7f3cf9": {
+      "id": "9c3249c9a650ac7f3cf9",
+      "title": "Defense and Intelligence Specialists, AI Evaluation",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=c2f8cecb7517cf02",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/defense-and-intelligence-specialists-ai-evaluation-aoj-253f16b177eca8e8f2?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-253f16b177eca8e8f2&role=Defense+and+Intelligence+Specialists%2C+AI+Evaluation&category=enterprise-workflow-tool-use&source=indeed&jobId=aoj-253f16b177eca8e8f2&sourceJobId=aoj-253f16b177eca8e8f2",
+      "description": "Defense and Intelligence Specialists, AI Evaluation is a remote review track for evaluating AI outputs across defense and intelligence specialists specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\nDefense and Intelligence Specialists specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would \u2014 checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current defense and intelligence specialists specialist operations workflows, playbooks, and firm policy for Defense and Intelligence Specialists, AI Evaluation assignments.\n* Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n* Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n* Capture the right next step so the modeling team can train on it.\n* Adjudicate disputed treatments against published playbooks or firm guidance.\n* Maintain reviewer-quality scores in inter-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Direct working experience in defense and intelligence specialists specialist operations on real teams for Defense and Intelligence Specialists, AI Evaluation work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the policy or workflow being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Grade a model's response to a real defense and intelligence specialists specialist operations ticket and rate workflow, tone, and escalation.\n* Flag a missed escalation with the right severity tag and corrected next step.\n* Adjudicate a disputed playbook call between two reviewers using firm guidance.\n* Audit a 25-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* Prior experience training, calibrating, or QA-ing operations teams.\n* Familiarity with AI-assisted workflow tooling and its failure modes.\n* Bilingual experience for cross-region operations.\n\n**Skills**\n----------\n\n* Operational review\n* Policy adherence\n* Workflow judgment\n* Stakeholder communication\n* Defense and Intelligence Specialists specialist operations\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n$105 / hr\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "\ud83d\udcb0 105.0\u2013105.0 USD/hourly",
+      "match_score": 71,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "3d75172588554c8ef1f6": {
+      "id": "3d75172588554c8ef1f6",
+      "title": "Vascular Technologists (RVT) \u2014 AI Clinical Review",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=d3904eb0028c6cca",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/vascular-technologists-rvt-ai-clinical-review-aoj-bc89ac6ca6bcf7addc?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-bc89ac6ca6bcf7addc&role=Vascular+Technologists+%28RVT%29+%E2%80%94+AI+Clinical+Review&category=enterprise-workflow-tool-use&source=indeed&jobId=aoj-bc89ac6ca6bcf7addc&sourceJobId=aoj-bc89ac6ca6bcf7addc",
+      "description": "Vascular Technologists (RVT) \u2014 AI Clinical Review is a remote review track for evaluating AI outputs across vascular technologists specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\nVascular Technologists specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would \u2014 checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current vascular technologists specialist operations workflows, playbooks, and firm policy for Vascular Technologists (RVT) \u2014 AI Clinical Review assignments.\n* Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n* Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n* Capture the right next step so the modeling team can train on it.\n* Adjudicate disputed treatments against published playbooks or firm guidance.\n* Maintain reviewer-quality scores in inter-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Direct working experience in vascular technologists specialist operations on real teams for Vascular Technologists (RVT) \u2014 AI Clinical Review work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the policy or workflow being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Grade a model's response to a real vascular technologists specialist operations ticket and rate workflow, tone, and escalation.\n* Flag a missed escalation with the right severity tag and corrected next step.\n* Adjudicate a disputed playbook call between two reviewers using firm guidance.\n* Audit a 25-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* Prior experience training, calibrating, or QA-ing operations teams.\n* Familiarity with AI-assisted workflow tooling and its failure modes.\n* Bilingual experience for cross-region operations.\n\n**Skills**\n----------\n\n* Operational review\n* Policy adherence\n* Workflow judgment\n* Stakeholder communication\n* Vascular Technologists specialist operations\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n$130 / hr\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "\ud83d\udcb0 130.0\u2013130.0 USD/hourly",
+      "match_score": 71,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "14b642830ade9564089b": {
+      "id": "14b642830ade9564089b",
+      "title": "Engineering Lead \u2014 Technical AI Workflow Review",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=e410e606ea92f4da",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/engineering-lead-technical-ai-workflow-review-aoj-bb4aa2bcfe3cb7a916?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-bb4aa2bcfe3cb7a916&role=Engineering+Lead+%E2%80%94+Technical+AI+Workflow+Review&category=enterprise-workflow-tool-use&source=indeed&jobId=aoj-bb4aa2bcfe3cb7a916&sourceJobId=aoj-bb4aa2bcfe3cb7a916",
+      "description": "Engineering Lead \u2014 Technical AI Workflow Review is a remote review track for evaluating AI outputs across engineering lead specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\nEngineering Lead specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would \u2014 checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current engineering lead specialist operations workflows, playbooks, and firm policy for Engineering Lead \u2014 Technical AI Workflow Review assignments.\n* Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n* Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n* Capture the right next step so the modeling team can train on it.\n* Adjudicate disputed treatments against published playbooks or firm guidance.\n* Maintain reviewer-quality scores in inter-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Direct working experience in engineering lead specialist operations on real teams for Engineering Lead \u2014 Technical AI Workflow Review work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the policy or workflow being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Grade a model's response to a real engineering lead specialist operations ticket and rate workflow, tone, and escalation.\n* Flag a missed escalation with the right severity tag and corrected next step.\n* Adjudicate a disputed playbook call between two reviewers using firm guidance.\n* Audit a 25-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* Prior experience training, calibrating, or QA-ing operations teams.\n* Familiarity with AI-assisted workflow tooling and its failure modes.\n* Bilingual experience for cross-region operations.\n\n**Skills**\n----------\n\n* Operational review\n* Policy adherence\n* Workflow judgment\n* Stakeholder communication\n* Engineering Lead specialist operations\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n$195 / hr\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "\ud83d\udcb0 195.0\u2013195.0 USD/hourly",
+      "match_score": 71,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "2c8bb0b639ce72852c37": {
+      "id": "2c8bb0b639ce72852c37",
+      "title": "Malay AI Evaluation Specialist (Singaporean Dialect)",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=43f54a5bc1f505f7",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/malay-ai-evaluation-specialist-singaporean-dialect-aoj-a101aa95cc9e5f1a39?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-a101aa95cc9e5f1a39&role=Malay+AI+Evaluation+Specialist+%28Singaporean+Dialect%29&category=enterprise-workflow-tool-use&source=indeed&jobId=aoj-a101aa95cc9e5f1a39&sourceJobId=aoj-a101aa95cc9e5f1a39",
+      "description": "Malay AI Evaluation Specialist (Singaporean Dialect) is a remote review track for evaluating AI outputs across malay ai evaluation specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\nMalay AI Evaluation specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would \u2014 checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current malay ai evaluation specialist operations workflows, playbooks, and firm policy for Malay AI Evaluation Specialist (Singaporean Dialect) assignments.\n* Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n* Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n* Capture the right next step so the modeling team can train on it.\n* Adjudicate disputed treatments against published playbooks or firm guidance.\n* Maintain reviewer-quality scores in inter-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Direct working experience in malay ai evaluation specialist operations on real teams for Malay AI Evaluation Specialist (Singaporean Dialect) work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the policy or workflow being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Grade a model's response to a real malay ai evaluation specialist operations ticket and rate workflow, tone, and escalation.\n* Flag a missed escalation with the right severity tag and corrected next step.\n* Adjudicate a disputed playbook call between two reviewers using firm guidance.\n* Audit a 25-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* Prior experience training, calibrating, or QA-ing operations teams.\n* Familiarity with AI-assisted workflow tooling and its failure modes.\n* Bilingual experience for cross-region operations.\n\n**Skills**\n----------\n\n* Operational review\n* Policy adherence\n* Workflow judgment\n* Stakeholder communication\n* Malay AI Evaluation specialist operations\n* AI model evaluation\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n$30 / hr\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "\ud83d\udcb0 30.0\u201330.0 USD/hourly",
+      "match_score": 71,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "3b4e6c2cb51227daae92": {
+      "id": "3b4e6c2cb51227daae92",
+      "title": "AI Quality Analyst (Personalization) - Polish",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=6ab7d8682e8cf3b4",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/ai-quality-analyst-personalization-polish-aoj-dbb497f4772ef8afd4?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-dbb497f4772ef8afd4&role=AI+Quality+Analyst+%28Personalization%29+-+Polish&category=enterprise-workflow-tool-use&source=indeed&jobId=aoj-dbb497f4772ef8afd4&sourceJobId=aoj-dbb497f4772ef8afd4",
+      "description": "AI Quality Analyst (Personalization) - Polish is a remote review track for evaluating AI outputs across ai quality analyst polish specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\nAI Quality Analyst Polish specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would \u2014 checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current ai quality analyst polish specialist operations workflows, playbooks, and firm policy for AI Quality Analyst (Personalization) - Polish assignments.\n* Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n* Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n* Capture the right next step so the modeling team can train on it.\n* Adjudicate disputed treatments against published playbooks or firm guidance.\n* Maintain reviewer-quality scores in inter-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Direct working experience in ai quality analyst polish specialist operations on real teams for AI Quality Analyst (Personalization) - Polish work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the policy or workflow being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Grade a model's response to a real ai quality analyst polish specialist operations ticket and rate workflow, tone, and escalation.\n* Flag a missed escalation with the right severity tag and corrected next step.\n* Adjudicate a disputed playbook call between two reviewers using firm guidance.\n* Audit a 25-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* Prior experience training, calibrating, or QA-ing operations teams.\n* Familiarity with AI-assisted workflow tooling and its failure modes.\n* Bilingual experience for cross-region operations.\n\n**Skills**\n----------\n\n* Operational review\n* Policy adherence\n* Workflow judgment\n* Stakeholder communication\n* AI Quality Analyst Polish specialist operations\n* Domain-Specific Languages\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n$20 / hr\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "\ud83d\udcb0 20.0\u201320.0 USD/hourly",
+      "match_score": 71,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "operations",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "441528545f08f76f900a": {
+      "id": "441528545f08f76f900a",
+      "title": "QA Analyst",
+      "company": "Robotics Technologies",
+      "location": "Jersey City, NJ, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=80fb55611954693a",
+      "job_url_direct": "https://roboticstechno.com/view_job?mode=apply&id=39639&hr_id=3897",
+      "description": "* Job ID:\n\n  J56039\n* Job Title:\n\n  QA Analyst\n* Location:\n\n  Jersey City, NJ\n* Duration:\n\n  24 Months + Extension\n* Domain Exposure:\n\n  Material\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, C2C\n* Work Authorization:\n\n  US Citizen, Green Card, H-1B, OPT-EAD, CPT, Other\n\n  \n\n**Job Title: QA Analyst**  \n**Location: Jersey City, NJ(Remote)**  \n**Duration: 24 Months + Extension**\n  \n**Bill Rate: $79/hour (C2C)**\n  \n**Job Type: W-2, 1099, C2C**\n  \n**Client: To Be Discussed Later**\n  \n**Work Authorization: US Citizen, Green Card, OPT-EAD, CPT, H-1B, H4-EAD, Other**\n\n**Job Description:**\n\nWe are seeking an experienced QA Tester with strong Medicaid Management Information System (MMIS) experience to support State Government healthcare projects. The ideal candidate will have hands-on experience testing state Medicaid systems, validating healthcare claims processing, eligibility, enrollment, provider management, and other Medicaid-related functionalities.\n  \nCandidates with prior experience working directly with State Medicaid Agencies, State Government healthcare programs, or State MMIS modernization projects are highly preferred.\n\n**Key Responsibilities:**\n\nPerform functional, integration, regression, system, and end-to-end testing for MMIS applications.\n  \nValidate Medicaid claims processing, adjudication, payment, and reimbursement workflows.\n  \nTest Medicaid eligibility, enrollment, provider management, and member management functionalities.\n  \nDevelop and execute test scenarios, test cases, test scripts, and test plans based on business and functional requirements.\n  \nValidate Medicaid claims, including professional, institutional, and pharmacy claims.\n  \nTest EDI transactions, including HIPAA X12 837, 835, 834, and 270/271.\n  \nValidate provider payments, claims adjustments, denials, remittance advice, and benefit configurations.\n  \nPerform backend database testing using SQL queries to validate data accuracy and integrity.\n  \nIdentify, document, track, and manage defects using tools such as Jira, ALM, or Azure DevOps.\n  \nCollaborate with Business Analysts, developers, State Medicaid SMEs, and project stakeholders.\n  \nSupport User Acceptance Testing (UAT), System Integration Testing (SIT), and production validation.\n  \nEnsure compliance with Medicaid, CMS, HIPAA, and state-specific healthcare regulations.\n  \nParticipate in State Medicaid system modernization, enhancement, and implementation projects.\n\n**Required Qualifications:**\n\n8+ years of experience in Software Quality Assurance / Testing.\n  \nStrong hands-on experience with MMIS (Medicaid Management Information System).\n  \nMust have prior experience working on State Medicaid / State Government healthcare projects.\n  \nStrong understanding of Medicaid claims processing and adjudication.\n  \nExperience testing Medicaid eligibility, enrollment, provider management, and member management modules.\n  \nHands-on experience with SQL for backend database validation.\n  \nExperience with EDI transactions (837, 835, 834, 270/271).\n  \nStrong knowledge of functional, integration, regression, and end-to-end testing.\n  \nExperience preparing test plans, test scenarios, test cases, and defect reports.\n  \nFamiliarity with Medicaid business processes, CMS guidelines, and HIPAA compliance.\n  \nExperience working with Agile/Scrum and defect management tools.\n\n  \n\n**Equal Opportunity Employer**  \n  \n\nWe are an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, national origin, citizenship/ immigration status, veteran status, or any other status protected under federal, state, or local law.",
+      "salary": "\ud83d\udcb0 79.0\u201379.0 USD/hourly",
+      "match_score": 70,
+      "matched_terms": [
+        "remote",
+        "QA",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "2cf9fda9636285cd0401": {
+      "id": "2cf9fda9636285cd0401",
+      "title": "Quality Engineer",
+      "company": "Beacon Biosignals",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=f16a7a759339e4a1",
+      "job_url_direct": "https://grnh.se/m44ngyvq9us",
+      "description": "Beacon Biosignals is transforming precision medicine for the brain, from clinical development to clinical care. For Life Sciences partners, we offer the leading at-home EEG platform for clinical development of novel therapeutics for neurological, psychiatric, and sleep disorders. Our Diagnostics business is building the most comprehensive at-home platform for precision diagnostics, combining EEG and cardiopulmonary signals to deliver reimbursable assessments for sleep and central nervous system disorders. Together, we're changing the way patients are diagnosed and treated for any disorder that affects brain physiology.\n\nThis Quality Engineering role reports to the VP of Quality and is responsible for maintaining and improving compliance of postmarket activities at Beacon Biosignals worldwide. The position will be located in the US, preferably in or near a Beacon hub in Boston or Chicago.\n\n  \n\n**What success looks like:**\n\n* Support of a 21 CFR Part 820 and ISO 13485 compliant postmarket process for complaint handling, supplier management and monitoring, and risk management\n* Work with internal stakeholders on the qualification and approval of suppliers. Work with suppliers to address changes, nonconformances, and implement corrective actions, as necessary\n* Perform supplier qualification activities, including evaluations and audits (some travel required.)\n* Report on supplier performance and manage removal of suppliers when needed.\n* Support Complaints, SCARs, CAPAs, and Corrections in compliance with respect to due dates, ensure tasks are completed on time and items are recorded appropriately by responsible personnel.\n* Ensure deviations are opened and closed in a timely manner and documentation is compliant\n* Up to 20% travel required\n\n  \n\n**What you will bring:**\n\n* Bachelor's degree in relevant scientific/technical field such as Biomedical, Electrical, Systems Engineering or equivalent 5 years experience in a regulated industry\n* 5+ years Quality experience in a regulated environment following ISO 13485:2016 and 21CFR Part 820\n* Certified Quality Auditor, Certified Quality, Engineer or Certified Software Quality Engineer desired, but not required\n* Experience auditing and being audited\n* Proven ability to work autonomously with hands-on problem solving expertise and strong analytical skills\n* Exceptional interpersonal and relationship-building abilities, with a talent for managing projects and guiding decisions across multiple internal and external stakeholders.\n* Strong analytical, organizational, and communication skills, with a demonstrated ability to adapt effectively to changing circumstances\n* Ability to handle multiple projects simultaneously, prioritizing based on risk\n* Strong team player, as this position interacts with Beaconeers at multiple sites\n\nThe base salary range for this role is $120,000 - $142,000, depending on past experience, specific skills, and qualifications.The base salary is one component of the total compensation package, which includes equity, PTO and other benefits.\n\nAt Beacon, we've found that cultural and scientific impact is driven most by those that lead by example. As such, we're always seeking new contributors whose work demonstrates an avid curiosity, a bias towards simplicity, an eye for composability, a self-service mindset, and - most of all - a deep empathy towards colleagues, stakeholders, users, and patients. We believe a diverse team builds more robust systems and achieves higher impact.",
+      "salary": "\ud83d\udcb0 120000.0\u2013142000.0 USD/yearly",
+      "match_score": 70,
+      "matched_terms": [
+        "base salary",
+        "documentation",
+        "remote",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "341b2a6c90e266cb3917": {
+      "id": "341b2a6c90e266cb3917",
+      "title": "Image Editing QA",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=3c840fdf8a2ea41d",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/image-editing-qa-aoj-f0a8104cb4c7397310?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-f0a8104cb4c7397310&role=Image+Editing+QA&category=video-vision-spatial-ai&source=indeed&jobId=aoj-f0a8104cb4c7397310&sourceJobId=aoj-f0a8104cb4c7397310",
+      "description": "Image Editing QA is a remote evaluation track for reviewing image editing qa evaluation prompts and responses against AuraOne's quality rubric. Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling team can use to retrain.\n\n**Why this role matters**\n-------------------------\n\nAI data reviewers help turn image editing qa evaluation outputs into auditable labels, rationales, and regression cases for AuraOne Human Data.\n\n**Responsibilities**\n--------------------\n\n* Evaluate image editing qa evaluation model outputs against a versioned rubric and assign severity tags for Image Editing QA assignments.\n* Compare paired responses and pick the stronger answer with a written rationale.\n* Label hallucinations, instruction-following failures, and unsafe content with structured tags.\n* Capture ambiguous prompts and route them back to the program team for rubric updates.\n* Maintain reviewer-quality scores by calibrating against gold-standard examples each week.\n* Document recurring failure modes so the modeling team can target them in the next training run.\n\n**Qualifications**\n------------------\n\n* Prior evaluation, annotation, or human-rater experience on image editing qa evaluation or adjacent content for Image Editing QA work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the issue and the rubric clause being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Compare two image editing qa evaluation model responses to the same prompt and pick the stronger one with rationale.\n* Tag an unsafe response with the correct policy category and severity.\n* Audit a 50-row batch for rubric consistency and report drift to the program lead.\n* Propose a rubric clarification after spotting a recurring failure mode.\n\n**Nice to have**\n----------------\n\n* Background in linguistics, content moderation, or trust & safety review.\n* Experience with inter-rater agreement metrics and calibration cycles.\n* Domain expertise that lets you spot subject-matter errors automated checks miss.\n\n**Skills**\n----------\n\n* Model output evaluation\n* Rubric-based annotation\n* Severity tagging\n* Inter-rater calibration\n* Image Editing QA evaluation\n* Adobe Photoshop\n* Adobe Illustrator\n* Design\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\nHourly rate confirmed after the interview process.\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "QA"
+      ],
+      "queued_at": null
+    },
+    "d2962b3a9e66adca48b1": {
+      "id": "d2962b3a9e66adca48b1",
+      "title": "Image Annotation QA - Design Tooling Review",
+      "company": "AuraOne Human Data",
+      "location": "Remote, USA",
+      "category": "Junior QA",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=1b8e80c3b9a6a92b",
+      "job_url_direct": "https://auraone.ai/public/ai-labs/jobs/image-annotation-qa-design-tooling-review-aoj-efb64a4445beb68096?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-efb64a4445beb68096&role=Image+Annotation+QA+-+Design+Tooling+Review&category=video-vision-spatial-ai&source=indeed&jobId=aoj-efb64a4445beb68096&sourceJobId=aoj-efb64a4445beb68096",
+      "description": "Image Annotation QA - Design Tooling Review is a remote evaluation track for reviewing image annotation qa evaluation prompts and responses against AuraOne's quality rubric. Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling team can use to retrain.\n\n**Why this role matters**\n-------------------------\n\nAI data reviewers help turn image annotation qa evaluation outputs into auditable labels, rationales, and regression cases for AuraOne Human Data.\n\n**Responsibilities**\n--------------------\n\n* Evaluate image annotation qa evaluation model outputs against a versioned rubric and assign severity tags for Image Annotation QA - Design Tooling Review assignments.\n* Compare paired responses and pick the stronger answer with a written rationale.\n* Label hallucinations, instruction-following failures, and unsafe content with structured tags.\n* Capture ambiguous prompts and route them back to the program team for rubric updates.\n* Maintain reviewer-quality scores by calibrating against gold-standard examples each week.\n* Document recurring failure modes so the modeling team can target them in the next training run.\n\n**Qualifications**\n------------------\n\n* Prior evaluation, annotation, or human-rater experience on image annotation qa evaluation or adjacent content for Image Annotation QA - Design Tooling Review work.\n* Comfort applying multi-page rubrics consistently across long batches.\n* Clear written reasoning that names the issue and the rubric clause being applied.\n* Strong attention to detail and the ability to flag when a prompt itself is the problem.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Compare two image annotation qa evaluation model responses to the same prompt and pick the stronger one with rationale.\n* Tag an unsafe response with the correct policy category and severity.\n* Audit a 50-row batch for rubric consistency and report drift to the program lead.\n* Propose a rubric clarification after spotting a recurring failure mode.\n\n**Nice to have**\n----------------\n\n* Background in linguistics, content moderation, or trust & safety review.\n* Experience with inter-rater agreement metrics and calibration cycles.\n* Domain expertise that lets you spot subject-matter errors automated checks miss.\n\n**Skills**\n----------\n\n* Model output evaluation\n* Rubric-based annotation\n* Severity tagging\n* Inter-rater calibration\n* Image Annotation QA evaluation\n* Adobe Photoshop\n* Adobe Illustrator\n* Design\n\n**Work model**\n--------------\n\nRemote \u2014 US-eligible. Remote \u00b7 Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\nHourly rate confirmed after the interview process.\n\n**Application process**\n-----------------------\n\nApply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "specialist",
+        "remote",
+        "QA"
       ],
       "queued_at": null
     }
