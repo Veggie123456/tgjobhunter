@@ -1,359 +1,8 @@
 {
   "offset": 843503515,
-  "search_cursor": 287,
+  "search_cursor": 4,
   "apply_queue": {},
   "alert_jobs": {
-    "3015c48ebaf9c320d900": {
-      "id": "3015c48ebaf9c320d900",
-      "title": "Customer Service Representative",
-      "company": "Lotus People",
-      "location": "Sydney, New South Wales, Australia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490982184",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 70,
-      "matched_terms": [
-        "customer service",
-        "representative"
-      ],
-      "queued_at": null
-    },
-    "ed30d14e995591f10385": {
-      "id": "ed30d14e995591f10385",
-      "title": "VIP Customer Service Specialist",
-      "company": "MEXC",
-      "location": "Malaysia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4491299263",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer service",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "c23afa0f0b8ac1a045f0": {
-      "id": "c23afa0f0b8ac1a045f0",
-      "title": "Customer Support Specialist - Croatian",
-      "company": "bragg",
-      "location": "Ljubljana, Slovenia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490292026",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "467aeb00248cfc3c5e51": {
-      "id": "467aeb00248cfc3c5e51",
-      "title": "Customer Support Specialist",
-      "company": "Digmarit Ltd",
-      "location": "Laos",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489780002",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 68,
-      "matched_terms": [
-        "customer support",
-        "specialist"
-      ],
-      "queued_at": null
-    },
-    "384d9031a980c3da6436": {
-      "id": "384d9031a980c3da6436",
-      "title": "Client Support Specialist - Nuvei",
-      "company": "Nuvei",
-      "location": "Bogota, D.C., Capital District, Colombia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4429624541",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 64,
-      "matched_terms": [
-        "specialist",
-        "client support"
-      ],
-      "queued_at": null
-    },
-    "989cf76b0cdeee2a7c0c": {
-      "id": "989cf76b0cdeee2a7c0c",
-      "title": "Client support Specialist",
-      "company": "Blossom",
-      "location": "Colombia",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4491500880",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 64,
-      "matched_terms": [
-        "specialist",
-        "client support"
-      ],
-      "queued_at": null
-    },
-    "8430a5674a50dd003e59": {
-      "id": "8430a5674a50dd003e59",
-      "title": "Infrastructure Specialist-Cloud Application Operations",
-      "company": "IBM",
-      "location": "Brookhaven, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490108108",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 63,
-      "matched_terms": [
-        "specialist",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "620c8c1095a9f1afac65": {
-      "id": "620c8c1095a9f1afac65",
-      "title": "Information Technology Operations Specialist",
-      "company": "Soni",
-      "location": "King of Prussia, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490940332",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 63,
-      "matched_terms": [
-        "specialist",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "3d8957bfb2791e12450b": {
-      "id": "3d8957bfb2791e12450b",
-      "title": "US - Customer Service Agent",
-      "company": "THG Ingenuity",
-      "location": "New Jersey, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4480686394",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer service"
-      ],
-      "queued_at": null
-    },
-    "6f67afd09aa71293e0c3": {
-      "id": "6f67afd09aa71293e0c3",
-      "title": "Technical Operations Coordinator",
-      "company": "Montgomery County, PA",
-      "location": "Norristown, PA, USA",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4481155697",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "coordinator",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "56a39476e4a6564ac4bd": {
-      "id": "56a39476e4a6564ac4bd",
-      "title": "CUSTOMER SUPPORT (Hybrid)",
-      "company": "AI AVATAR VIETNAM CO., LTD",
-      "location": "Hanoi Capital Region",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4490262973",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "ae518303ac299c04324f": {
-      "id": "ae518303ac299c04324f",
-      "title": "Customer Support Talent Pool - Dutch, Danish or Swedish Speaking",
-      "company": "ComeOn Group",
-      "location": "Sliema, Malta",
-      "category": "Web3 Support",
-      "site": "linkedin",
-      "job_url": "https://www.linkedin.com/jobs/view/4489790431",
-      "job_url_direct": "",
-      "description": "",
-      "salary": "",
-      "match_score": 62,
-      "matched_terms": [
-        "customer support"
-      ],
-      "queued_at": null
-    },
-    "4286388afc4143a4e136": {
-      "id": "4286388afc4143a4e136",
-      "title": "Digital Sales Representative",
-      "company": "Ferguson",
-      "location": "Richmond, VA, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=cb28068e9397ab5c",
-      "job_url_direct": "https://ferguson.wd1.myworkdayjobs.com/Ferguson_Experienced/job/Remote/Digital-Sales-Representative_R-142176",
-      "description": "**Job Posting:**\n\nSince 1953, Ferguson has been a source of quality supplies for a variety of industries. Together We Build Better infrastructure, better homes and better businesses. We exist to make our customers\u2019 complex projects simple, successful, and sustainable. We proactively solve problems, adapt and grow to continuously serve our customers, communities and each other. Ferguson, a Fortune 500 company, is proud to provide best-in-class products, service and capabilities across the following industries: Commercial/Mechanical, Facilities Supply, Fire and Fabrication, HVAC, Industrial, Residential Trade, Residential Building and Remodel, Waterworks and Residential Digital Commerce. Ferguson has approximately 36,000 associates across 1,700 locations. Ferguson is a community of proud associates who operate with the shared purpose of building something meaningful. You will build a career that you are proud of, at a company you can believe in.\n\nWe have job openings in our Inbound Phone Divisions! As a Digital Sales Representative, your job will be taking care of the customer - \u201cbe the hero\u201d as we say here at Ferguson Home Digital. You will be held accountable for your call/chat quality and performance metrics within service. We expect each and every sales representative to be present, invested, and committed to the overall customer experience. The ideal candidate will exhibit superb relationship building and problem-solving skills while providing outstanding service through sales. An outstanding sales representative will focus on enhancing opportunities within every call to drive revenue and overall company growth. If you identify with any of these qualities, keep reading as we want you to join our team!\n\n**This role is approved to be fully remote within the United States in accordance with company policy.**\n\n  \n\n**Pay:**\n\nEarn a **comprehensive compensation package**, including:\n\n* **Competitive base salary starting at $21.50**\n* **Eligibility for our annual bonus program**\n* **Excellent benefits package**\n\n**Schedule Requirements:**\n\n* This is a **full\u2011time role requiring 40 hours per week**, scheduled over 5 days.\n* Our Operating Hours are:\n  + Monday\u2013Friday: 5am\u20136pm Pacific/8am-9pm Eastern\n  + Saturday: 6am\u20134pm Pacific/ 9:00am\u20137:00pm Eastern\n* Your schedule will fall within these operating hours\n* **Evening and weekend shifts are common and should be expected**\n* We use a **quarterly Schedule Bid** to align business needs with employee shift preferences\n\n**Responsibilities:**\n---------------------\n\n  \n\n* Handle inbound call/chat volume, with expectations of taking between 40-50 inbound customer calls/chats per 8-hour workday.\n* Complete all Brand Sales Trainings (BST) each month.\n* Meet 85% schedule adherence to assigned schedule as referenced in Genesys phone system.\n* Maintain excellent customer service standards through call quality, problem solving, ownership over any customer issue, and going above & beyond to address all needs.\n* Maintain customer records by logging and retaining correct and precise information in Salesforce.com.\n* Proactively identify and report website, process, product page, or post\u2011call issues or bugs encountered during your daily workflow.\n* Work with a team of 15-20 other sales associates.\n* Success will be measured through call quality, and profit dollars generated monthly.\n* Demonstrate strong verbal communication skills with the ability to engage guests.\n* All BST\u2019s must be completed to be eligible for promotions.\n\n**Qualifications:**\n-------------------\n\n  \n\n* High School diploma or equivalent.\n* Minimum of 1\u20132 years of prior sales, retail, or customer service experience, or at least 3 months in a Ferguson Home Digital Customer Service job profile.\n* Be highly detail oriented and have superior interpersonal skills.\n* Proven experience using critical thinking tools to solve customer issues.\n* Self-motivated, great teammate, and fast learner.\n* Systematic and adaptable approach.\n* Strong understanding of Microsoft Excel.\n* Familiarity with the Microsoft Office and Google Office suites.\n* Ability to type 40+ WPM for phone and 45+ WPM for chat.\n* Strong organizational skills.\n* Reliable and consistent internet connection.\n\nAt Ferguson, we care for each other. We value our well-being just as much as our hard work. We are committed to a holistic approach towards benefits plans and programs that support the mental, physical and financial well-being of our associates. Our competitive offering not only includes benefits like health, dental, vision, paid time off, life insurance and a 401(k) with a company match, but our associates also enjoy additional meaningful and inclusive enhancements that are adaptable to their diverse situations and needs, including mental health coverage, gender affirming and family building benefits, paid parental leave, associate discounts, community involvement opportunities and more!\n\n#Li-Remote\n\n\n\n**Pay Range:**\n\n\n\n*Actual pay rate may vary depending upon location. The estimated pay range for this position is below. The specific rate will depend on a candidate\u2019s qualifications and prior experience.*\n\n$21.46 - $34.36\n\n\n\n\n\n***Estimated Ranges displayed are Monthly for Salaried roles*** **OR** ***Hourly for all other roles.***\n\n\n\nThis role is Bonus or Incentive Plan eligible.\n\n\n\nFerguson complies with all wage regulations. The starting wage may be higher in certain locations based on local or state wage requirements.\n\n\n\n*The Company is an equal opportunity employer as well as a government contractor that shall abide by the requirements of 41 CFR 60-300.5(a), which prohibits discrimination against qualified protected Veterans and the requirements of 41 CFR 60-741.5(A), which prohibits discrimination against qualified individuals on the basis of disability.*\n\n*Ferguson Enterprises, LLC. is an equal employment employer* *F/M/Disability/Vet/Sexual* *Orientation/Gender* *Identity.*\n\nEqual Employment Opportunity and Reasonable Accommodation Information",
-      "salary": "\ud83d\udcb0 21.46\u201334.36 USD/hourly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "base salary",
-        "representative",
-        "associate",
-        "inbound",
-        "remote",
-        "advertised base $21.50/hr equivalent"
-      ],
-      "queued_at": null
-    },
-    "9601378c3d6e1b89f14d": {
-      "id": "9601378c3d6e1b89f14d",
-      "title": "Business Development Representative",
-      "company": "Assignar",
-      "location": "Remote, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=ca556deb340cd0db",
-      "job_url_direct": "https://assignar.breezy.hr/p/ae3b0648151a-business-development-representative?source=indeed",
-      "description": "**Business Development Representative**\n=======================================\n\n* Full time\n* Location: Remote, with regular travel to meet prospects and attend trade shows and industry events\n* Base salary: $65,00; OTE: $108k (based on potential commission earnings)\n\nThis isn't a dial-and-log-it BDR role. We sell to large contractors, and the people you'll talk to are CFOs, controllers and operations leaders who expect you to understand their business. You'll work a short list of high-value accounts, research deeply, run the first qualifying conversation yourself, and hand our AEs opportunities that are qualified, multi-threaded and ready to close.\n\n**About Assignar**\n\nAssignar is a mission-led construction tech company. Sean McCreanor (co-founder and CEO) started Assignar in 2014 after running his own contracting business and finding there weren't any good tools for it. Today we work with hundreds of customers, from multi-million-dollar contractors to specialist crews.\n\nWe've found product-market fit. Assignar is the all-in-one margin control platform for contractors. leading digital construction operations for contractors: real-time visibility across jobsites, smart scheduling of workers to projects, equipment tracking, and data that shapes the next bid. We connect the field and finance so contractors protect margin on every job and get paid accurately and faster.\n\n**What does \"own the top of the funnel\" actually mean?**\n\nYou'll sit inside the Marketing team and be the first real conversation most contractors have with Assignar. You'll decide who's worth pursuing, find the right people inside them, run the first discovery conversation, keep it warm and set up the AE to win.\n\nYou'll report to Madeline Crowley (VP of Marketing) and work closely with Account Executives, Solutions Engineers and Marketing. What you hear from prospects every day will shape how we go to market.\n\n**What you'll own**\n\n* **Go after the right accounts.** Research and prioritise target accounts with your AE and Marketing, and qualify inbound leads hard against our ICP. Move on quickly from accounts that don't fit. Spend your time where it counts.\n* **Start conversations that go somewhere.** Run multi-channel outreach (phone, email, LinkedIn and video) personalised to each recipient. Multi-thread every account to reach finance and operations leaders, not just one contact.\n* **Keep warm prospects warm.** Nurture prospects between meetings with follow-up that's useful, not pushy.\n* **Turn engagement into pipeline.** Follow up personally with prospects who attend our webinars, events and campaigns.\n* **Set the AE up to win.** Hand off opportunities with the buying group mapped, the economic buyer identified, the problem sized and a dated next step.\n* **Show up in person.** Attend trade shows and industry events like CCF and association days, and meet contractors where they are.\n* **Run discovery yourself.** Lead video qualification calls with an industry-specific deck. Confirm fit, identify the economic buyer and size the problem before the opportunity moves to an AE.\n* **Close the loop with feedback.** Share what's landing and what isn't.\n* **Keep Salesforce clean.** Using agents, log every call, email and meeting, and keep lead and contact records current so anyone on the team can pick up an account and know exactly where it's at.\n* **Own your number.** You're measured on qualified pipeline and revenue from right-fit accounts, not meetings booked.\n\n**Who you are**\n\n* **An experienced BDR.** 2+ years in B2B sales development, ideally selling into mid-market or enterprise accounts with multiple stakeholders. SaaS preferred, and construction or trades experience is a bonus.\n* **Pipeline-driven.** You have a track record of hitting or beating your number on qualified pipeline or revenue, not just activity.\n* **At home in the modern sales stack.** Salesforce, Salesloft and Clay feel familiar, and you use AI tools to research and personalise faster.\n* **A sharp writer and communicator.** The best BDRs at Assignar write emails that customers actually reply to, because they're written for the recipient, not the sender. They're just as strong on the phone and on video.\n* **Curious about construction.** You don't need to have worked in the industry, but you want to understand how contractors run their business.\n* **Organised and self-directed.** You manage your own pipeline, move fast and like being part of a supportive team.\n* **Resourceful.** You don't wait for leads. You build your own target lists from industry associations, customer lookalikes and public project data.\n* **Comfortable talking to finance.** You can hold a credible conversation with a CFO or controller about margin, cash flow and job costing.\n* **Ambitious.** You want to grow into an AE role, and you'll keep building your skills, especially with AI, to get there.\n\n**The tools you'll work with**\n\nSalesforce \u00b7 Salesloft \u00b7 Clay \u00b7 AI tools and agents \u00b7 Apollo \u00b7 JustCall\n\n**Why Join**\n\n* You'll be part of a company with real product-market fit and a clear market to go after.\n* You'll work directly with go-to-market team members and participate in turning your daily work into revenue.\n* You'll get out to events and meet the people who use our product.\n* You'll be in a small team where your ideas about what's working get heard and used.\n\n**How we hire**\n\nWe keep it quick and practical. We care about how you think, how you write and how you talk to people.\n\n* **Apply via Breezy.** Tell us a bit about yourself and what you've been working on.\n* **Phone screen with Sophie, Head of People & Culture (30 min).** Get to know each other and ask us anything.\n* **Interview with Madeline, VP of Marketing (45 to 60 min).** Your experience, how you prospect and how you work with a sales team.\n* **Reference checks.** We'll speak with two or three people you've worked with, ideally a former manager, to hear how you prospect, how you handle a number and what you're like on a team.\n\n**What we stand for: Our Values**\n\n* Do what's right\n* Customers are our why\n* Grow with purpose\n* One team\n\nWe value inclusion and welcome applicants from every background. If any part of this process needs to look different for you, let us know and we'll adjust.\n\nNo recruiters please \u00b7 We respond to every application within 5 business days",
-      "salary": "\ud83d\udcb0 65.0\u201365.0 USD/daily",
-      "match_score": 99,
-      "matched_terms": [
-        "sales development",
-        "business development",
-        "inbound leads",
-        "base salary",
-        "representative",
-        "specialist",
-        "inbound"
-      ],
-      "queued_at": null
-    },
-    "04d8dc229ad748d5fadd": {
-      "id": "04d8dc229ad748d5fadd",
-      "title": "Marketing Specialist",
-      "company": "Keystone Med Waste Solutions",
-      "location": "Remote, USA",
-      "category": "Entry Level Sales (Guaranteed Base)",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=2d4382838c345452",
-      "job_url_direct": "https://ht-jobs.net/tg4qsb0?s=in",
-      "description": "**Keystone Med Waste Solutions**\n\nReports to: Head of Sales and Marketing\n\nLocation: Fully remote\n\nEmployment: Full-time\n\nTravel: Minimal, as needed for select events or meetings\n\n**Compensation & Benefits**\n\nBase Salary: $75,000 to 90,000 annually, commensurate with experience\n\n**Benefits:**\n\n* Health insurance\n* Paid time off (PTO)\n* Paid holidays\n* 401(k)\n* Professional development opportunities\n\n**About Keystone**\n\nKeystone Med Waste Solutions is a growing medical waste management company providing collection, transportation, treatment, and compliance support to healthcare organizations across multiple US states and regions.\n\nKeystone serves a diverse range of healthcare organizations, from independent practices and community health centers to multi-location healthcare systems and specialty providers.\n\n**Our commitment is simple: Elite Service. Expert Compliance. Competitive Value.**\n\nWe believe medical waste management should be one less thing our customers have to worry about. Through dependable service, responsive support, customized solutions, and a commitment to compliance, we're building lasting partnerships with the healthcare organizations we serve.\n\nAs we expand our geographic reach, service capabilities, and treatment infrastructure, we're looking for a talented, hands-on Marketing Specialist to help strengthen our brand, accelerate growth, and generate measurable business results.\n\n**The Role**\n\nThe Marketing Specialist will lead the execution of Keystone's marketing initiatives, translating business priorities into effective campaigns that build awareness, generate qualified leads, support sales, and contribute to revenue growth.\n\nReporting to the Head of Sales and Marketing, this individual will manage day-to-day marketing activities across digital channels, email, content development, direct mail, trade shows, and sales support.\n\nThis is a hands-on, results-oriented position for someone who enjoys both the creative and analytical sides of marketing. The ideal candidate is a strong writer, an organized project manager, and a resourceful marketer who can move comfortably between strategy and execution.\n\nYou'll work closely with sales, customer success, operations, and leadership to ensure marketing efforts support Keystone's growth priorities, target the right healthcare organizations, and communicate our value effectively.\n\nYou'll also coordinate established freelance partners, manage approved budgets, and help build scalable marketing processes as the company grows.\n\n**Key Responsibilities**\n\nBrand Management and Content Development\n\n* Maintain and strengthen Keystone's brand identity, messaging, and visual consistency across all marketing channels.\n* Develop compelling, professional content for websites, email campaigns, brochures, presentations, sales materials, case studies, and other communications.\n* Clearly communicate Keystone's competitive differentiators, including service reliability, compliance expertise, customer support, flexibility, and overall value.\n* Develop educational content that helps healthcare organizations better understand medical waste management, regulatory considerations, employee safety, and operational best practices.\n* Maintain and organize current marketing assets, templates, and brand resources.\n* Coordinate freelance designers, writers, and other creative partners, providing direction, reviewing deliverables, and managing deadlines.\n* Ensure technical, operational, and compliance-related content is accurate and appropriately reviewed before publication.\n\nDigital Marketing and Lead Generation\n\n* Plan, execute, and optimize digital marketing campaigns designed to generate qualified leads and measurable sales opportunities.\n* Manage paid search, organic search, email marketing, social media, website content, and landing page initiatives.\n* Maintain and improve Keystone's website, including content updates, SEO, conversion optimization, and lead-generation functionality.\n* Develop targeted campaigns for specific healthcare segments, geographic markets, and service offerings.\n* Monitor campaign performance, advertising spend, lead quality, conversion rates, and return on investment.\n* Identify opportunities to improve marketing effectiveness through testing, analytics, and ongoing optimization.\n* Coordinate digital campaigns with sales outreach and prospect follow-up.\n\nHubSpot, Marketing Automation, and CRM\n\n* Manage marketing activities within HubSpot, including contact segmentation, email campaigns, forms, lists, workflows, and lead-nurturing programs.\n* Develop and maintain automated campaigns that support prospect engagement throughout the sales cycle.\n* Partner with sales to maintain accurate prospect data, campaign attribution, lead-source tracking, and effective lead handoffs.\n* Develop targeted audience lists based on healthcare segment, geography, service needs, and other relevant criteria.\n* Maintain reliable tracking and reporting through HubSpot, Google Analytics, Google Tag Manager, and related tools.\n* Build dashboards and reports that provide visibility into marketing performance, lead generation, pipeline contribution, and revenue results.\n* Continuously identify opportunities to improve marketing processes, automation, and CRM data quality.\n\nSales Enablement and Business Development Support\n\n* Work closely with the sales team to develop targeted prospecting campaigns, outreach materials, and lead-generation initiatives.\n* Create and maintain sales presentations, brochures, capability statements, proposal templates, and other business development resources.\n* Support the development of marketing content for RFP responses, major proposals, and strategic business opportunities.\n* Coordinate marketing campaigns with sales outreach to improve prospect engagement and conversion.\n* Gather customer insights, competitive intelligence, and sales feedback to refine messaging and campaign strategies.\n* Help develop marketing initiatives that support customer referrals, strategic partnerships, and new business opportunities.\n\nMarket Expansion and Targeted Campaigns\n\n* Develop marketing campaigns supporting Keystone's geographic expansion, transportation coverage, treatment capabilities, and new market opportunities.\n* Work with leadership and operations to align marketing activity with service availability, operational capacity, and strategic growth priorities.\n* Develop differentiated messaging and campaigns for various healthcare segments, including independent practices, specialty providers, and multi-location organizations.\n* Support marketing initiatives surrounding new services, treatment facilities, partnerships, and other company developments.\n* Identify opportunities to increase brand awareness and market penetration in priority regions.\n\nCustomer Marketing and Engagement\n\n* Develop and manage customer-facing communications, including newsletters, educational resources, service updates, and other engagement initiatives.\n* Partner with Customer Success to identify opportunities for customer education, testimonials, referrals, and relationship development.\n* Help communicate Keystone's service capabilities, compliance resources, and additional solutions to existing customers.\n* Support customer retention and account growth through relevant, informative, and consistent communications.\n\nTrade Shows, Events and Direct Mail\n\n* Manage planning and execution for designated trade shows, conferences, and industry events, including budgets, registration, booth materials, promotional items, shipping, and vendor coordination.\n* Develop pre-event promotional campaigns, attendee outreach, lead-capture processes, and post-event follow-up strategies.\n* Coordinate event participation with sales and leadership, ensuring clear objectives and appropriate materials.\n* Develop targeted direct mail campaigns based on geography, healthcare segment, and service opportunities.\n* Manage mailing lists, creative development, printing, vendors, schedules, and campaign tracking.\n* Measure event and direct mail effectiveness through qualified leads, opportunities, and resulting revenue.\n* Most event coordination will be handled remotely.\n\nMarketing Planning, Budgeting and Performance\n\n* Maintain an integrated marketing calendar with clearly defined priorities, deliverables, deadlines, and campaign objectives.\n* Manage approved marketing budgets and outside vendor expenses.\n* Establish measurable campaign goals and regularly report results to the Head of Sales and Marketing.\n* Evaluate marketing effectiveness based on qualified lead generation, pipeline contribution, customer acquisition, and return on investment.\n* Recommend improvements to marketing strategies, processes, and resource allocation based on performance data.\n* Collaborate across departments to ensure marketing priorities remain aligned with company objectives.\n\n**Required Qualifications**\n\n* Bachelor's degree in marketing, communications, business, a related field, or equivalent relevant professional experience.\n* At least 3\u20135 years of progressive B2B marketing experience, including direct responsibility for campaign execution and performance.\n* Demonstrated success developing and executing marketing campaigns that generate qualified leads and support revenue growth.\n* Excellent writing, editing, and communication skills, with the ability to translate complex services into clear, compelling messages.\n* Hands-on experience with email marketing, digital advertising, website management, SEO, and marketing analytics.\n* Practical experience with CRM systems, marketing automation, audience segmentation, and lead-nurturing campaigns.\n* Experience managing marketing budgets, freelance partners, and outside vendors.\n* Strong project management and organizational skills, with the ability to manage multiple initiatives and meet deadlines.\n* Comfortable analyzing marketing performance, identifying opportunities, and making data-driven recommendations.\n* Ability to work independently, take ownership of projects, and collaborate effectively in a fully remote environment.\n\n**Preferred Qualifications**\n\n* Exceptional attention to detail, accuracy, and quality control, with a demonstrated ability to manage multiple concurrent projects, competing priorities, and tight deadlines without compromising the quality of work.\n* Experience in healthcare, medical waste, environmental services, logistics, or another regulated B2B service industry.\n* Strong working knowledge of HubSpot, including email campaigns, workflows, segmentation, reporting, and CRM integration.\n* Experience with Google Ads, Google Analytics 4, Google Tag Manager, and WordPress/Elementor.\n* Experience marketing to healthcare administrators, operations leaders, procurement professionals, and other organizational decision-makers.\n* Experience supporting sales teams through targeted prospecting campaigns, presentations, proposals, and marketing collateral.\n* Experience with geographic market expansion or multi-location service businesses.\n* Experience developing and coordinating trade shows, conferences, direct mail, and integrated marketing campaigns.\n* Ability to create and edit marketing materials using Canva, Adobe Creative Suite, or similar tools.\n\n**What Success Looks Like**\n\nThe successful Marketing Specialist will help Keystone build a more consistent, effective, and measurable marketing program.\n\nSuccess will be demonstrated through:\n\n* Brand consistency: Keystone presents a clear, professional, and differentiated brand across all channels and materials.\n* Qualified lead generation: Marketing consistently produces relevant opportunities in priority healthcare segments and serviceable geographic markets.\n* Sales alignment: Marketing and sales work together through coordinated campaigns, effective lead handoffs, and shared performance goals.\n* Campaign execution: Marketing initiatives are well organized, delivered on schedule, and managed within approved budgets.\n* Marketing effectiveness: Campaign performance is regularly evaluated and optimized based on lead quality, conversion, pipeline contribution, and revenue.\n* Customer engagement: Existing customers receive valuable, consistent communications that strengthen relationships and support retention.\n* Operational independence: Marketing activities move forward efficiently, with strong ownership, sound judgment, and minimal day-to-day oversight.\n* Scalable processes: Keystone develops repeatable marketing systems, tools, and resources that support continued growth.\n\n**The Ideal Candidate**\n\nWe're looking for someone who combines creativity, initiative, exceptional attention to detail, and a strong sense of accountability.\n\nSomeone who can write a compelling email in the morning, optimize a campaign in HubSpot, coordinate a new sales brochure, and analyze lead-generation performance \u2014 all while keeping the bigger business objectives in mind.\n\nExceptional attention to detail is essential. This role involves managing multiple projects, campaigns, deadlines, and moving parts simultaneously. The successful candidate must be highly organized, meticulous in their work, and committed to accuracy and quality. From customer-facing communications and campaign execution to CRM data, reporting, and brand consistency, we expect someone who takes ownership of the details, catches potential errors before they become problems, and consistently delivers polished, professional work.\n\nYou'll be comfortable working in a growing organization where priorities evolve, initiative is valued, and the ability to manage competing demands without sacrificing quality is critical.\n\nMost importantly, you'll understand that great marketing isn't simply about creating content or generating activity. It's about communicating value, building trust, supporting sales, and helping grow the business.",
-      "salary": "\ud83d\udcb0 75000.0\u201390000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "business development",
-        "qualified leads",
-        "base salary",
-        "customer support",
-        "specialist",
-        "remote",
-        "operations"
-      ],
-      "queued_at": null
-    },
-    "e321c68030f8f09446ed": {
-      "id": "e321c68030f8f09446ed",
-      "title": "Manager, Payroll Tax Operations",
-      "company": "Intuit",
-      "location": "Trenton, NJ, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=0a609e4597716948",
-      "job_url_direct": "https://dsp.prng.co/fglCbXb",
-      "description": "**Overview**\n------------\n\nCome join Payroll Tax Operations (PTO) as a people manager leading a high-performing team of payroll tax experts. In this role you will lead a cross-functional team of Tax Processors responsible for the end-to-end resolution of payroll tax issues across all four core processes: Notices, Corrections, Amendments, and Pay & File. We are looking for a highly motivated, experienced people manager with deep hands-on payroll tax expertise, a passion for developing people, and the operational discipline to hold a high bar for performance, quality, and customer outcomes across a high-volume case environment.\n\nThis role requires an experienced practitioner who has personally resolved complex State and Federal payroll tax notices, amended tax returns across multiple states, and corrected payroll tax errors at the source and who can now coach and lead a team to do the same. The ideal candidate is a payroll tax specialist, not a generalist.\n\n**Responsibilities**\n\n* Translate the vision and values of PTO into a compelling team strategy that drives day-to-day priorities and a 1+ year operating plan aligned to department goals.\n* Own delivery and quality outcomes for your assigned team, ensuring SLA compliance across all active cases and eliminating backlogs to reduce customer burden.\n* Lead a team of Tax Processors through regular Monthly Check-Ins, structured SBIC feedback, performance coaching, and career development conversations.\n* Serve as the final internal escalation point for the most complex IRS and state agency notices, penalty assessments, cross-jurisdictional discrepancies, and multi-quarter audit inquiries arriving with a resolution strategy, not just a problem.\n* Drive utilization of lean management practices including Daily Huddles, WIP reviews, and performance board management to surface and solve problems in real time.\n* Partner with team to monitor team WIP daily; identify aging cases, holds, and systemic blockers; enforce intake and closure workflows to ensure no notice, payroll correction, and amended return exceeds agency deadlines without documented action.\n* Own SOP and Knowledge Base (KB) governance; direct team in authoring and validating process documentation; translate IRS and state regulatory updates into team briefings and SOP revisions with effective dates.\n* Drive hiring, onboarding, and skills calibration for new team members; proactively build succession depth at the team level.\n* Continuously assess and improve processes within team scope; identify upstream and downstream dependencies; recommend and implement improvements that eliminate non-value-added work.\n* Demonstrated ability to lead teams that deliver high-quality customer experiences in a high-volume, high-stakes service environment\n\n**Qualifications**\n\n* 5+ years of people management experience in a payroll tax operations or related service environment, with a demonstrated track record of developing others' skills and careers.\n* 5+ years of hands-on payroll tax experience with a strong focus on notice resolution, amended return preparation, and payroll error correction across multiple states, beyond general payroll administration.\n* Proven experience resolving complex IRS and state agency correspondence including, penalty assessments, and state balance-due and delinquency notices.\n* Demonstrated experience preparing and approving amended Federal (Form 941-X, W-2c) and State payroll tax returns across 10 or more states, including jurisdictions with complex local requirements such as PA, OH, and more.\n* Deep knowledge of federal payroll tax law: FICA, FUTA, FITW, employment tax deposit schedules, and associated penalty and interest structures.\n* Multi-state payroll tax expertise: reciprocal agreements, resident and nonresident taxation, SUI account management, and local tax compliance across multiple jurisdictions.\n* Strong analytical skills; able to identify trends in case data, conduct root-cause analysis, and translate findings into corrective actions and process improvements.\n* Excellent written and verbal communication skills; able to simplify complex payroll tax issues for processors at all levels and for cross-functional partners.\n* Proficiency with at least one enterprise payroll platform and experience with case management systems such as Salesforce. Prior experience at a payroll service bureau, PEO, or multi-client tax operations centers strongly preferred.\n* BS/BA in Accounting, Finance, or Business preferred; equivalent experience accepted.\n* Possess an active Certified Payroll Professional (CPP) preferred; required within 12 months of hire. Enrolled Agent (EA) designation is a strong differentiator. FPC accepted candidates actively pursuing CPP.\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit\u00ae: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.\n\nThe expected base pay range for this position is:\n  \nCalifornia Remote (Bay Area) $131,500- $178,000  \nCalifornia Remote (Not Bay Area) $110,000- $149,000  \nColorado Remote $94,000- $127,000  \nHawaii Remote $98,500- $133,500  \nIllinois Remote $94,000- $127,000  \nMaine Remote $85,500- $115,500  \nMaryland Remote $94,000- $127,000  \nMassachusetts Remote $98,500- $133,500  \nMinnesota Remote $85,500- $115,500  \nNew Jersey Remote $98,500- $133,500  \nOhio Remote $85,500- $115,500  \nVermont Remote $94,000- $127,000  \nVirginia Remote $94,000- $127,000  \nWashington Remote $98,500- $133,500  \nWashington, DC Remote $94,000- $127,000",
-      "salary": "\ud83d\udcb0 94000.0\u2013149000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "account management",
-        "associate",
-        "specialist",
-        "documentation",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
-    "1009655749a6e47670f3": {
-      "id": "1009655749a6e47670f3",
-      "title": "GROC Manager of Life Safety & Security Operations",
-      "company": "JLL",
-      "location": "Lawrence, NJ, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=3f19dd5234d69983",
-      "job_url_direct": "https://click.appcast.io/t/tkEBs0NaKy3ghlvYXyJ0qAix9VjFSdhSMS9Aq1L_1CQ=",
-      "description": "**JLL empowers you to shape a brighter way**.\n\nOur people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new industry, join our team as we help shape a brighter way forward.\n\n**GROC Manager of Life Safety / Security Operations**\n\n**Position Summary**\n\nThe GROC Life Safety / Security Manager reports to JLL GROC Leadership is responsible for strategic leadership, operational oversight, and continuous improvement of the Life Safety/Security Communications Division within the Global Response & Operations Center. This role ensures the delivery of 24/7 mission-critical communication, dispatch, and emergency response services supporting security, EH&S, law enforcement, fire, EMS, travel risk, and global crisis management.\n\nThe Manager leads a multi-layered team and drives program maturity, global consistency, and innovation, while ensuring strong alignment with enterprise risk, safety, and operational priorities.\n\n**Key Responsibilities**\n\n**Operational Leadership & Oversight**\n\nProvide leadership to Supervisors, Team Leads, and Communication Specialists, ensuring alignment with GROC and enterprise objectives.\n\n* Foster a high-performance, inclusive team culture that promotes accountability, collaboration, and engagement\n* Ensure timely escalation of personnel issues to JLL GROC Leadership\n* Initiate thorough and complete internal investigations, reviewing outcomes with JLL GROC Leadership and HR when necessary. This includes identification of policy/procedure violations, incident root cause analysis when appropriate, and collaboration with Client and JLL Leadership. Document the findings and make recommendations on further action to JLL GROC Leadership.\n\n* Identify and track program/process gaps and near misses, driving corrective actions.\n* Lead workforce planning, including staffing models, scheduling strategy, and succession planning.\n* Maintain strong engagement across all shifts, including regular floor presence, pop-in checks, and touchpoints.\n* Conduct regular team lead meetings to communicate updates, share lessons learned, and address operational challenges.\n\n**Incident Management**\n\n* Oversee 24/7 global communications center operations, ensuring high-quality, consistent dispatch and communications services.\n* Coordinate the GROC\u2019s initial and ongoing response to major incidents, including multi-day events.\n* Ensure timely updates to key stakeholders throughout the lifecycle of incidents.\n* Ensure effective coordination with security, EH&S, police, fire, EMS, and crisis management teams.\n* Serve as senior escalation authority for complex and high-risk incidents.\n* Oversee real-time monitoring of global security events, including:\n  + Physical security threats\n  + Travel safety risks\n  + Geopolitical developments\n  + Environmental hazards\n* Conduct post-incident reviews and lessons-learned debriefs to improve future response.\n* Oversee use of Critical Event Management platforms (Everbridge) to communicate emergencies and account for personnel globally.\n* Ensure accurate monitoring, dispatch, and impairment management of fire/life safety systems across global sites.\n* Coordinate with third-party monitoring providers and emergency responders.\n\n**Team Leadership & Development**\n\n* Lead training strategy and execution, including:\n  + Tabletop exercises and pop-up drills\n  + Scenario-based incident simulations\n* Ensure follow-up on development plans based on exercise findings.\n* Close process and program gaps identified during exercises.\n* Coordinate mandatory training, certification tracking, and expiration management.\n* Develop structured training tracks and career growth pathways.\n* Build external benchmarking networks with other SOCs/GSOCs to drive innovation and best practices.\n\n**Administrative & Reporting Responsibilities**\n\n* Oversee payroll processes, including weekly timesheet review to ensure accurate documentation of time and submit approvals.\n* Manage team scheduling to ensure proper staffing levels are achieved while minimizing overtime impact.\n\n* Provide executive oversight of all communication channels (calls, emails, alerts, notifications).\n* Conduct QA programs for call handling, dispatch accuracy, and response performance.\n* Support escalated communications and complex dispatch scenarios as needed.\n\n**Program Strategy & Technology**\n\n* Partner with the Technical Support Manager to identify and implement system improvements to enhance GROC capabilities.\n* Identify and evaluate emerging technologies (including AI) to improve efficiency, automation, and situational awareness.\n* Oversee team usage of systems including:\n  + CAD (D3 Security)\n  + Access Control (C\\*Cure)\n  + Everbridge (Mass Notification)\n  + Radio/Intercom systems\n\n* Ensure systems are fully operational, integrated, and optimized.\n* Engage with BMS and JLL EHS and operational teams to build relationships and be part of site level teams to improve GROC reliability and service delivery\n* Participate in enterprise initiatives to align global safety and security strategies.\n\n* Ensure GROC business continuity plans (BCP) are reviewed and updated at least quarterly.\n* Validate operational readiness for continuity and disaster recovery scenarios.\n* Ensure adherence to regulatory, operational, and industry standards.\n\n**Reporting & Performance Management**\n\n* Oversee reporting on:\n  + Call volume and response times\n  + Incident metrics and trends\n  + Customer satisfaction\n* Provide insight and recommendations to leadership.\n* Drive data-informed decisions to improve performance, service delivery, and risk mitigation.\n\n**Preferred Qualifications**\n\n* Associate\u2019s degree (Bachelor\u2019s preferred) or equivalent experience.\n* Experience in security communications, life safety, or emergency dispatch operations.\n* Experience managing multi-layered teams in a 24/7 environment.\n* Strong experience in incident command, crisis response, and global operations.\n\n**Certifications Preferred:**\n\n* Public Safety Telecommunicator I\n* Emergency Medical Dispatcher (EMD)\n* CPR\n\n**Desired Technical Skills**\n\n* Everbridge (Mass Notification / Command Center)\n* Travel risk tools (Travel Tracker, Vismo)\n* C\\*Cure Monitoring/Admin\n* D3 Security CAD\n* Zetron, Eventide, Commend systems\n* Microsoft Office Suite\n\n**Core Competencies**\n\n* Strategic leadership & operational excellence\n* Crisis and incident management\n* Investigations & root cause analysis\n* Talent development & team engagement\n* Data-driven decision making\n* Technology innovation & systems integration\n* Cross-functional influence\n* Communication & Stakeholder Management\n* Attention to Detail & Situational Awareness\n\n**Additional Information**\n\n* This role requires flexibility to support a 24/7 operation, including off-hours escalation support, and regular face time with all shifts, including pop-in checks\n* The Manager will play a key role in driving continuous improvement, training excellence, and system reliability\n\nThis position does not provide visa sponsorship. Candidates must be authorized to work in the United States without sponsorship.\n\n**Expected compensation for this position:**\n\n  \n84,000.00 \u2013 94,000.00 USD per year\n\n*Final compensation packages are determined by various considerations including but not limited to candidate qualifications, location, market conditions, and internal considerations.*\n\n**Location:**\n\nOn-site \u2013Lawrence, NJ\n\n**Job Tags:**\n\nIf this job description resonates with you, we encourage you to apply, even if you don\u2019t meet all the requirements. We\u2019re interested in getting to know you and what you bring to the table!\n\n**Personalized benefits that support personal well-being and growth:**\n\nJLL recognizes the impact that the workplace can have on your wellness, so we offer a supportive culture and comprehensive benefits package that prioritizes mental, physical and emotional health. Some of these benefits include:\n\n* 401(k) plan with matching company contributions\n* Comprehensive Medical, Dental & Vision Care\n* Paid parental leave at 100% of salary\n* Paid Time Off and Company Holidays\n* Early access to earned wages through Daily Pay\n\nAt JLL, we harness the power of artificial intelligence (AI) to efficiently accelerate meaningful connections between candidates and opportunities. Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific requirements of the role you're pursuing.\n\n***JLL Privacy Notice***\n\nJones Lang LaSalle (JLL), together with its subsidiaries and affiliates, is a leading global provider of real estate and investment management services. We take our responsibility to protect the personal information provided to us seriously. Generally the personal information we collect from you are for the purposes of processing in connection with JLL\u2019s recruitment process. We endeavour to keep your personal information secure with appropriate level of security and keep for as long as we need it for legitimate business or legal reasons. We will then delete it safely and securely.\n\nFor more information about how JLL processes your personal data, please view our Candidate Privacy Statement.\n\nFor additional details please see our career site pages for each country.\n\nFor candidates in the United States, please see a full copy of our Equal Employment Opportunity policy here.\n\nJones Lang LaSalle (\u201cJLL\u201d) is an Equal Opportunity Employer and is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process \u2013 including the online application and/or overall selection process \u2013 you may email us at HRSCLeaves@jll.com. This email is only to request an accommodation. Please direct any other general recruiting inquiries to our Contact Us page > I want to work for JLL.\n\nPursuant to the Arizona Civil Rights Act, criminal convictions are not an absolute bar to employment.\n\nPursuant to Illinois Law, applicants are not obligated to disclose sealed or expunged records of conviction or arrest.\n\nPursuant to Columbia, SC ordinance, this position is subject to a background check for any convictions directly related to its duties and responsibilities. Only job-related convictions will be considered and will not automatically disqualify the candidate.\n\n**California Residents only**\n\nIf you are a California resident as defined in the California Consumer Privacy Act (CCPA) please view our Supplemental Privacy Statement which describes your rights and disclosures about your personal information. If you are viewing this on a mobile device you may want to view the CCPA version on a larger device.\n\nPursuant to the Los Angeles Fair Chance Initiative for Hiring Ordinance, JLL will consider for employment all qualified Applicants, including those with Criminal Histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles\u2019 Fair Chance Initiative for Hiring Ordinance.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nAccepting applications on an ongoing basis until candidate identified.",
-      "salary": "\ud83d\udcb0 84000.0\u201394000.0 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "associate",
-        "specialist",
-        "scheduling",
-        "administrative",
-        "recruiting",
-        "staffing",
-        "documentation"
-      ],
-      "queued_at": null
-    },
-    "0cdaee3e6321ce9c6310": {
-      "id": "0cdaee3e6321ce9c6310",
-      "title": "Fiscal Coordinator",
-      "company": "Chester County of Pennsylvania",
-      "location": "Westtown, PA, USA",
-      "category": "Business Operations",
-      "site": "indeed",
-      "job_url": "https://www.indeed.com/viewjob?jk=f0446eef6ce51598",
-      "job_url_direct": "https://www.governmentjobs.com/careers/chesco/jobs/5550787/fiscal-coordinator",
-      "description": "**Summary**\n-----------\n\nThe Fiscal Coordinator will perform a variety of financial and accounting technical tasks in support of the daily financial operations for the Department of Emergency Services through the provision of high-quality financial reports and analysis. Works with the Fiscal Supervisor to standardize the policies, procedures and analysis reporting within the Administrative Division and the Department of Emergency Services. Supports the mission of the Department of Emergency Services by promoting and assisting in providing safety and security to Chester County citizens so they can work, live and grow in a healthy and safe community.\n  \n  \n**All Department of Emergency Services employees are essential personnel and may be required to work during non-business hours for extended periods of time. Essential employee duties may involve assignments within the Emergency Operations Center (EOC), deployment to a field location, or other duties as required during periods of emergencies or training/exercise. Emergency assignments may be performed under adverse conditions, continue for periods ranging from a few hours to several weeks, and may require travel.**\n\n**Essential Duties**\n--------------------\n\n* Prepares purchase orders, vouchers, receivables, revenue, expenditures and accounts payable.\n* Maintains vendor contracts with coordination through Procurement and General Services for compliance.\n* Prepares and inputs journal entries for budget, accounts payable, cash receipts, expenditure, and revenue adjustments.\n\n* Prepares inter-fund transfers, as needed.\n* Distributes checks to vendors.\n* Prepares deposits as needed, including proper account coding.\n* Works with the Treasurer\u2019s Office to reconcile transactions against monthly bank statement.\n* Analyzes expenditure, revenue and balance sheet accounts for accuracy and makes appropriate adjustments.\n* Tracks invoices and payments for contracted supplies & services.\n* Assists with preparing employee reimbursement for travel, mileage, and related expenses.\n* Maintains Employee Training/Travel Tracking system, as needed.\n* Coordinates resources for independent audits to ensure compliance with program regulations.\n* Performs analyses and reconciliation of financial data, as required.\n* Prepares monthly detailed revenue and expenditure report.\n* Prepares and maintains contract database for continuity of services and historical data.\n* Maintains the department\u2019s manual and electronic accounting records.\n\n* Maintains the General Ledger, special funds, and grants.\n* Prepares Financial Reports; as needed.\n* Tower rental cost.\n* Revenue.\n* Grants Billing and Payments.\n* Financial reports to PEMA on an as needed basis.\n* Interacts with vendors and county personnel, as needed.\n* Assists the Fiscal Supervisor with budget process.\n* Communicates with county departments to resolve any issues pertaining to submitted vouchers.\n* Assists with managingthe department\u2019s Vehicle Fleet.\n* Keeps inventory of any outdated equipment within each division and removes it in accordance with Procurement/Controller guidelines.\n* Collaborates with the Controllers on Tower Site Expenditures and Revenue in accordance with each contract, including annual increases and amendments.\n* Serves as a liaison with all funding sources and independent auditors to ensure compliance with funding source rules and regulations, compliance with applicable laws, and to maintain appropriate program cash flow.\n* Coordinates workflow from others in the department and consolidates the data given by accounts payable, accounts receivable, and payroll to facilitate month-end and year-end closings.\n* Assists with Emergency Operations Center (EOC) activations and drills.\n\nPerforms other duties, tasks, and projects as necessary or assigned.\n\n**Qualifications/Preferred Skills, Knowledge & Experience**\n-----------------------------------------------------------\n\n**Required:**\n\n* Associate\u2019s degree from an accredited college or university, three years of job-related experience, or any equivalent combination of education and experience.\n* General knowledge of the County Code (state law) and Generally Accepted Accounting Principles (GAAP).\n* Experience with automated accounting and recordkeeping systems.\n\n**Preferred:**\n  \n\n* Bachelor\u2019s degree in accounting, finance, or related field.\n\nFour or more years of job-related experience, with preference for nonprofit roles.\n  \n  \n**Other Qualifications, Skills, Knowledge and abilities**\n  \n  \nStrong demonstrated abilities required:\n  \n\n* Verbal and written skills\n* Listening and Communication skills\n* Interpersonal skills\n* Customer Service skills\n* Analytical/Problem Solving skills\n* Organizational skills\n* Time Management Skills\n* Presentation skills\n* Project Management skills\n* Prioritization/Multi-tasking skills\n* Motivated/Works Independently\n* Detail Oriented/Accurate\n* Sound Analysis/Judgement skills\n* Confidentiality\n* Honest, Integrity and Professionalism\n* Strong work ethic and willingness to learn new tasks\n\n  \nAlso required:\n  \n\n* Ability to analyze expenditure, revenue and balance sheet accounts for accuracy and make appropriate adjustments.\n* Ability to audit accounts on a regular basis to ensure accuracy.\n* Ability to generate financial statements.\n* Ability to maintain the General Ledger, special funds, and grants.\n* Strong working knowledge of budgets, spreadsheets and interpreting audits.\n* Ability to make journal entries for payroll, accounts payable and cash receipts.\n* Ability to prepare cash transfers for disbursement.\n* Creating timely and accurate financial reporting is essential to this position.\n* Ability to interface effectively with all levels of county management.\n* Ability to establish priorities and remain focused on daily operations.\n* Ability to prepare and review journal entries and inter-fund transfers.\n* Knowledge of business office procedures.\n\n* Ability to work individually or as part of a team and proceed with objectives.\n\n* Ability to follow protocols to handle and resolve routine problems.\n* Ability to use common sense understanding to carry out written and verbal instructions.\n* Flexible, with an ability to carry multiple tasks to completion\n\n* Ability to work a flexible schedule with extended hours during emergencies, as necessary.\n* Ability to work extended hours, including nights, weekends and holidays, occasionally.\n* Ability to attend meetings on and off site at various hours.\n* Ability to work on-call time, which may require working remotely.\n* Valid driver\u2019s license is required.\n\nPreferred:\n  \nGeneral knowledge of the Chester County policies and procedures.\n\n**Additional Information**\n--------------------------\n\n**Computer/technical skills**\n\n  \n\n* Intermediate Office Suite skills, including Outlook, Word, Excel, Explorer and PowerPoint.\n* Basic PeopleSoft skills, (HR & Financial) or the ability to quickly learn.\n* Basic knowledge with Inova / Payroll or the ability to quickly learn.\n* Knowledge of Concur A/P system or the ability to quickly learn.\n\n**Physical Requirements**\n\n  \n\n* Ability to sit, stand and walk for extended periods.\n* Frequent use of hands/fingers for typing and operating standard office equipment.\n* Ability to hear and speak clearly and recognize and identify audible and visual signals.\n* Visual acuity to read computer screens and written documents and distinguish colors.\n* Limited physical exertion; occasional bending, twisting, or rotating at the waist, kneeling, stooping, crouching, squatting, climbing stairs, and pushing or carrying of items.\n\n**work environment**\n\n  \n\n* Moderate to loud noise level.\n* Rapidly changing work assignments.\n* Occasionally exposure to outside weather and adverse weather conditions.\n* Required to operate a motor vehicle, including in hazardous driving conditions.\n\n**Other Duties**\n\n  \n\n* This job description is not intended to be an all-inclusive list of responsibilities required for this job. Responsibilities may be assigned or changed at any time.\n\n**Additional information**\n\n  \n\n* **Relevant background checks, clearance, physicals, drug tests and any other assessments or evaluations will be conducted after an offer of employment is given per County policy.**\n\nRequired for this role:\n  \n\n* + PATCH \u2013 Criminal History\n  + Child Line\n  + FBI Fingerprinting\n  + Drivers History\n* All DES employees must successfully complete the following FEMA course within 6 months of hire:\n  + IS100 \u2013 Introduction to the Incident Command System\n  + IS200 \u2013 ICS for Single Resources and Initial Action Incidents\n  + IS700\u2013 National Incident Management System, An Introduction\n  + IS800 \u2013 National Response Framework, An Introduction\n  + IS2200 \u2013 Basic Emergency Operations Center Functions",
-      "salary": "\ud83d\udcb0 63005.36\u201363005.36 USD/yearly",
-      "match_score": 99,
-      "matched_terms": [
-        "customer service",
-        "associate",
-        "administrative",
-        "coordinator",
-        "remote",
-        "operations",
-        "pay \u2265 $16/hr"
-      ],
-      "queued_at": null
-    },
     "eba622c1a0b8a2c543aa": {
       "id": "eba622c1a0b8a2c543aa",
       "title": "Delivery Coordinator",
@@ -5610,6 +5259,337 @@
         "specialist",
         "remote",
         "QA"
+      ],
+      "queued_at": null
+    },
+    "5a000d522e98fc04b999": {
+      "id": "5a000d522e98fc04b999",
+      "title": "Lead Product Enablement Engineer",
+      "company": "Fifth Third Bank",
+      "location": "Remote, USA",
+      "category": "Web3 Support",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=a9a97ce7b264b7a5",
+      "job_url_direct": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Virtual/Lead-Product-Enablement-Engineer_R75410",
+      "description": "**Make banking a Fifth Third better\u00ae**  \nWe connect great people to great opportunities. Are you ready to take the next step? Discover a career in banking at Fifth Third Bank.\n\n**General Function:**\n\nThe Lead Product Enablement Engineer serves as a technology enabler and strategic advisor within the Enterprise Capabilities organization. Work will span from developing and operating prototype framework processes and artifacts through production tooling that others will use to govern Enterprise Capabilities and manage enterprise product development, modernization, and maintenance.\n\n  \n\nThis is a hands-on role for an entrepreneurial collaborator, strategist, and builder who can connect human-centered design with strong technical depth on the front and back end. The person in this role will work with capability leaders, product owners, architects, and engineers to define, systematize, and mature the Enterprise Capabilities framework. They may lead a major initiative or several smaller efforts while influencing stakeholders and development teams toward modern, practical solutions. Occasionally, there may be additional opportunities to research and build prototypes and solutions for other areas of need.\n\n  \n\nWe are looking for someone with strong curiosity, a forward-looking mindset, and a passion for staying current on engineering trends and emerging technology. The Lead Product Enablement Engineer should be an active user of artificial intelligence and a thoughtful advocate for responsible adoption. This person brings creativity, analytical thinking, and strong communication to the role, using data, prototypes, and other tangible artifacts to explore ideas, improve processes, and help others understand what is possible and how we might achieve it.\n\n  \n\nThis role may occasionally work directly with production squads on meaningful, high-priority initiatives to gain understanding of the bank\u2019s technology stack, products, and delivery environment. They will be expected to apply this learning to the development of prototypes, tools, and applications proposed by the team.\n\n  \n\nThe Lead Product Enablement Engineer will be responsible and accountable for risk by openly exchanging ideas and opinions, elevating concerns, and personally following policies and procedures as defined. This position acts as the liaison between the Risk, Audit and Analytic teams. Accountable for always doing the right thing for customers and colleagues and ensures that actions and behaviors drive a positive customer experience. While operating within the Bank's risk appetite, achieves results by consistently identifying, assessing, managing, monitoring, and reporting risks of all types.\n\n  \n\n**Essential Duties and Responsibilities:**\n\n* Develop a strong understanding of Fifth Third Bank\u2019s current and future-state technology and product architecture\n* Help shape the bank\u2019s evolution as a product-led enterprise built on a modern technology foundation\n* Identify and prioritize opportunities to expand enterprise technology capabilities in support of customer and product innovation\n* Partner with engineers, architects, and line-of-business leaders to envision, demonstrate, and develop new or improved technology-enabled capabilities, business processes, and financial products\n* Help define, test, and mature the Enterprise Capabilities framework through collaboration, process design, prototyping, solution development, and documentation\n* Build and operate tools for systematizing and scaling the Enterprise Capabilities framework as a practice\n* Lead end-to-end data workflows including extraction, transformation, and loading (ETL) from structured and unstructured sources; perform quantitative and qualitative analysis; and develop interactive dashboards and visualizations (e.g., Power BI) to support decision-making, stakeholder reporting, and product insights.\n* Provide technical leadership, guidance, and mentorship to team members and partners\n* Use systems thinking to connect ideas across products, platforms, teams, and enterprise capabilities\n* Design solutions with the broader business and technology ecosystem in mind\n* Apply structured problem solving and root cause analysis to address challenges and uncover new opportunities\n* Recommend technology options and design approaches to senior leaders and key stakeholders\n* Create compelling narratives, demonstrations, prototypes, and communications that bring concepts to life\n* Share lessons learned, best practices, and new ideas across the team and broader organization\n* Lead or contribute to research and evaluation of emerging design, technology, industry, and market trends\n* Recognize meaningful patterns across industry, technology, and cultural change and explain their business impact\n* Translate customer needs, competitor activity, industry shifts, and technology developments into actionable insights\n* Influence enterprise thinking on the future of technology across innovation, software development, fintech, artificial intelligence, and digital assets\nIdentify, evaluate, and benchmark fintechs and emerging startups by analyzing their technology architecture, product capabilities, business models, and financial viability; synthesize findings into comparative assessments and strategic recommendations aligned to enterprise priorities and market relevance.  \n\n  \n\n**Supervisory Responsibilities:** None.\n\n  \n\n**Knowledge, Skills & Abilities Required:**\n\n* Bachelor\u2019s degree in a STEM field or equivalent combination of education and relevant experience\n* 5+ years of experience in roles closely aligned to the responsibilities of this position\n* Strong front-end development experience delivering commercial solutions using modern web standards and frameworks such as HTML5, CSS, JavaScript, Angular, React, Vue, or similar tools\n* Strong back-end development experience working with APIs, services, event-driven architectures using Kafka, databases, SQL, and modern data platforms such as Snowflake, with a clear understanding of how front-end frameworks integrate with back-end systems\n* Deep experience with at least one server-side language such as Python, Java, Node.js, or PHP\n* Infrastructure experience building, configuring, and supporting scalable web applications in cloud or hosted environments such as AWS or Azure\n* Experience with modern server-side tooling, deployment practices, and hosting models\n* Experience working in a mature DevOps environment using version control, CI/CD, and automated testing practices\n* Proficiency with generative AI for productivity and full-lifecycle software development\n* Strong working knowledge of SQL and modern data platforms (e.g., Snowflake), along with experience building and consuming data pipelines across both real-time/event-driven architectures (e.g., Kafka, APIs) and batch/integration patterns for one-off or analytical use cases\n* Familiarity with end-to-end data lifecycle\u2014from ingestion through transformation to visualization\u2014including use of analytics and reporting tools (e.g., Power BI) and/or integrated data platforms (e.g., Dataiku) to support business insights and decision-making\n* Strong understanding of agile product development and iterative delivery\n* Familiarity with blockchain, digital assets, smart contracts, and web3 technologies\n* Past experience with some or all of the following practices: Product Strategy and Planning, Capability Planning, Business Analysis, Business Modeling, Business Architecture, Operating Model Design, or Enterprise Transformation Planning\n* Experience evaluating complex business initiatives and identifying cross-functional needs.\n* Experience facilitating workshops with business and technology stakeholders.\n* Experience developing structured models, frameworks, maps, roadmaps, or decision-support artifacts.\n* Experience building functional proof-of-concept applications and using them to communicate a vision\n* Ability to make sound design decisions and clearly explain the rationale behind them\n* Excellent written and verbal communication skills\n* Ability to build trust with team members, business partners, and customers and use those relationships to identify new opportunities\n* Commitment to mentoring others and sharing knowledge, best practices, and lessons learned\n* Ability to identify meaningful opportunities for change and translate them into effective design or technology responses\n* Comfort working iteratively, making informed decisions with incomplete information, and adapting based on feedback\n* Strong attention to detail\n\nLead Product Enablement EngineerTotal Base Pay Range 82,100.00 - 172,500.00 USD Annual\n\nAt Fifth Third, we understand the importance of recognizing our employees for the role they play in improving the lives of our customers, communities and each other. Our Total Rewards include comprehensive benefits and differentiated compensation offerings to give each employee the opportunity to be their best every day.\n\nThe base salary for this position is reflective of the range of salary levels for all roles within this pay grade across the U.S. Individual salaries within this range will vary based on factors such as role, relevant skillset, relevant experience, education and geographic location. In addition to the base salary, this role is eligible to participate in an incentive compensation plan, with any such payment based upon company, line of business and/or individual performance.\n\nOur extensive benefits programs are designed to support the individual needs of our employees and their families, encompassing physical, financial, emotional and social well-being. You can learn more about those programs on our 53.com Careers page at: https://www.53.com/content/fifth-third/en/careers/benefits.html or by consulting with your talent acquisition partner.\n\nLOCATION - Virtual, Ohio 00000\n\nAttention search firms and staffing agencies: do not submit unsolicited resumes for this posting. Fifth Third does not accept resumes from any agency that does not have an active agreement with Fifth Third. Any unsolicited resumes \u2013 no matter how they are submitted \u2013 will be considered the property of Fifth Third and Fifth Third will not be responsible for any associated fee.\n\nFifth Third Bank, National Association is proud to have an engaged and inclusive culture and to promote and ensure equal employment opportunity in all employment decisions regardless of race, color, gender, national origin, religion, age, disability, sexual orientation, gender identity, military status, veteran status or any other legally protected status.",
+      "salary": "\ud83d\udcb0 82100.0\u2013172500.0 USD/yearly",
+      "match_score": 96,
+      "matched_terms": [
+        "base salary",
+        "associate",
+        "talent acquisition",
+        "staffing",
+        "documentation",
+        "remote",
+        "web3"
+      ],
+      "queued_at": null
+    },
+    "5d54ddde38aad8529512": {
+      "id": "5d54ddde38aad8529512",
+      "title": "Customer Support Representative (Remote)",
+      "company": "Everest Altitude LLC",
+      "location": "USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4492882952",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 79,
+      "matched_terms": [
+        "customer support",
+        "representative",
+        "remote"
+      ],
+      "queued_at": null
+    },
+    "b45c115439ebdf349bc4": {
+      "id": "b45c115439ebdf349bc4",
+      "title": "MCU Field Specialist",
+      "company": "GE Vernova",
+      "location": "Remote, USA",
+      "category": "Americans in Phuket",
+      "site": "indeed",
+      "job_url": "https://www.indeed.com/viewjob?jk=fb01eb076b496511",
+      "job_url_direct": "https://careers.gevernova.com/mcu-field-specialist/job/R5058237",
+      "description": "**Job Description**\n===================\n\n**Role Summary/Purpose:**\n\nThe Field Services Technician roles will complete field and workshop-based work as required. The roles provide on-site technical direction, hands on service and leadership during installation, startup, commissioning and maintenance of customer owned utility and industrial facilities.\n\n  \n  \n\n**Essential Responsibilities:**\n\nMCU Field Service Technicians provide on-site technical direction, hands on service and leadership during installation, startup, commissioning and maintenance to customer owned utility and industrial facilities. Prepare job planning documents that define in the scope of outage to be performed through engineering instructions, drawings, and process instructions;\n\n* Communicate effectively with Management and Colleagues utilizing customers' CTQ (Critical to Quality needs) in job planning and execution;\n* Provide leadership to skilled labor performing work on customer sites;\n* Troubleshoot and provide routine maintenance checkout for wide range of equipment such as power transformers, switchgear, protection relays, control systems, turbines, motors and generators;\n* Troubleshoot electromechanical operations and maintenance problems in the Power Delivery field;\n* Perform administrative functions;\n* such as writing technical reports, ordering materials, securing quotations, preparing job status reports, reports to customers, time sheets, and expense sheets in a complete manner on timely and thorough basis;\n* Exercise good judgment in controlling costs and expenditures of Company fund;\n* Maintain strong safety mindset to assure the executed work reflects the technical requirements within TGE safety standards.\n  \n\n  \n\n**Qualifications/Requirements:**\n\nAppropriately qualified Electrical Fitter with proven HV experience or Electrical Technician / Technologist or Electrician with proven HV experience;\n\n* High School Diploma Required\n* Familiar with test equipment and testing procedures;\n* Computer literate;\n* Exceptional communication and interpersonal skills;\n* Excellent English speaking, reading and writing skills.\n  \n\n  \n\n**Desired Characteristics:**\n\nProven experience in leading field service team;\n\n* Strong organizational and interpersonal skills;\n* Willingness to travel;\n* flexibility required;\n* Advanced computer skills with Microsoft Office, Microsoft Project and Microsoft Access;\n* Basic Workplace First Aid\n  \n\n  \n\nThe base pay range for this position is $35.64 \u2013 47.29. The specific pay offered may be influenced by a variety of factors, including the candidate\u2019s experience, education, and skill set. This position is also eligible for Per Diem.\n\n  \n  \n\nThe Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas.\n\nThis posting is expected to remain open for at least seven days after it was posted on 11/20/2026.\n\n  \n  \n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants.\n\nOther benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance and 12 paid holidays. New hires also receive two weeks of annual vacation (which may be pro-rated based on start date).\n\n  \n  \n\nGE Vernova Inc. or its affiliates (collectively or individually, \u201cGE Vernova\u201d) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.\n\n  \n  \n\n**Additional Information**\n==========================\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\n**Relocation Assistance Provided:** No\n\n#LI-Remote - This is a remote positionApplication Deadline: November 29, 2026  \nFor candidates applying to a U.S. based position only:  \n\n* The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas.\n\nThis posting is expected to remain open for at least seven days after it was posted on November 20, 2026.  \nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance and 12 paid holidays. New hires also two weeks of annual vacation (which may be pro-rated based on start date).  \nGE Vernova Inc. or its affiliates (collectively or individually, \u201cGE Vernova\u201d) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.  \nCandidates should be aware that this role involves a client's critical infrastructure; shortlisted candidates would therefore be subject to heightened security checks as directed by our clients. All personal data will be handled with the utmost confidentiality and in accordance with our data protection policies, solely for recruitment and security purposes.",
+      "salary": "\ud83d\udcb0 35.64\u201347.29 USD/hourly",
+      "match_score": 74,
+      "matched_terms": [
+        "specialist",
+        "administrative",
+        "remote",
+        "operations",
+        "pay \u2265 $16/hr"
+      ],
+      "queued_at": null
+    },
+    "c0589c8756c295e17fd9": {
+      "id": "c0589c8756c295e17fd9",
+      "title": "Customer Service Specialist",
+      "company": "Robert Half",
+      "location": "Horsham, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4493290430",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 72,
+      "matched_terms": [
+        "customer service",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "e9499afbdc18e7f728c8": {
+      "id": "e9499afbdc18e7f728c8",
+      "title": "Customer Service Representative",
+      "company": "Propel Holdings",
+      "location": "Toronto, Ontario, Canada",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4493260902",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "d34d6e9bf0b9be388c07": {
+      "id": "d34d6e9bf0b9be388c07",
+      "title": "Senior Customer Services Representative",
+      "company": "Eaton",
+      "location": "Titchfield, England, UK",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483443146",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "fc5036de8fa3bf6100a1": {
+      "id": "fc5036de8fa3bf6100a1",
+      "title": "Customer Service Representative - Middle East and Africa region",
+      "company": "allnex",
+      "location": "Riga, Riga, Latvia",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4485336108",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 70,
+      "matched_terms": [
+        "customer service",
+        "representative"
+      ],
+      "queued_at": null
+    },
+    "ddc6756efc84e4382947": {
+      "id": "ddc6756efc84e4382947",
+      "title": "Client Support Specialist",
+      "company": "SEI",
+      "location": "Oaks, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4485631417",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "specialist",
+        "client support"
+      ],
+      "queued_at": null
+    },
+    "c5d9e0b16a44b3073f6b": {
+      "id": "c5d9e0b16a44b3073f6b",
+      "title": "Customer Support Specialist - \u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30dd\u30fc\u30c8\u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8",
+      "company": "Moomoo Securities Japan Co., Ltd.",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4364712876",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "a9e6c054ff2f12f23a92": {
+      "id": "a9e6c054ff2f12f23a92",
+      "title": "Customer Support Specialist - German / English (f/m/d)",
+      "company": "Moss",
+      "location": "Berlin, Berlin, Germany",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4440988868",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "af1adcbb47074c93bf1d": {
+      "id": "af1adcbb47074c93bf1d",
+      "title": "Customer Support Specialist - UK",
+      "company": "Vestd",
+      "location": "UK",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4493269993",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 68,
+      "matched_terms": [
+        "customer support",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "5519a2361e7aedc3e934": {
+      "id": "5519a2361e7aedc3e934",
+      "title": "Customer Support & Success Expert: AI Workflow Review",
+      "company": "Alignerr",
+      "location": "Philadelphia, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4490840248",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 66,
+      "matched_terms": [
+        "customer support"
+      ],
+      "queued_at": null
+    },
+    "efbeb9d6e2128b7b3461": {
+      "id": "efbeb9d6e2128b7b3461",
+      "title": "Bilingual Customer Care Specialist",
+      "company": "ABC Fitness",
+      "location": "Ontario, Canada",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4485117091",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 66,
+      "matched_terms": [
+        "customer care",
+        "specialist"
+      ],
+      "queued_at": null
+    },
+    "86c165f7966619ab4e29": {
+      "id": "86c165f7966619ab4e29",
+      "title": "Senior Customer Care Coordinator - Key Accounts",
+      "company": "Ocean Network Express",
+      "location": "Antwerp, Flemish Region, Belgium",
+      "category": "Americans in Phuket",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4484890013",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 65,
+      "matched_terms": [
+        "customer care",
+        "coordinator"
+      ],
+      "queued_at": null
+    },
+    "700504e1be6aede4e239": {
+      "id": "700504e1be6aede4e239",
+      "title": "Super Day - Business Operations Associate (Rotational Program)",
+      "company": "Perpay Inc.",
+      "location": "Philadelphia, PA, USA",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4483918217",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 64,
+      "matched_terms": [
+        "associate",
+        "operations"
+      ],
+      "queued_at": null
+    },
+    "0eac5e48b430d4a43a0a": {
+      "id": "0eac5e48b430d4a43a0a",
+      "title": "Senior Client Support Specialist",
+      "company": "ICE",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4485602312",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 64,
+      "matched_terms": [
+        "specialist",
+        "client support"
+      ],
+      "queued_at": null
+    },
+    "2b92cfba75780c15a3c6": {
+      "id": "2b92cfba75780c15a3c6",
+      "title": "Senior Client Support Specialist",
+      "company": "ICE",
+      "location": "London, England, UK",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4485609019",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 64,
+      "matched_terms": [
+        "specialist",
+        "client support"
+      ],
+      "queued_at": null
+    },
+    "a567cf26c7ea2204ff03": {
+      "id": "a567cf26c7ea2204ff03",
+      "title": "Customer Service Advisor",
+      "company": "BSI Merch & Artist Services",
+      "location": "Berlin, Berlin, Germany",
+      "category": "Web3 Support",
+      "site": "linkedin",
+      "job_url": "https://www.linkedin.com/jobs/view/4492310109",
+      "job_url_direct": "",
+      "description": "",
+      "salary": "",
+      "match_score": 62,
+      "matched_terms": [
+        "customer service"
       ],
       "queued_at": null
     }
